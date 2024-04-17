@@ -15,7 +15,7 @@ Together, they moved as a unit, a silent symphony honed by experience. Sarah gra
 
 The raccoon, as predicted, was there, its beady eyes reflecting the flashlight's beam. A growl rumbled from Milo's throat, a sound born not just of instinct, but of the countless past confrontations that had taught him the language of dominance. The raccoon, recognizing the futility of its attempt, slunk away, melting back into the storm. 
 
-Milo relaxed, a satisfied rumble escaping his chest. He hadn't needed complex commands or spoken language. The dance between him and Sarah, the memories woven into their very being, had been enough. In that quiet victory, under the glow of the dying fire, a testament to countless shared experiences, flickered the essence of consciousness – a world built not just on actions, but on the powerful interplay of memory and prediction. 
+Milo relaxed, a satisfied rumble escaping his chest. He hadn't needed complex commands or spoken language. The dance between him and Sarah, the memories woven into their very being, had been enough. In that quiet victory, under the glow of the dying fire, a testament to countless shared experiences, flickered the essence of intelligence – a world built not just on actions, but on the powerful interplay of memory and prediction. 
 
 #### Intelligence solved
 
