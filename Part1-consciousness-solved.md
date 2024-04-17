@@ -17,22 +17,13 @@ The raccoon, as predicted, was there, its beady eyes reflecting the flashlight's
 
 Milo relaxed, a satisfied rumble escaping his chest. He hadn't needed complex commands or spoken language. The dance between him and Sarah, the memories woven into their very being, had been enough. In that quiet victory, under the glow of the dying fire, a testament to countless shared experiences, flickered the essence of consciousness – a world built not just on actions, but on the powerful interplay of memory and prediction. 
 
-#### Consciousness solved
+#### Intelligence solved
 
-Sure, here is a blog post based on the TLDR:
+What is intelligence? Is it simply a matter of complex behavior? Or is there something more to it? I believe the most convincing definition of intelligence was given by the co-creator of the Palm Pilot, Jeff Hawkins, who posits you need two things to be intelligent: memory and prediction.
 
-## Rethinking Consciousness: It's More Than Just Actions
+Hawkins argues that intelligence shouldn't be solely defined by how an organism acts. Instead, it's the ability to form memories of past experiences and use those memories to predict future outcomes. This concept goes beyond just reacting to stimuli.
 
-For many years, scientists have attempted to pinpoint the exact definition of consciousness. Is it simply a matter of complex behavior? Or is there something more to it? In a recent development, the co-creator of the Palm Pilot, Jeff Hawkins, has proposed a new theory that goes beyond behavior and focuses on two key components: memory and prediction.
+In my view, then our efforts to create conscious machines may need to be refocused. ..
 
-Hawkins argues that consciousness shouldn't be solely defined by how an organism acts. Instead, it's the ability to form memories of past experiences and use those memories to predict future outcomes that truly sets conscious beings apart. This concept goes beyond just reacting to stimuli; it involves a level of understanding and anticipation.
 
-This theory also acknowledges the existence of qualia, the subjective experience of things like sight, sound, and taste. While qualia is difficult to quantify or objectively measure, it's an undeniable aspect of consciousness.
 
-Hawkins' proposal offers a fresh perspective on the ongoing debate about consciousness. By focusing on memory, prediction, and qualia, it provides a more nuanced understanding of what it means to be truly conscious.
-
-This new theory has the potential to impact various fields, from artificial intelligence research to our understanding of animal cognition. If consciousness truly is rooted in memory and prediction, then our efforts to create conscious machines may need to be refocused. 
-
-The idea also opens doors for further exploration into animal consciousness. By observing an animal's ability to form memories and use them to predict future events, we may gain a deeper understanding of their cognitive abilities.
-
-Whether Hawkins' theory ultimately holds true, it certainly sparks important conversations about the nature of consciousness. As we continue to explore this complex phenomenon, his ideas offer a valuable framework for further investigation.
