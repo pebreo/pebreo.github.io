@@ -21,15 +21,14 @@ Maya laughed. "Just that the thrill is all the sweeter when you understand the m
 
 ## Why Unveiling the Mystery Doesn't Spoil the Magic
 
-## The Deepening Thrill: Why Unveiling the Mystery Doesn't Spoil the Magic
+There is a fear, unjustified or not, that scientific understanding diminishes the richness of experience. Demystifying the world, the thinking goes, removes the wonder. 
 
-We often fear that scientific understanding diminishes the richness of experience. Demystifying the world, the thinking goes, removes the wonder. But what if the opposite is true? Consider the case of gravity.
+On the other hand, an intellectual understanding of gravity – its force, its pull – in my opionion, doesnt diminish the visceral thrill of the ride. In fact, it might even add to it: now both your emotions AND intellect are stimulated!
 
-Imagine a seasoned physicist, well-versed in Newtonian mechanics. They can rattle off equations describing a falling apple with ease. Yet, witness that same physicist on a roller coaster. Their face contorts with a mix of terror and delight as they hurtle down a corkscrew loop. The intellectual understanding of gravity – its force, its pull – doesn't rob them of the visceral thrill of the ride. In fact, it might even heighten it.
+Take the realm of consciousness itself.
+Does understanding the intricate networks of neurons firing in our brains diminish the mystery of human experience? Does it lessen the awe we feel gazing at a starry night sky, or the heart-wrenching emotions evoked by a powerful piece of music? 
 
-This interplay between knowledge and experience extends far beyond amusement parks. Take the realm of consciousness itself. Neuroscientists are making incredible strides in unraveling the biological basis of our inner world. But does understanding the intricate networks of neurons firing in our brains diminish the mystery of human experience? Does it lessen the awe we feel gazing at a starry night sky, or the heart-wrenching emotions evoked by a powerful piece of music?
+What if I explain, without pretense or mysticism, what intelligence is and how to build synthetic intelligence? 
 
-The answer, as with gravity and the roller coaster, seems to be a resounding no. In fact, a deeper understanding of consciousness might offer a profound appreciation for its complexity and wonder. We might marvel at the intricate dance of neurons that allows us to dream, to love, to create. We might see the human mind, not as a mechanical process, but as a remarkable emergent property – a symphony arising from the intricate interplay of its parts.
-
-This isn't to say that a purely scientific understanding is enough. The subjective experience of consciousness remains a mystery, a realm that science can illuminate but not fully capture. But just as the physicist can appreciate the thrill of the roller coaster alongside the science behind it, so too can we embrace both the objective and subjective aspects of consciousness.
+The following is my attempt to share with you, what i believe, is the ...
 
