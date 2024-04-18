@@ -1,6 +1,11 @@
 
 ## Epiphany
 
+## Story
+
+## Problem
+
+## Solution
 
 ## TLDR
 Problem: LLM are expensive & a black box
