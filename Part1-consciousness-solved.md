@@ -1,4 +1,4 @@
-## Intelligence solved : memory + prediction
+### What our best friends can teach of intelligence
 
 
 Rain lashed against the window, the rhythmic drumming a familiar lullaby to the old dog, Milo. Curled beside the fireplace, he watched the embers dance, their flickering glow painting memories on the backs of his eyelids. He remembered chasing butterflies as a pup, the exhilaration of the hunt, the sweet scent of summer meadows clinging to his fur.  
@@ -17,7 +17,7 @@ The raccoon, as predicted, was there, its beady eyes reflecting the flashlight's
 
 Milo relaxed, a satisfied rumble escaping his chest. He hadn't needed complex commands or spoken language. The dance between him and Sarah, the memories woven into their very being, had been enough. In that quiet victory, under the glow of the dying fire, a testament to countless shared experiences, flickered the essence of intelligence – a world built not just on actions, but on the powerful interplay of memory and prediction. 
 
-#### Intelligence solved
+### Intelligence solved
 
 What is intelligence? Is it simply a matter of complex behavior? Or is there something more to it? I believe the most convincing definition of intelligence was given by the co-creator of the Palm Pilot, Jeff Hawkins, who posits you need two things to be intelligent: memory and prediction.
 
