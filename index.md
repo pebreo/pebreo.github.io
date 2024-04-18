@@ -1,4 +1,5 @@
 ![horse](IMG_9387.jpeg)
+##### credit: pixabay
 
 [Preamble](Preamble-Science-and-Personal-experience.md)
 
