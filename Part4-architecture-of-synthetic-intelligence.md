@@ -26,6 +26,9 @@ What about alignment?
 
 Adding guardrails to synthetic intelligence is brittle because there are too many edges cases. An example of this is that there the many ways people can and do jailbreak current generative ML systems like ChatGPT. Building maximum curiosity, truth seeking , and with foresight (aka imagination) is the best way to align human well-being and synthetic intelligence. Credit Elon Musk for popularizing the notion of maximizing truth seeking & curiosity in order to align human well being to synthetic intelligence.
 
+## video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ## TLDR
 Problem: LLM are expensive & a black box
 
