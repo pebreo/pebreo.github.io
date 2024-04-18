@@ -1,6 +1,6 @@
 hello world
 
-![horse](IMAGE_9387.jpeg)
+![horse](IMG_9387.jpeg)
 
 [the foo](foo.md)
 
