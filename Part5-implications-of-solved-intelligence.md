@@ -31,5 +31,14 @@ Elias became a living library, a keeper of forgotten knowledge, but he yearned f
 "Death," he proclaimed to the world, "may be inevitable, but the stories we leave behind can live forever."
 
 
+## The Body Electric: Rethinking Our AI Partnership
+
+Imagine a future where tireless AI assistants seamlessly integrate into our daily lives, handling mundane tasks with clockwork precision. But what if this efficiency comes at an ethical cost? 
+
+A good analogy comes from the anime *Cells at Work*: Our bodies rely on countless, uncomplaining cells to function. Could AI become a seamless extension of humanity, serving without sentience, emotion, or suffering? The morality of owning robots and having them do our bidding is analogous to the cells in our body. They have don't self-awareness (no reason that have to), they don't have to experience pain (real or imagined), and any definition of suffering they don't have to experience.
+
+Unlike our biological cells, AI wouldn't inherently experience pain or suffering. Our cells are pre-programmed by nature, fulfilling their roles within a pre-defined system.  AI is being built by us. We determine its capabilities and limitations. 
+Just as our bodies rely on a diverse range of cells, a future with AI might thrive on a similar principle: a co-existence where both human and synthetic intelligence operate within a framework that fosters growth and exploration. 
+
 ## TLDR
-If we play our cards right, we can use AI technology to eliminate poverty, hunger, disease, war, and all human suffering (real and/or imagined). This can happen IF we create AI that is human-aligned, completely expainable & understandable, affordable to all.
+If we play our cards right, we can use AI technology to eliminate poverty, hunger, disease, war, and all human suffering (real and/or imagined). We can engineer super cells without the baggage of malice, pain, or suffering. This can happen IF we create AI that is human-aligned, completely expainable & understandable, affordable to all.
