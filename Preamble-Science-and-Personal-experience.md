@@ -32,3 +32,7 @@ What if I explain, without pretense or mysticism, what intelligence is and how t
 
 The following is my attempt to share with you, what i believe, is the ...
 
+
+## TLDR
+An explanation of WHY & HOW things works doesn't diminish the EXPERIENCE of that being explained. It might even enhance it.
+
