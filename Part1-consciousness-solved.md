@@ -25,5 +25,12 @@ Hawkins argues that intelligence shouldn't be solely defined by how an organism 
 
 In my view, then our efforts to create conscious machines may need to be refocused. ..
 
+## TLDR
+Problem: there isn't a clear, agreed upon, definition if intelligence.
+
+Solution: intelligence is bot behavior, its memory plus prediction.
+
+
+
 
 
