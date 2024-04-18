@@ -1,4 +1,5 @@
 ![horse](IMG_9387.jpeg)
+##### credit: Ajedrez
 
 [Preamble](Preamble-Science-and-Personal-experience.md)
 
