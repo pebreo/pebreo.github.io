@@ -3,6 +3,9 @@
 
 In November 2020, I was hospitalized for brain surgery. I saw limitations first hand from speech recognition to how the old brain impacts everyday life and how the new brain, if still functioning, can still create this presentation. For months, I’ve been ruminating on ml but being in the hospital crystallized all those issues and what was nagging me.
 
+What was your epiphany? Current ML uses the old brain way of doing "intelligent" things: stimulus respose. The new brain, or neocrtex, uses imagination (world simulation) to be "intelligent."
+
+
 ## Problem
 The way we do ml is expensive & a black box ultimately. What if we could train it w hundreds of times less training data & we know what all the layers of neurons are doing? Down yo Each individual neuron. See Will scaling work?
 
