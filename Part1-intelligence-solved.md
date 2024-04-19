@@ -23,7 +23,7 @@ What is intelligence? Is it simply a matter of complex behavior? Or is there som
 
 Hawkins argues that intelligence shouldn't be solely defined by how an organism acts. Instead, it's the ability to form memories of past experiences and use those memories to predict future outcomes. This concept goes beyond just reacting to stimuli.
 
-In my view, then our efforts to create conscious machines may need to be refocused. ..
+In my view, then our efforts to create intelligent machines may need to be refocused. ..
 
 ## TLDR
 Problem: there isn't a clear, agreed upon, definition of intelligence.
