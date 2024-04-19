@@ -39,3 +39,8 @@ Just as our bodies rely on a diverse range of cells, a future with AI might thri
 
 ## TLDR
 If we play our cards right, we can use AI technology to eliminate poverty, hunger, disease, war, and all human suffering (real and/or imagined). We can engineer super cells without the baggage of malice, pain, or suffering. This can happen IF we create AI that is human-aligned, completely expainable & understandable, affordable to all.
+
+## Sources
+[Vids & bibliography]{sources.md}
+
+[TOC](https://pebreo.github.io/)
