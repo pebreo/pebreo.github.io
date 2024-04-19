@@ -13,4 +13,8 @@ In my view, Hawkins propose a definition that makes the most sense. Here's the g
 
 Here's the beauty of this approach: we can focus on building these core functionalities doesnt automatically mean... down in the philosophical quagmire of consciousness. We can scale or throttle all these aspects of consciousness to my synnthetic consciousness. 
 
+[Part 3: How to create a dystopia](Part3-howto-create-a-dystopia.md)
+[TOC](https://pebreo.github.io/)
+
+
 Imagine an AI with a phenomenal self-model, a bottomless memory bank, and an uncanny ability to perceive the world. 
