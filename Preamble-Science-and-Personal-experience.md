@@ -36,3 +36,8 @@ The following is my attempt to share with you, what i believe, is the ...
 ## TLDR
 An explanation of WHY & HOW things works doesn't diminish the EXPERIENCE of that being explained. It might even enhance it.
 
+
+
+[Part 1: Intelligence solved](Part1-intelligence-solved.md)
+
+[TOC]{https://pebreo.github.io/)
