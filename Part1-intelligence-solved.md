@@ -31,6 +31,9 @@ Problem: there isn't a clear, agreed upon, definition of intelligence.
 Solution: intelligence is not behavior, it's memory plus prediction.
 
 
+## Next chapter
+[Part 2: Consciousness solved](Part2-consciousness-solved.md)
 
+[TOC](https://pebreo.github.io/)
 
 
