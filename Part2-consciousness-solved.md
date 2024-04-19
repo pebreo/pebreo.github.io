@@ -15,6 +15,7 @@ Here's the beauty of this approach: we can focus on building these core function
 
 Imagine an AI with a phenomenal self-model, a bottomless memory bank, and an uncanny ability to perceive the world. 
 
+## Next chapter
 
 [Part 3: How to create a dystopia](Part3-howto-create-a-dystopia.md)
 
