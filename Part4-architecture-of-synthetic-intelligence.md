@@ -33,3 +33,8 @@ Adding guardrails to synthetic intelligence is brittle because there are too man
 Problem: LLM are expensive & a black box
 
 Solution: RCNs can be human-aligned, completely understandable and explainable, affirdable to all
+
+## Next chapter
+[Part 5: Implication of solved intelligence & consciousness](Part5-implications-of-solved-intelligence.md)
+
+[TOC](https://pebreo.github.io/)
