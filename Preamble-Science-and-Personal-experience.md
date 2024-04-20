@@ -40,4 +40,4 @@ An explanation of WHY & HOW things works doesn't diminish the EXPERIENCE of that
 ## Next chapter
 [Part 1: Intelligence solved](Part1-intelligence-solved.md)
 
-[TOC]{https://pebreo.github.io/)
+[TOC](https://pebreo.github.io/)
