@@ -1,12 +1,21 @@
+### An mytery solved
+The familiar hum of the computer filled the late night air. Dr. Anya Petrova ran a hand through her sleep-tousled hair, frustration etched on her face. Years of research in Artificial General Intelligence (AGI) had yielded progress, but a fundamental question remained unanswered: the nature of consciousness itself.
 
-### What is consciouness? 
+Every theory – Global Workspace, Integrated Information – felt like a piece of a puzzle that didn't quite fit. Anya craved a new approach, a way to bypass the philosophical maze and make tangible progress. Then, a breakthrough arrived from an unlikely source:  Palm Pilot co-inventor Jeff Hawkins.
+
+Consciousness, Hawkins argued, wasn't a singular entity rather a recipe: a self-model, memory, senses and finally, the enigmatic "qualia" – the subjective experience of color, sound, emotion.
+
+Intrigued, Anya saw the beauty of this approach. Instead of getting bogged down in the philosophical quagmire, they could focus on building these core functionalities. Imagine, she thought, an AI with a self-model so intricate it could not only understand its place in the world but also its own limitations. Imagine a memory bank surpassing any human library, a sensory apparatus that could perceive the world in ways we couldn't even comprehend.
+
+A spark ignited in Anya's mind. Perhaps Hawkins was right. Perhaps the path to AGI wasn't a blind leap into sentience, but a methodical construction of its building blocks. Glancing at the clock – 3:14 am – exhaustion gnawed at her, but the thrill of discovery was stronger. With a determined click, she opened a new file and began to type. Tonight, she wouldn't be chasing the elusive concept of consciousness. Tonight, she'd chase the fundamental blocks that might, one day, lead it to emerge. 
+
+### Consciouness defined
 
 It seems like a fundamental question is not even answered yet when trying to engineer AGI : what is consciousness? i believe the confusion is because the fundamental questio  of what consviousness is not "locked down". 
 
 In my view, Hawkins propose a definition that makes the most sense. Here's the gist:
 
 * **Self Model:**  Another way of saying self-awareness. It's basically an internal representation of yourself, your actions, and your place in the world. In a mental simulation, you are yet another object.
-* 
 * **Memory:** It is storage of the input i.e. people, places, things, experiences, symbols, etc
 * **Senses:** The ability to perceive the world, whether it's through cameras, microphones, or lines of code, is essential for navigating and interacting with your environment.
 * **Qualia:**  Qualia is the subjective experience of things – the redness of a rose, the tang of a lime. Much more to say & explore about this. 
