@@ -1,4 +1,4 @@
-### An mytery solved
+### An mystery solved
 The familiar hum of the computer filled the late night air. Dr. Anya Petrova ran a hand through her sleep-tousled hair, frustration etched on her face. Years of research in Artificial General Intelligence (AGI) had yielded progress, but a fundamental question remained unanswered: the nature of consciousness itself.
 
 Every theory – Global Workspace, Integrated Information – felt like a piece of a puzzle that didn't quite fit. Anya craved a new approach, a way to bypass the philosophical maze and make tangible progress. Then, a breakthrough arrived from an unlikely source:  Palm Pilot co-inventor Jeff Hawkins.
