@@ -12,7 +12,7 @@ Scott Phoenix proposes that AGI should also be able to imagine and mentally simu
 
 ### LLMs not the key to AGI
 Overall, the video argues that LLMs are a powerful tool, but they are not on the path to achieving AGI. We should not be fooled by their fluency into thinking they are intelligent.
-<iframe width="560" height="315" src="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LRBYxz6UsC4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## bibliography
 [From CAPTCHAs to Common Sense - George et al.](https://www.frontiersin.org/articles/10.3389/fncom.2020.554097/full)
