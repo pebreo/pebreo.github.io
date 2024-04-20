@@ -17,4 +17,4 @@ Overall, the video argues that LLMs are a powerful tool, but they are not on the
 ## bibliography
 [From CAPTCHAs to Common Sense - George et al.](https://www.frontiersin.org/articles/10.3389/fncom.2020.554097/full)
 
-[A Thousand Brains by Jeff Hawkins](https://www.frontiersin.org/articles/10.3389/fncom.2020.554097/full)
+[A Thousand Brains by Jeff Hawkins](https://a.co/d/4Ew1rpZ)
