@@ -1,3 +1,5 @@
+amy jo kim quote
+
 Based on this tldr, give a bullet point essay on the "first principles " notions and facts: Why can't social currency and monetary currency one and the same? The three characr of money are: a unit if exchange, a system of account , and a store of value. Social interactions are a form of exchange, just as real as paper or coins changing hands. You can keep track (account) of those social exchanges on a blockchain. If you make sure that electronic ledger is secure, then there little issue . Lastly, a store of value. You store value in both the "hearts of men " and in the electronic ledger (blockchain)
 
 ## Why Social and Monetary Currency Differ (First Principles Approach)
