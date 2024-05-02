@@ -2,6 +2,8 @@
 TODO: rewrite story using thought experimebt
 TODO: for explanations , what questions uou want answere eg Q&A
 
+todo: Give me 3 story ideas which o can use to explain  that consciousness is self-awareness plus memory plus senses.
+
 
 The familiar hum of the computer filled the late night air. Dr. Anya Petrova ran a hand through her sleep-tousled hair, frustration etched on her face. Years of research in Artificial General Intelligence (AGI) had yielded progress, but a fundamental question remained unanswered: the nature of consciousness itself.
 
