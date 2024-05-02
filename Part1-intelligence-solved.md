@@ -19,6 +19,9 @@ Milo relaxed, a satisfied rumble escaping his chest. He hadn't needed complex co
 
 ### Intelligence solved
 
+
+TODO: using gemini, cooy & paste and ask: what questions are left unaswered based on this text? suggest topics to further ekaboaret on...
+
 What is intelligence? Is it simply a matter of complex behavior? Or is there something more to it? I believe the most convincing definition of intelligence was given by the co-creator of the Palm Pilot, Jeff Hawkins, who posits you need two things to be intelligent: memory and prediction.
 
 Hawkins argues that intelligence shouldn't be solely defined by how an organism acts. Instead, it's the ability to form memories of past experiences and use those memories to predict future outcomes. This concept goes beyond just reacting to stimuli.
