@@ -45,3 +45,6 @@ todo: elaborate & connect w below
 ## TLDR
 ?
 
+## Next chapter
+[Part B: What would happen if it worked](/endgame/PartY-what.html)
+
