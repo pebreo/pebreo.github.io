@@ -1,4 +1,7 @@
 ## Clara
+
+todo: rewrite and make person very poor
+
 The rhythmic hum of the life support machine was the only constant in the symphony of memories swirling in Clara's mind. Her breaths came in shallow gasps, each one a reminder of the approaching curtain call. Yet, amidst the physical decline, a curious sense of peace settled over her.
 
 She hadn't chased exorbitant wealth, nor did designer labels adorn her life. But in the tapestry of her years, a different kind of richness shone through. The laughter lines etched around her eyes whispered stories of countless adventures – backpacking through Europe, scaling snow-capped mountains, the thrill of learning to surf at 50.
@@ -25,8 +28,17 @@ Poverty, Liza thought, wasn't a single blow, but a relentless barrage of small d
 
 ## What is a rich life?
 
+In one extreme, you have a rich social life: friends, family, loved ones and memorable, happy experiences. on the other extreme, you are worried if you will eat the next day or you can afford medicibe for your child. Do we have to choose? Can we have both?
 
-todo: elaborate & connect w below
+Poverty, in its most severe form, restricts this exchange, forcing individuals to prioritize basic survival needs over the experiences that truly enrich life. A rich life, popular belief goes, transcends mere financial abundance; it encompasses the ability to participate fully in the economic and social spheres, engaging in activities that contribute to personal growth and fulfillment. Do we have to chooose?
+
+Money serves as a standardized unit of account, providing a convenient means of measuring value. However, this function, while crucial for economic transactions, can overshadow the intrinsic value of experiences and relationships. A rich life is not solely defined by the numerical value on a bank statement; it encompasses the quality of time spent with loved ones, the pursuit of personal passions, and the creation of meaningful memories. These experiences, though not directly quantifiable in monetary terms, contribute significantly to a life of genuine fulfillment.
+
+Finally, money acts as a store of value, allowing individuals to save for future needs and aspirations. This function offers a sense of security and the ability to plan for the long term. However, poverty often necessitates living hand-to-mouth, leaving little room for saving or pursuing long-term goals. A rich life, in this sense, isn't just about having enough for the present; it's about having the security and freedom to dream and plan for a future that extends beyond mere survival.
+
+In conclusion, while money plays a significant role in enabling a comfortable life, it is not the sole determinant of a truly rich existence. A truly rich life encompasses the ability to access opportunities, pursue passions, and build meaningful connections, aspects that money alone cannot guarantee. Recognizing the limitations of money as a medium of exchange, unit of account, and store of value allows us to understand that true wealth lies not just in financial abundance, but in the richness of experiences and the quality of life one leads.
+
+
 
  
 ## Why Social and Monetary Currency Differ (First Principles Approach)
