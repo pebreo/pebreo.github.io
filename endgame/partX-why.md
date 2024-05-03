@@ -70,5 +70,5 @@ In conclusion, while money plays a significant role in enabling a comfortable li
 ?
 
 ## Next chapter
-[Part B: What would happen if it worked](/endgame/PartY-what.html)
+[Part B: What would happen if it worked](/endgame/PartY-what.md)
 
