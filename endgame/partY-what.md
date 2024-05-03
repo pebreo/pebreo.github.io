@@ -11,6 +11,13 @@ A gruff voice interrupted her thoughts. "Sarah Evans? Impressive Karma score," r
 
 That night, Sarah didn't just secure a gallery show. She sparked a conversation. People began to see Karma as more than just a badge of honor, but a currency for fostering collaboration. The lines between financial success and social influence blurred, creating a new artistic landscape where value wasn't just about dollars, but the richness of human connection. From that moment on, Sarah's art, and the movement she helped ignite, became a testament to the power of genuine exchange, proving that sometimes, the most valuable currency wasn't held in your wallet, but in the hearts of your community.
 
+## Explanation
+
+todo: elaborate
+
+## TLDR
+todo: elaborate
+
 ## Next chapter
 
 [TOC](https://pebreo.github.io/)
