@@ -13,6 +13,16 @@ And her children, a rambunctious, messy bunch, were a testament to that. Each on
 
 As her breath hitched for the final time, a contented smile graced her lips. It wasn't the size of the bank account, but the richness of the life she lived that truly mattered, and that, she knew, was a wealth beyond measure. A life brimming with experiences, mistakes, and the unyielding love of a family she fiercely built, one bridge burned and mended at a time. 
 
+## Liza
+Liza clutched the thin envelope, its contents a physical manifestation of the tightrope walk that was her life. Rent was due, and the number inside, scrawled in her landlord's impatient hand, felt more like a taunt than a figure. This wasn't new territory. The constant pressure of bills, the never-ending game of financial Tetris, was the rhythm of her life.
+
+Tonight, though, the worry gnawed deeper. Her daughter, Isha, had a nagging cough, and Liza knew a trip to the clinic loomed. The clinic visit itself wasn't the worry, it was the potential prescription, the drugs Isha desperately needed but Maya might not be able to afford. This wasn't a binary choice; it was a tangled web of possibilities, each leading down a path fraught with its own brand of stress.
+
+Exhaling a ragged breath, Liza forced herself to prioritize. Isha's health came first. Maybe she could call her cousin again, explain the situation, swallow her pride and ask for a loan. It was a gamble, but the alternative, the worry knot tightening in her gut, was a path she refused to walk.
+
+Poverty, Liza thought, wasn't a single blow, but a relentless barrage of small decisions, each one chipping away at your sense of security. It wasn't about a lack of intelligence or drive; it was about navigating a system that seemed rigged against you at every turn. Yet, despite it all, a sliver of hope remained. She had faced these challenges before, and she had found a way. This time would be no different. Maybe.
+
+
 ## What is a rich life?
 
 
