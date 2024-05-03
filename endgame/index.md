@@ -4,9 +4,9 @@
 
 [Preamble](/endgame/Preamble.md)
 
-[Part A: Why this plan would work](/endgame/PartX-why.html)
+[Part A: Why this plan would work](/endgame/PartX-why.md)
 
-[Part B: What would happen if it worked](/endgame/PartY-what.html)
+[Part B: What would happen if it worked](/endgame/PartY-what.md)
 
 quote : amy jo kim
 
