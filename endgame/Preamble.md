@@ -55,7 +55,7 @@ todo: elaborate
 To create a protopia youd want decentralized and distributed socioeconomic system the values freedom and diversity as well as non-extractive, non-destructive to the people and ecosystem
 
 ## Next chapter
-[Part X: Why this plan would work](/endgame/partX-why.md)
+[Part X: Why this plan would work](/endgame/partX-why.html)
 
 [TOC](https://pebreo.github.io/)
 
