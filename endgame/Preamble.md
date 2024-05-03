@@ -44,7 +44,15 @@ Fear and hopelessness are the tools used to keep the citizens of New Unity compl
 * **Environmental Devastation:**  The story doesn't explicitly mention a wasteland, but the towering, monolithic city suggests a world choked by technology.  Imagine the neon signs as a constant reminder of a lost natural world. 
 * **Loss of Hope:**  The citizens are conditioned to believe there's no alternative to the Shepherd's rule.  Remember the Tranquilaze, a drug that numbs not just physical pain, but also the potential for hope. 
 
-So there you have it, the essential ingredients for a dystopian world, as exemplified by the chilling case of New Unity.  These are cautionary tales, folks. By understanding the recipe,  we can work towards a future  that's a little less "New Unity" and a lot more, well, hopeful. 
+
+## How to make a protopia
+
+Answer: do the opposite of everythibg just desribed. 
+
+todo: elaborate
+
+## TLDR
+To create a protopia youd want decentralized and distributed socioeconomic system the values freedom and diversity as well as non-extractive, non-destructive to the people and ecosystem
 
 ## Next chapter
 [Part X: Why this plan would work](/endgame/partX-why.md)
