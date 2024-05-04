@@ -1,4 +1,4 @@
-![MICDROP](https://github.com/pebreo/pebreo.github.io/blob/main/mic-drop.jpg)
+![MICDROP](https://pebreo.github.io/mic-drop.jpg)
 
 credit: pixabay
 
