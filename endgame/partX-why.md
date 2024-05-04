@@ -1,20 +1,19 @@
 ## Clara
-
-todo: rewrite and make person very poor
-
 The rhythmic hum of the life support machine was the only constant in the symphony of memories swirling in Clara's mind. Her breaths came in shallow gasps, each one a reminder of the approaching curtain call. Yet, amidst the physical decline, a curious sense of peace settled over her.
 
-She hadn't chased exorbitant wealth, nor did designer labels adorn her life. But in the tapestry of her years, a different kind of richness shone through. The laughter lines etched around her eyes whispered stories of countless adventures – backpacking through Europe, scaling snow-capped mountains, the thrill of learning to surf at 50.
+She lived a very humble life. Worn clothes and hand-me-downs were the norm, a testament to a life lived on the edge of financial security. But in the tapestry of her years, a different kind of richness shone through.
 
-Her heart, once a frantic drum, now beat a gentle rhythm of cherished connections. The calloused hand resting in hers belonged to her husband, their love story a testament to enduring companionship. The faces surrounding her bed, etched with love and concern, were her children and grandchildren, each a unique thread woven into the fabric of her life.
+The laughter lines etched around her eyes whispered stories of countless adventures, albeit of a different kind. Hitchhiking across Europe, sleeping under bridges on snowy mountain climbs, the thrill of learning to surf at 50 on a borrowed board – each experience a testament to her resourcefulness.
 
-She hadn't focused on accumulating possessions, but on experiences that left indelible marks on her soul. The thrill of her first solo skydive, the quiet joy of tending her garden, the countless moments of shared laughter with friends – these were the treasures she carried within.
+Her heart, once a frantic drum, now beat a gentle rhythm of cherished connections. The calloused hand resting in hers belonged to her husband, their love story a testament to enduring companionship, built not on grand gestures but on shared struggles and whispered dreams. The faces surrounding her bed, etched with love and worry, were her children and grandchildren, each a unique thread woven into the fabric of her life.
 
-There were regrets, of course, paths not taken, dreams left unfulfilled. She'd made mistakes, oh yes, plenty of them. Bridges burned, harsh words spoken, the sting of decisions that still haunted her. But amidst the missteps, there was a relentless pursuit of life, a refusal to let fear or caution hold her back.
+She hadn't focused on accumulating possessions – the threat of eviction a constant companion. But on experiences that left indelible marks on her soul. The quiet joy of tending her community garden, the countless moments of shared laughter with friends over steaming mugs of borrowed tea – these were the treasures she carried within.
 
-And her children, a rambunctious, messy bunch, were a testament to that. Each one a unique storm, a whirlwind of personalities that had tested her patience and stretched her limits. Yet, looking at their faces, etched with love and a touch of the same wild spirit she possessed, a warmth filled her chest. They were her legacy, a testament to the messy, beautiful chaos of life.
+There were regrets, of course. Paths not taken, dreams left unfulfilled due to the relentless demands of putting food on the table. She'd made mistakes, oh yes, plenty of them. Bridges burned, harsh words spoken, the sting of decisions that still haunted her. But amidst the missteps, there was a relentless pursuit of life, a refusal to let fear or caution hold her back.
 
-As her breath hitched for the final time, a contented smile graced her lips. It wasn't the size of the bank account, but the richness of the life she lived that truly mattered, and that, she knew, was a wealth beyond measure. A life brimming with experiences, mistakes, and the unyielding love of a family she fiercely built, one bridge burned and mended at a time. 
+And her children, a rambunctious, messy bunch in mismatched clothes – a reflection of their upbringing – were a testament to that. Each one a unique storm, a whirlwind of personalities that had tested her patience and stretched her limits. Yet, looking at their faces, etched with love and a touch of the same wild spirit she possessed, a warmth filled her chest. They were her legacy, a testament to the messy, beautiful chaos of life lived with a shoestring budget and an overflowing heart.
+
+As her breath hitched for the final time, a contented smile graced her lips. It wasn't the size of the bank account, but the richness of the life she lived, chasing experiences rather than possessions, that truly mattered. And that, she knew, was a wealth beyond measure. A life brimming with grit, laughter, and the unyielding love of a family she fiercely built, one struggle overcome and memory made at a time.
 
 ## Liza
 Liza clutched the thin envelope, its contents a physical manifestation of the tightrope walk that was her life. Rent was due, and the number inside, scrawled in her landlord's impatient hand, felt more like a taunt than a figure. This wasn't new territory. The constant pressure of bills, the never-ending game of financial Tetris, was the rhythm of her life.
