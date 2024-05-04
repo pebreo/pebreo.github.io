@@ -101,3 +101,5 @@ Monetary and social currency play distinct roles in our lives. While they share 
 ## Next chapter
 [Part B: What would happen if it worked](https://pebreo.github.io/endgame/partY-what.html)
 
+[TOC](https://pebreo.guthub.io/endgame)
+
