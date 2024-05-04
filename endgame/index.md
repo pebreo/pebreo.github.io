@@ -2,9 +2,6 @@
 ##### credit: pixabay
 "Are you crazy or just early?" - Amy Jo Kim
 
-"Either /  or thinking kills the DREAM." - Paul Ebreo
-
-
 
 [Preamble](https://pebreo.github.io/endgame/Preamble.html)
 
