@@ -12,6 +12,8 @@
 
 [Part B: What would happen if it worked](https://pebreo.github.io/endgame/partY-what.html)
 
+[Part C: DREAM BIG](https://pebreo.github.io/endgame/DREAM-BIG.html)
+
 antifragile ai, open source distributed ecology
 
 ## What happen if it worked
