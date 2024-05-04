@@ -32,4 +32,4 @@ todo: elaborate
 ## final chapter
 [Part C: DREAM BIG](https://pebreo.github.io/endgame/DREAM-BIG.html)
 
-[TOC](https://pebreo.github.io/)
+[TOC](https://pebreo.github.io/endgame)
