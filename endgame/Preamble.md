@@ -57,7 +57,7 @@ To create a protopia youd want decentralized and distributed socioeconomic syste
 ## Next chapter
 [Part X: Why this plan would work](https://pebreo.github.io/endgame/partX-why.html)
 
-[TOC](https://pebreo.github.io/)
+[TOC](https://pebreo.github.io/endgame)
 
 
 how to create a dystopia
