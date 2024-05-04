@@ -1,6 +1,8 @@
 ![MICDROP](https://pebreo.github.io/mic-drop.jpg)
 
 credit: pixabay
+
+
 "Either-or thinking kills the DREAM." - Paul Ebreo
 
 
