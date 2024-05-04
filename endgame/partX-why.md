@@ -32,42 +32,69 @@ In one extreme, you have a rich social life: friends, family, loved ones and mem
 Poverty, in its most severe form, restricts this exchange, forcing individuals to prioritize basic survival needs over the experiences that truly enrich life. A rich life, popular belief goes, transcends mere financial abundance; it encompasses the ability to participate fully in the economic and social spheres, engaging in activities that contribute to personal growth and fulfillment. Do we have to chooose?
 
 ## Blending Social and Monetary Currency: A Richer Perspective
+TODO: add vals framework graphic and explain & rewrite below
 
 Imagine a world where wealth wasn't just measured in dollars and cents, but also in the richness of experiences and connections. Money undoubtedly simplifies transactions, acting as a common language of value. But what about the value of that first laugh with your grandchild, or the satisfaction of conquering a challenging climb with friends? 
 
 **True wealth transcends a bank statement.** It's about the social currency you accumulate – the quality time spent with loved ones, the shared experiences that forge deep bonds. These are deposits in your emotional bank account, yielding returns in the form of joy, love, and a sense of belonging.
 
-However, poverty often forces people to live paycheck to paycheck. This depletes their social currency reserves as well. Without the resources for even basic experiences, it's hard to build strong connections or pursue passions.  
 
 **A truly rich life requires a balance between both currencies.** Money provides the security and freedom to dream beyond survival. It allows you to invest in experiences that deepen relationships, like that family vacation or a weekend getaway with friends. It empowers you to take risks and chase personal passions, whether it's mastering a new skill or volunteering for a cause you care about.
 
-**The limitations of money become clear when it comes to true fulfillment.** You can't buy genuine love, deep connections, or a life well-lived. These come from investing your time, energy, and social currency into the people and experiences that matter most.
+**A truly rich life requires a balance between both currencies.** Money provides the security and freedom to dream beyond survival. It allows you to invest in experiences that deepen relationships, like that family vacation or a weekend getaway with friends. It empowers you to take risks and chase personal passions, whether it's mastering a new skill or volunteering for a cause you care about.
 
 **Re-imagining broader definition of wealth empowers us to redefine success.** It's not just about the size of your paycheck, but the size of your heart, the strength of your connections, and the richness of the experiences you've accumulated. True wealth is a tapestry woven with both social and monetary threads, creating a life that is truly fulfilling. 
 
 
- 
 ## Why Social and Monetary Currency Differ (First Principles Approach)
 
-* **Monetary Currency:** Fulfills three key functions:
-    * **Unit of Exchange:** Acts as a standardized medium for buying and selling goods/services. (Imagine directly bartering chickens for shoes - impractical!)
-    * **System of Account:** Allows for easy record keeping and tracking of transactions. (Without it, remembering every trade becomes a nightmare!)
-    * **Store of Value:** Retains purchasing power over time. (Money saved today should still buy something valuable tomorrow.)
+## Why Social and Monetary Currency Differ: A Deep Dive
 
-* **Social Currency:** Doesn't fulfill all three functions:
-    * **Unit of Exchange:** Limited use in direct exchange for goods/services. (You can't buy groceries with "likes" on social media.)
-    * **System of Account:** Difficult to quantify and track social interactions. (How do you compare a retweet to a heartfelt recommendation?)
-    * **Store of Value:** Social currency can fluctuate and lose "worth" over time. (A viral trend today might be forgotten tomorrow.)
+Let's delve into the fundamental differences between social and monetary currency, using a first principles approach. 
 
-* **Blockchain Technology:** 
-    * **Potential for Social Currency:** Could offer a secure way to track and record social interactions. (Think of a tamper-proof record of your "good deeds.")
-    * **Limitations:** Doesn't solve the challenges of assigning value and ensuring long-term worth to social interactions. (Is a million "likes" more valuable than a single, genuine act of kindness?)
+**Monetary Currency: The Bedrock of Transactions**
 
-* **"Hearts of Men":** 
-    * **Social Currency's Strength:** Holds value in terms of reputation, influence, and trust. (Being known for helpfulness can open doors!)
-    * **Challenge for Blockchain:** Difficult to quantify and replicate the emotional connection behind social interactions. (A blockchain can't capture the warmth of a handwritten thank-you note.)
+Monetary currency excels at three key functions, forming the backbone of our economic system:
 
-**Conclusion:** While social interactions share some similarities with monetary transactions, their fundamental differences prevent them from being directly interchangeable as currencies.   
+1. **Unit of Exchange:** Imagine bartering a chicken for a pair of shoes. Impractical, right? Money acts as a standardized medium that eliminates the need for such direct exchanges. It simplifies transactions, allowing us to buy and sell goods and services with ease.
+
+2. **System of Account:** Keeping track of every trade would be a logistical nightmare. Money facilitates record keeping. Every transaction leaves a clear trail, making accounting and economic analysis possible. 
+
+3. **Store of Value:** Ideally, money retains its purchasing power over time. A dollar saved today should still buy something valuable tomorrow. This allows for saving, investment, and future planning – crucial aspects of financial security.
+
+**Social Currency: The Power of Connection**
+
+Social currency, while impactful, doesn't fulfill all three functions:
+
+1. **Limited Exchange:** Unlike money, "likes" on social media won't get you groceries. Social currency has limited use in directly acquiring goods and services. While it might offer discounts or exclusive access in certain situations, it lacks the universality of money.
+
+2. **Subjective Valuation:** Quantifying social interactions is a challenge. How do you compare a retweet to a heartfelt recommendation? Is a million "followers" more valuable than a small circle of close friends? Social currency's worth is subjective and varies based on context.
+
+3. **Fluctuating Value:** Unlike money, social currency can be fleeting. A viral trend today might be forgotten tomorrow.  The "worth" of social capital can depreciate rapidly, unlike the relative stability of most currencies.
+
+**Blockchain: Can It Revolutionize Social Currency?**
+
+Blockchain technology, known for its secure record keeping, offers a potential solution for some limitations of social currency:
+
+* **Tracking Interactions:** Imagine a secure, tamper-proof record of your "good deeds" or contributions to communities. Blockchain could create a verifiable history of social interactions, potentially increasing their perceived value.
+
+However, challenges remain:
+
+* **Assigning Value:** Blockchain can't determine the inherent worth of a social interaction. Is a million "likes" more valuable than a single genuine act of kindness? Assigning objective value to subjective experiences remains an open question.
+
+* **Emotional Connection:** The human element is crucial. A blockchain can't capture the warmth of a handwritten thank-you note or the trust built through a face-to-face conversation. Replicating the emotional connection behind social interactions is a challenge for any technology.
+
+**The Hearts of Men: Where Social Currency Reigns Supreme**
+
+Despite these limitations, social currency holds immense power:
+
+* **Reputation, Influence, and Trust:** Being known for helpfulness, reliability, or creativity can open doors. Social capital fosters trust and influence, leading to opportunities beyond mere financial transactions.
+
+* **Emotional Connection:** Social interactions have an intrinsic value that goes beyond quantifiable metrics. A genuine connection with another human being can bring joy, fulfillment, and a sense of belonging, aspects that money can't directly buy.
+
+**Conclusion: A Symphony, Not a Solo**
+
+Monetary and social currency play distinct roles in our lives. While they share some similarities in facilitating exchange and value storage, their fundamental differences prevent them from being directly interchangeable. Social currency thrives on trust, connection, and emotional impact, while monetary currency excels at facilitating transactions and storing value. Ultimately, a truly rich life requires a harmonious balance of both—a symphony of financial security and vibrant social connections. 
 
 
 ## TLDR
