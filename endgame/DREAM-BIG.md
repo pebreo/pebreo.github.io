@@ -2,8 +2,6 @@
 
 credit: pixabay
 
-# story
-# DREAM BIG
 ## DREAM BIG: A Framework for Transforming Aspiration into Reality
 
 The acronym DREAM BIG serves as a powerful framework for transforming the seeds of aspiration into tangible realities. Each letter represents a distinct step on the journey from conception to culmination, guiding us towards achieving the seemingly impossible.
