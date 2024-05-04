@@ -29,6 +29,7 @@ todo: elaborate
 ## TLDR
 todo: elaborate
 
-## Next chapter
+## final chapter
+[Part C: DREAM BIG](https://pebreo.github.io/endgame/DREAM-BIG.html)
 
 [TOC](https://pebreo.github.io/)
