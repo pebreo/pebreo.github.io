@@ -41,7 +41,7 @@ TODO: do not publish risibg to power statement
 | Act                     | Find activators to champion societal changes                | Seek professional help, educational material, and community       | Find activators to advocate for responsible AI development                                             |
 | Manifest                | TBD (future actions)                                        | TBD (future actions)                                              | Proof of concept, prototype, startup, or company demonstrating positive AI impact                      |
 | Bridge people and ideas | Find activators to support the movement                     | Focus on communication & vulnerability                            | Take power and become world leader through example and, if necessary, military might                   |
-| Invent                  | Use new AI & blockchain for infrastructure and transparency | Use a better style of communication                               | New socioeconomic system prioritizing social good, sustainability, and equitable resource distribution |
+| Invent                  | Use new AI & blockchain for infrastructure and transparency | Upgrade to non-confrontational style of communication                               | New socioeconomic system prioritizing social good, sustainability, and equitable resource distribution |
 | Give                    | Make AI tools and blockchain applications open-source       | Lead by example                                                   | Open-source the new socioeconomic system and lead by example                                           |
 
 # book tldr
