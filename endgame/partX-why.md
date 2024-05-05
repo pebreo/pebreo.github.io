@@ -1,3 +1,6 @@
+Todo:graphic: VAls framework
+todo: graphic: two sides of same coin
+
 ## Clara
 The rhythmic hum of the life support machine was the only constant in the symphony of memories swirling in Clara's mind. Her breaths came in shallow gasps, each one a reminder of the approaching curtain call. Yet, amidst the physical decline, a curious sense of peace settled over her.
 
