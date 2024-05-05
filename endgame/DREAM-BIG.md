@@ -29,7 +29,18 @@ The acronym DREAM BIG serves as a powerful framework for transforming the seeds 
 By embracing the spirit of DREAM BIG, we equip ourselves with the tools necessary to transform our aspirations into reality. It's a framework that fosters clarity, ignites passion, and guides us through the process of turning our wildest dreams into tangible achievements, leaving a positive impact on the world around us.
 
 
+## Applying to life, love, and wealth
 
+| Topic                   | Life                                                        | Love                                                                   | Wealth                                                                                                 |
+| ----------------------- | ----------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Define                  | Population Collapse (rapid decline in global population)    | Importance of communication, trust, and vulnerability in relationships | AI taking jobs (automation replacing human labor)                                                      |
+| Reimagine               | Social currency & monetary currency unified                 | Relationships built on open, honest, and authentic communication       | AI that is completely explicable, understandable, scalable, and affordable to all                      |
+| Excite                  | Storytelling (books, movies, shows)                         | Storytelling (books, movies, shows) with historical data (tables)      | Videos, tech talks, and tweets about responsible AI development                                        |
+| Act                     | Find activators to champion societal changes                | Find activators to champion open and honest communication              | Find activators to advocate for responsible AI development                                             |
+| Manifest                | TBD (future actions)                                        | TBD (future actions)                                                   | Proof of concept, prototype, startup, or company demonstrating positive AI impact                      |
+| Bridge people and ideas | Find activators to support the movement                     | Find activators to support the movement                                | Take power and become world leader through example and, if necessary, military might                   |
+| Invent                  | Use new AI & blockchain for infrastructure and transparency | Use new AI & blockchain for fostering deeper connections               | New socioeconomic system prioritizing social good, sustainability, and equitable resource distribution |
+| Give                    | Make AI tools and blockchain applications open-source       | Make AI tools and blockchain applications open-source                  | Open-source the new socioeconomic system and lead by example                                           |
 
 # book tldr
 
