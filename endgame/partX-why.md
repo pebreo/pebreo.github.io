@@ -73,7 +73,11 @@ Despite these limitations, social currency holds immense power:
 * **Emotional Connection:** Social interactions have an intrinsic value that goes beyond quantifiable metrics. A genuine connection with another human being can bring joy, fulfillment, and a sense of belonging, aspects that money can't directly buy.
 
 ## Why cant they be both?
-
+| Characteristics of Money | Status Quo                                                    | Behavior/Karma                |
+| ------------------------ | ------------------------------------------------------------- | ----------------------------- |
+| Medium of Exchange       | Paper, metal, electronics bits                                | How you treat people & behave |
+| Unit of Account          | Stored in government databases                                | Stored in blockchain          |
+| Store of Value           | Stored in metal, paper, real estate, factories, equipment etc | Store in "hearts of men"      |
 
  
 
