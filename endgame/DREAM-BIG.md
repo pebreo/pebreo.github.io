@@ -45,5 +45,10 @@ TODO: do not publish risibg to power statement
 | Give                    | Make AI tools and blockchain applications open-source       | Lead by example                                                   | Open-source the new socioeconomic system and lead by example                                           |
 
 # book tldr
+life: adopt antifragile mindset. understand consciousness & intelligence.
+
+love: destigmatize polyamory & enm
+
+wealth: build karma socioecomics using human-aligned AI & blockchain
 
 [TOC](https://pebreo.github.io/endgame)
