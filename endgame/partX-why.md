@@ -57,27 +57,12 @@ Monetary currency excels at three key functions, forming the backbone of our eco
 
 3. **Store of Value:** Ideally, money retains its purchasing power over time. A dollar saved today should still buy something valuable tomorrow. This allows for saving, investment, and future planning – crucial aspects of financial security.
 
-**Social Currency: The Power of Connection**
-
-Social currency, while impactful, doesn't fulfill all three functions:
-
-1. **Limited Exchange:** Unlike money, "likes" on social media won't get you groceries. Social currency has limited use in directly acquiring goods and services. While it might offer discounts or exclusive access in certain situations, it lacks the universality of money.
-
-2. **Subjective Valuation:** Quantifying social interactions is a challenge. How do you compare a retweet to a heartfelt recommendation? Is a million "followers" more valuable than a small circle of close friends? Social currency's worth is subjective and varies based on context.
-
-3. **Fluctuating Value:** Unlike money, social currency can be fleeting. A viral trend today might be forgotten tomorrow.  The "worth" of social capital can depreciate rapidly, unlike the relative stability of most currencies.
-
 **Blockchain: Can It Revolutionize Social Currency?**
 
 Blockchain technology, known for its secure record keeping, offers a potential solution for some limitations of social currency:
 
 * **Tracking Interactions:** Imagine a secure, tamper-proof record of your "good deeds" or contributions to communities. Blockchain could create a verifiable history of social interactions, potentially increasing their perceived value.
 
-However, challenges remain:
-
-* **Assigning Value:** Blockchain can't determine the inherent worth of a social interaction. Is a million "likes" more valuable than a single genuine act of kindness? Assigning objective value to subjective experiences remains an open question.
-
-* **Emotional Connection:** The human element is crucial. A blockchain can't capture the warmth of a handwritten thank-you note or the trust built through a face-to-face conversation. Replicating the emotional connection behind social interactions is a challenge for any technology.
 
 **The Hearts of Men: Where Social Currency Reigns Supreme**
 
@@ -87,10 +72,10 @@ Despite these limitations, social currency holds immense power:
 
 * **Emotional Connection:** Social interactions have an intrinsic value that goes beyond quantifiable metrics. A genuine connection with another human being can bring joy, fulfillment, and a sense of belonging, aspects that money can't directly buy.
 
-**Conclusion: A Symphony, Not a Solo**
+## Why cant they be both?
 
-Monetary and social currency play distinct roles in our lives. While they share some similarities in facilitating exchange and value storage, their fundamental differences prevent them from being directly interchangeable. Social currency thrives on trust, connection, and emotional impact, while monetary currency excels at facilitating transactions and storing value. Ultimately, a truly rich life requires a harmonious balance of both—a symphony of financial security and vibrant social connections. 
 
+ 
 
 ## TLDR
 ?
