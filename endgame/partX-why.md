@@ -79,7 +79,10 @@ Despite these limitations, social currency holds immense power:
 | Unit of Account          | Stored in government databases                                | Stored in blockchain          |
 | Store of Value           | Stored in metal, paper, real estate, factories, equipment etc | Store in "hearts of men"      |
 
- 
+Traditionally, money exists as physical objects like paper bills, coins, or digital representations in bank accounts. Governments and central banks control its value and act as the central record keepers. This "status quo" money allows us to buy and sell things, similar to a "behavior/karma" system where good deeds and positive interactions function as a medium of exchange. However, the key differences lie in its form and value determination. 
+
+While traditional money is tangible, "behavior/karma" money is intangible. It's earned through ethical conduct and building trust within a community. Instead of government databases, a blockchain potentially serves as the record for these interactions. While both systems aim to retain value over time, traditional money's worth fluctuates with economic conditions, whereas "behavior/karma" money is less susceptible but relies on the individual's continued positive actions. 
+
 
 ## TLDR
 ?
