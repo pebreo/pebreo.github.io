@@ -31,6 +31,8 @@ By embracing the spirit of DREAM BIG, we equip ourselves with the tools necessar
 
 ## Applying to life, love, and wealth
 
+TODO: do not publish risibg to power statement
+
 | Topic                   | Life                                                        | Love                                                              | Wealth                                                                                                 |
 | ----------------------- | ----------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | Define                  | Population Collapse (rapid decline in global population)    | Epidemic of divorce                                               | AI taking jobs (automation replacing human labor)                                                      |
