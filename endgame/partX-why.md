@@ -5,7 +5,6 @@ She lived a very humble life. Worn clothes and hand-me-downs were the norm, a te
 
 Her heart, once a frantic drum, now beat a gentle rhythm of cherished connections. The calloused hand resting in hers belonged to her husband, their love story a testament to enduring companionship, built not on grand gestures but on shared struggles and whispered dreams. The faces surrounding her bed, etched with love and worry, were her children and grandchildren, each a unique thread woven into the fabric of her life.
 
-She hadn't focused on accumulating possessions – the threat of eviction a constant companion. But on experiences that left indelible marks on her soul. The quiet joy of tending her community garden, the countless moments of shared laughter with friends over steaming mugs of borrowed tea – these were the treasures she carried within.
 
 There were regrets, of course. Paths not taken, dreams left unfulfilled due to the relentless demands of putting food on the table. She'd made mistakes, oh yes, plenty of them. Bridges burned, harsh words spoken, the sting of decisions that still haunted her. But amidst the missteps, there was a relentless pursuit of life, a refusal to let fear or caution hold her back.
 
