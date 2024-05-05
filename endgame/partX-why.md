@@ -3,8 +3,6 @@ The rhythmic hum of the life support machine was the only constant in the sympho
 
 She lived a very humble life. Worn clothes and hand-me-downs were the norm, a testament to a life lived on the edge of financial security. But in the tapestry of her years, a different kind of richness shone through.
 
-The laughter lines etched around her eyes whispered stories of countless adventures, albeit of a different kind. Hitchhiking across Europe, sleeping under bridges on snowy mountain climbs, the thrill of learning to surf at 50 on a borrowed board – each experience a testament to her resourcefulness.
-
 Her heart, once a frantic drum, now beat a gentle rhythm of cherished connections. The calloused hand resting in hers belonged to her husband, their love story a testament to enduring companionship, built not on grand gestures but on shared struggles and whispered dreams. The faces surrounding her bed, etched with love and worry, were her children and grandchildren, each a unique thread woven into the fabric of her life.
 
 She hadn't focused on accumulating possessions – the threat of eviction a constant companion. But on experiences that left indelible marks on her soul. The quiet joy of tending her community garden, the countless moments of shared laughter with friends over steaming mugs of borrowed tea – these were the treasures she carried within.
