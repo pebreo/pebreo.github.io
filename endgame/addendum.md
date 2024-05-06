@@ -1,4 +1,4 @@
-# Crazy ideas make world go 'round
+# Crazy ideas make the world go 'round
 
 Here are some specific examples highlighting the extraordinary nature of these inventions:
 
