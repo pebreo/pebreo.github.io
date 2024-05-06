@@ -47,7 +47,7 @@ money plays a crucial role in securing our material and physical well-being. It 
 
 
 **Both can be true at the same time. Both achievable!**
-It's not just about the size of your paycheck, but the size of your heart, the strength of your connections, and the richness of the experiences you've accumulated. True wealth is a tapestry woven with both social and monetary threads, creating a life that is truly fulfilling. 
+Its commonly accepted that it's not just about the size of your paycheck, but the size of your heart, the strength of your connections, and the richness of the experiences you've accumulated. True wealth is a tapestry woven with both social and monetary threads, creating a life that is truly fulfilling. It wpuld take a quantum leap in thinking that humanity can BOTH have social and material wealth.
 
 
 ## Social and Monetary Currency 
