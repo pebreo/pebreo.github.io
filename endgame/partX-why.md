@@ -40,14 +40,14 @@ TODO: add vals framework graphic and explain & rewrite below
 
 Imagine a world where wealth wasn't just measured in dollars and cents, but also in the richness of experiences and connections. Money undoubtedly simplifies transactions, acting as a common language of value. But what about the value of that first laugh with your grandchild, or the satisfaction of conquering a challenging climb with friends? 
 
-**True wealth transcends a bank statement.** It's about the social currency you accumulate – the quality time spent with loved ones, the shared experiences that forge deep bonds. These are deposits in your emotional bank account, yielding returns in the form of joy, love, and a sense of belonging.
+**Social wealth** It's about the social currency you accumulate – the quality time spent with loved ones, the shared experiences that forge deep bonds. These are deposits in your emotional bank account, yielding returns in the form of joy, love, and a sense of belonging.
+
+**Financial wealth***
+.
 
 
-**A truly rich life requires a balance between both currencies.** Money provides the security and freedom to dream beyond survival. It allows you to invest in experiences that deepen relationships, like that family vacation or a weekend getaway with friends. It empowers you to take risks and chase personal passions, whether it's mastering a new skill or volunteering for a cause you care about.
-
-**A truly rich life requires a balance between both currencies.** Money provides the security and freedom to dream beyond survival. It allows you to invest in experiences that deepen relationships, like that family vacation or a weekend getaway with friends. It empowers you to take risks and chase personal passions, whether it's mastering a new skill or volunteering for a cause you care about.
-
-**Re-imagining broader definition of wealth empowers us to redefine success.** It's not just about the size of your paycheck, but the size of your heart, the strength of your connections, and the richness of the experiences you've accumulated. True wealth is a tapestry woven with both social and monetary threads, creating a life that is truly fulfilling. 
+**Both can be true at the same time. Both achievable!**
+It's not just about the size of your paycheck, but the size of your heart, the strength of your connections, and the richness of the experiences you've accumulated. True wealth is a tapestry woven with both social and monetary threads, creating a life that is truly fulfilling. 
 
 
 ## Social and Monetary Currency 
