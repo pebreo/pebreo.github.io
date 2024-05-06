@@ -75,9 +75,9 @@ Imagine a benevolent AI dedicated to tracking and recognizing positive social in
 * **Tracking Interactions:** Imagine a secure, tamper-proof record of your "good deeds" or contributions to communities. Blockchain could create a verifiable history of social interactions, potentially increasing their perceived value.
 
 
-**The Hearts of Men: Where Social Currency Reigns Supreme**
+**Obvious benefits**
 
-Despite these limitations, social currency holds immense power:
+The merging of social and monetary currency is like peanut butter and jelly: great individually but unimaginable once experienced:
 
 * **Reputation, Influence, and Trust:** Being known for helpfulness, reliability, or creativity can open doors. Social capital fosters trust and influence, leading to opportunities beyond mere financial transactions.
 
