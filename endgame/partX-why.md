@@ -40,7 +40,7 @@ TODO: add vals framework graphic and explain & rewrite below
 
 Imagine a world where wealth wasn't just measured in dollars and cents, but also in the richness of experiences and connections. Money undoubtedly simplifies transactions, acting as a common language of value. But what about the value of that first laugh with your grandchild, or the satisfaction of conquering a challenging climb with friends? 
 
-**Social wealth** It's about the social currency you accumulate – the quality time spent with loved ones, the shared experiences that forge deep bonds. These are deposits in your emotional bank account, yielding returns in the form of joy, love, and a sense of belonging.
+**Social wealth** It's about the social currency you accumulate – the quality time spent with loved ones, the shared experiences that forge deep bonds. They experieces and memories for people youvcare abliut and who care about you. These are deposits in your emotional bank account, yielding returns in the form of joy, love, and a sense of belonging.
 
 **Financial wealth***
 money plays a crucial role in securing our material and physical well-being. It allows us to acquire essential goods like food, clothes, and safe housing, ensuring basic survival. Money also grants access to healthcare, enabling us to pay for doctor visits, medications, and potentially life-saving surgeries. For example, having enough money can mean the difference between receiving critical cancer treatment or not. If youre lucky, you can use it buy entertainment, property and all forms of material things.
