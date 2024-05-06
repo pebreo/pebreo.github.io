@@ -81,7 +81,7 @@ The merging of social and monetary currency is like peanut butter and jelly: gre
 
 * **Reputation, Influence, and Trust:** Being known for helpfulness, reliability, or creativity can open doors. Social capital fosters trust and influence, leading to opportunities beyond mere financial transactions.
 
-* **Emotional Connection:** Outside of the social interactions quantified by the AI, genuine connection with another human being can bring joy, fulfillment, and a sense of belonging.
+* **Emotional Connection:** Outside of the social interactions quantified by the AI, genuine connection with another human being can bring joy, fulfillment, and a sense of belonging. It provides a unique intimacy and shared understanding that transcends mere quantifiable actions.
 
 ## Why cant they be both?
 | Characteristics of Money | Status Quo                                                    | Behavior/Karma                |
