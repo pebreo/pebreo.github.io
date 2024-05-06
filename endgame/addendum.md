@@ -72,14 +72,18 @@ Achieving human-aligned, explainable, and affordable AI remains a significant ch
 
 **Romantic relationships involving more than 2 people**
 
-While not an invention in the traditional sense, a healthy, genuine, and honest open relationship involving more than two people definitely qualifies as a "crazy" concept compared to the traditional societal norm of monogamy. Here's why it pushes boundaries:
+While not an invention in the traditional sense, a healthy, genuine, and honest open relationship involving more than two people definitely qualifies as a "crazy" concept compared to the traditional societal norm of monogamy. 
+
+**Enhanced Communication and Conflict Resolution:** 
+Navigating an open relationship requires a high level of communication, honesty, and emotional intelligence. This constant practice can lead to stronger communication skills and conflict resolution abilities that benefit all relationships within the network, fostering deeper understanding and connection.
+
+**Stronger Support Network:** 
+Open relationships can lead to the creation of a larger, interconnected support network. Partners' additional relationships can become a source of friendship, guidance, and emotional support for everyone involved. This expanded network can be especially valuable during difficult times or when facing life challenges.
+
+**Greater Sexual and Emotional Fulfillment** Open relationships can potentially allow individuals to fulfill diverse sexual and emotional needs that might not be fully met within a single partner. This can lead to increased sexual satisfaction, emotional intimacy, and a broader spectrum of experiences within relationships.
 
 **Challenging the Monogamous Norm:**  
-For centuries, monogamy has been the dominant relationship model, deeply ingrained in social structures and expectations. Polyamory/open relationships/ethical non-monogamy, especially those involving more than two individuals, challenge this deeply rooted concept, pushing the boundaries of what a "normal" relationship can look like.
-
-
-**How it could work***
-Maintaining a healthy open relationship involving multiple individuals requires exceptional communication, emotional intelligence, and boundary setting. It involves navigating jealousy, managing individual needs, and ensuring everyone feels secure and valued within the dynamic. 
+For recent human history, monogamy has been the dominant relationship model, ingrained in social structures and expectations. Polyamory/open relationships/ethical non-monogamy, especially those involving more than two individuals, challenge this deeply rooted concept, pushing the boundaries of what a "normal" relationship can look like.
 
 While not for everyone, the ability to build genuine connections and navigate such complex dynamics with honesty and respect can be considered a revolutionary approach to love and intimacy. 
 
