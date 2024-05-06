@@ -67,7 +67,7 @@ Let's delve into the fundamental differences between social and monetary currenc
 
 **Monetary Currency: The Bedrock of Transactions**
 
-Monetary currency excels at three key functions, forming the backbone of our economic system:
+Monetary currency excels at three key functions, forming the backbone of our current economic system:
 
 1. **Unit of Exchange:** Imagine bartering a chicken for a pair of shoes. Impractical, right? Money acts as a standardized medium that eliminates the need for such direct exchanges. It simplifies transactions, allowing us to buy and sell goods and services with ease.
 
