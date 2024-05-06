@@ -33,6 +33,8 @@ By embracing the spirit of DREAM BIG, we equip ourselves with the tools necessar
 
 TODO: do not publish risibg to power statement
 
+todo : add karmacoin incentivizes population growth & humman connection behaviors
+
 | Topic                   | Life                                                        | Love                                                              | Wealth                                                                                                 |
 | ----------------------- | ----------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | Define                  | Population Collapse (rapid decline in global population)    | Epidemic of divorce                                               | AI taking jobs (automation replacing human labor)                                                      |
