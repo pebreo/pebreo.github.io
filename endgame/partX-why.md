@@ -81,7 +81,7 @@ Despite these limitations, social currency holds immense power:
 | Characteristics of Money | Status Quo                                                    | Behavior/Karma                |
 | ------------------------ | ------------------------------------------------------------- | ----------------------------- |
 | Medium of Exchange       | Paper, metal, electronics bits                                | How you treat people & behave |
-| Unit of Account          | Stored in government databases                                | Stored in blockchain          |
+| Unit of Account          | Stored in government databases                                | Recorded by AI, stored in blockchain          |
 | Store of Value           | Stored in metal, paper, real estate, factories, equipment etc | Store in "hearts of men"      |
 
 Traditionally, money exists as physical objects like paper bills, coins, or digital representations in bank accounts. Governments and central banks control its value and act as the central record keepers. This "status quo" money allows us to buy and sell things, similar to a "behavior/karma" system where good deeds and positive interactions function as a medium of exchange. However, the key differences lie in its form and value determination. 
