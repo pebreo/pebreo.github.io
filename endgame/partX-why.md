@@ -43,7 +43,7 @@ Imagine a world where wealth wasn't just measured in dollars and cents, but also
 **Social wealth** It's about the social currency you accumulate – the quality time spent with loved ones, the shared experiences that forge deep bonds. They experieces and memories for people youvcare abliut and who care about you. These are deposits in your emotional bank account, yielding returns in the form of joy, love, and a sense of belonging.
 
 **Financial wealth***
-money plays a crucial role in securing our material and physical well-being. It allows us to acquire essential goods like food, clothes, and safe housing, ensuring basic survival. Money also grants access to healthcare, enabling us to pay for doctor visits, medications, and potentially life-saving surgeries. For example, having enough money can mean the difference between receiving critical cancer treatment or not. If youre lucky, you can use it buy entertainment, travel, property and all forms of material things. And for some, satisfaction that you have more than others.
+money plays a crucial role in securing our material and physical well-being. It allows us to acquire essential goods like food, clothes, and safe housing, ensuring basic survival. Money also grants access to healthcare, enabling us to pay for doctor visits, medications, and potentially life-saving surgeries. For example, having enough money can mean the difference between receiving critical cancer treatment or not. If youre lucky, you can use it buy entertainment, travel, property and all forms of material things. And for a rare few, satisfaction that you have more than others.
 
 
 **Both can be true at the same time. Both achievable!**
