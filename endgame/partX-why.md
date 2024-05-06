@@ -5,6 +5,17 @@ Todo:graphic: VAls framework
 
 todo: graphic: two sides of same coin
 
+## Sarah
+The fashion industry is competive. Sarah knew this. She saw that different designers' visions competed for attention. But Sarah also believed that the true magic wasn't in snatching the spotlight from others, but in the collective act of creation. 
+
+It was like baking a pizza, she often thought. Each individual slice might seem like a zero-sum game – one person's enjoyment comes at the expense of another's. But the beauty lay in the act of creation itself. By constantly innovating, by experimenting with new ingredients and techniques, the bakers could expand the pizza, adding entirely new flavors and experiences that everyone could potentially enjoy.
+
+The same held true for fashion. Sarah didn't see other designers as rivals vying for a limited number of customers. Instead, she saw them as fellow creators, each adding their own unique thread to the ever-evolving tapestry of style. Collaboration, she believed, was the key to unlocking the true potential of the fashion industry – a vast, ever-expanding canvas where everyone could bring their A-game and leave their mark.
+
+So, while others might have fixated on the competitive aspects, Sarah thrived in the collaborative spirit. She saw the fashion world not as a battlefield, but as a vibrant marketplace of ideas, a constant churn of innovation that promised a bigger slice of the pie for everyone involved. It wasn't about who got the biggest slice; it was about baking a bigger, tastier pizza in the first place. 
+
+
+
 ## Clara
 The rhythmic hum of the life support machine was the only constant in the symphony of memories swirling in Clara's mind. Her breaths came in shallow gasps, each one a reminder of the approaching curtain call. Yet, amidst the physical decline, a curious sense of peace settled over her.
 
