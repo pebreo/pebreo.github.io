@@ -31,7 +31,7 @@ Poverty, Liza thought, wasn't a single blow, but a relentless barrage of small d
 
 In one extreme, you have a rich social life: friends, family, loved ones and memorable, happy experiences. on the other extreme, you are worried if you will eat the next day or you can afford medicibe for your child. 
 
-Poverty, in its most severe form, restricts this exchange, forcing individuals to prioritize basic survival needs over the experiences that truly enrich life. A rich life, popular belief goes, transcends mere financial abundance; it encompasses the ability to participate fully in the economic and social spheres, engaging in activities that contribute to personal growth and fulfillment. Do we have to chooose?
+Poverty, in its most severe form, restricts this exchange, forcing individuals to prioritize basic survival needs over the experiences that truly enrich life. A rich life, popular belief goes, transcends mere financial abundance; it encompasses the ability to participate fully in the economic and social spheres, engaging in activities that contribute to personal growth and fulfillment. Do we have to chooose? Why not both?
 
 ## Blending Social and Monetary Currency: A Richer Perspective
 TODO: add vals framework graphic and explain & rewrite below
