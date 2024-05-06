@@ -68,3 +68,19 @@ These characteristics of AI, when combined, have the potential to revolutionize 
 
 Achieving human-aligned, explainable, and affordable AI remains a significant challenge, but ongoing research and development are paving the way for a future where AI truly benefits humanity.
 
+## In-progress : polyamory
+
+**Romantic relationships involving more than 2 people**
+
+While not an invention in the traditional sense, a healthy, genuine, and honest open relationship involving more than two people definitely qualifies as a "crazy" concept compared to the traditional societal norm of monogamy. Here's why it pushes boundaries:
+
+**Challenging the Monogamous Norm:**  
+For centuries, monogamy has been the dominant relationship model, deeply ingrained in social structures and expectations. Polyamory/open relationships/ethical non-monogamy, especially those involving more than two individuals, challenge this deeply rooted concept, pushing the boundaries of what a "normal" relationship can look like.
+
+
+**How it could work***
+Maintaining a healthy open relationship involving multiple individuals requires exceptional communication, emotional intelligence, and boundary setting. It involves navigating jealousy, managing individual needs, and ensuring everyone feels secure and valued within the dynamic. 
+
+While not for everyone, the ability to build genuine connections and navigate such complex dynamics with honesty and respect can be considered a revolutionary approach to love and intimacy. 
+
+
