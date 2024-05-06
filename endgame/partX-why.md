@@ -69,6 +69,8 @@ Monetary currency excels at three key functions, forming the backbone of our eco
 Blockchain technology, known for its secure record keeping, offers a potential solution for some limitations of social currency:
 
 * **A reliable recordkeeper:**
+Imagine a benevolent AI dedicated to tracking and recognizing positive social interactions. This AI would function as a meticulous record keeper, documenting acts of kindness, volunteer work, community contributions, and other positive actions undertaken by individuals. This system would not only track the act itself, but also gather relevant details like the impact, beneficiaries, and context. This record could be accessed by individuals and potentially verified by others, potentially changing how we perceive and value social contributions. Such a system could incentivize individuals to engage in more positive actions, encourage diversity, innovation and even infinite growth.
+
 
 * **Tracking Interactions:** Imagine a secure, tamper-proof record of your "good deeds" or contributions to communities. Blockchain could create a verifiable history of social interactions, potentially increasing their perceived value.
 
