@@ -64,9 +64,11 @@ Monetary currency excels at three key functions, forming the backbone of our eco
 
 3. **Store of Value:** Ideally, money retains its purchasing power over time. A dollar saved today should still buy something valuable tomorrow. This allows for saving, investment, and future planning – crucial aspects of financial security.
 
-**Blockchain: Can It Revolutionize Social Currency?**
+**AI & Blockchain: Can It Revolutionize Social Currency?**
 
 Blockchain technology, known for its secure record keeping, offers a potential solution for some limitations of social currency:
+
+* **A reliable recordkeeper:**
 
 * **Tracking Interactions:** Imagine a secure, tamper-proof record of your "good deeds" or contributions to communities. Blockchain could create a verifiable history of social interactions, potentially increasing their perceived value.
 
