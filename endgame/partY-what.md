@@ -1,3 +1,5 @@
+# What would happen if it worked
+
 ## Sarah
 The fluorescent lights of the coffee shop cast a hazy glow on Sarah's phone screen. Unlike the usual barrage of likes and comments, a single message glowed: "Your influence is intriguing. Meet me at The Forge tonight, 12 AM." It wasn't a name, but a username - The Curator. A legend in the underground art scene, The Curator held the key to coveted gallery shows. Sarah's stomach lurched. This was it.
 
