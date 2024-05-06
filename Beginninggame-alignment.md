@@ -15,3 +15,6 @@ Patel grinned. "Now that's a training dataset with some range."
 
 The problem was vast, the path uncertain, but for the first time, they felt a flicker of hope. Maybe, just maybe, they could nudge AI onto a path of understanding, not just of data, but of the messy, beautiful, deeply human world. 
 
+## TLDR
+AI alignment problem is a problem because humans can be harmed intentionally or unintentionally. To solve this we need AI that has foresight, honesty, and communicates with us. To create foresight we need to build imagination, and honestly and communication must be characteristic built with probability and information theory. We can give training data on warfare (its human history so much data on that) and tell it to do the opposite.
+
