@@ -60,7 +60,7 @@ Poverty, in its most severe form, restricts this exchange, forcing individuals t
 todo: segway to vals framework - all needs met all the way up to planet of innovators
 
 ## Blending Social and Monetary Currency: A Richer Perspective
-TODO: add vals framework graphic and explain & rewrite below
+TODO: explain & rewrite below
 
 Imagine a world where wealth wasn't just measured in dollars and cents, but also in the richness of experiences and connections. Money undoubtedly simplifies transactions, acting as a common language of value. But what about the value of that first laugh with your grandchild, or the satisfaction of conquering a challenging climb with friends? 
 
