@@ -15,7 +15,7 @@ The same held true for fashion. Sarah didn't see other designers as rivals vying
 So, while others might have fixated on the competitive aspects, Sarah thrived in the collaborative spirit. She saw the fashion world not as a battlefield, but as a vibrant marketplace of ideas, a constant churn of innovation that promised a bigger slice of the pie for everyone involved. It wasn't about who got the biggest slice; it was about baking a bigger, tastier pizza in the first place. 
 
 ## TLDR
-The economy is not zero sum. Youvcan grow the bigger so more people can eat. Similary, the more people you have the more creativity & industry you can have.
+The economy is not zero sum. You can grow the pue bigger so more people can eat. Similary, the more people you have the more creativity & industry you can have.
 
 
 
