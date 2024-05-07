@@ -2,6 +2,7 @@ preamble - poly not for everyone quote
 preamble - become robust first b4 being antifragile
 
 poly - story, historical table 
+poly - use prev blog post as material
 
 
 requiremtns - ai alignment, explainability, cost
