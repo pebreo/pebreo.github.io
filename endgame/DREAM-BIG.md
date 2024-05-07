@@ -53,6 +53,20 @@ love: destigmatize polyamory & enm
 
 wealth: build karma socioecomics using human-aligned AI & blockchain
 
+why it would work: 
+- ai human aligned, understandble & explanable, affordable to ALL
+- blockchain locked down
+- everyone on board
+
+what would happen if it worked:
+- end hunger, poverty, disease, war etc
+- infinite growth rewarded and encouraged
+- human connection rewarded and encouraged
+- entire humanity becomes innovators
+- new era in human race
+
+
+
 [Addendum](https://pebreo.github.io/endgame/addendum.html)
 
 [TOC](https://pebreo.github.io/endgame)
