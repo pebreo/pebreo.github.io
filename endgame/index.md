@@ -11,7 +11,7 @@
 
 [Part C: DREAM BIG](https://pebreo.github.io/endgame/DREAM-BIG.html)
 
-[Addendum](https://pebreo.github.io/addendum.html)
+[Addendum](https://pebreo.github.io/endgame/addendum.html)
 
 antifragile ai, open source distributed ecology
 
