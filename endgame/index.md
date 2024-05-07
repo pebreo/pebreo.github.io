@@ -5,11 +5,13 @@
 
 [Preamble](https://pebreo.github.io/endgame/Preamble.html)
 
-[Part A: Why this plan would work](https://pebreo.github.io/endgame/partX-why.html)
+[Part 1: The Plan](https://pebreo.github.io/endgame/partW-theplan.html)
 
-[Part B: What would happen if it worked](https://pebreo.github.io/endgame/partY-what.html)
+[Part 2: Why this plan would work](https://pebreo.github.io/endgame/partX-why.html)
 
-[Part C: DREAM BIG](https://pebreo.github.io/endgame/DREAM-BIG.html)
+[Part 3: What would happen if it worked](https://pebreo.github.io/endgame/partY-what.html)
+
+[Part 4: DREAM BIG](https://pebreo.github.io/endgame/DREAM-BIG.html)
 
 [Addendum](https://pebreo.github.io/endgame/addendum.html)
 
