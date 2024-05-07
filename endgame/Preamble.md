@@ -58,7 +58,7 @@ By actively pursuing these antidotes, we can move away from the dystopian nightm
 To create a protopia (state of pursuit of betterment/perfection) youd want decentralized and distributed socioeconomic system the values freedom and diversity as well as non-extractive, non-destructive to the people and ecosystem
 
 ## Next chapter
-[Part X: Why this plan would work](https://pebreo.github.io/endgame/partX-why.html)
+[Part X: Why this plan would work](https://pebreo.github.io/endgame/partW-theplan.html)
 
 [TOC](https://pebreo.github.io/endgame)
 
