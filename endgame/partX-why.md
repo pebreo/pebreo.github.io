@@ -14,6 +14,9 @@ The same held true for fashion. Sarah didn't see other designers as rivals vying
 
 So, while others might have fixated on the competitive aspects, Sarah thrived in the collaborative spirit. She saw the fashion world not as a battlefield, but as a vibrant marketplace of ideas, a constant churn of innovation that promised a bigger slice of the pie for everyone involved. It wasn't about who got the biggest slice; it was about baking a bigger, tastier pizza in the first place. 
 
+## TLDR
+The economy is not zero sum. Youvcan grow the bigger so more people can eat. Similary, the more people you have the more creativity & industry you can have.
+
 
 
 ## Clara
@@ -30,6 +33,10 @@ And her children, a rambunctious, messy bunch in mismatched clothes – a reflec
 
 As her breath hitched for the final time, a contented smile graced her lips. It wasn't the size of the bank account, but the richness of the life she lived, chasing experiences rather than possessions, that truly mattered. And that, she knew, was a wealth beyond measure. A life brimming with grit, laughter, and the unyielding love of a family she fiercely built, one struggle overcome and memory made at a time.
 
+## TLDR
+
+A rich social life means friends, family, loved ones, even experiences. Without basic needs met, you are miserable.
+
 ## Liza
 Liza clutched the thin envelope, its contents a physical manifestation of the tightrope walk that was her life. Rent was due, and the number inside, scrawled in her landlord's impatient hand, felt more like a taunt than a figure. This wasn't new territory. The constant pressure of bills, the never-ending game of financial Tetris, was the rhythm of her life.
 
@@ -38,6 +45,10 @@ Tonight, though, the worry gnawed deeper. Her daughter, Isha, had a nagging coug
 Exhaling a ragged breath, Liza forced herself to prioritize. Isha's health came first. Maybe she could call her cousin again, explain the situation, swallow her pride and ask for a loan. It was a gamble, but the alternative, the worry knot tightening in her gut, was a path she refused to walk.
 
 Poverty, Liza thought, wasn't a single blow, but a relentless barrage of small decisions, each one chipping away at your sense of security. It wasn't about a lack of intelligence or drive; it was about navigating a system that seemed rigged against you at every turn. Yet, despite it all, a sliver of hope remained. She had faced these challenges before, and she had found a way. This time would be no different. Maybe.
+
+## TLDR
+
+Money is necessary for the basics: food, medicine, education. After a certin point, its utility is seen and used beyond survival.
 
 
 ## What is a rich life?
