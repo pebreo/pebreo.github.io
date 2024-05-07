@@ -8,7 +8,7 @@ todo: graphic: two sides of same coin
 ## Sarah
 The fashion industry is competive. Sarah knew this. She saw that different designers' visions competed for attention. But Sarah also believed that the true magic wasn't in snatching the spotlight from others, but in the collective act of creation. 
 
-It was like baking a pizza, she often thought. Each individual slice might seem like a zero-sum game – one person's enjoyment comes at the expense of another's. But the beauty lay in the act of creation itself. By constantly innovating, by experimenting with new ingredients and techniques, the bakers could expand the pizza, adding entirely new flavors and experiences that everyone could potentially enjoy.
+It was like baking a pizza, she often thought. Each individual slice might seem like a zero-sum game – one person's enjoyment comes at the expense of another's. But the beauty lay in the act of creation itself. By constantly tinkering, by experimenting with new ingredients and techniques, the bakers could expand the pizza, adding entirely new flavors and experiences that everyone could potentially enjoy.
 
 The same held true for fashion. Sarah didn't see other designers as rivals vying for a limited number of customers. Instead, she saw them as fellow creators, each adding their own unique thread to the ever-evolving tapestry of style. Collaboration, she believed, was the key to unlocking the true potential of the fashion industry – a vast, ever-expanding canvas where everyone could bring their A-game and leave their mark.
 
