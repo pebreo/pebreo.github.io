@@ -1,7 +1,7 @@
 ## The Plan
 Are we poised to enter a new human era? Yes. Here's how we can get there.
  
-Start with your mindset. An antifragile system gains from disorder - the more we expose ourselves to life's inherent volatility, the better equipped we'll be to thrive amidst the inevitable storms. 
+Start with your mindset. An antifragile system gains from disorder - the more we expose ourselves to life's inherent volatility, the better equipped we'll be to thrive amidst the inevitable storms. It's not about eliminating the downsides, but about thriving from them.
 
 Next, we destigmatize polyamory and ethical non-monogamy (ENM). At their core, these structures still demand honesty, communication, and vulnerability - the bedrock of healthy bonds. It means a lot of work on our mental health too. 
 
