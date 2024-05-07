@@ -53,4 +53,6 @@ love: destigmatize polyamory & enm
 
 wealth: build karma socioecomics using human-aligned AI & blockchain
 
+[Addendum](https://pebreo.github.io/endgame/addendum.html)
+
 [TOC](https://pebreo.github.io/endgame)
