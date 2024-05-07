@@ -23,7 +23,7 @@ If i have further is is because i have stood on the shoukders of giants. - Newto
 ## the plan
 This book describes an ambitious plan to upgrade humanity. Here it is in a nutshell.
 
-First and foremosst, we must adopt an antifragile mindset. Let's embrace the messiness of life with an **antifragile mindset**. We're not just built to endure, we can actually thrive on the unexpected.  Think of ...
+First and foremosst, we must adopt an antifragile mindset. Let's embrace the messiness of life with an **antifragile mindset**. We're not just built to endure, we can actually thrive on the inevitable lows of life.  Think of hydra: cut off a head, two more grow. 
 
 Next, time to upgrade love. Maybe traditional models don't quite fit everyone. Let's **destigmatize** exploring different relationship structures, like polyamory or ethical non-monogamy (ENM) ones. Afterall, but core of relationship doesn't change: honesty, communication, and vulnerability. And its time to upgrade our relationships.
 
