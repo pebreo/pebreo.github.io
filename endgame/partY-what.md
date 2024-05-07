@@ -13,6 +13,8 @@ A gruff voice interrupted her thoughts. "Sarah Evans? Impressive Karmacoin balan
 
 That night, Sarah didn't just secure a gallery show. She sparked a conversation. People began to see Karmacoin as more than just a badge of honor, but a currency for fostering collaboration. The lines between financial success and social influence blurred, creating a new artistic landscape where value wasn't just about dollars, but the richness of human connection. From that moment on, Sarah's art, and the movement she helped ignite, became a testament to the power of genuine exchange, proving that sometimes, the most valuable currency wasn't held in your wallet, but in the hearts of your community.
 
+## TLDR
+Karmacoin would be the realization of merging behavior and money as we know it. An incentive to do what you love doing is icing on the cake. 
 
 ## Elias
 Elias entered the world an anomaly, a testament to the unexpected turns nature could take. Born with a rare genetic glitch, he lacked the very limbs that defined the human experience – no arms, no legs, just a torso and a head. Yet, within that seemingly limited frame, a spark of consciousness flickered, a testament to the boundless potential of the human mind.
