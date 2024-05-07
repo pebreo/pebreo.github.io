@@ -25,6 +25,8 @@ His journey, however, wasn't a fairytale. There were setbacks, moments of frustr
 
 He ran marathons, went on long walks with his children, danced with his wife, and climbed mountains. He yearned to feel the sun on his skin, the wind in his hair, experiences forever denied to him by his unique biology. The richness of the mind, the boundless potential of human connection.
 
+## TLDR
+When flight was solved, humans could travel the world in hours not days. Creating synthetic intelligence would create almost unimiginable intelligence that would solve humanity's most difficult problems. 
 
 ## Explanation
 
