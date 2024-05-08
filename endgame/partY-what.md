@@ -28,7 +28,7 @@ He ran marathons, went on long walks with his children, danced with his wife, an
 ## TLDR
 When flight was solved, humans could travel the world in hours not days. Creating synthetic intelligence would create almost unimiginable intelligence that would solve humanity's most difficult problems. 
 
-## Explanation
+## Not a revolution or evolution: a quantum leap
 Imagine further, the creation of a super-intelligent AI capable of tackling humanity's most pressing challenges: climate change, poverty, disease. Exciting possibilities. Now include human-alignment, completely understandable and explainable, and affordable to all.
 
 Now consider Karmacoin, a system merging financial incentives with behavior. Imagine being rewarded financially for pursuing your passions, potentially leading to a more fulfilling work experience. Good behavior, like volunteering, could be rewarded, promoting a more cooperative society.  This could fundamentally alter how we work and even the way our economy functions.
