@@ -59,11 +59,18 @@ Poverty, in its most severe form, restricts this exchange, forcing individuals t
 
 
 ## Abundance for all
-[VALS framework](https://pebreo.github.io/IMG_9689.jpg)
+
+TODO: decide with editor to move or leave in place
+
+Todo: add maslow hiearchy for context to vals
+
+[VALS framework](https://pebreo.github.io/IMG_9689.jpeg)
 
 credit: Amy Jo Kim 
 
 What is the VALS psychgrsphic framework? 
+
+It adds to Maslow's Hiearchy.
 
 Heres a breakdown:
 
@@ -73,10 +80,16 @@ Makers: These Innovators would be driven by creating and building new things. Th
 
 Experiencers: This group would be motivated by seeking new experiences and pushing boundaries. They might be entrepreneurs launching groundbreaking ventures or explorers venturing into uncharted territories.
 
+Now, imagine world where this exists: 
 
+Motivated by principles and self-expression: They're driven by a desire to make a positive impact on the world and leave a lasting legacy. They're constantly seeking new challenges and pushing boundaries.
 
+Highly educated and well-informed: They possess a deep understanding of complex issues and a thirst for knowledge.
+Open to change and experience: They embrace new ideas and readily adapt to evolving circumstances.
 
- all needs met all the way up to planet of innovators
+Resource-rich: They have the financial security and freedom to pursue their passions and contribute to society.
+
+The implications are staggering. When all the needs met we end up with a planet of innovators!
 
 ## Blending Social and Monetary Currency: A Richer Perspective
 TODO: explain & rewrite below
