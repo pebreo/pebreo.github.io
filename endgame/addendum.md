@@ -28,7 +28,7 @@ Inject people with a weaker version of a virus? No. That will only get them sick
 * **Electricity:**  ***Naysayers:
 Invisible power coursing through wires? Sounds like witchcraft! Fire and muscle power are the only reliable ways to do work.***
 Harnessing electricity has transformed our world. It powers our homes, industries, and transportation, enabling a vast array of technologies and conveniences that were previously impossible.
-* **Food Preservation:**  ***Naysayers:Wasting precious ice to make a fancy food locker? Seems like a frivolous use of a valuable resource.***
+* **Refrigeration:**  ***Naysayers:Wasting precious ice to make a fancy food locker? Seems like a frivolous use of a valuable resource.***
 Refrigeration allows us to store food for extended periods, reducing spoilage and ensuring access to healthy food year-round. This has dramatically improved food security and global access to a variety of food sources.
 
 ## In-progress : blockchain
