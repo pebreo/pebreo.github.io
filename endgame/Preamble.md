@@ -62,4 +62,3 @@ To create a protopia (state of pursuit of betterment/perfection) youd want decen
 
 [TOC](https://pebreo.github.io/endgame)
 
-     wealth: 3D labor compleyeky outsourced, market for behaviors
