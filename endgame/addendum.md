@@ -75,8 +75,6 @@ Achieving human-aligned, explainable, and affordable AI remains a significant ch
 
 ## In-progress : polyamory
 
-**Romantic relationships involving more than 2 people**
-
 While not an invention in the traditional sense, a healthy, genuine, and honest open relationship involving more than two people definitely qualifies as a "crazy" concept compared to the traditional societal norm of monogamy. 
 
 **Enhanced Communication and Conflict Resolution:** 
