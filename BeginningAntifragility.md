@@ -1,3 +1,8 @@
+# Road to antifragility
+done: story of being broken
+todo: story of what lead to antifragility
+
+
 ## Roderigo
 Roderigo's world shrunk faster than a line of code compiling. First, his mom. A quiet thief, cancer had stolen her laugh, then her memory, and finally, her life. Then, the world outside his window followed suit. A triple whammy: a loved-one's death, a global pandemic, a massive stroke. Stuck in a sterile room, the only companions were the monotonous beeps of machines and the nurses' awkward attempts at small talk. 
 
