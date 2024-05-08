@@ -25,8 +25,6 @@ Here are some realized and "work in progress" crazy ideas:
 * **Electricity:**  Harnessing electricity has transformed our world. It powers our homes, industries, and transportation, enabling a vast array of technologies and conveniences that were previously impossible.
 * **Food Preservation:**  Refrigeration allows us to store food for extended periods, reducing spoilage and ensuring access to healthy food year-round. This has dramatically improved food security and global access to a variety of food sources.
 
-These are just a few examples that highlight the extraordinary nature of these inventions and insights. They have fundamentally changed our lives, expanded our possibilities, and continue to shape the world we live in. 
-
 ## In-progress : blockchain
 Blockchain technology is a combination of an electronic ledger, peer-to-peer file netorking, cryptography, and several other technologies. Heres more ibformstion:
 
@@ -87,5 +85,8 @@ Open relationships can lead to the creation of a larger, interconnected support 
 For recent human history, monogamy has been the dominant relationship model, ingrained in social structures and expectations. Polyamory/open relationships/ethical non-monogamy, especially those involving more than two individuals, challenge this deeply rooted concept, pushing the boundaries of what a "normal" relationship can look like.
 
 While not for everyone, the ability to build genuine connections and navigate such complex dynamics with honesty and respect can be considered a revolutionary approach to love and intimacy. 
+
+## Goodbye for now
+These are just a few examples that highlight the extraordinary nature of these inventions and insights. They have fundamentally changed our lives, expanded our possibilities, and continue to shape the world we live in. 
 
 
