@@ -75,7 +75,7 @@ Achieving human-aligned, explainable, and affordable AI remains a significant ch
 
 ## In-progress : polyamory
 
-While not an invention in the traditional sense, a healthy, genuine, and honest open relationship involving more than two people definitely qualifies as a "crazy" concept compared to the traditional societal norm of monogamy. 
+While not an invention in the traditional sense, a healthy, genuine, and honest open relationship involving more than two partners definitely qualifies as a "crazy" concept compared to the traditional societal norm of monogamy. 
 
 **Enhanced Communication and Conflict Resolution:** 
 Navigating an open relationship requires a high level of communication, honesty, and emotional intelligence. This constant practice can lead to stronger communication skills and conflict resolution abilities that benefit all relationships within the network, fostering deeper understanding and connection.
