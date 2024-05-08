@@ -33,7 +33,7 @@ Just imagine the creation of a super-intelligent AI capable of tackling humanity
 
 Now consider Karmacoin, a system merging financial incentives with behavior. Imagine being rewarded financially for pursuing your passions, potentially leading to a more fulfilling work experience. Pro-social behavior, like volunteering, could be rewarded, promoting a more cooperative society.  This could fundamentally alter how we work and even the way our economy functions.
 
-Both scenarios offer a glimpse of a future brimming with potential. Combined, the two would unleash human potential of all humanity!
+Both scenarios offer a glimpse of a future brimming with potential. Combined, the two would unleash the potential of all humanity - billions of hearts & minds!
 
 ## TLDR
 
