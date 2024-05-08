@@ -12,12 +12,13 @@ Heavier-than-air machines defying gravity? Impossible! Birds have hollow bones a
 
 **Communication:**
 * **Crazy idea because:**
-* 
+Connecting everyone instantly across vast distances? Absurd! Information travels by physical means, how could it be instantaneous?
 * **Instantaneous Connection:**  The ability to instantly connect with anyone across the globe through telephones and video calls is extraordinary. We can share information, emotions, and experiences in real-time, bridging geographical and social barriers.
 * **Global Network:** The internet is a vast network of interconnected devices, allowing us to access information, communicate with anyone, and share ideas on a global scale. This interconnectedness has revolutionized communication and information dissemination.
 
 **Medicine:**
-
+* **Crazy idea because:**
+Inject people with a weaker version of a virus? No. That will only get them sick.
 * **Conquering Disease:** Vaccines have eradicated or significantly reduced the impact of once-devastating diseases like smallpox and polio. Antibiotics have drastically improved our ability to fight bacterial infections, saving countless lives and improving overall health.
 * **Extended Lifespans:** Medical advancements have led to a significant increase in life expectancy. We can now treat and manage conditions that were once fatal, leading to longer and healthier lives.
 
