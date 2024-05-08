@@ -108,8 +108,7 @@ The merging of social and monetary currency is like peanut butter and jelly: gre
 * **Emotional Connection:** Outside of the social interactions quantified by the AI, genuine connection with another human being can bring joy, fulfillment, and a sense of belonging. It provides a unique intimacy and shared understanding that transcends mere quantifiable actions.
 
 * **Infinite growth**
-In a system where pro-social behavior and financial gain are intertwined, helping others earns you credits that translate to real purchasing power. Also, it incentizes creation, rather than destruction; giving, rather than keeping, sparking a virtuous cycle. There is no incentive to do anything that woikd break human connections. Further, a larger population means more producers, consumers,and innovators. It fuels innovation, creating solutions for abundant resources and clean energy.  With infinite human potential unleashed, progress snowballs – a utopia where social currency fuels economic growth and vice versa, leading to an endless positive spiral. 
-Almost difficult to accept. 
+In a system where pro-social behavior and financial gain are intertwined, helping others earns you credits that translate to real purchasing power. Also, it incentizes creation, rather than destruction; giving, rather than keeping, sparking a virtuous cycle.  Further, a larger population means more producers, consumers, and innovators. There is no incentive to do anything that would break human connections nor any incentive to stop.p Almost difficult to accept. 
 
 ## Why cant they be both?
 | Characteristics of Money | Status Quo                                                    | Behavior/Karma                |
