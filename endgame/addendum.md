@@ -28,7 +28,7 @@ Here are some realized and "work in progress" crazy ideas:
 These are just a few examples that highlight the extraordinary nature of these inventions and insights. They have fundamentally changed our lives, expanded our possibilities, and continue to shape the world we live in. 
 
 ## In-progress : blockchain
-Absolutely! Blockchain technology deserves a place among these extraordinary inventions for its revolutionary potential:
+Blockchain technology is a combination of an electronic ledger, peer-to-peer file netorking, cryptography, and several other technologies. Heres more ibformstion:
 
 **Decentralized Trust:**  Blockchain removes the need for a central authority to verify transactions and record data. This creates a system of trust and transparency, where everyone on the network can verify the accuracy and authenticity of information. This has the potential to revolutionize various industries by:
 
@@ -44,8 +44,7 @@ Absolutely! Blockchain technology deserves a place among these extraordinary inv
 **Innovation Potential:**  Blockchain is still in its early stages of development, and its potential applications are constantly evolving. It has the potential to disrupt various industries and create entirely new ones, making it a truly extraordinary technological innovation.
 
 ## In-progress: AI
-
-Absolutely, human-aligned, explainable, and affordable AI deserves a place alongside the other extraordinary inventions. Here's why:
+Human-aligned, explainable, and affordable AI deserves a place alongside the other extraordinary inventions and is made possible using probabilites instead of calculus. Heres more information:
 
 **Human-Aligned AI:**
 
