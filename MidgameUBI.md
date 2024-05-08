@@ -9,7 +9,7 @@ But hold on, Lotus thought.  Wouldn't this cost a fortune? The article conceded 
 
 ## Bill
 
-The tide of technological progress has always had a way of washing away the familiar. From the clatter of horseshoes replaced by the roar of airplanes to the rhythmic clack of typewriters silenced by the hum of computers, humanity has constantly adapted to a world reshaped by innovation. Today, on the greasy floor of her auto repair shop, Bill grapples with the next wave – the rise of electric cars and the ominous whisper of robots capable of replacing even skilled mechanics. 
+The tide of technological progress has always had a way of washing away the familiar. From the clatter of horseshoes replaced by the roar of airplanes to the rhythmic clack of typewriters silenced by the hum of computers, it seems humanity has constantly adapted to a world reshaped by new inventions. Today, on the greasy floor of her auto repair shop, Bill grapples with the next wave – the rise of electric cars and the ominous whisper of robots capable of replacing even skilled mechanics. 
 
 A pang of unease settles in his gut as she examines a sleek electric car hoisted on the hydraulic lift. The diagnostic tools in his hand, once comforting extensions of his expertise, feel strangely cold. "Electric this, autonomous that," he mutters, wiping a stray bit of grease from her forehead. The future, once a distant horizon, seems to be barreling down on him like a runaway truck. 
 
