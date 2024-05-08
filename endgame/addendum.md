@@ -25,10 +25,11 @@ Inject people with a weaker version of a virus? No. That will only get them sick
 **Other Technologies:**
 
 * **Computational Power:**  The miniaturization of computers from room-sized machines to powerful devices we carry in our pockets is a testament to technological progress. This computational power allows us to solve complex problems, analyze data, and perform tasks that were once unimaginable.
-* **Electricity:**  *Naysayers:
-Invisible power coursing through wires? Sounds like witchcraft! Fire and muscle power are the only reliable ways to do work.
-* *Harnessing electricity has transformed our world. It powers our homes, industries, and transportation, enabling a vast array of technologies and conveniences that were previously impossible.
-* **Food Preservation:**  Refrigeration allows us to store food for extended periods, reducing spoilage and ensuring access to healthy food year-round. This has dramatically improved food security and global access to a variety of food sources.
+* **Electricity:**  ***Naysayers:
+Invisible power coursing through wires? Sounds like witchcraft! Fire and muscle power are the only reliable ways to do work.***
+Harnessing electricity has transformed our world. It powers our homes, industries, and transportation, enabling a vast array of technologies and conveniences that were previously impossible.
+* **Food Preservation:**  ***Naysayers:Wasting precious ice to make a fancy food locker? Seems like a frivolous use of a valuable resource.  ***
+Refrigeration allows us to store food for extended periods, reducing spoilage and ensuring access to healthy food year-round. This has dramatically improved food security and global access to a variety of food sources.
 
 ## In-progress : blockchain
 Blockchain technology is a combination of an electronic ledger, peer-to-peer file netorking, cryptography, and several other technologies. Heres more ibformstion:
