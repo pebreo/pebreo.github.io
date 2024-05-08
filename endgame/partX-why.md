@@ -101,7 +101,7 @@ Imagine a benevolent AI dedicated to tracking and recognizing positive social in
 
 **Hard to swallow**
 
-The merging of social and monetary currency is like peanut butter and jelly: great individually but unimaginable separate once experienced:
+The merging of social and monetary currency is like peanut butter and jelly: great individually but unimaginable separate once experienced. Here are some hard-to-accept, wonderful consequnces;
 
 * **Reputation, Influence, and Trust:** Being known for helpfulness, reliability, or creativity can open doors. Social capital fosters trust and influence, leading to opportunities beyond mere financial transactions.
 
