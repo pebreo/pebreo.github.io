@@ -5,12 +5,14 @@ From conquering the skies to crafting minds beyond human limits, audacious ideas
 Here are some realized and "work in progress" crazy ideas:
 
 **Flight:**
-
+* **Crazy idea because:**
+Heavier-than-air machines defying gravity? Impossible! Birds have hollow bones and light feathers, humans are too dense.
 * **Defying Gravity:** Humans have always dreamed of soaring through the sky like birds. The ability to fly, once considered a fantasy, is now a reality. We can travel vast distances in mere hours, shrinking the world and connecting cultures in ways unimaginable before.
 * **Time Compression:**  The speed of flight allows us to experience things in different places on the same day. Imagine having lunch in New York and being back in Chicago for dinner - a feat completely impossible before airplanes.
 
 **Communication:**
-
+* **Crazy idea because:**
+* 
 * **Instantaneous Connection:**  The ability to instantly connect with anyone across the globe through telephones and video calls is extraordinary. We can share information, emotions, and experiences in real-time, bridging geographical and social barriers.
 * **Global Network:** The internet is a vast network of interconnected devices, allowing us to access information, communicate with anyone, and share ideas on a global scale. This interconnectedness has revolutionized communication and information dissemination.
 
