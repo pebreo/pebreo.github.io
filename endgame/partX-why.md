@@ -57,7 +57,13 @@ In one extreme, you have a rich social life: friends, family, loved ones and mem
 
 Poverty, in its most severe form, restricts this exchange, forcing individuals to prioritize basic survival needs over the experiences that truly enrich life. A rich life, popular belief goes, transcends mere financial abundance; it encompasses the ability to participate fully in the economic and social spheres, engaging in activities that contribute to personal growth and fulfillment. Do we have to chooose? Why not both?
 
-todo: segway to vals framework - all needs met all the way up to planet of innovators
+
+## Abundance for all
+[VALS framework](https://pebreo.github.io/IMG_9689.jpg)
+
+credit: Amy Jo Kim 
+
+ all needs met all the way up to planet of innovators
 
 ## Blending Social and Monetary Currency: A Richer Perspective
 TODO: explain & rewrite below
