@@ -107,6 +107,10 @@ The merging of social and monetary currency is like peanut butter and jelly: gre
 
 * **Emotional Connection:** Outside of the social interactions quantified by the AI, genuine connection with another human being can bring joy, fulfillment, and a sense of belonging. It provides a unique intimacy and shared understanding that transcends mere quantifiable actions.
 
+* **Infinite growth**
+
+Almost difficult to accept. 
+
 ## Why cant they be both?
 | Characteristics of Money | Status Quo                                                    | Behavior/Karma                |
 | ------------------------ | ------------------------------------------------------------- | ----------------------------- |
