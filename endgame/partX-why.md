@@ -58,7 +58,7 @@ In one extreme, you have a rich social life: friends, family, loved ones and mem
 Poverty, in its most severe form, restricts this exchange, forcing individuals to prioritize basic survival needs over the experiences that truly enrich life. A rich life, popular belief goes, transcends mere financial abundance; it encompasses the ability to participate fully in the economic and social spheres, engaging in activities that contribute to personal growth and fulfillment. Do we have to chooose? Why not both?
 
 
-## Abundance for all
+## We so flywheel
 
 TODO: decide with editor to move or leave in place
 
