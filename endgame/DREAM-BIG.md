@@ -51,7 +51,7 @@ For population decline, a radical shift might be necessary. We could reimagine o
 
 Changing relationship norms present their own set of challenges.  Divorce rates are rising, and perhaps a more accepting view of polyamory and ethical non-monogamy could be part of the solution.  Storytelling through books, movies, and shows that explore these relationship styles in a positive light could help break down stigma and encourage open communication. 
 
-Finally, automation through AI is displacing jobs. Here, the key lies in creating a future where AI works for us, not against us. We need completely understandable and accessible AI for everyone.  This could be achieved through educational videos, tech talks, and social media campaigns promoting responsible AI development. Finding leaders who advocate for this responsible development is crucial.
+Finally, automation through AI is displacing jobs. Here, the key lies in creating a future where AI works for us, not against us. We need an upgrade. We need completely understandable and accessible AI for everyone.  This could be achieved through a new paradigm which is spread by educational videos, tech talks, and social media campaigns promoting responsible AI development. Finding leaders who advocate for this responsible development is crucial.
 
 Beyond these initial steps, there's more to be done. We need to bridge the divides between people with different perspectives on these issues.  For population decline and AI development, finding allies who share your concerns is essential. When it comes to changing relationship norms, the focus should be on open communication and building supportive communities.
 
