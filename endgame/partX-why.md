@@ -63,6 +63,19 @@ Poverty, in its most severe form, restricts this exchange, forcing individuals t
 
 credit: Amy Jo Kim 
 
+What is the VALS psychgrsphic framework? 
+
+Heres a breakdown:
+
+Thinkers: This segment within the Innovators group would be highly analytical and drawn to solving complex problems. They might be leading research efforts on sustainable energy or space exploration.
+
+Makers: These Innovators would be driven by creating and building new things. They might be developing innovative technologies or artistic expressions.
+
+Experiencers: This group would be motivated by seeking new experiences and pushing boundaries. They might be entrepreneurs launching groundbreaking ventures or explorers venturing into uncharted territories.
+
+
+
+
  all needs met all the way up to planet of innovators
 
 ## Blending Social and Monetary Currency: A Richer Perspective
