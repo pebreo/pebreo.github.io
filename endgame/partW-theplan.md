@@ -5,7 +5,7 @@ Start with your mindset. An antifragile system gains from disorder - the more we
 
 Next, we destigmatize polyamory and ethical non-monogamy (ENM). At their core, these structures still demand honesty, communication, and vulnerability - the bedrock of healthy bonds. It means a lot of work on our mental health too. 
 
-Another game-changer lies in karma socioeconomics, a convergence of human-aligned AI and blockchain tech. This transparent, explainable AI works for everyone, not just an elite few. And blockchain? It keeps the whole system locked down and on the same page for all.
+Another game-changer lies in karma socioeconomics, a convergence of human-aligned AI and blockchain tech. This transparent, explainable AI works as constant recordkeeper with blockchain as record. It would keep thorough, impartial, and private record of account.
 
 If we can pull this off, just imagine: hunger, poverty, disease - mere relics. War itself could become a painful, distant memory. Also, ibfinite growth wouldn't just be possible, it would be celebrated as the new normal.
 
