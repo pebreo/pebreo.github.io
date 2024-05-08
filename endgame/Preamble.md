@@ -51,7 +51,7 @@ Moving away from a society that demands monolithic conformity, we aim to celebra
 Finally, we must cultivate hope and a vision for a brighter future. This requires prioritizing sustainability through investments in renewable energy and environmental protection. Fostering a sense of community through collaboration, mutual support, and shared responsibility is crucial. Additionally, empowering individuals to be changemakers by providing opportunities for meaningful contributions is vital for building a better tomorrow.
 
 
-By actively pursuing these antidotes, we can move away from the dystopian nightmare and towa The journey towards a protopia is a difficult process, requiring constant vigilance and adaptation. However, by understanding the pitfalls of the dystopian recipe, we can actively choose a path of progress and build a future where hope and individual potential thrive.
+By actively pursuing these antidotes, we can move away from the dystopian nightmare. The journey towards a protopia is a difficult process, requiring constant vigilance and adaptation. However, by understanding the pitfalls of the dystopian recipe, we can actively choose a path of progress and build a future where hope and individual potential thrive.
 
 
 ## TLDR
