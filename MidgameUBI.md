@@ -1,11 +1,11 @@
 ## Lotus
-Sarah, a waitress at the local diner, scrolled through social media. "Universal Basic Income? What's that?" she muttered, tapping on an article.  The world of economics could be confusing, but this one piqued her interest. 
+Lotus, a waitress at the local diner, scrolled through social media. "Freedom dividend? What's that?" she muttered, tapping on an article.  The world of economics could be confusing, but this one piqued her interest. 
 
-The article explained UBI like this: Imagine the government giving everyone, young or old, working or not, a monthly check.  Enough to cover basic needs – rent, groceries, maybe some bills.  Sarah's eyes widened.  "Free money? Sounds too good to be true."
+The article explained freedom dividend like this: Imagine the government giving everyone, young or old, working or not, a monthly check.  Enough to cover basic needs – rent, groceries, maybe some bills.  Lotus' eyes widened.  "Free money? Sounds too good to be true."
 
-Intrigued, she kept reading.  Proponents, the article said, argued UBI would be a safety net. Like training wheels for a bike, it would catch you if you fell on hard times – lost your job, got sick, or faced an unexpected expense.  No more ramen noodles for weeks! Plus, with that little financial cushion, people might be more likely to pursue new skills or even start their own businesses. Innovation boom! 
+Intrigued, she kept reading.  Proponents, the article said, argued the freedom dividemd would be a safety net. Like training wheels for a bike, it would catch you if you fell on hard times – lost your job, got sick, or faced an unexpected expense.  No more ramen noodles for weeks! Plus, with that little financial cushion, people might be more likely to pursue new skills or even start their own businesses. Innovation boom! 
 
-But hold on, Sarah thought.  Wouldn't this cost a fortune? The article conceded that yes, UBI would be expensive. The government would need to figure out how to pay for it, maybe by adjusting some taxes.  Also, some worried people might become complacent, relying on the check instead of seeking work. 
+But hold on, Lotus thought.  Wouldn't this cost a fortune? The article conceded that yes, the freedom dividend would be expensive. The government would need to figure out how to pay for it, maybe by adjusting some taxes.  Also, certainly a few people might become complacent, relying on the check instead of seeking work. 
 
 Sarah pondered this.  She loved her job at the diner, the friendly customers, the smell of freshly brewed coffee.  But sometimes, late nights and unpredictable tips left her feeling burnt out.  Maybe with a UBI, she could cut back to a few shifts and finally take that photography class she'd always dreamed of. 
 
