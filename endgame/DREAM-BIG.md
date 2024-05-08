@@ -3,7 +3,7 @@
 credit: pixabay
 
 
-"Either-or thinking kills the DREAM." - Paul Ebreo
+"Either-or thinking kills the DREAM." - Paul J Ebreo
 
 
 ## DREAM BIG: A Framework for Transforming Aspiration into Reality
