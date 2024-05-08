@@ -99,7 +99,7 @@ Imagine a benevolent AI dedicated to tracking and recognizing positive social in
 * **Tracking Interactions:** Imagine a secure, tamper-proof record of your "good deeds" or contributions to communities. Blockchain could create a verifiable history of social interactions, potentially increasing their perceived value.
 
 
-**Obvious benefits**
+**Hard to swallow**
 
 The merging of social and monetary currency is like peanut butter and jelly: great individually but unimaginable separate once experienced:
 
