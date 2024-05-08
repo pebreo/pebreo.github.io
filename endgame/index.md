@@ -15,17 +15,4 @@
 
 [Addendum](https://pebreo.github.io/endgame/addendum.html)
 
-antifragile ai, open source distributed ecology
-
-## What happen if it worked
-   life
-     STEAM incentivized
-   love
-      growth incentivized
-   wealth
-      unlimited goods & labor
-
-
-## TLDR book
-becausec of a convergence of tools/technologies, social currency and monteracy currency can be one in the same. informed consent lets adukts do anything w/o hurting anyone. steam & population growth are incentivized & encouraged. humans have the tools tobtake vacation from survival .
 
