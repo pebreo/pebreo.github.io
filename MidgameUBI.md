@@ -7,6 +7,5 @@ Intrigued, she kept reading.  Proponents, the article said, argued the freedom d
 
 But hold on, Lotus thought.  Wouldn't this cost a fortune? The article conceded that yes, the freedom dividend would be expensive. The government would need to figure out how to pay for it, maybe by adjusting some taxes.  Also, certainly a few people might become complacent, relying on the check instead of seeking work. 
 
-Sarah pondered this.  She loved her job at the diner, the friendly customers, the smell of freshly brewed coffee.  But sometimes, late nights and unpredictable tips left her feeling burnt out.  Maybe with a UBI, she could cut back to a few shifts and finally take that photography class she'd always dreamed of. 
+## The Patels
 
-The article ended with a question: Is UBI a utopian dream or a path to a more secure future?  Sarah closed her phone, a thoughtful frown on her face.  It wasn't a simple answer.  UBI had pros and cons, a financial tightrope walk.  But one thing was clear – it was an idea worth exploring, a conversation about how to build a society where everyone had a chance to chase their dreams, one that wouldn't break the bank, but might just catch you if you stumbled. 
