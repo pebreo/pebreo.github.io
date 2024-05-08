@@ -61,11 +61,11 @@ Finally, true leadership goes beyond words.  Whether it's advocating for societa
 
 # Book TLDR
 The plan: 
-life: adopt antifragile mindset. understand consciousness & intelligence.
+For life, adopt antifragile mindset. understand consciousness & intelligence.
 
-love: destigmatize polyamory & enm
+For love, destigmatize polyamory & enm
 
-wealth: build karma socioecomics using human-aligned AI & blockchain
+For wealth, build karma socioecomics using human-aligned AI & blockchain.
 
 why it would work: 
 - ai human aligned, understandble & explanable, affordable to ALL
