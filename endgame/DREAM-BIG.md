@@ -33,7 +33,6 @@ By embracing the spirit of DREAM BIG, we equip ourselves with the tools necessar
 
 TODO: do not publish risibg to power statement
 
-todo : add karmacoin incentivizes population growth & humman connection behaviors
 
 | Topic                   | Life                                                        | Love                                                              | Wealth                                                                                                 |
 | ----------------------- | ----------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
@@ -45,6 +44,21 @@ todo : add karmacoin incentivizes population growth & humman connection behavior
 | Bridge people and ideas | Find activators to support the movement                     | Focus on communication & vulnerability                            | Take power and become world leader through example and, if necessary, military might                   |
 | Invent                  | Use new AI & blockchain for infrastructure and transparency | Upgrade to non-confrontational style of communication                               | New socioeconomic system prioritizing social good, sustainability, and equitable resource distribution |
 | Give                    | Make AI tools and blockchain applications open-source       | Lead by example                                                   | Open-source the new socioeconomic system and lead by example                                           |
+
+
+Our future faces challenges across three key areas: population decline, changing relationship norms, and the impact of automation.
+
+For population decline, a radical shift might be necessary. We could reimagine our economic system by unifying social value and monetary worth into a single currency. This could incentivize behaviors that contribute positively to society and potentially reverse the population decline trend.
+
+Changing relationship norms present their own set of challenges.  Divorce rates are rising, and perhaps a more accepting view of polyamory and ethical non-monogamy could be part of the solution.  Storytelling through books, movies, and shows that explore these relationship styles in a positive light could help break down stigma and encourage open communication. 
+
+Finally, automation through AI is displacing jobs. Here, the key lies in creating a future where AI works for us, not against us. We need completely understandable and accessible AI for everyone.  This could be achieved through educational videos, tech talks, and social media campaigns promoting responsible AI development. Finding leaders who advocate for this responsible development is crucial.
+
+Beyond these initial steps, there's more to be done. We need to bridge the divides between people with different perspectives on these issues.  For population decline and AI development, finding allies who share your concerns is essential. When it comes to changing relationship norms, the focus should be on open communication and building supportive communities.
+
+This isn't just about awareness, it's about creating tangible solutions.  New technologies like AI and blockchain could be harnessed to build a more transparent infrastructure.  Even more ambitiously, we could invent a whole new socioeconomic system that prioritizes social good, sustainability, and equitable resource distribution.  Making the tools and blueprints for these solutions open-source would allow everyone to contribute.
+
+Finally, true leadership goes beyond words.  Whether it's advocating for societal change, practicing healthy relationships in a changing world, or promoting responsible AI development, leading by example is the most powerful way to inspire others and build a better future together. 
 
 # book tldr
 life: adopt antifragile mindset. understand consciousness & intelligence.
