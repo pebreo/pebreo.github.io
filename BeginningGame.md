@@ -18,10 +18,9 @@ quotes:
 1 Corinthians 13 v2
 And if I have prophetic powers, and understand all mysteries and all knowledge, and if I have all faith, so as to remove mountains, but have not love, I am nothing.
 
-
-
 If i have further is is because i have stood on the shoukders of giants. - Newton
 
+todo: add chapter - putting the pieces in place
 
 ## the plan
 This book describes an ambitious plan to upgrade humanity. Here it is in a nutshell.
