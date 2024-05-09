@@ -8,7 +8,7 @@ credit: pixabay
 
 ## DREAM BIG: A Framework for Transforming Aspiration into Reality
 
-I have described solutions to very difficult and fundamental questions like conscious, intelligence, and even a plan to bring our species into a new era. 
+I have described solutions to very difficult and fundamental questions like consciousness, intelligence, and even a plan to bring our species into a new era. 
 
 One more thing... let me describe a framework we can all use to tackle challenges... of any size.
 
