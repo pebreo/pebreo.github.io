@@ -18,4 +18,5 @@
 
 [Part 5: Implication of solved intelligence & consciousness](Part5-implications-of-solved-intelligence.md)
 
+[Bibliography](bibliography.md)
 [Sources](sources.md)
