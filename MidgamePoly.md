@@ -1,0 +1,4 @@
+- poly widley accepted in develepoed  ountries
+- table of historical non-monogamey
+- yable of deviant behavior
+- ancient chinese marriage traditions
