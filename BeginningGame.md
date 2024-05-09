@@ -1,3 +1,6 @@
+quote - corinthians
+quote - if i have seen further...
+
 preamble - poly not for everyone quote
 preamble - become robust first b4 being antifragile
 
