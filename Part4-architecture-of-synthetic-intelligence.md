@@ -1,7 +1,6 @@
 
 ## Epiphany
-
-In November 2020, I was hospitalized for brain surgery. I saw limitations first hand from speech recognition to how the old brain impacts everyday life and how the new brain, if still functioning, can still create this presentation. For months, I’ve been ruminating on ml but being in the hospital crystallized all those issues and what was nagging me.
+ todo: story of roderigo
 
 What was your epiphany? Current ML uses the old brain way of doing "intelligent" things: stimulus respose. The new brain, or neocrtex, uses imagination (world simulation) to be "intelligent."
 
