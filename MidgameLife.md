@@ -1,0 +1,2 @@
+- developed workd adopts roboworkers, robobutoers, robotaxis
+- table of inventions (fire, fertilizer, internet, flight, vaccines (polion story), synthetic intelligemce)
