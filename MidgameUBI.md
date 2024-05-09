@@ -1,3 +1,5 @@
+todo: open source ecology
+
 ## Lotus
 Lotus, a waitress at the local diner, scrolled through social media. "Freedom dividend? What's that?" she muttered, tapping on an article.  The world of economics could be confusing, but this one piqued her interest. 
 
