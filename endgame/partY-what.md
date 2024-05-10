@@ -11,7 +11,7 @@ That night, Sarah clutched her portfolio, a mix of nervous excitement bubbling i
 
 A gruff voice interrupted her thoughts. "Sarah Evans? Impressive Karmacoin balance," rumbled The Curator, his eyes crinkling at the corners. "This isn't just art, it's a conversation. It embodies the core principle of Karma."
 
-That night, Sarah didn't just secure a gallery show. She sparked a conversation. People began to see Karmacoin as more than just a badge of honor, but a currency for fostering collaboration. The lines between financial success and social influence blurred, creating a new artistic landscape where value wasn't just about dollars, but the richness of human connection. From that moment on, Sarah's art, and the movement she helped ignite, became a testament to the power of genuine exchange, proving that sometimes, the most valuable currency wasn't held in your wallet, but in the hearts of your community.
+That night, Sarah didn't just secure a gallery show. She sparked a conversation. People began to see Karmacoin as more than just a badge of honor, but a currency for fostering collaboration. The lines between financial success and social influence blurred, creating a new artistic landscape where value wasn't just about dollars, but the richness of human connection. From that moment on, Sarah's art, and the movement she helped ignite, became a testament to the power of genuine exchange, proving that you could gain both in your wallet AND win  the hearts of your community.
 
 ## TLDR
 Karmacoin would be the realization of merging behavior and money as we know it. An incentive to do what you love doing is icing on the cake. 
