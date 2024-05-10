@@ -28,3 +28,39 @@ Here's a breakdown of how communication might differ slightly between romantic a
 * **Respecting Boundaries:**  Communication helps maintain healthy boundaries, especially with extended family or colleagues. 
 
 Overall, strong communication skills are essential for building and maintaining healthy relationships of all kinds. By openly and honestly expressing ourselves,  we can build trust, understanding, and connection with the people who matter most in our lives.
+
+# Circle
+One of the popular models for describing social circles is the Dunbar's Number, which suggests layers of social connection based on the number of people we can maintain relationships with. Here's a breakdown of the layers, moving outwards from the center:
+
+**Inner Circle (1-5 people):**
+
+* This innermost layer consists of your closest confidantes – your spouse, partner, parents, siblings, or a very close friend. These are the people you share your deepest thoughts and feelings with, and who you can rely on for unwavering support.
+
+**Close Friends (15 people):**
+
+* This layer expands your circle to include your good friends, the people you see regularly, share activities with, and confide in to a lesser extent than your inner circle. 
+
+**Good Friends/Extended Family (50 people):**
+
+* This layer includes friends you might not see as often, classmates, colleagues you're friendly with, neighbors, or extended family you keep in touch with.  You share interests and enjoy spending time with them, but the level of intimacy may not be as deep as the closer layers.
+
+**Acquaintances (150 people):**
+
+* This outermost layer encompasses a broader range of people you recognize and might interact with occasionally. This could include people you see at social gatherings, work functions, or in your community.  You might exchange greetings or have casual conversations, but the interactions are likely brief and superficial.
+
+**The Outermost Fringe:**
+
+* Beyond the 150, the layers become more fluid. This might include casual acquaintances, people you follow on social media but don't know personally, or people you have fleeting interactions with in daily life (like the barista at your coffee shop).
+
+It's important to remember that this is a model, and the size and composition of your social circles can vary depending on your personality, lifestyle, and cultural background. Some people might have a smaller close circle but a larger circle of acquaintances, while others might prioritize a few deep friendships over a broader network. 
+
+## Expanding Beyond the Circles: Community and Society
+
+Dunbar's Number provides a helpful framework for understanding our closest social connections. But our social world extends far beyond these layers. Here's how communities and society fit into the picture:
+
+* **Community:**  This layer exists  beyond the 150-person limit of Dunbar's Number. It  encompasses the people you share a sense of belonging with based on a common geographic location, shared interests, or social identity. This could be your neighborhood, your religious group, your book club, or your online gaming community.  In a community, you might recognize most people, interact with some on a regular basis, and share a feeling of solidarity or common ground.
+
+* **Society:**  This is the outermost layer, encompassing the larger social structure you  exist within.  Society refers to a group of people who share a culture, norms, and institutions. This could be your nation,  a cultural group within your nation, or even humanity as a whole.  In a society, you might interact with a tiny fraction of the people,  but you're still connected through shared systems of law, government, and cultural norms. 
+
+Here's an analogy: Imagine your social world as a series of concentric circles.  Your inner circle is at the center, then come close friends, good friends, and acquaintances. Communities  form  the  ripple  effect  beyond that,  and  society  encompasses the  entire  pond.  We  navigate  between these layers throughout our lives,  depending on the situation and the  people we interact with. 
+
