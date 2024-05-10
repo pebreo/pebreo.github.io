@@ -74,6 +74,8 @@ For wealth, build karma socioecomics using human-aligned AI & blockchain.
 why it would work: 
 - ai human aligned, understandble & explanable, affordable to ALL
 - blockchain locked down
+- mental health & communication bedrock in any relationship
+- convergence of technologies
 - everyone on board
 
 what would happen if it worked:
