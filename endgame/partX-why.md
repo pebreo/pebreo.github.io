@@ -64,7 +64,7 @@ TODO: decide with editor to move or leave in place
 
 Todo: add maslow hiearchy for context to vals
 
-[VALS framework](https://pebreo.github.io/IMG_9689.jpeg)
+![VALS framework](https://pebreo.github.io/IMG_9689.jpeg)
 
 credit: Amy Jo Kim 
 
