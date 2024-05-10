@@ -40,7 +40,8 @@ Both scenarios offer a glimpse of a future brimming with potential. Combined, th
 
 The merging of social and monetary currency is like peanut butter and jelly: great individually but unimaginable separate once experienced. Here are some hard-to-accept, wonderful consequnces;
 
-* **Reputation, Influence, and Trust:** Being known for helpfulness, reliability, or creativity can open doors. Social capital fosters trust and influence, leading to opportunities beyond mere financial transactions.
+* **Reputation, Influence, and Trust:**
+We know that helpfulness, reliability, or creativity can open doors. Merging social and monetary currency will create a positive feedback loop. Now, being helpful, reliable, or creative can boost your reputation, leading to trust, influence, and opportunities as well as financial gain.
 
 * **Emotional Connection:** Outside of the social interactions quantified by the AI, genuine connection with another human being can bring joy, fulfillment, and a sense of belonging. It provides a unique intimacy and shared understanding that transcends mere quantifiable actions.
 
