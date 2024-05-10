@@ -2,6 +2,8 @@
 ## Epiphany
  todo: story of roderigo
 
+ todo: section title - probabilities all the way down
+
 What was your epiphany? Current ML uses the old brain way of doing "intelligent" things: stimulus respose. The new brain, or neocrtex, uses imagination (world simulation) to be "intelligent."
 
 
