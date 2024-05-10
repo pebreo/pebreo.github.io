@@ -43,7 +43,7 @@ The merging of social and monetary currency is like peanut butter and jelly: gre
 * **Reputation, Influence, and Trust:**
 We know that helpfulness, reliability, or creativity can open doors. Merging social and monetary currency will create a positive feedback loop. Now, being helpful, reliable, or creative can boost your reputation, leading to trust, influence, and opportunities as well as financial gain.
 
-* **Emotional Connection:** Outside of the social interactions quantified by the AI, genuine connection with another human being can bring joy, fulfillment, and a sense of belonging. It provides a unique intimacy and shared understanding that transcends mere quantifiable actions.
+* **Emotional Connection:** The AI records interactions while genuine human interactions offers something deeply embedded in us: connection, joy, fulfillment, and belonging that goes beyond points in a system.
 
 * **Infinite growth**
 In a system where pro-social behavior and financial gain are intertwined, helping others earns you credits that translate to real purchasing power. Also, it incentizes creation, rather than destruction; giving, rather than keeping, sparking a virtuous cycle.  Further, a larger population means more producers, consumers, and innovators. There is no incentive to do anything that would break human connections nor any incentive to stop.p Almost difficult to accept. 
