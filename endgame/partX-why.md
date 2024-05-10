@@ -131,16 +131,6 @@ Imagine a benevolent AI dedicated to tracking and recognizing positive social in
 * **Tracking Interactions:** Imagine a secure, tamper-proof record of your "good deeds" or contributions to communities. Blockchain could create a verifiable history of social interactions, potentially increasing their perceived value.
 
 
-**Hard to swallow**
-
-The merging of social and monetary currency is like peanut butter and jelly: great individually but unimaginable separate once experienced. Here are some hard-to-accept, wonderful consequnces;
-
-* **Reputation, Influence, and Trust:** Being known for helpfulness, reliability, or creativity can open doors. Social capital fosters trust and influence, leading to opportunities beyond mere financial transactions.
-
-* **Emotional Connection:** Outside of the social interactions quantified by the AI, genuine connection with another human being can bring joy, fulfillment, and a sense of belonging. It provides a unique intimacy and shared understanding that transcends mere quantifiable actions.
-
-* **Infinite growth**
-In a system where pro-social behavior and financial gain are intertwined, helping others earns you credits that translate to real purchasing power. Also, it incentizes creation, rather than destruction; giving, rather than keeping, sparking a virtuous cycle.  Further, a larger population means more producers, consumers, and innovators. There is no incentive to do anything that would break human connections nor any incentive to stop.p Almost difficult to accept. 
 
 ## Why cant they be both?
 | Characteristics of Money | Status Quo                                                    | Behavior/Karma                |
