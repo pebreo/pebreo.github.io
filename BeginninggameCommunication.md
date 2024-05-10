@@ -1,4 +1,20 @@
 
+## Mia
+Mia had always been the type to keep her cards close. Sharing vulnerabilities felt like showing weakness, a liability in the cutthroat world of advertising. But then came Daniel, a colleague with a goofy grin and eyes that held a disarming sincerity. Their initial connection was electric, fueled by late-night brainstorming sessions and whispered jokes during client meetings. But as the weeks turned into months, Mia started to feel a shift. The easy banter felt strained, replaced by a tense silence that hung heavy between them.
+
+One Friday evening, as they were packing up to leave, Daniel lingered by her desk. "Hey, Mia," he began, voice hesitant. "Is everything okay? You seem...distant lately."
+
+Mia froze. Was it that obvious? Taking a deep breath, she decided to take a leap. "Honestly, Daniel," she admitted, "I don't know how to be close to someone. Sharing feels like giving away a piece of myself."
+
+The vulnerability hung in the air for a moment. Then, a smile tugged at the corner of Daniel's lips. "Funny," he said, "I used to think the same thing. But then I realized, true connection comes from sharing those vulnerable parts. It's like opening a hidden door, showing someone the messy, unfiltered you, and hoping they see something worth cherishing."
+
+Mia's heart skipped a beat. Maybe, just maybe, he was right. Taking a chance, she opened up about her insecurities, her childhood dream of becoming a writer, a dream she'd long since buried. As she spoke, a weight lifted from her chest. To her surprise, Daniel listened intently, his eyes filled with warmth and understanding.
+
+When she finished, he simply said, "Wow, Mia. That's amazing. You should write again."
+
+It wasn't a grand declaration of love, but in that moment, a new kind of intimacy blossomed. The vulnerability had cracked open a space for deeper connection, a foundation built on trust and mutual understanding. Mia realized that strength wasn't about keeping things bottled up, but about the courage to share, to be seen, and to be loved for exactly who you are. 
+
+
 ## why important
 What is communication so important in a romantic and non romantic relationships?
 
