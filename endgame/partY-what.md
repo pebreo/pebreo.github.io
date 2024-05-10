@@ -48,7 +48,7 @@ The merging of social and monetary currency is like peanut butter and jelly: gre
 In a system where pro-social behavior and financial gain are intertwined, helping others earns you credits that translate to real purchasing power. Also, it incentizes creation, rather than destruction; giving, rather than keeping, sparking a virtuous cycle.  Further, a larger population means more producers, consumers, and innovators. There is no incentive to do anything that would break human connections nor any incentive to stop.p Almost difficult to accept. 
 
 ## TLDR
-
+A new era in humanity is possible. The technology is coming. AI & blockchain would be key players. I've presented a plan how to do it: billions working together, their social currency boosting reputation, emotional connection, and even infinte economic and population growth.
 
 ## final chapter
 [Part 3; DREAM BIG](https://pebreo.github.io/endgame/DREAM-BIG.html)
