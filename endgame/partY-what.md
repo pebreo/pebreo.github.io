@@ -46,7 +46,7 @@ We know that helpfulness, reliability, or creativity can open doors. Merging soc
 * **Emotional Connection:** Another benefit of merging material and social money is an incentive for genuine emtional connections. Genuine, pro-social interactions offers something deeply embedded in us: connection, joy, fulfillment, and belonging that goes beyond points in a system.
 
 * **Infinite growth**
-In a system where pro-social behavior and financial gain are intertwined, helping others earns you credits that translate to real purchasing power. Also, it incentizes creation, rather than destruction; giving, rather than keeping, sparking a virtuous cycle.  Further, a larger population means more producers, consumers, and innovators. There is no incentive to do anything that would break human connections nor any incentive to stop.p Almost difficult to accept. 
+In a system where pro-social behavior and financial gain are intertwined, helping others earns you credits that translate to real purchasing power. Also, it incentizes creation, rather than destruction; giving, rather than keeping, sparking a virtuous cycle.  Furthermore, a larger population means more producers, consumers, and innovators. There is no incentive to do anything that would break human connections nor any incentive to stop.p Almost difficult to accept. 
 
 ## TLDR
 A new era in humanity is possible. The technology is coming. AI & blockchain would be key players. Imagine billions working together, their social currency boosting reputation, emotional connection, and even infinte economic and population growth.
