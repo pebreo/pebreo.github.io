@@ -1,3 +1,9 @@
+
+sections: 
+beginning: putting pieces in place
+middle: playing cards right
+end: endgame
+
 quote - corinthians
 quote - if i have seen further...
 
