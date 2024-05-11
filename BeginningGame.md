@@ -30,6 +30,14 @@ If i have further is is because i have stood on the shoukders of giants. - Newto
 
 todo: add chapter - putting the pieces in place
 
+todo : mention - convergence
+
+Converging technologies
+Near unlimited energy
+Near unlimited labor
+AI
+Blockchainon pm
+
 ## the plan
 This book describes an ambitious plan to upgrade humanity. Here it is in a nutshell.
 
