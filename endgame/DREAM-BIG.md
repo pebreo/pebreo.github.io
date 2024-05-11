@@ -63,6 +63,9 @@ This isn't just about awareness, it's about creating tangible solutions.  New te
 
 Finally, true leadership goes beyond words.  Whether it's advocating for societal change, practicing healthy relationships in a changing world, or promoting responsible AI development, leading by example is the most powerful way to inspire others and build a better future together. 
 
+todo: prose the below for sudiobook version
+
+on
 # Book TLDR
 The plan: 
 For life, adopt antifragile mindset. understand consciousness & intelligence.
