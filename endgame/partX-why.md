@@ -59,10 +59,19 @@ Poverty, in its most severe form, restricts this exchange, forcing individuals t
 
 
 ## We so flywheel
+Why does it matter that people have material things or rich social lives? It matters because it can lead to a vituous cycle where more people...
 
-Can we upgrade humanity? Yes. To do so, lets look at two important frameworks: Maslows Hiearchy of Needs and the VALS framework.
+To do so, lets look at two important frameworks: Maslows Hiearchy of Needs and the VALS framework.
 
 ### Maslows Hiearchy
+Maslow's hierarchy of needs is a theory in psychology that proposes a pyramid-shaped model of human motivation.  This model suggests that people are driven by five essential needs, starting at the base with the most fundamental for survival.
+
+According to Maslow, as we fulfill each level of needs, we begin to focus on the needs at the next level.  The basic needs at the bottom of the pyramid are physiological needs, like food, water, and shelter. Once these basic needs are met, we start to crave safety and security, including things like financial stability and a safe environment.
+
+The middle of the pyramid focuses on social and psychological needs. We seek love and belonging, wanting to feel connected to others through friendships, families, and romantic relationships. Esteem needs are also important here, where we desire feelings of accomplishment, self-respect, and recognition from others.
+
+Finally, at the very top of the pyramid sits self-actualization. This is the need to reach our full potential and live a meaningful life that fulfills our unique talents and goals. 
+
 
 ![VALS framework](https://pebreo.github.io/IMG_9869.jpeg)
 
