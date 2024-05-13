@@ -59,7 +59,7 @@ Poverty, in its most severe form, restricts this exchange, forcing individuals t
 
 
 ## We so flywheel
-Why does it matter that people have material things or rich social lives? It matters because in a socioecomic system where the're both the same leads to a virtuous cycle: more material goods, means more innovators which leads to more material goods. On and on. Its a positive feedback system.
+Why does it matter that people have material things or rich social lives? It matters because in a socioecomic system where the're both the same leads to a virtuous cycle: more material goods and people, means more innovators which leads to even more material goods and people. On and on. Its a positive feedback system.
 
 To understand why, lets look at two important frameworks: Maslows Hiearchy of Needs and the VALS framework.
 
