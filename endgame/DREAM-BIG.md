@@ -10,7 +10,7 @@ credit: pixabay
 
 I have described solutions to very difficult and fundamental questions like consciousness, intelligence, and even a plan to bring our species into a new era. 
 
-One more thing... let me describe a framework we can all use to tackle challenges... of any size.
+One more thing... let me describe a framework we can all use to tackle challenges.
 
 The acronym DREAM BIG serves as a powerful framework for transforming the seeds of aspiration into tangible realities. Each letter represents a distinct step on the journey from conception to culmination, guiding us towards achieving the seemingly impossible.
 
