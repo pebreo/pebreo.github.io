@@ -157,7 +157,7 @@ While traditional money is tangible, behavior/karma money is intangible. It's ea
 
 
 ## TLDR
-Humans are social creatures. Human crave material wealth. A convergence of technologies allow use to combine the two to incentivize both pro-social behavior and the acquisition of material wealth.
+Humans are social creatures. Human crave material wealth. A convergence of technologies allow us to combine the two to incentivize both pro-social behavior and the acquisition of material wealth.
 
 Todo: ask editor where to use...
 A convergence of technologies can help birth a new human era. It will be possible to achieve infinite growth in population and wealth. Marrying social and material gain using a new money would make it possible by giving the right incentives. 
