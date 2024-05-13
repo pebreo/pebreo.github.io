@@ -75,14 +75,16 @@ The middle of the pyramid focuses on social and psychological needs. We seek lov
 Finally, at the very top of the pyramid sits self-actualization. This is the need to reach our full potential and live a meaningful life that fulfills our unique talents and goals. 
 
 
-![VALS framework](https://pebreo.github.io/IMG_9869.jpeg)
 
-credit: Amy Jo Kim 
 
 ### VAL Framework
 
 What is the VALS psychgrsphic framework? 
 VALS (Values, Attitudes and Lifestyles) is a framework used to segment consumers based on their **psychological traits** and **motivations**.  
+
+![VALS framework](https://pebreo.github.io/IMG_9869.jpeg)
+
+credit: Amy Jo Kim p
 
 It categorizes people into groups based on what drives them, like principles, achievement, or self-expression. In business, it helps marketers understand what makes people tick and tailor products or messages to resonate with them and it can also be insightful for understanding people overall.
 
