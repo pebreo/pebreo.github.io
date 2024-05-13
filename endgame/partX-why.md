@@ -107,11 +107,11 @@ Resource-rich: They have the financial security and freedom to pursue their pass
 
 ## Why both matter
 
-Maslow's hierarchy and the VALS framework both matter because they help us understand **motivation**. 
+Maslow's hierarchy and the VALS framework both matter because they help us understand **motivation** and what would happen if those motivations were satisfied.
 
 * **Maslow's hierarchy** proposes that humans are driven by a pyramid of needs, starting with basic survival needs at the bottom and progressing towards more complex psychological needs at the top. Once a lower-level need is met, we focus on fulfilling the next level in the hierarchy. This helps us understand what fundamentally motivates people.
 
-* **VALS framework**, inspired by Maslow's hierarchy, it is a framework primarily used by businesses. It segments people into groups based on their values and lifestyles. This helps businesses understand what motivates consumers to purchase and target their messaging accordingly.
+* **VALS framework**, inspired by Maslow's hierarchy, it is a framework primarily used by businesses. It segments people into groups based on their values and lifestyles. This helps businesses understand what motivates consumers to purchase and target their messaging accordingly. 
 
 The frameworks help us understand why people do what they do, both on a basic human level and a commercial level. Now, the implications are staggering. When all our needs met we end up with a planet of innovators!
 
