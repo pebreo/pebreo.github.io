@@ -1,3 +1,10 @@
+todo: why antifragility works : overcompensation
+
+why it works for love : vulnerabilty open up to rejection but can be very tewarding connections
+
+why it works for entrepreneurship/biz:
+failures (ideally small), helps you learn faster - iterate faster toward solution
+
 # Road to antifragility
 done: story of being broken
 todo: story of what lead to antifragility
