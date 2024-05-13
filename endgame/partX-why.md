@@ -60,17 +60,20 @@ Poverty, in its most severe form, restricts this exchange, forcing individuals t
 
 ## We so flywheel
 
-TODO: decide with editor to move or leave in place
+Can we upgrade humanity? Yes. To do so, lets look at two important frameworks: Maslows Hiearchy of Needs and the VALS framework.
 
-Todo: add maslow hiearchy for context to vals
+### Maslows Hiearchy
 
 ![VALS framework](https://pebreo.github.io/IMG_9869.jpeg)
 
 credit: Amy Jo Kim 
 
-What is the VALS psychgrsphic framework? 
+### VAL Framework
 
-It adds to Maslow's Hiearchy.
+What is the VALS psychgrsphic framework? 
+VALS (Values, Attitudes and Lifestyles) is a framework used to segment consumers based on their **psychological traits** and **motivations**.  
+
+It categorizes people into groups based on what drives them, like principles, achievement, or self-expression. In business, it helps marketers understand what makes people tick and tailor products or messages to resonate with them and it can also be insightful for understanding people overall.
 
 Heres a breakdown:
 
