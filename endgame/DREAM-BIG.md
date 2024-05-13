@@ -63,9 +63,6 @@ This isn't just about awareness, it's about creating tangible solutions.  New te
 
 Finally, true leadership goes beyond words.  Whether it's advocating for societal change, practicing healthy relationships in a changing world, or promoting responsible AI development, leading by example is the most powerful way to inspire others and build a better future together. 
 
-todo: prose the below for sudiobook version
-
-on
 # Book TLDR
 The plan: 
 For life, adopt antifragile mindset. understand consciousness & intelligence.
@@ -87,6 +84,14 @@ what would happen if it worked:
 - human connection rewarded and encouraged
 - entire humanity becomes innovators
 - new era in human race
+
+Note to editor, here is for audiobook equivalent of above instead of bullet points:
+
+The goal is to tackle significant challenges and usher in a new era for humanity. The plan is two-pronged, addressing both life and love. On the life side, the approach is to cultivate an antifragile mindset and gain a deeper understanding of consciousness and intelligence. This will be aided by the development of human-aligned AI and blockchain technology, forming the foundation of a karma socioeconomics system. The success hinges on creating affordable, understandable, and explainable AI accessible to everyone. Additionally, blockchain technology will be secure and locked down.
+
+For love, the focus is on destigmatizing polyamory and ethically non-monogamous relationships. Strong mental health and communication are seen as the bedrock of any relationship structure.
+
+The convergence of these advancements, with everyone on board, has the potential to end hunger, poverty, disease, and war.  Infinite growth that benefits humanity and fosters human connection would be encouraged and rewarded.  This could lead to a future where everyone becomes an innovator, marking a new era for the human race. 
 
 
 
