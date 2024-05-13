@@ -31,6 +31,10 @@ If i have further is is because i have stood on the shoukders of giants. - Newto
 todo: add chapter - putting the pieces in place
 
 todo : mention - convergence
+todo : mention - foundatinal sectors upgradibg for abundance
+
+
+
 
 Converging technologies
 Near unlimited energy
