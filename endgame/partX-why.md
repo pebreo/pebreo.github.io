@@ -107,7 +107,7 @@ Resource-rich: They have the financial security and freedom to pursue their pass
 
 ## Why both matter
 
-Maslow's hierarchy and the VALS framework both matter because they help us understand **motivation** and what would happen if those motivations were satisfied.
+Maslow's hierarchy and the VALS framework both matter because they help us understand motivation and what would happen if those motivations were satisfied.
 Using both ideas, we can understand two extremes: Survivors and Innovators.
 
 Survivors have fewer resources which mean:
