@@ -132,7 +132,7 @@ Access resources: Increased resources can provide Innovators with access to bett
 Security and stability: Having a secure financial foundation allows Innovators to focus on their ideas without the constant worry of basic needs. This security fosters a sense of freedom and confidence to pursue unconventional paths.
 Breaking free from constraints: Financial limitations can stifle innovation. Increased resources can remove these constraints, allowing Innovators to explore their ideas more freely.
 
-Now, the implications are staggering if we apply to the entire world. When all our needs met we end up with a planet of innovators!
+Now, the implications are staggering if we apply to the entire world. When all our needs met we end up with a planet of innovators! Is it even possible to create a win-win situation using this knowledge? Yes!
 
 ## Blending Social and Monetary Currency: A Richer Perspective
 TODO: explain & rewrite below
