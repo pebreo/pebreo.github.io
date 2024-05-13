@@ -157,7 +157,7 @@ While traditional money is tangible, behavior/karma money is intangible. It's ea
 
 
 ## TLDR
-A convergence of technologies can help birth a new human era. It will be possible to achieve infinite growth in population and wealth. Marrying social and material gain using new money would make it possible by having the right incentives. 
+A convergence of technologies can help birth a new human era. It will be possible to achieve infinite growth in population and wealth. Marrying social and material gain using a new money would make it possible by giving the right incentives. 
 
 ## Next chapter
 [Part B: What would happen if it worked](https://pebreo.github.io/endgame/partY-what.html)
