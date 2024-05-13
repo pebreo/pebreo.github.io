@@ -59,9 +59,9 @@ Poverty, in its most severe form, restricts this exchange, forcing individuals t
 
 
 ## We so flywheel
-Why does it matter that people have material things or rich social lives? It matters because it can lead to a vituous cycle where more people...
+Why does it matter that people have material things or rich social lives? It matters because it can lead to a virtuos cycle: more material goods, means more innovators which leads to more material goods. On and on. Its a positive feedback system.
 
-To do so, lets look at two important frameworks: Maslows Hiearchy of Needs and the VALS framework.
+To understand why, lets look at two important frameworks: Maslows Hiearchy of Needs and the VALS framework.
 
 ### Maslows Hiearchy
 Maslow's hierarchy of needs is a theory in psychology that proposes a pyramid-shaped model of human motivation.  This model suggests that people are driven by five essential needs, starting at the base with the most fundamental for survival.
