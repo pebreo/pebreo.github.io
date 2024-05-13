@@ -66,6 +66,8 @@ To understand why, lets look at two important frameworks: Maslows Hiearchy of Ne
 ### Maslows Hiearchy
 Maslow's hierarchy of needs is a theory in psychology that proposes a pyramid-shaped model of human motivation.  This model suggests that people are driven by five essential needs, starting at the base with the most fundamental for survival.
 
+![Maslow](https://pebreo.github.io/IMG_9975.jpeg)
+
 According to Maslow, as we fulfill each level of needs, we begin to focus on the needs at the next level.  The basic needs at the bottom of the pyramid are physiological needs, like food, water, and shelter. Once these basic needs are met, we start to crave safety and security, including things like financial stability and a safe environment.
 
 The middle of the pyramid focuses on social and psychological needs. We seek love and belonging, wanting to feel connected to others through friendships, families, and romantic relationships. Esteem needs are also important here, where we desire feelings of accomplishment, self-respect, and recognition from others.
@@ -101,7 +103,9 @@ Open to change and experience: They embrace new ideas and readily adapt to evolv
 
 Resource-rich: They have the financial security and freedom to pursue their passions and contribute to society.
 
-The implications are staggering. When all the needs met we end up with a planet of innovators!
+## Why both matter
+
+The implications are staggering. When all our needs met we end up with a planet of innovators!
 
 ## Blending Social and Monetary Currency: A Richer Perspective
 TODO: explain & rewrite below
