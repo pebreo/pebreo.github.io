@@ -1,4 +1,4 @@
-todo: vulnerability opens us to being rejected (said no to) and it also means being accepted (said yes to) for who we are
+todo: vulnerability opens us to being rejected (said no to. thats scary) and it also means being accepted (said yes to. thats rewarding) for who we are
 
 
 ## Mia
