@@ -108,12 +108,21 @@ Resource-rich: They have the financial security and freedom to pursue their pass
 ## Why both matter
 
 Maslow's hierarchy and the VALS framework both matter because they help us understand **motivation** and what would happen if those motivations were satisfied.
+Using both ideas, we can understand that:
 
-* **Maslow's hierarchy** proposes that humans are driven by a pyramid of needs, starting with basic survival needs at the bottom and progressing towards more complex psychological needs at the top. Once a lower-level need is met, we focus on fulfilling the next level in the hierarchy. This helps us understand what fundamentally motivates people.
+**Resources as a springboard**
 
-* **VALS framework**, inspired by Maslow's hierarchy, it is a framework primarily used by businesses. It segments people into groups based on their values and lifestyles. This helps businesses understand what motivates consumers to purchase and target their messaging accordingly. 
+Financial resources: More money allows Innovators (who are already high on resources) to experiment with new ideas, invest in prototypes, and take calculated risks without fear of financial ruin.
 
-The frameworks help us understand why people do what they do, both on a basic human level and a commercial level. Now, the implications are staggering. When all our needs met we end up with a planet of innovators!
+Time resources: Freedom from financial pressures allows Innovators to dedicate more time to pursuing their creative endeavors and exploring new concepts.
+Access resources: Increased resources can provide Innovators with access to better technology, tools, and educational opportunities, further fueling their innovation potential.
+
+**Increased motivation and confidence:**
+
+Security and stability: Having a secure financial foundation allows Innovators to focus on their ideas without the constant worry of basic needs. This security fosters a sense of freedom and confidence to pursue unconventional paths.
+Breaking free from constraints: Financial limitations can stifle innovation. Increased resources can remove these constraints, allowing Innovators to explore their ideas more freely.
+
+Now, the implications are staggering if we apply to the entire world. When all our needs met we end up with a planet of innovators!
 
 ## Blending Social and Monetary Currency: A Richer Perspective
 TODO: explain & rewrite below
