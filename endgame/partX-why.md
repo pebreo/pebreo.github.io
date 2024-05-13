@@ -110,13 +110,13 @@ Resource-rich: They have the financial security and freedom to pursue their pass
 Maslow's hierarchy and the VALS framework both matter because they help us understand **motivation** and what would happen if those motivations were satisfied.
 Using both ideas, we can understand two extremes: Survivors and Innovators.
 
-Survivors fewer resources which mean:
+Survivors have fewer resources which mean:
 
-* **Limited Choices:**  Survivors have the **lowest level of resources** among all VALS types. This includes income, education, and even access to technology.  With fewer resources, their options for acquiring goods and services are restricted.
+**Limited Choices:**  Survivors have the lowest level of resources among all VALS types. This includes income, education, and even access to technology.  With fewer resources, their options for acquiring goods and services are restricted.
 
 **Security becomes paramount:** With limited resources, Survivors prioritize basic needs (safety and security in Maslow's hierarchy) above all else. Their focus shifts towards ensuring their survival and the well-being of their immediate family.
 
-**Pragmatism over innovation:** The need for immediate solutions takes precedence over exploring new ideas or taking risks. Survivors become practical and focus on tried-and-true methods to get by.
+**Pragmatism over innovation:** The need for immediate solutions takes precedence over exploring new ideas or taking risks. Survivors need to solve their immediate problems and tend to focus on the status quo.
 
 On the other hand, more resources lead to Innovators.
 
