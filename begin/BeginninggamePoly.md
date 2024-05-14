@@ -1,4 +1,12 @@
 
+why does poly relationshios work? 
+- honesty & cimmunication
+- emotional & physical needs met
+as proof:
+- its been done before recent and historically
+
+
+
 todo: segway from antifragile mindset to life, love, wealth. antifragile love - poly. idea: table.
 
 todo: vulnerability opens us to being rejected (said no to. thats scary) and it also means being accepted (said yes to. thats rewarding) for who we are
