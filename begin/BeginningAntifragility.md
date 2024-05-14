@@ -1,5 +1,7 @@
 todo: why antifragility works : overcompensation
 
+todo : segway to polyamory
+
 why it works for love : in a relstionship, authenticity/honesty & vulnerabilty open up to rejection but can be very tewarding connections
 
 why it works for entrepreneurship/biz:
