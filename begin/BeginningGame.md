@@ -30,7 +30,8 @@ If i have further is is because i have stood on the shoukders of giants. - Newto
 
 todo: add chapter - putting the pieces in place
 
-todo : mention - convergence
+todo : mention - convergence - cars, lightbulb, internet
+
 todo : mention - foundatinal sectors upgradibg for abundance
 
 
