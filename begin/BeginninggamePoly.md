@@ -1,7 +1,9 @@
 
+
 why does poly relationshios work? 
 - honesty & cimmunication
 - emotional & physical needs met
+- antifragile mindset means gainibg fron volatility & loss
 as proof:
 - its been done before recent and historically
 
