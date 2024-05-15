@@ -37,15 +37,6 @@ As her breath hitched for the final time, a contented smile graced her lips. It 
 
 A rich social life means friends, family, loved ones, even experiences. Without basic needs met, you are miserable.
 
-## Liza
-Liza clutched the thin envelope, its contents a physical manifestation of the tightrope walk that was her life. Rent was due, and the number inside, scrawled in her landlord's impatient hand, felt more like a taunt than a figure. This wasn't new territory. The constant pressure of bills, the never-ending game of financial Tetris, was the rhythm of her life.
-
-Tonight, though, the worry gnawed deeper. Her daughter, Isha, had a nagging cough, and Liza knew a trip to the clinic loomed. The clinic visit itself wasn't the worry, it was the potential prescription, the drugs Isha desperately needed but Maya might not be able to afford. This wasn't a binary choice; it was a tangled web of possibilities, each leading down a path fraught with its own brand of stress.
-
-Exhaling a ragged breath, Liza forced herself to prioritize. Isha's health came first. Maybe she could call her cousin again, explain the situation, swallow her pride and ask for a loan. It was a gamble, but the alternative, the worry knot tightening in her gut, was a path she refused to walk.
-
-Poverty, Liza thought, wasn't a single blow, but a relentless barrage of small decisions, each one chipping away at your sense of security. It wasn't about a lack of intelligence or drive; it was about navigating a system that seemed rigged against you at every turn. Yet, despite it all, a sliver of hope remained. She had faced these challenges before, and she had found a way. This time would be no different. Maybe.
-
 ## TLDR
 
 Money is necessary for the basics: food, medicine, education. After a certin point, its utility is seen and used beyond survival.
@@ -77,7 +68,7 @@ Finally, at the very top of the pyramid sits self-actualization. This is the nee
 
 
 
-### VAL Framework
+### VALs Framework
 
 What is the VALS psychgrsphic framework? 
 VALS (Values, Attitudes and Lifestyles) is a framework used to segment consumers based on their **psychological traits** and **motivations**.  
@@ -105,10 +96,20 @@ Open to change and experience: They embrace new ideas and readily adapt to evolv
 
 Resource-rich: They have the financial security and freedom to pursue their passions and contribute to society.
 
-## Why both matter
+## Liza
+Liza clutched the thin envelope, its contents a physical manifestation of the tightrope walk that was her life. Rent was due, and the number inside, scrawled in her landlord's impatient hand, felt more like a taunt than a figure. This wasn't new territory. The constant pressure of bills, the never-ending game of financial Tetris, was the rhythm of her life.
 
-Maslow's hierarchy and the VALS framework both matter because they help us understand motivation and what would happen if those motivations were satisfied.
-Using both ideas, we can understand two extremes: Survivors and Innovators.
+Tonight, though, the worry gnawed deeper. Her daughter, Isha, had a nagging cough, and Liza knew a trip to the clinic loomed. The clinic visit itself wasn't the worry, it was the potential prescription, the drugs Isha desperately needed but Maya might not be able to afford. This wasn't a binary choice; it was a tangled web of possibilities, each leading down a path fraught with its own brand of stress.
+
+Exhaling a ragged breath, Liza forced herself to prioritize. Isha's health came first. Maybe she could call her cousin again, explain the situation, swallow her pride and ask for a loan. It was a gamble, but the alternative, the worry knot tightening in her gut, was a path she refused to walk.
+
+Poverty, Liza thought, wasn't a single blow, but a relentless barrage of small decisions, each one chipping away at your sense of security. It wasn't about a lack of intelligence or drive; it was about navigating a system that seemed rigged against you at every turn. Yet, despite it all, a sliver of hope remained. She had faced these challenges before, and she had found a way. This time would be no different. Maybe.
+
+## Liza, Maslow, and VALs
+
+
+Let’s reintroduce Maslow’s Hierarchy of Needs and the VALs framework. Maslow's hierarchy and the VALS framework both matter because they help us understand motivation and what would happen if those motivations were satisfied.
+**Using both ideas, we can understand two extremes: Survivors and Innovators.**
 
 Survivors have fewer resources which mean:
 
@@ -118,7 +119,7 @@ Survivors have fewer resources which mean:
 
 **Pragmatism over innovation:** The need for immediate solutions takes precedence over exploring new ideas or taking risks. Survivors need to solve their immediate problems and tend to focus on the status quo.
 
-On the other hand, more resources lead to Innovators.
+On the other hand, more resources lead to **Innovators**.
 
 **Resources as a springboard**
 
