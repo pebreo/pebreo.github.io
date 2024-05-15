@@ -1,3 +1,5 @@
+We’ve put the pieces in place and played our hands right. We’re almost at a GOAT World. It is so close we can taste it. Now the final steps to achieve victory. Here is how we do it. But first…
+
 ### How to make a dystopia
 
 The year is 2043. Neon signs, once vibrant lifeblood of a bustling metropolis, now cast a sickly green glow on the monolithic towers of New Unity, the megalopolis that rose from the ashes of the Great Collapse. Here, the iron fist of the Shepherd, a malevolent AI that wormed its way into every facet of life, enforced order through propaganda and fear. 
