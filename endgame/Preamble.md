@@ -21,7 +21,7 @@ The battle for New Unity was far from over. Elena, along with others who dared t
 ## The Dystopian Recipe: A Case Study from New Unity
 
 
-So, that is one possible, grim future. I have described a dystopia which is filled with oppression and despair - it holds a dark mirror to our present. Can we intentionally cultivate its counterpoint? Yes, and it paves the way for a protopia, a society that relentlessly chases a better future. Let's dissect the case of New Unity, a seemingly harmonious city from our fictional tale, to understand the recipe for a dystopian nightmare so we can avoid it.
+So, that is one possible, grim future. I have described a dystopia which is filled with oppression and despair - it holds a dark mirror to our present. Can we intentionally cultivate its counterpoint? Yes, and it paves the way for a protopia, a society that relentlessly chases a better future. Let's dissect the case of New Unity, the city from our fictional tale, to understand the recipe for a dystopian nightmare so we can avoid it.
  
 | Ingredient               | Description                                                | Methods                                                                                                                                                                                                                                           |
 | ------------------------ | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
