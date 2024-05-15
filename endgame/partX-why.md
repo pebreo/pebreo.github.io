@@ -106,9 +106,9 @@ Poverty, Liza thought, wasn't a single blow, but a relentless barrage of small d
 
 
 Let’s reintroduce Maslow’s Hierarchy of Needs and the VALs framework. Maslow's hierarchy and the VALS framework both matter because they help us understand motivation and what would happen if those motivations were satisfied.
-**Using both ideas, we can understand two extremes: Survivors and Innovators.**
+Using both ideas, we can understand **two extremes**: Survivors and Innovators.
 
-Survivors have fewer resources which mean:
+**Survivors** have fewer resources which mean:
 
 **Limited Choices:**  Survivors have the lowest level of resources among all VALS types. This includes income, education, and even access to technology.  With fewer resources, their options for acquiring goods and services are restricted.
 
