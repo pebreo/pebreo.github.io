@@ -3,7 +3,7 @@ Are we poised to enter a new human era? Yes. Here’s how we can get there.
 
 The plan can be broken to three parts: life, love, and wealth.
 
-For life, we start with how we think about the world we live in. Start with your mindset, particularly an antifragile mindset. An antifragile system gains from disorder - the more we expose ourselves to life’s inherent volatility, the better equipped we’ll be to thrive amidst the inevitable storms. It’s not about eliminating the downsides, rather, about thriving from them.
+For life, we start with how we think about the world we live in. Start with your mindset, particularly an antifragile mindset. An antifragile system gains from disorder - the more we expose ourselves to life’s inherent volatility, the better equipped we’ll be to thrive amidst the inevitable storms. It’s not about eliminating the downsides, but instead, thriving from them.
 
 For love, we emphasize honest communication and destigmatize polyamory and ethical non-monogamy (ENM). Both those types of relationships are not for everybody.  At the core, any relationship (monogamous or otherwise) still requires honesty, communication, and vulnerability – the bedrock of healthy bonds. It means a lot of work on our mental health, too.
 
