@@ -13,6 +13,18 @@ todo: segway from antifragile mindset to life, love, wealth. antifragile love - 
 
 todo: vulnerability opens us to being rejected (said no to. thats scary) and it also means being accepted (said yes to. thats rewarding) for who we are
 
+## why polyamory works
+
+humans are loving (capable to love more than one person)
+Humans are communal (enjoy being with others mostly)
+Partners trust eachother and communicate their wants, desires, preferences, limitations . "I want this" "yes, no, maybe"
+Material and social needs met first
+
+## what would happen if it works
+
+stability
+Variety
+
 
 ## Mia
 Mia had always been the type to keep her cards close. Sharing vulnerabilities felt like showing weakness, a liability in the cutthroat world of advertising. But then came Daniel, a colleague with a goofy grin and eyes that held a disarming sincerity. Their initial connection was electric, fueled by late-night brainstorming sessions and whispered jokes during client meetings. But as the weeks turned into months, Mia started to feel a shift. The easy banter felt strained, replaced by a tense silence that hung heavy between them.
