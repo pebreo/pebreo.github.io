@@ -15,13 +15,12 @@ todo: vulnerability opens us to being rejected (said no to. thats scary) and it 
 
 ## why polyamory works
 
-humans are loving (capable to love more than one person)
-Humans are communal (enjoy being with others mostly)
-Partners trust eachother and communicate their wants, desires, preferences, limitations . "I want this" "yes, no, maybe"
-Material and social needs met first
+- humans are loving (capable to love more than one person)
+- Humans are communal (enjoy being with others mostly)
+- Partners trust eachother and communicate their wants, desires, preferences, limitations . "I want this" "yes, no, maybe"
+- Material and social needs met first
 
 ## what would happen if it works
-
 stability
 Variety
 
