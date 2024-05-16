@@ -21,7 +21,7 @@ todo: vulnerability opens us to being rejected (said no to. thats scary) and it 
 - Material and social needs met first
 
 ## what would happen if it works
-stability
+stability & 
 Variety
 
 
