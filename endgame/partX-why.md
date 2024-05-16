@@ -34,10 +34,6 @@ As her breath hitched for the final time, a contented smile graced her lips. It 
 
 A rich social life means friends, family, loved ones, even experiences. Without basic needs met, you are miserable.
 
-## TLDR
-
-Money is necessary for the basics: food, medicine, education. After a certin point, its utility is seen and used beyond survival.
-
 
 ## What is a rich life?
 
@@ -101,6 +97,10 @@ Tonight, though, the worry gnawed deeper. Her daughter, Isha, had a nagging coug
 Exhaling a ragged breath, Liza forced herself to prioritize. Isha's health came first. Maybe she could call her cousin again, explain the situation, swallow her pride and ask for a loan. It was a gamble, but the alternative, the worry knot tightening in her gut, was a path she refused to walk.
 
 Poverty, Liza thought, wasn't a single blow, but a relentless barrage of small decisions, each one chipping away at your sense of security. It wasn't about a lack of intelligence or drive; it was about navigating a system that seemed rigged against you at every turn. Yet, despite it all, a sliver of hope remained. She had faced these challenges before, and she had found a way. This time would be no different. Maybe.
+
+## TLDR
+
+Money is necessary for the basics: food, medicine, education. After a certin point, its utility is seen and used beyond survival.
 
 ## Liza, Maslow, and VALs
 
