@@ -28,7 +28,7 @@ Finally, the high cost of essential resources like housing and farming equipment
 
 todo : story of smiths
 
-**The Freedom Dividend: net, fertilizer and soil**
+**The Freedom Dividend: net, fertilizer, and soil**
 
 The freedom dividend is a safety net. Let me explain.
 
