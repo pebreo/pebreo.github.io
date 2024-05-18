@@ -13,7 +13,26 @@ In the last section I defined intelligence, consciousness, whst the blockchain d
 
 We covered a lot. But even with the pieces in place, we still have to play our cards right. 
 
-To do that, we fix pop
+Heres the next steps...
+## The Human Touch in a Technological Age: Solutions for a Changing World
+
+The relentless march of technology presents both opportunities and challenges. While it automates tasks and improves efficiency, it can also leave some workers behind, leading to unemployment. Furthermore, developed countries face a unique set of problems – declining birth rates and rising divorce rates. Finally, the high cost of essential resources like housing and farming equipment creates a barrier to entry for many. This essay explores unconventional solutions to address these issues: the freedom dividend, polyamory and ethical non-monogamy, and open-source models.
+
+**The Disruption Dilemma: The Freedom Dividend as another safety net**
+
+Automation is a double-edged sword. While it fuels economic growth, it also displaces workers whose skillsets are no longer needed. This creates a crucial need for a safety net – a system that ensures hard times don't cripple you. The freedom dividend emerges as a potential solution. By providing all citizens with a guaranteed income, regardless of employment status, UBI can alleviate poverty and economic anxiety. It empowers individuals to pursue education, retrain for new jobs, or even start their own businesses. This fosters innovation and entrepreneurship in the face of technological disruption.  
+
+**Rethinking Relationships: Openness for a More Stable Society?**
+
+Developed countries face a paradox – declining birth rates coupled with high divorce rates. This raises concerns about a shrinking workforce and a strain on social security systems. While promoting traditional family structures remains important, a more radical approach could be explored: open relationships.  Although this concept challenges societal norms, it could offer couples a way to address individual needs for intimacy and fulfillment while maintaining a stable family unit. Open relationships, when navigated with honesty and clear communication,  could potentially reduce the emotional and financial toll of divorce, leading to a more stable societal structure. However, the success of this approach hinges on cultural acceptance and responsible implementation. 
+
+**Democratizing Resources: Open Source for Food and Shelter**
+
+The high cost of essential resources like farming equipment, housing materials, and seeds creates a barrier to self-sufficiency for many. Open-source models, currently used in software development, offer a novel solution. By sharing designs and blueprints freely, individuals and communities can manufacture their own tools and shelters at a significantly lower cost. This fosters a collaborative environment where communities can pool resources and knowledge, empowering them to become more self-reliant. Open-source farming equipment, for instance, could revolutionize agriculture in developing countries, making food production more accessible. 
+
+**Conclusion: A Human-Centric Approach**
+
+The solutions presented here are not without their challenges. UBI requires careful economic planning, open relationships necessitate emotional maturity, and open-source models demand technical expertise. However, these unconventional approaches highlight a crucial point – the need for a human-centric approach to solve the problems of the future. By prioritizing human well-being and fostering collaboration, we can navigate the disruptions of technology and create a more equitable and resilient society. Ultimately, the key lies in embracing change while preserving the core values that bind us together. 
 
 
 
