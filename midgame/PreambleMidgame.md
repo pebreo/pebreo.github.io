@@ -8,7 +8,7 @@
 
 
 ## Angela
-The phone buzzed on the nightstand, illuminating Angela's face in the soft glow. It was Mark, his message a cascade of words that made her heart skip a beat. Research polyamory? The phrase, echoing a well-worn passage in "Range" by David Epstein on her nightstand (the one about antifragility, underlined furiously), sent a jolt through her.
+The phone buzzed on the nightstand, illuminating Angela's face in the soft glow. It was Mark, his message a cascade of words that made her heart skip a beat. They have been looking into polyamory. Reading books, listening to podcasts, watching videos. Mark said, "I think we can do this." 
 
 Five years of marriage, a comfortable routine, a well-worn path. But lately, a quiet discontent had settled in. Their careers had taken off in different directions, their friend groups evolved, and shared passions felt like forgotten songs.
 
