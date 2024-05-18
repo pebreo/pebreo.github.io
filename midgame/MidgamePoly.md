@@ -5,7 +5,9 @@
 
 
 ## why itd work
-- its been done before
-- ppl are doing it
+- its been done & ppl make it work
+- partners who engage in honest communication makes both strong & bonds strong
+
+### other resons
 - you have to work on mentak healh& commmunucation anyway
 
