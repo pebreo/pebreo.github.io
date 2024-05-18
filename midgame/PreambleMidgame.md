@@ -30,9 +30,13 @@ Automation is a double-edged sword. While it fuels economic growth, it also disp
 
 By providing all citizens with basic needs met with a guaranteed payment, regardless of employment status, the freedom dividend can prevent permanent damage from  unexpected emergencies, hard times, and economic anxiety. It empowers individuals to pursue education, retrain for new jobs, or even start their own businesses. This fosters innovation and entrepreneurship in the face of technological disruption.  
 
-**Rethinking Relationships: Openness for a More Stable Society?**
+**Rethinking Relationships**
 
-Developed countries face a paradox – declining birth rates coupled with high divorce rates. This raises concerns about a shrinking workforce and a strain on social security systems. While promoting traditional family structures remains important, a more radical approach could be explored: open relationships.  Although this concept challenges societal norms, it could offer couples a way to address individual needs for intimacy and fulfillment while maintaining a stable family unit. Open relationships, when navigated with honesty and clear communication,  could potentially reduce the emotional and financial toll of divorce, leading to a more stable societal structure. However, the success of this approach hinges on cultural acceptance and responsible implementation. 
+Developed countries face a paradox – declining birth rates coupled with high divorce rates. This raises concerns about a shrinking workforce and a strain on social security systems. While promoting traditional family structures remains important, one approach could be explored: polyamory and ethical non-monogamy. 
+
+todo: story of angela
+
+Although this concept challenges societal norms, it could offer couples a way to address individual needs for intimacy and fulfillment while maintaining a stable family unit. Open relationships, when navigated with honesty and clear communication,  could potentially reduce the emotional and financial toll of divorce, leading to a more stable societal structure. However, the success of this approach hinges on cultural acceptance and responsible implementation. 
 
 **Democratizing Resources: Open Source for Food and Shelter**
 
