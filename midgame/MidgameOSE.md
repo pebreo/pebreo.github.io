@@ -26,7 +26,7 @@ Days turned into weeks as Marcin nursed Bertha back to health, every penny he’
 
 Just as hope flickered back, a sickening crunch shattered the morning quiet. Bertha, spewing smoke, refused to budge. Despair threatened to engulf Marcin. He stared at the endless fields, the dream turning into a nightmare. How would he feed his family? How could he explain this to Elara, her eyes already etched with worry?
 
-That evening, Elara placed a steaming bowl of stew in front of him. Her smile, though strained, held a strength that mirrored the wheat swaying in the breeze. "We'll figure it out," she said, her voice firm. 
+That evening, Elara placed a steaming bowl of stew in front of him. Her smile, though strained, held a strength that mirrored the wheat swaying in the breeze. "We'll figure it out," she said, her voice firm. To be continued...
 
 ## TLDR
 The status quo is planned obsolence. Bad things can happen and really hurt you. Not everyone can afford the newest, best, or even unexpected repairs.
