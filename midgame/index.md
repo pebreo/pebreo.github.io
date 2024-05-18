@@ -6,3 +6,11 @@
 [Preamble](https://pebreo.github.io/endgame/Preamble.html)
 
 
+
+life - food - ose
+
+love - poly destigmatized
+
+wealth - ubi
+
+
