@@ -16,7 +16,7 @@ Mark, ever the adventurer, was proposing an experiment – a chance to explore n
 
 Taking a fortifying breath, Angela messaged back, "Ok. Let's talk." Their usual spot, a cozy bookstore cafe, buzzed with the same nervous energy that crackled between them. Mark, anxious and excited, was a jumbled mess of explanations.  Angela countered, a wry smile on her lips, "So, fragile egos are a dealbreaker then?"
 
-Laughter, shaky and laced with tension, filled the air. The conversation flowed, halting at times, but raw with a newfound honesty. They talked about jealousy, boundaries, communication, the exhilarating terror of the unknown, even couples therapy. They had a lot scary things to say to eachother. It wasn't a solution, but a step, a leap of faith into the messy, unpredictable world Epstein championed.
+Laughter, shaky and laced with tension, filled the air. The conversation flowed, halting at times, but raw with a newfound honesty. They talked about jealousy, boundaries, communication, even couples therapy. They had a lot scary things to say to eachother. It wasn't a done deal, but a step, a leap of faith into the messy, unpredictable world of antifragility.
 
 As they walked out, the city lights twinkling against the twilight sky, Angela felt a lightness she hadn't known existed. The road ahead was uncertain, but the fear was laced with a strange, exhilarating thrill.
 
