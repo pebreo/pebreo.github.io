@@ -20,7 +20,7 @@ Here I present plans to help bridge us to The Endgame. However, these actions mu
 
 ## The Human Touch in a Technological Age: Solutions for a Changing World
 
-The relentless march of technology presents both opportunities and challenges. While it automates tasks and improves efficiency, it can also leave some workers behind, leading to people losing their livelihoods. For some its temporay, for other devastating. Can you imagine yourself in their situation?
+The relentless march of technology presents both opportunities and challenges. While it automates tasks and improves efficiency, it can also leave some workers behind, leading to people losing their livelihoods. For some its temporay, for others permanent and devastating. Can you imagine yourself in their situation?
 
 Furthermore, developed countries face a unique set of problems – declining birth rates and rising divorce rates. 
 
