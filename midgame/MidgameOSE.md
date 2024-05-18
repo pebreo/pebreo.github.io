@@ -28,6 +28,10 @@ Just as hope flickered back, a sickening crunch shattered the morning quiet. Ber
 
 That evening, Elara placed a steaming bowl of stew in front of him. Her smile, though strained, held a strength that mirrored the wheat swaying in the breeze. "We'll figure it out," she said, her voice firm. 
 
-The next morning, a knock on the door startled him. It was his neighbor, Janusz, a weathered farmer with a twinkle in his eye. "Heard about Bertha," he said, a mischievous grin spreading across his face. "Don't worry, son. We'll get you back on track, one way or another."
+## TLDR
+The status quo is planned obsolence. Bad things can happen and really hurt you. Not everyone can afford the newest, best, or even unexpected
+p
+todo: story of smiths
 
-Marcin didn't know what the future held, but as he watched Janusz and his sons tinkering with Bertha, a flicker of hope ignited within him. The road ahead would be tough, but with Elara at his side and the kindness of his newfound community, he knew they would weather any storm. 
+todo: discuss ose & freedom dividend
+
