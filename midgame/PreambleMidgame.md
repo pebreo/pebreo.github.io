@@ -4,7 +4,13 @@
 
 - preamble : poly can only be adopted if antifragile mindset adopted
 
-- preamble: we can upgrade our economic system to use open construction and farming. 
+- preamble: we can upgrade our economic system to use open construction and farming.
+
+## Section 2 - Playing our cards right
+## put in part1
+
+With the pieces in place 
+
 
 
 ## Angela
