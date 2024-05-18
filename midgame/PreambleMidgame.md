@@ -28,7 +28,7 @@ todo : story of smiths
 
 Automation is a double-edged sword. While it fuels economic growth, it also displaces workers whose skillsets are no longer needed. This creates a crucial need for a safety net – a system that ensures hard times don't cripple you. The freedom dividend is the solution.
 
-By providing all citizens with basic needs met with a guaranteed payment, regardless of employment status, the freedom dividend can prevent permanent damage from  unexpected emergencies, hard times, and constant economic stress. It empowers individuals to pursue education, retrain for new jobs, or even start their own businesses. This fosters innovation and entrepreneurship in the face of technological disruption.  
+By providing all citizens with basic needs met with a guaranteed payment, regardless of employment status, the freedom dividend can prevent permanent damage from  unexpected emergencies, hard times, and constant economic stress. It empowers individuals to pursue education, retrain for new jobs, or even start their own businesses. This allows and encourages innovation and entrepreneurship in the face of technological disruption.  
 
 **Rethinking Relationships**
 
