@@ -9,7 +9,7 @@
 ## Section 2 - Playing our cards right
 ## put in part1
 
-![bridge](https://pebreo.github.io/IMG_0216.jpeg)
+![bridge](https://pebreo.github.io/IMG_0228.jpeg)
 
 In the last section I defined intelligence, consciousness, whst the blockchain does, polyamory (and ethical non-monogamy), and what it means to upgrade to an antifragile mindset. Last, I describe a way to make AI that it human-sligned, explainable & understandable, and would be affordable to all.
 
