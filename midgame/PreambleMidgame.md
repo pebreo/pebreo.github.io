@@ -13,7 +13,9 @@ In the last section I defined intelligence, consciousness, whst the blockchain d
 
 We covered a lot. But even with the pieces in place, we still have to play our cards right. 
 
-Heres the next steps...
+Here I present plans to help bridge us to The Endgame. However, these actions must be done first before we reach GOAT World.
+
+
 ## The Human Touch in a Technological Age: Solutions for a Changing World
 
 The relentless march of technology presents both opportunities and challenges. While it automates tasks and improves efficiency, it can also leave some workers behind, leading to unemployment. 
