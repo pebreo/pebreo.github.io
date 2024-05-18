@@ -4,7 +4,7 @@
 
 - preamble : poly can only be adopted if antifragile mindset adopted
 
-- preamble: robowotkers , robobutlers, robotaxis can be widespread w/ upgrading AI
+- preamble: we can upgrade our economic system to use open construction and farming. 
 
 
 ## Angela
