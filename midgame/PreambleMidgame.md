@@ -22,9 +22,13 @@ Furthermore, developed countries face a unique set of problems – declining bir
 
 Finally, the high cost of essential resources like housing and farming equipment creates a barrier to entry for many. The challenges are big so we need novel, bold solutions: the freedom dividend, polyamory / ethical non-monogamy, and open-source models.
 
+todo : story of smiths
+
 **The Disruption Dilemma: The Freedom Dividend as another safety net**
 
-Automation is a double-edged sword. While it fuels economic growth, it also displaces workers whose skillsets are no longer needed. This creates a crucial need for a safety net – a system that ensures hard times don't cripple you. The freedom dividend emerges as a potential solution. By providing all citizens with a guaranteed income, regardless of employment status, UBI can alleviate poverty and economic anxiety. It empowers individuals to pursue education, retrain for new jobs, or even start their own businesses. This fosters innovation and entrepreneurship in the face of technological disruption.  
+Automation is a double-edged sword. While it fuels economic growth, it also displaces workers whose skillsets are no longer needed. This creates a crucial need for a safety net – a system that ensures hard times don't cripple you. The freedom dividend is the solution.
+
+By providing all citizens with basic needs met with a guaranteed payment, regardless of employment status, the freedom dividend can prevent permanent damage from  unexpected emergencies, hard times, and economic anxiety. It empowers individuals to pursue education, retrain for new jobs, or even start their own businesses. This fosters innovation and entrepreneurship in the face of technological disruption.  
 
 **Rethinking Relationships: Openness for a More Stable Society?**
 
