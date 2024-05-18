@@ -1,5 +1,5 @@
-![bridge](https://pebreo.github.io/IMG_0228.jpeg)
-#### GOATs crossing a bridge
+![bridge](https://pebreo.github.io/IMG_0226.jpeg)
+#### GOATs climb to cross
 
 ## Maya 
 Maya clutched the worn handlebars of the rickety roller coaster, heart hammering a frantic rhythm against her ribs. Below, the twisted metal track snaked through the park, a steel serpent promising both terror and exhilaration. Her best friend, Kai, beside her, sported a wide, confident grin.
