@@ -24,7 +24,7 @@ The relentless march of technology presents both opportunities and challenges. W
 
 Furthermore, developed countries face a unique set of problems – declining birth rates and rising divorce rates. 
 
-Finally, the high cost of essential resources like housing and farming equipment creates a barrier to entry for many. The challenges are big so we need novel, bold solutions: the freedom dividend, polyamory / ethical non-monogamy, and open-source models.
+Finally, the high cost of essential resources like housing and farming equipment creates a barrier to entry for many. The challenges are big so we need novel, bold solutions: the freedom dividend, polyamory / ethical non-monogamy (ENM), and open-source models.
 
 todo : story of smiths
 
@@ -44,7 +44,7 @@ Developed countries face a paradox – declining birth rates coupled with high d
 
 todo: story of angela
 
-Although this concept challenges societal norms, it could offer couples a way to address individual needs for intimacy and fulfillment while maintaining a stable family unit. Open relationships, when navigated with honesty and clear communication,  could potentially reduce the emotional and financial toll of divorce, leading to a more stable societal structure. However, the success of this approach hinges on cultural acceptance and responsible implementation. 
+Although polyamory & ENM challenges societal norms, it offer couples a choice and a way to address individual needs for intimacy and fulfillment while maintaining a stable family unit. These open relationships, when navigated with honesty and clear communication, could reduce the costly and very painful wounds of divorce. How many families has this affected? How much temporary and permant damage does it cause? Is it worth looking into? The success of this relationship style being just another option hinges on cultural acceptance and responsible implementation. 
 
 **Democratizing Resources: Open Source for Food and Shelter**
 
