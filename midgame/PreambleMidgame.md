@@ -9,7 +9,8 @@
 ## Section 2 - Playing our cards right
 ## put in part1
 
-With the pieces in place 
+In the last section I defined intelligence, consciousness, whst the blockchain does, and what it means to be antifragile. Last, I describe a way to make AI that it human-sligned, explainable & understandable, and would be affordable to all.
+With the pieces in place, we must now play our cards right to win the game.
 
 
 
