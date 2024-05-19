@@ -43,6 +43,8 @@ Near unlimited labor
 AI
 Blockchainon pm
 
+## story - goat journry
+
 ## the plan
 This book describes an ambitious plan to upgrade humanity. Here it is in a nutshell.
 
