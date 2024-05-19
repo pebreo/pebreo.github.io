@@ -46,6 +46,8 @@ todo: story of angela
 
 Although polyamory & ENM challenges societal norms, it offer couples a choice and a way to address individual needs for intimacy and fulfillment while maintaining a stable family unit. These open relationships, when navigated with honesty and clear communication, could reduce the costly and very painful wounds of divorce. How many families has this affected? How much temporary and permant damage does it cause? Is it worth looking into? The success of this relationship style being just another option hinges on cultural acceptance and responsible implementation. 
 
+todo : table of more than on spuse indifferrtt cuktures in historty
+
 todo : Marcin
 
 **Democratizing Resources: Open Source for Food and Shelter**
