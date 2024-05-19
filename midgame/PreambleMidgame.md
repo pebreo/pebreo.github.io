@@ -34,7 +34,7 @@ The freedom dividend is a safety net. Let me explain.
 
 Automation and robot labor are coming online. It's a game changer. While it will fuel incredible economic growth, it also it leaves many in our communities behind - their skillsets no longer needed. This creates a crucial need for a safety net – a system that ensures hard times don't cripple you. The freedom dividend is the solution.
 
-The freedom dividend is like fertilizer and soil. Why?
+Also, the freedom dividend is like fertilizer and soil. Why?
 
 By providing all citizens with basic needs met with a guaranteed payment, regardless of employment status, the freedom dividend can prevent permanent damage from  unexpected emergencies, hard times, and constant economic stress. It empowers individuals to pursue education, retrain for new jobs, or even start their own businesses. This allows and encourages innovation and entrepreneurship even in the face of technological disruption. 
 
