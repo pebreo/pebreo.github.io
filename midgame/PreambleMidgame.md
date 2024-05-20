@@ -2,6 +2,8 @@
 - pattern: story, tldr, story, tldr, concept, table, prose
 - intro, table, prose
 
+- presmble : poly not for everybody
+
 - preamble : poly can only be adopted if antifragile mindset adopted
 
 - preamble: we can upgrade our economic system to use open construction and farming.
