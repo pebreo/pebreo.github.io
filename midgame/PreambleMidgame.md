@@ -8,6 +8,19 @@
 
 - preamble: we can upgrade our economic system to use open construction and farming.
 
+## idea
+part 1
+- intelligence - wealth
+- consciouness - wealth
+- mindset - life
+- poly - love
+
+part 2
+- ose - weslth
+- ubi - life
+- blockchain -  ?
+
+
 ## Section 2 - Playing our cards right
 ## put in part1
 
