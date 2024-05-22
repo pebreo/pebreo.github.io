@@ -114,3 +114,5 @@ As they walked out, the city lights twinkling against the twilight sky, Angela f
 
 ## TLDR
 Adopting the idea that you can grow from hardship even includes romantic relationships. An antifragile mindset is scary but can be very rewarding.
+
+todo: poly/enm throughout history
