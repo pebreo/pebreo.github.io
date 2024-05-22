@@ -39,7 +39,7 @@ Silence settled between them, heavy with uncertainty. Maybe there was no ideal. 
 
 
 ## TLDR
-Polyamory and ethical non-monogamy (ENM) is not the ideal relationship style for everybody. There is no such thing. It is just another choice for informed, consenting adults.
+Polyamory and ethical non-monogamy (ENM) is not the ideal relationship style for everybody. It is just another choice for informed, consenting adults.
 
 
 ## Section 2 - Playing our cards right
