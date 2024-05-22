@@ -99,7 +99,7 @@ The solutions presented here are not without their challenges. UBI requires care
 
 
 
-## Angela
+## Angela and Mark
 The phone buzzed on the nightstand, illuminating Angela's face in the soft glow. It was Mark, his message a cascade of words that made her heart skip a beat. "I think we could make it work," he said. They have been looking into polyamory - reading books, listening to podcasts, and watching videos. 
 
 Five years of marriage, a comfortable routine, a well-worn path. But lately, a quiet discontent had settled in. Their careers had taken off in different directions, their friend groups evolved, and shared passions felt like forgotten songs.
