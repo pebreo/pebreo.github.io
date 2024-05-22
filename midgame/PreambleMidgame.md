@@ -38,6 +38,9 @@ Liam squeezed her hand. "Then we stop. There's no shame in that. There's no 'bet
 Silence settled between them, heavy with uncertainty. Maybe there was no ideal. Maybe eight billion different people craved eight billion different ways to love. Maybe, just maybe, the answer wasn't some pre-defined model, but a path they had to forge together, hand in hand, navigating the storm one careful step at a time.   
 
 
+## TLDR
+Polyamory and ethical non-monogamy (ENM) is not the ideal relationship style for everybody. There is no such thing. It is just another choice for informed, consenting adults.
+
 
 ## Section 2 - Playing our cards right
 ## put in part1
