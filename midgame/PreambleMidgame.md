@@ -1,3 +1,11 @@
+todo:
+- preamble
+- ose
+- poly
+- freedom dividend
+
+
+
 - patterm: story, tldr
 - pattern: story, tldr, story, tldr, concept, table, prose
 - intro, table, prose
