@@ -61,6 +61,8 @@ This open approach brings a wealth of strengths to the table. First, it democrat
 
 Second, it fosters rapid iteration. Unlike the slow, siloed processes of traditional hardware development, OSH allows for swift improvements and bug fixes as a distributed community puts the design through its paces. Think of it as a constant beta test, fueled by the collective ingenuity of the maker movement.
 
+Given the above, OSE is brimming with potential. 
+
 
 ## Why it would work
 - open source software already runs our infrastructure
