@@ -24,8 +24,9 @@ todo: story of angela
 
 Although polyamory & ENM challenges societal norms, it offer couples a choice and a way to address individual needs for intimacy and fulfillment while maintaining a stable family unit. These open relationships, when navigated with honesty and clear communication, could reduce the costly and very painful wounds of divorce. How many families has this affected? How much temporary and permant damage does it cause? Is it worth looking into? The success of this relationship style being just another option hinges on cultural acceptance and responsible implementation. 
 
- Outer pipes  Cell padding 
-No sorting
+## We've seen this movie before
+The concept of normalcy is a fascinatingly fluid one. Behaviors once deemed deviant, relegated to the fringes of society, have become commonplace as the world embraces the range of human experience. 
+
 | Behavior                               | Current Status                                                                                            | Time Period Considered Deviant                                           |
 | -------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | Women Wearing Pants                    | Common and fashionable clothing choice for women                                                          | 19th Century (seen as improper attire for women)                         |
@@ -38,9 +39,8 @@ No sorting
 | Marijuana Use (Medical & Recreational) | Legal for medical and/or recreational use in a growing number of countries (still illegal in many others) | 20th-21st Centuries (criminalized in many places)                        |
 | Polyamory                              | More openly discussed and practiced, though not universally accepted                                      | Varies by culture (often seen as immoral or sinful)                      |
 
-## We've seen this movie before
 
-The concept of normalcy is a fascinatingly fluid one. Behaviors once deemed deviant, relegated to the fringes of society, have become commonplace as the world embraces the range of human experience. Let's breifly recap once-taboo cultural phenomenon, revisiting activities that were once met with raised eyebrows but wouldn't even bat an eye.
+Let's breifly recap once-taboo cultural phenomenon, revisiting activities that were once met with raised eyebrows but wouldn't even bat an eye.
 
 * **Body Art:** From the rebellious sailors sporting intricate tattoos to the self-expression of dyed hair, body modifications were once seen as a mark of deviance. Today, tattoos are a mainstream form of art, adorning bodies of all ages and professions, a testament to our evolving definition of beauty.
 
