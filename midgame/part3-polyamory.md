@@ -24,9 +24,22 @@ todo: story of angela
 
 Although polyamory & ENM challenges societal norms, it offer couples a choice and a way to address individual needs for intimacy and fulfillment while maintaining a stable family unit. These open relationships, when navigated with honesty and clear communication, could reduce the costly and very painful wounds of divorce. How many families has this affected? How much temporary and permant damage does it cause? Is it worth looking into? The success of this relationship style being just another option hinges on cultural acceptance and responsible implementation. 
 
-todo : table of more than on spuse indifferrtt cuktures in historty
-
-
+ Outer pipes  Cell padding 
+No sorting
+| Behavior                               | Current Status                                                                                            | Time Period Considered Deviant                                           |
+| -------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| Women Wearing Pants                    | Common and fashionable clothing choice for women                                                          | 19th Century (seen as improper attire for women)                         |
+| Rock and Roll                          | Mainstream genre of music                                                                                 | 1950s (seen as rebellious and potentially corrupting)                    |
+| Dancing                                | Popular social activity and form of artistic expression                                                   | Varied throughout history (sometimes banned due to religious beliefs)    |
+| Alcohol Use                            | Legal and socially accepted for adults in moderation (can still be problematic)                           | Varied throughout history (religious restrictions, temperance movements) |
+| Tattoos                                | Widely accepted form of body art                                                                          | 18th-19th Centuries                                                      |
+| Homosexuality                          | Legal and increasingly accepted in many parts of the world                                                | Throughout history, criminalized in many places                          |
+| Interracial Relationships              | Legal and increasingly accepted in many parts of the world                                                | 18th-20th Centuries (illegal or socially unacceptable in many places)    |
+| Marijuana Use (Medical & Recreational) | Legal for medical and/or recreational use in a growing number of countries (still illegal in many others) | 20th-21st Centuries (criminalized in many places)                        |
+| Polyamory                              | More openly discussed and practiced, though not universally accepted                                      | Varies by culture (often seen as immoral or sinful)                      |
+📋 Copy
+Clear
+Buy Me a Coffee at ko-fi.com
 ## Why it would work
 
 ## What will happen
