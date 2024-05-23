@@ -5,11 +5,11 @@
 
 [Preamble](https://pebreo.github.io/midgame/Preamble.html)
 
-[Part 1: Open Source Ecology](https://pebreo.github.io/midgame/partW-ose.html)
+[Part 1: Open Source Ecology](https://pebreo.github.io/midgame/part1-ose.html)
 
-[Part 2: The Freedom Dividend](https://pebreo.github.io/midgame/partX-ubi.html)
+[Part 2: The Freedom Dividend](https://pebreo.github.io/midgame/part2-freedom-dividend.html)
 
-[Part 3: Polyamory](https://pebreo.github.io/midgame/partY-poly.html)
+[Part 3: Polyamory](https://pebreo.github.io/midgame/part3-polyamory.html)
 
 
 
