@@ -38,6 +38,8 @@ For the developing world, the cost of essential resources like farming equipment
 
 Enter the Open Sourcd Ecology (OSE) projct which is an attemlt to fix this by making the plans to iur socidty freely available. Thr call it the Global Village Construction set. it includes plans for tractors, back hoes, 3D printers, and more.  By the sharing designs and blueprints freely, individuals and communities can manufacture their own tools and shelters at a significantly lower cost. 
 
+![gvcs](http://pebreo.github.io/IMG_0542.jpeg)
+
 Could open-sourcing hardware work?
 
 Lets step back to see the most famius exzmple of open-source success: Linux
