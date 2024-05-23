@@ -30,7 +30,7 @@ Just as hope flickered back, a sickening crunch shattered the morning quiet. Ber
 That evening, Elara placed a steaming bowl of stew in front of him. Her smile, though strained, held a strength that mirrored the wheat swaying in the breeze. "We'll figure it out," she said, her voice firm. To be continued...
 
 ## TLDR
-The status quo is planned obsolence. Bad things can happen and really hurt you. Not everyone can afford the newest, best, or even unexpected repairs.
+The status quo is planned obsolence. Not everyone can afford the newest, best, or even unexpected repairs.
 
 **Democratizing Resources: Open Source for Food and Shelter**
 
