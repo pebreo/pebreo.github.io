@@ -27,6 +27,8 @@ Also, this fosters a collaborative environment where communities can pool resour
 
 
 ## Why it would work
+- open source software already runs our infrastructure
+- fusion & ai will be availble to run it
 - more eyes to find bugs
 - more eyes to make improvements
 - in public domain so availbe to modify for specific use
