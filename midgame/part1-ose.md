@@ -14,7 +14,9 @@ The relentless march of technology presents us both staggering possibilities and
 
 Furthermore, developed countries face a unique set of problems – declining birth rates and rising divorce rates. 
 
-Finally, the high cost of essential resources like housing and farming equipment creates a barrier to entry for many. The challenges are big so we need novel, bold solutions: the freedom dividend, polyamory / ethical non-monogamy (ENM), and open-source models.
+For developing countries, they can "leap ahead" by adopting mostly mature and proven tech from the developed world. For example, the cost of essential resources like housing and farming equipment can create a barrier to entry for many. 
+
+The challenges are big so we need novel, bold solutions: the freedom dividend, polyamory / ethical non-monogamy (ENM), and open-source models.
 
 Here I present plans to help bridge us to The Endgame. However, these actions must be done first before we reach GOAT World.
 
