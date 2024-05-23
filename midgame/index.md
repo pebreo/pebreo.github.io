@@ -12,4 +12,5 @@
 [Part 3: Polyamory](https://pebreo.github.io/midgame/part3-polyamory.html)
 
 
+[Addendum](https://pebreo.github.io/midgame/addendum.html)
 
