@@ -37,9 +37,8 @@ No sorting
 | Interracial Relationships              | Legal and increasingly accepted in many parts of the world                                                | 18th-20th Centuries (illegal or socially unacceptable in many places)    |
 | Marijuana Use (Medical & Recreational) | Legal for medical and/or recreational use in a growing number of countries (still illegal in many others) | 20th-21st Centuries (criminalized in many places)                        |
 | Polyamory                              | More openly discussed and practiced, though not universally accepted                                      | Varies by culture (often seen as immoral or sinful)                      |
-📋 Copy
-Clear
-Buy Me a Coffee at ko-fi.com
+
+
 ## Why it would work
 
 ## What will happen
