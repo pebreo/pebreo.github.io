@@ -49,7 +49,8 @@ Also, this fosters a collaborative environment where communities can pool resour
 - no incentive build in obsolesence
 - 
 ## What will happen 
-
+- freely avaiable plans would allow developing nations to have the best technology too
+- allow foundational technologies to be improved up
 
 ## Next chapter
 
