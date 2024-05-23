@@ -34,13 +34,9 @@ The status quo is planned obsolence. Not everyone can afford the newest, best, o
 
 **Democratizing Resources: Open Source for Food and Shelter**
 
-The high cost of essential resources like farming equipment, housing materials, and seeds creates a barrier to self-sufficiency for many. 
+The high cost of essential resources like farming equipment, housing materials, and seeds creates a barrier to self-sufficiency for many.
 
-Open Source Ecology...
 
-Open-source models, currently used in software development, offer a novel solution. By sharing designs and blueprints freely, individuals and communities can manufacture their own tools and shelters at a significantly lower cost. Now, combine this with the inevitable robotic labor and affordable housing, food, and other basic necessities become much more affordable to all.
-
-Also, this fosters a collaborative environment where communities can pool resources and knowledge, empowering them to become more self-reliant. Open-source farming equipment, for instance, would revolutionize agriculture in developing countries, making food production more accessible. 
 
 ## Story of Linux
 The infrastructure of the Internet is run mostly by open-source operating system, Linux. It's significance is undeniable. How did we get here and could it work for hardware?
@@ -54,9 +50,11 @@ Today, Linux dominates the server landscape, the invisible engine powering every
 While it might not be the perfect fit for everyone, Linux remains a powerful, free alternative with a passionate community that thrives on the beautiful messiness of open-source collaboration. It's a reminder, as Epstein argues, that the most transformative ideas often emerge from the fringes, from those willing to embrace the unexpected and forge their own path.   
 
 ## Upgrading hardware development
+What if we could emulate the succedx in open source softwars to hardware? Enter Open Source Ecology.
+
 The open-source revolution wasn't confined to the digital realm. It spilled over into the world of hardware, sparking a movement that echoed the same spirit of collaboration and innovation. Here's the gist:
 
-Imagine a world where the blueprints for a circuit board, the intricate plans for a 3D printer, weren't locked away in corporate vaults. That's the beauty of open-source hardware (OSH). Just like with software, the design schematics and manufacturing instructions are freely available, empowering a global tinkerers' workshop. This fosters a beautiful synergy, as Epstein highlights in "Range." Anyone with a passion and a soldering iron can contribute, modify, and improve upon existing designs.
+Imagine a world where the blueprints for a circuit board, the intricate plans for a 3D printer, weren't locked away in corporate vaults. That's the beauty of open-source ecology (OSE). Just like with software, the design schematics and manufacturing instructions are freely available, empowering a global tinkerers' workshop. This fosters a beautiful synergy. Anyone with a passion and a soldering iron can contribute, modify, and improve upon existing designs.
 
 This open approach brings a wealth of strengths to the table. First, it democratizes innovation. Resource-constrained inventors, the proverbial garage geniuses, can tap into a global knowledge base and collaborate on projects that might have otherwise remained mere pipe dreams. Second, it fosters rapid iteration. Unlike the slow, siloed processes of traditional hardware development, OSH allows for swift improvements and bug fixes as a distributed community puts the design through its paces. Think of it as a constant beta test, fueled by the collective ingenuity of the maker movement.
 
