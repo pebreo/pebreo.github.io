@@ -58,7 +58,7 @@ Let's breifly recap once-taboo cultural phenomenon, revisiting activities that w
 
 * **Beyond Monogamy:** Open relationships, once considered taboo, are being discussed more openly as people explore different ways to structure love and intimacy. Whether this becomes mainstream remains to be seen, but it highlights the ongoing evolution of our understanding of human connection.
 
-These are just a few examples of how societal norms have shifted, embracing once-deviant behaviors. As Epstein argues, this adaptability is a key to human progress. By venturing outside our comfort zones, we enrich our lives and create a world that is more inclusive and vibrant. The journey continues, and who knows what "deviant" behaviors will become the next cherished aspects of our diverse human experience? 
+These are just a few examples of how societal norms have shifted, embracing once-deviant behaviors. This is a pattern we've seen before. In my experience, venturing outside your comfort zones, enriches your lives. The journey continues, and finding a different path in navigating romantic relationships ? 
 
 ## Why it would work
 
