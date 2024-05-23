@@ -1,6 +1,6 @@
 ![horse](https://pebreo.github.io/IMG_9387.jpeg)
 ##### credit: pixabay
-"You can get through if you BELIEVE you can get through. The mind is a strong muscle. It takes on what you put in it." - Ms. Pat
+"You can get through if you BELIEVE you can get through. The mind is a strong muscle." - Ms. Pat
 
 
 [Preamble](https://pebreo.github.io/midgame/Preamble.html)
