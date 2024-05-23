@@ -53,11 +53,9 @@ Today, Linux dominates the server landscape, the invisible engine powering every
    
 
 ## Upgrading hardware development
-What if we could emulate the succedx in open source softwars to hardware?
+What if we could emulate the succedx in open source softwars to hardware? Yes.
 
-The open-source revolution wasn't confined to the digital realm. It spilled over into the world of hardware, sparking a movement that echoed the same spirit of collaboration and innovation. Here's the gist:
-
-Imagine a world where the blueprints for a circuit board, the intricate plans for a 3D printer, weren't locked away in corporate vaults. That's the beauty of open-source ecology (OSE). Just like with software, the design schematics and manufacturing instructions are freely available, empowering a global tinkerers' workshop. This fosters a beautiful synergy. Anyone with a passion and a soldering iron can contribute, modify, and improve upon existing designs.
+Imagine a world where the blueprints for a circuit board, the intricate plans for a 3D printer, weren't so unaffordabke to so many. Just like with software, the design schematics and manufacturing instructions are freely available. Anyone with a passion and a soldering iron can contribute, modify, and improve upon existing designs.
 
 This open approach brings a wealth of strengths to the table. First, it democratizes innovation. Resource-constrained inventors, the proverbial garage geniuses, can tap into a global knowledge base and collaborate on projects that might have otherwise remained mere pipe dreams. Second, it fosters rapid iteration. Unlike the slow, siloed processes of traditional hardware development, OSH allows for swift improvements and bug fixes as a distributed community puts the design through its paces. Think of it as a constant beta test, fueled by the collective ingenuity of the maker movement.
 
