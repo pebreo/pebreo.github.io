@@ -18,3 +18,8 @@ Silence settled between them, heavy with uncertainty. Maybe there was no ideal. 
 
 ## TLDR
 Polyamory and ethical non-monogamy (ENM) is not the ideal relationship style for everybody. It is just another choice for informed, consenting adults.
+
+## Next chapter
+[Part 1: Open Source Ecology]()
+
+[TOC](https://pebreo.github.io/midgame)
