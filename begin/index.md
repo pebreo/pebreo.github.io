@@ -1,6 +1,14 @@
 ![horse](https://pebreo.github.io/IMG_9387.jpeg)
 ##### credit: pixabay
 
+
+And if I have the gift of prophecy and comprehend all mysteries and all knowledge; if I have all faith so as to move mountai
+
+13 Corinthians 3:2
+New Internation version
+
+"If I have see  further, it is I have stood of thd shoulders of giants." -Isaac Newton
+
 [Preamble](https://pebreo.github.io/begin/Preamble-Science-and-Personal-experience.html)
 
 
