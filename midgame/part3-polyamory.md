@@ -16,15 +16,40 @@ Adopting the idea that you can grow from hardship even includes romantic relatio
 
 
 ## What is polyamory and ENN?
+Ethical non-monogamy (ENM), which encompasses open relationships and polyamory, is a relationship structure where partners agree to have romantic or intimate relationships with people outside of the primary couple. However, unlike cheating, ENM is based on  **open communication, consent, and clear boundaries**. 
 
+
+![relationships](https://pebreo.github.io/IMG_0540.jpeg)
+There are actually many more ...
+
+
+Here's a breakdown of the key aspects:
+
+* **Open Communication:**  Honest and transparent discussions about desires, expectations, and boundaries are crucial. Partners openly discuss the possibility of having relationships with others and establish ground rules for those relationships.
+* **Consent:**  Everyone involved, including existing partners and new partners, must give their full and enthusiastic consent to all aspects of the relationship. Coercion or manipulation is strictly off-limits.
+* **Clear Boundaries:**  The level of openness in an ENM relationship can vary. Some couples might only be open to emotional connections, while others might be comfortable with physical intimacy as well.  It's important to define these boundaries clearly to avoid confusion or jealousy.
+
+**Open Relationships:**
+
+* This is a specific type of ENM where partners are open to having romantic or sexual relationships with others outside of the primary couple. 
+* The focus might be on casual encounters or more committed secondary relationships.
+
+**Polyamory:**
+
+* This is another type of ENM where individuals can have multiple committed romantic relationships simultaneously, with the knowledge and consent of all partners involved. 
+* Polyamorous relationships often involve a strong emotional connection and commitment between all partners, creating a network of love and support.
+
+**Why might someone choose ENM?**
+
+There are many reasons why people might choose ENM. Some might feel their emotional or physical needs aren't being fully met in a monogamous relationship.  Others might simply value having a wider range of connections and experiences. 
+
+**It's important to remember that ENM isn't for everyone**. It requires a lot of emotional maturity, clear communication, and a willingness to navigate complex feelings. 
 
 **Rethinking Relationships**
 
 Developed countries face a paradox – declining birth rates coupled with high divorce rates. This raises concerns about a shrinking workforce and a strain on social security systems. While promoting traditional family structures remains important, one approach could be explored: polyamory and ethical non-monogamy (ENM). 
 
 When practiced ethically (ie no consent) and with clear communication, it could prevent divorces.  The all-too common scenario is when couples desires children but struggle with emotional or physical intimacy. In polyamory/ENM, they could explore those needs with compatible partners outside the relationship,  potentially strengthening their core bond  by alleviating pressure and fostering open communication. It wouldn't be about dismantling traditional families, but offering an alternative structure that caters to individual needs and potentially prevents the bitter breakdowns that plague today's realities.
-
-![relationships](https://pebreo.github.io/IMG_0540.jpeg)
 
 Although polyamory & ENM challenges societal norms, it offer couples a choice and a way to address individual needs for intimacy and fulfillment while maintaining a stable family unit. These open relationships, when navigated with honesty and clear communication, could reduce the costly and very painful wounds of divorce. How many families has this affected? How much temporary and permant damage does it cause? Is it worth looking into? The success of this relationship style being just another option hinges on cultural acceptance and responsible implementation. 
 
