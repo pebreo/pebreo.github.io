@@ -34,9 +34,13 @@ The status quo is planned obsolence. Not everyone can afford the newest, best, o
 
 **Democratizing Resources: Open Source for Food and Shelter**
 
-The Open Sourcd Ecology (OSE) is an attemlt to fix this by making the plans to iur socidty freely available. Thr call it the Global Village Construction set. it includes plans for tractors, back hoes, 3D printers, and more.
+For the developing world, the cost of essential resources like farming equipment and housing materials creates a barrier to self-sufficiency for many. Open-source models, currently used in software development, offer a novel solution.
 
-Lets stel back to see the most famius exzmple of open-source success: Linux
+Enter the Open Sourcd Ecology (OSE) projct which is an attemlt to fix this by making the plans to iur socidty freely available. Thr call it the Global Village Construction set. it includes plans for tractors, back hoes, 3D printers, and more.  By the sharing designs and blueprints freely, individuals and communities can manufacture their own tools and shelters at a significantly lower cost. 
+
+Could open-sourcing hardware work?
+
+Lets step back to see the most famius exzmple of open-source success: Linux
 
 ## Story of Linux
 The infrastructure of the Internet is run mostly by open-source operating system, Linux. It's significance is undeniable. How did we get here and could it work for hardware?
