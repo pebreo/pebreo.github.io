@@ -8,7 +8,7 @@ In the last section I defined intelligence, consciousness, whst the blockchain d
 
 We covered a lot. But even with the pieces in place, we still have to play our cards right. 
 
-The relentless march of technology presents both opportunities and challenges. While it automates tasks and improves efficiency, it can also leave people in our communities behind. For some the damage is temporay, for others permanent and devastating. Not everyone has the resources to weather the storm. Can you imagine yourself in their situation?
+The relentless march of technology presents us both staggering possibilities and nightmare scenarios. While it automates tasks and improves efficiency, it can also leave people in our communities behind. For some the damage is temporay, for others permanent and devastating. Not everyone has the resources to weather the storm. Can you imagine yourself in their situation?
 
 Furthermore, developed countries face a unique set of problems – declining birth rates and rising divorce rates. 
 
