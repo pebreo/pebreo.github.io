@@ -1,7 +1,4 @@
 
-why does open source software work better than closed?
-- more eyes to find bugs
-- more eyes to make improvements
 
 other benefits:
 - spur other insights/inventions
@@ -13,9 +10,7 @@ why are state secrets importamt?
 - to protect from harm fron malice
 
 ## why itd work
-- open source software runs our infrastructure
-- the plans have been proven to work (see house)
-- fusion & ai will be good enough
+
 
 ## Marcin
 Marcin squinted at the endless rows of wheat, his calloused hand tracing a hesitant line down a stalk. The city life, once a vibrant dream, now felt like a faded photograph compared to the earthy canvas stretching before him. He was a farmer now, a decision fueled by a yearning for simpler things, not a fat bank account.
