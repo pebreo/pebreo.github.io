@@ -22,3 +22,7 @@ The forced isolation wasn't all bad. Time, once a luxury programmer life rarely 
 Also, as his physical therapy progressed, a new fascination took root. The therapists spoke of the brain's two halves – the old, reptilian brain, content to keep him breathing and walking, and the neocortex, the shiny new toy responsible for that spark of imagination, the ability to problem solve, to dream.  Here was the key, he realized. AI works like the old brain. It needed an upgrade. 
 
 The world outside his window was slowly regaining its vibrancy, but within Roderigo, a different kind of revolution was brewing. He wouldn't just write code anymore, he'd sculpt a future where AI could not only understand his name, but also the symphony of accents that colored the world.  His stroke had stolen his mobility, but had inadvertently gifted him a new vision, a path that stretched far beyond the confines of his hospital room.  He now had the ability to be able to understand consciouness and intelligence. 
+
+
+## TLDR
+Without health, material comforts mean nothing. Both physical and mental health should both be paid attention to and taken care of,
