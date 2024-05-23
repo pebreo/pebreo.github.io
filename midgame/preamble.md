@@ -1,13 +1,13 @@
-## Yufuf
+## Yusuf
 Yusuf swiveled in his chair, the fluorescent lights of the conference room glinting off his bald head. A gaggle of young developers, their faces flushed with the fervor of youth, presented their latest project: a next-generation social media platform guaranteed to revolutionize user engagement. Their voices echoed with a familiar refrain, "Open-source it all! Let the collective mind of the internet build the future of connection!"
 
-Yusuf, the company's CEO and a veteran of the tech wars, couldn't help but admire their unbridled enthusiasm. Open-source software had become the tech world's golden goose, a symbol of radical collaboration and accelerated innovation.  However, as David Epstein explored in "Range," sometimes the most transformative ideas sprouted from venturing beyond the well-trodden path. Open-sourcing everything wasn't a magic spell that worked for every project.
+Yusuf, the company's CEO and a veteran of the tech wars, couldn't help but admire their unbridled enthusiasm. Open-source software had become the tech world's golden goose, a symbol of radical collaboration and accelerated innovation.  However, open-sourcing everything wasn't a magic spell that worked for every project.
 
 "Hold on a beat, team," Yusuf interjected, his voice calm but firm. "Open-source is a beautiful thing, but let's not get carried away. This platform has the potential to be disruptive, and let's be honest, some of those algorithms are our secret sauce."  He explained the delicate dance they needed to perform. Open-sourcing core functionalities could ignite a wave of creative contributions, but exposing their proprietary algorithms could leave them defenseless against copycats.
 
 A thoughtful hush fell over the room. Yusuf wasn't advocating for a cloistered approach. He envisioned a hybrid model – a meticulously curated open-source ecosystem where developers could contribute to specific features without jeopardizing their competitive edge. It wasn't the naive "build it and they will come" mindset, but a more nuanced strategy that embraced collaboration while safeguarding their intellectual property.
 
-The initial shock on the programmers' faces melted into understanding. They saw the potential for a thriving developer community, a force that could propel their platform's growth while maintaining a healthy dose of secrecy around their core innovations. As Yusuf left the meeting, a sense of accomplishment washed over him. Open-source software was a powerful tool, but like any tool, it needed to be wielded with strategic foresight and a keen understanding of its limitations. In the ever-shifting tech landscape, sometimes the most groundbreaking ideas emerged from striking the right balance between collaboration and calculated secrecy. 
+Open-source software was a powerful tool, but like any tool, it needed to be wielded with strategic foresight and a keen understanding of its limitations. In the ever-shifting tech landscape, sometimes the most groundbreaking ideas emerged from striking the right balance between collaboration and calculated secrecy. 
 
 ## TLDR
 Open sourcing all software code would be too harmful. For example, state secrets and privacy algorithms.
