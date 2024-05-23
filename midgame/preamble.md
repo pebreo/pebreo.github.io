@@ -10,7 +10,7 @@ A thoughtful hush fell over the room. Yusuf wasn't advocating for a cloistered a
 The initial shock on the programmers' faces melted into understanding. They saw the potential for a thriving developer community, a force that could propel their platform's growth while maintaining a healthy dose of secrecy around their core innovations. As Yusuf left the meeting, a sense of accomplishment washed over him. Open-source software was a powerful tool, but like any tool, it needed to be wielded with strategic foresight and a keen understanding of its limitations. In the ever-shifting tech landscape, sometimes the most groundbreaking ideas emerged from striking the right balance between collaboration and calculated secrecy. 
 
 ## TLDR
-The repercussions for revealing certain software code is too dire. For example, state secrets, propietsry algorithms
+Open sourcing all software code would be too harmful. For example, state secrets and privacy algorithms.
 
 ## Liam and Nadia
 As the snow fell, Nadia gazed through the window, lost in thought. Liam, her partner of seven years, sat across from her, wondering what she was thinking about. They'd been discussing their relationship, a conversation that had been circling for months. Liam, ever the explorer, had recently brought up polyamory, a concept that left Nadia feeling adrift.
