@@ -15,12 +15,14 @@ As they walked out, the city lights twinkling against the twilight sky, Angela f
 Adopting the idea that you can grow from hardship even includes romantic relationships. An antifragile mindset is scary but can be very rewarding.
 
 
+## What is polyamory and ENN?
+
 
 **Rethinking Relationships**
 
 Developed countries face a paradox – declining birth rates coupled with high divorce rates. This raises concerns about a shrinking workforce and a strain on social security systems. While promoting traditional family structures remains important, one approach could be explored: polyamory and ethical non-monogamy (ENM). 
 
-When practiced ethically (ie no lying or hiding) and with clear communication, could prevent divorces.  The all-too common scenario  where a couple desires children but struggles with emotional or physical intimacy. In polyamory/ENM, they could explore those needs with compatible partners outside the relationship,  potentially strengthening their core bond  by alleviating pressure and fostering open communication. It wouldn't be about dismantling traditional families, but offering an alternative structure that caters to individual needs and potentially prevents the bitter breakdowns that plague modern marriages.
+When practiced ethically (ie no consent) and with clear communication, it could prevent divorces.  The all-too common scenario is when couples desires children but struggle with emotional or physical intimacy. In polyamory/ENM, they could explore those needs with compatible partners outside the relationship,  potentially strengthening their core bond  by alleviating pressure and fostering open communication. It wouldn't be about dismantling traditional families, but offering an alternative structure that caters to individual needs and potentially prevents the bitter breakdowns that plague today's realities.
 
 ![relationships](https://pebreo.github.io/IMG_0540.jpeg)
 
