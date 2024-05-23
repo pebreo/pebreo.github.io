@@ -38,6 +38,27 @@ No sorting
 | Marijuana Use (Medical & Recreational) | Legal for medical and/or recreational use in a growing number of countries (still illegal in many others) | 20th-21st Centuries (criminalized in many places)                        |
 | Polyamory                              | More openly discussed and practiced, though not universally accepted                                      | Varies by culture (often seen as immoral or sinful)                      |
 
+## We've seen this movie before
+
+The concept of normalcy is a fascinatingly fluid one. Behaviors once deemed deviant, relegated to the fringes of society, have become commonplace as the world embraces the range of human experience. Let's breifly recap once-taboo cultural phenomenon, revisiting activities that were once met with raised eyebrows but wouldn't even bat an eye.
+
+* **Body Art:** From the rebellious sailors sporting intricate tattoos to the self-expression of dyed hair, body modifications were once seen as a mark of deviance. Today, tattoos are a mainstream form of art, adorning bodies of all ages and professions, a testament to our evolving definition of beauty.
+
+* **Love Without Borders:** Interracial relationships, once illegal in some places and frowned upon in many others, have become a beautiful reflection of our globalized world. Love stories defy borders, celebrating the richness that comes from embracing diversity.
+
+* **The Power of Pants:**  Imagine a world where women couldn't wear pants! Shocking as it may seem, trousers were once deemed "masculine" attire. Thankfully, practicality and a shift in societal norms paved the way for pants to become a staple in any woman's wardrobe.
+
+* **The Devil's Music:** Rock and roll, with its rebellious spirit and loud guitars, sent shockwaves through the 1950s. Now, it's a genre celebrated for its energy and innovation, a reminder that sometimes, the most disruptive forces can become the most beloved.
+
+* **The Joy of Movement:** From the swirling waltzes of the past to the pulsating beats of today's clubs, dancing has faced its fair share of criticism. Yet, the primal urge to move our bodies transcends cultural boundaries, reminding us of the universal language of joy and expression.
+
+* **A Toast (in Moderation):** Alcohol consumption has had a complex history, with periods of strict prohibition and social acceptance. Today, responsible drinking is a part of many cultures, a reminder that even "deviant" behaviors can be enjoyed in moderation.
+
+* **The Green Debate:** Marijuana, demonized for decades, is now finding acceptance for both medical and recreational uses. This shift reflects a growing openness to explore alternative treatments and redefine our relationship with psychoactive substances.
+
+* **Beyond Monogamy:** Open relationships, once considered taboo, are being discussed more openly as people explore different ways to structure love and intimacy. Whether this becomes mainstream remains to be seen, but it highlights the ongoing evolution of our understanding of human connection.
+
+These are just a few examples of how societal norms have shifted, embracing once-deviant behaviors. As Epstein argues, this adaptability is a key to human progress. By venturing outside our comfort zones, we enrich our lives and create a world that is more inclusive and vibrant. The journey continues, and who knows what "deviant" behaviors will become the next cherished aspects of our diverse human experience? 
 
 ## Why it would work
 
