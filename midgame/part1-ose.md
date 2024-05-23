@@ -18,8 +18,20 @@ Here I present plans to help bridge us to The Endgame. However, these actions mu
 
 
 
-## Why it would work
+**Democratizing Resources: Open Source for Food and Shelter**
 
+The high cost of essential resources like farming equipment, housing materials, and seeds creates a barrier to self-sufficiency for many. Open-source models, currently used in software development, offer a novel solution. By sharing designs and blueprints freely, individuals and communities can manufacture their own tools and shelters at a significantly lower cost. Now, combine this with the inevitable robotic labor and affordable housing, food, and other basic necessities become much more affordable to all.
+
+
+Also, this fosters a collaborative environment where communities can pool resources and knowledge, empowering them to become more self-reliant. Open-source farming equipment, for instance, would revolutionize agriculture in developing countries, making food production more accessible. 
+
+
+## Why it would work
+- more eyes to find bugs
+- more eyes to make improvements
+- in public domain so availbe to modify for specific use
+- no incentive build in obsolesence
+- 
 ## What will happen 
 
 
