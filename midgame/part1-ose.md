@@ -34,9 +34,8 @@ The status quo is planned obsolence. Not everyone can afford the newest, best, o
 
 **Democratizing Resources: Open Source for Food and Shelter**
 
-The high cost of essential resources like farming equipment, housing materials, and seeds creates a barrier to self-sufficiency for many.
 
-
+Lets stel back to see the most famius exzmple of open-source success: Linux
 
 ## Story of Linux
 The infrastructure of the Internet is run mostly by open-source operating system, Linux. It's significance is undeniable. How did we get here and could it work for hardware?
