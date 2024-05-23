@@ -1,6 +1,6 @@
 ![goat bridge](https://pebreo.github.io/IMG_0228.jpeg)
 ##### credit: pixabay
-"You can get through it IF you BELIEVE you can get through. The mind is a strong muscle." - Ms. Pat
+"You can get through it **if** you **believe** you can get through it. The mind is a strong muscle." - Ms. Pat
 
 
 [Preamble](https://pebreo.github.io/midgame/Preamble.html)
