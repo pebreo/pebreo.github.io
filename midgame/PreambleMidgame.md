@@ -33,8 +33,6 @@ part 2
 ## Section 2 - Playing our cards right
 ## put in part1
 
-![bridge](https://pebreo.github.io/IMG_0228.jpeg)
-#### GOATs crossing a bridge
 
 
 
