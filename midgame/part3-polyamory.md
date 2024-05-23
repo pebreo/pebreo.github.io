@@ -16,6 +16,17 @@ Adopting the idea that you can grow from hardship even includes romantic relatio
 
 
 
+**Rethinking Relationships**
+
+Developed countries face a paradox – declining birth rates coupled with high divorce rates. This raises concerns about a shrinking workforce and a strain on social security systems. While promoting traditional family structures remains important, one approach could be explored: polyamory and ethical non-monogamy. 
+
+todo: story of angela
+
+Although polyamory & ENM challenges societal norms, it offer couples a choice and a way to address individual needs for intimacy and fulfillment while maintaining a stable family unit. These open relationships, when navigated with honesty and clear communication, could reduce the costly and very painful wounds of divorce. How many families has this affected? How much temporary and permant damage does it cause? Is it worth looking into? The success of this relationship style being just another option hinges on cultural acceptance and responsible implementation. 
+
+todo : table of more than on spuse indifferrtt cuktures in historty
+
+
 ## Why it would work
 
 ## What will happen
