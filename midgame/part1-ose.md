@@ -39,6 +39,7 @@ The high cost of essential resources like farming equipment, housing materials, 
 Also, this fosters a collaborative environment where communities can pool resources and knowledge, empowering them to become more self-reliant. Open-source farming equipment, for instance, would revolutionize agriculture in developing countries, making food production more accessible. 
 
 ## Success story of open-source 
+The infrastructure of the Internet is run mostly by open-source operating system, Linux. It's significance is undeniable. How did we get here and could it work for hardware?
 
 Linux wasn't an overnight success story. It's a testament to the power of collaboration, a project with roots that burrow back to the 1980s. Back then, Richard Stallman, a visionary hacker, embarked on the GNU Project. His audacious goal? To create a free and open-source operating system, a rebellion against the proprietary giants that ruled the roost. The GNU Project became a breeding ground for essential tools and utilities, the building blocks of a revolutionary OS. But there was a missing piece, the heart of the beast – the kernel.
 
