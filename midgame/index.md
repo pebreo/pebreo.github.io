@@ -3,8 +3,7 @@
 "Are you crazy or just early?" - Amy Jo Kim
 
 
-[Preamble](https://pebreo.github.io/endgame/Preamble.html)
-
+[Preamble](https://pebreo.github.io/midgame/Preamble.html)
 
 
 life - food - ose
