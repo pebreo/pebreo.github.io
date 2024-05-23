@@ -36,8 +36,23 @@ The status quo is planned obsolence. Not everyone can afford the newest, best, o
 
 The high cost of essential resources like farming equipment, housing materials, and seeds creates a barrier to self-sufficiency for many. Open-source models, currently used in software development, offer a novel solution. By sharing designs and blueprints freely, individuals and communities can manufacture their own tools and shelters at a significantly lower cost. Now, combine this with the inevitable robotic labor and affordable housing, food, and other basic necessities become much more affordable to all.
 
-
 Also, this fosters a collaborative environment where communities can pool resources and knowledge, empowering them to become more self-reliant. Open-source farming equipment, for instance, would revolutionize agriculture in developing countries, making food production more accessible. 
+
+## Success story of open-source 
+
+Linux wasn't an overnight success story. It's a testament to the power of collaboration, a project with roots that burrow back to the 1980s. Back then, Richard Stallman, a visionary hacker, embarked on the GNU Project. His audacious goal? To create a free and open-source operating system, a rebellion against the proprietary giants that ruled the roost. The GNU Project became a breeding ground for essential tools and utilities, the building blocks of a revolutionary OS. But there was a missing piece, the heart of the beast – the kernel.
+
+Fast forward to 1991, and enter Linus Torvalds, a Finnish student who wasn't following the script. He wasn't consumed by building the next big thing; he just wanted a free Unix-like kernel for his own machine. What he created, however, resonated with a global audience. The magic of Linux lay in its open-source nature. Unlike its closed counterparts, it wasn't a walled garden. Anyone could tinker, modify, and distribute the kernel freely. This unleashed a global army of developers, a beautiful example of what Epstein, in his book "Range," calls the benefits of embracing multiple paths. Each contributor brought a unique perspective, and Linux evolved into a powerful, versatile OS.
+
+Today, Linux dominates the server landscape, the invisible engine powering everything from routers to supercomputers. It even lurks beneath the hood of Android smartphones, a testament to its adaptability. But the desktop world proved to be a trickier terrain.  For newbies, Linux can feel less intuitive than Windows or macOS. Installation can be a maze, configuration a cryptic language. Software availability can be a sticking point too, with creative apps and games sometimes requiring workarounds or sacrifices. Hardware compatibility can also be a gamble, with some components playing nice with Linux and others throwing up tantrums. 
+
+Then there's the question of fragmentation. The Linux world boasts a dazzling array of distributions, each catering to specific needs. This is a double-edged sword. While it offers incredible flexibility, it can overwhelm beginners trying to navigate the labyrinth and find the right "flavor" of Linux. Gamers might also find themselves on the outside looking in, as Linux often struggles with game compatibility and performance compared to Windows.
+
+But here's the thing: the Linux story is far from over. The community is a hotbed of innovation. Distributions are becoming more user-friendly, the software landscape is diversifying, and hardware compatibility is steadily improving. While it might not be the perfect fit for everyone, Linux remains a powerful, free alternative with a passionate community that thrives on the beautiful messiness of open-source collaboration. It's a reminder, as Epstein argues, that the most transformative ideas often emerge from the fringes, from those willing to embrace the unexpected and forge their own path.   
+
+## You cant make money on open-source
+
+... is the common criticism.
 
 
 ## Why it would work
