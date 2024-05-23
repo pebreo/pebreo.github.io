@@ -54,7 +54,7 @@ Fast forward to 1991, and enter Linus Torvalds, a Finnish student who wasn't fol
 Today, Linux dominates the server landscape, the invisible engine powering everything from routers to supercomputers. It even lurks beneath the hood of Android smartphones, a testament to its adaptability. 
    
 
-## Upgrading hardware development
+## Why open-source
 What if we could emulate the succedx in open source softwars to hardware? Yes.
 
 Imagine a world where the blueprints for a circuit board, the intricate plans for a 3D printer, weren't so unaffordabke to so many. Just like with software, the design schematics and manufacturing instructions are freely available. Anyone with a passion and a soldering iron can contribute, modify, and improve upon existing designs.
