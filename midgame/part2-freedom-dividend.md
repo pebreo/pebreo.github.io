@@ -12,9 +12,15 @@ Also, the fear of losing their jobs wouldn't disappear, but the terror of freefa
 ## TLDR
 Technological changes are coming fast and hard. The freedom dividend can be used to prevent permanent damage. It depends on the person.
 
-## The Human Touch in a Technological Age: Solutions for a Changing World
+**The Freedom Dividend: net, fertilizer, and soil**
 
+The freedom dividend is a safety net. Let me explain.
 
+Automation and robot labor are coming online. It's a game changer. While it will fuel incredible economic growth, it also it leaves many in our communities behind - their skillsets no longer needed. This creates a crucial need for a safety net – a system that ensures hard times don't cripple you. The freedom dividend is the solution.
+
+Also, the freedom dividend is like fertilizer and soil. Why?
+
+By providing all citizens with basic needs met with a guaranteed payment, regardless of employment status, the freedom dividend can prevent permanent damage from  unexpected emergencies, hard times, and constant economic stress. It empowers individuals to pursue education, retrain for new jobs, or even start their own businesses. This allows and encourages innovation and entrepreneurship even in the face of technological disruption. 
 
 ## Why it would work
 - people struggling and want it
