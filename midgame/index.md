@@ -1,4 +1,4 @@
-![horse](https://pebreo.github.io/IMG_9387.jpeg)
+![goat bridge](https://pebreo.github.io/IMG_0228.jpeg)
 ##### credit: pixabay
 "You can get through it IF you BELIEVE you can get through. The mind is a strong muscle." - Ms. Pat
 
