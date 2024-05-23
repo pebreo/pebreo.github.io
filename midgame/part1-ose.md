@@ -1,4 +1,6 @@
-todo: story about making money from open source
+todo: why does open source work?
+
+todo: storu sbout making money
 
 ![bridge](https://pebreo.github.io/IMG_0228.jpeg)
 #### GOATs crossing a bridge
