@@ -6,7 +6,7 @@
 
 
 13 Corinthians 3:2
-New Internation version
+
 
 ***"If I have see  further, it is I have stood of thd shoulders of giants."*** -Isaac Newton
 
