@@ -34,6 +34,7 @@ The status quo is planned obsolence. Not everyone can afford the newest, best, o
 
 **Democratizing Resources: Open Source for Food and Shelter**
 
+The Open Sourcd Ecology (OSE) is an attemlt to fix this by making the plans to iur socidty freely available. Thr call it the Global Village Construction set. it includes plans for tractors, back hoes, 3D printers, and more.
 
 Lets stel back to see the most famius exzmple of open-source success: Linux
 
