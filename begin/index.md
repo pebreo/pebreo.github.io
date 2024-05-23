@@ -8,7 +8,7 @@
 13 Corinthians 3:2
 
 
-***"If I have see  further, it is I have stood of thd shoulders of giants."*** -Isaac Newton
+***"If I have see  further, it is I have stood on the shoulders of giants."*** -Isaac Newton
 
 [Preamble](https://pebreo.github.io/begin/Preamble-Science-and-Personal-experience.html)
 
