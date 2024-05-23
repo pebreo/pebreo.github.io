@@ -1,15 +1,6 @@
-why freedom dividend would work?
-- people struggling and want it
-- not everybody had basics covered
-- not everybody hralthy ebough to majeca lot money
-- country awash with money
 
-other benefits:
-- free ppl to start businesses
-- remove stress
-- free ppl to make better political decisions
-- basic safety net a decent thing to do fir other humans
-- we alresdy have safety nets
+
+
 
 todo: open source ecology
 quote - amateurs discuss strategy & tactics, pros study logistics
