@@ -1,6 +1,7 @@
 ### A mystery solved
 TODO: rewrite story using thought experimebt
 
+idea: make story using plotpoints of fiction story about being able to change brain state
 
 TODO: for explanations , what questions uou want answere eg Q&A
 
