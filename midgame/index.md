@@ -2,7 +2,7 @@
 ##### credit: pixabay
 "You can get through it **if** you **believe** you can get through it. The mind is a strong muscle." - Ms. Pat
 
-"See reality. Bend reslity." -Garry Tan
+"See reality. Bend reality." -Garry Tan
 
 
 [Preamble](https://pebreo.github.io/midgame/preamble.html)
