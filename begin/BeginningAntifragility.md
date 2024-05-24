@@ -1,6 +1,8 @@
 todo: why antifragility works : overcompensation
 
-todo : story of rodregio
+todo : story of rodregio - health 
+
+todo: story of bodybuildibg - antifragile
 
 todo : segway to polyamory
 
