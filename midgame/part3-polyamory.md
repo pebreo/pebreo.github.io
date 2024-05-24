@@ -1,6 +1,8 @@
 
 todo: why does commmunication builf connection?
 
+todo: antifragile mindseer -  stsbioiit AND vsridty
+
 todo: why does poly help prevent divorces?
 
 ## Angela and Mark
