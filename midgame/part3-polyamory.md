@@ -1,6 +1,8 @@
 
 todo: why does commmunication builf connection?
 
+todo: why does poly help prevent divorces?
+
 ## Angela and Mark
 The phone buzzed on the nightstand, illuminating Angela's face in the soft glow. It was Mark, his message a cascade of words that made her heart skip a beat. "I think we could make it work," he said. They have been looking into polyamory - reading books, listening to podcasts, and watching videos. 
 
