@@ -1,5 +1,7 @@
 ### A mystery solved
 TODO: rewrite story using thought experimebt
+
+
 TODO: for explanations , what questions uou want answere eg Q&A
 
 todo: Give me 3 story ideas which o can use to explain  that consciousness is self-awareness plus memory plus senses.
