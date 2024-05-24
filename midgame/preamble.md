@@ -27,7 +27,7 @@ Nadia thought back to an article she'd read, a woman who'd practiced polyamory f
 
 Liam squeezed her hand. "Then we stop. There's no shame in that. There's no 'better' kind of love, Nadia. We just need to figure out what feels right for us."
 
-Silence settled between them, heavy with uncertainty. Maybe there was no ideal. Maybe eight billion different people craved eight billion different ways to love. Maybe, just maybe, the answer wasn't some pre-defined model, but a path they had to forge together, hand in hand, navigating the storm one careful step at a time.   
+Silence settled between them, heavy with uncertainty. Maybe there was no ideal. Maybe with eight billion different people, thinking there was only way they'd be happy in a relationship type seemed far-fetched. Maybe, just maybe, the answer wasn't some pre-defined model, but a path they had to forge together, hand in hand, navigating the storm one careful step at a time.   
 
 
 ## TLDR
