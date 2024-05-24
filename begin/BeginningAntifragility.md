@@ -7,6 +7,12 @@ why it works for love : in a relstionship, authenticity/honesty & vulnerabilty o
 why it works for entrepreneurship/biz:
 failures (ideally small), helps you learn faster - iterate faster toward solution
 
+the vert first to to reach a goat world is to work on the circle:, we start woth adooyijg an antifragike mijfset. 
+
+whag doe antifragikity mea?
+
+todj: graphic of damocles, phoenix, hudras
+
 # Road to antifragility
 done: story of being broken
 todo: story of what lead to antifragility
