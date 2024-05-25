@@ -122,6 +122,24 @@ Let's breifly recap once-taboo cultural phenomenon, revisiting activities that w
 
 These are just a few examples of how societal norms have shifted, embracing once-deviant behaviors. This is a pattern we've seen before. In my experience, venturing outside your comfort zones, enriches your life. The journey continues, and finding a different relationship path can lead to pain and heartache but also wonderful possibilities.
 
+## Rethinking Relationships: Could Openness Reduce Divorce Rates?
+
+David Epstein's "Range" champions the idea of exploring different paths, and that extends to the realm of relationships. While open relationships might seem like an outlier in the quest for marital stability, there's a growing movement exploring their potential to reduce divorce rates. Let's unpack this idea, considering the potential benefits and the inherent challenges.
+
+**Beyond the Traditional Model:**  The very existence of functional open relationships throws a wrench into the assumption that monogamy is the only path to a happy and lasting partnership.  Couples are successfully navigating open arrangements, suggesting there's more than one way to find fulfillment within a committed relationship.
+
+**Vulnerability as Strength:**  A core strength of open relationships lies in the emphasis on radical honesty. Partners engage in open communication about desires and boundaries, fostering trust and understanding. This aligns with Epstein's concept of embracing discomfort,  as honest communication often involves vulnerability – the risk of rejection or emotional turmoil.  However, as the facts suggest, this vulnerability can be a source of strength. By working through these challenges together, couples may emerge with a deeper bond and a more nuanced understanding of their needs. 
+
+**The Range of Challenges:**  Open relationships aren't a walk in the park. They require a high degree of emotional maturity and self-awareness.  Partners need to navigate jealousy, insecurity, and the potential for complex emotional entanglements. Not everyone possesses this level of maturity, and attempting an open relationship without it could be disastrous.  Furthermore,  both partners need to be  committed to personal growth  and the ongoing evolution of the relationship. This requires constant communication and a willingness to adapt as needs and desires change.  
+
+**Societal Hurdles:** Open relationships still face societal stigma, which can create strain on couples and their support networks. Navigating this stigma requires additional emotional resilience.  
+
+**The Bottom Line:**  Open relationships offer an intriguing possibility in the quest for marital stability. By fostering honest communication and potentially fulfilling a wider range of emotional needs, they could hold the key to reducing divorce rates. However, they are not a magic bullet. The success of these partnerships hinges on emotional maturity, a commitment to growth, and the ability to navigate societal stigma. Ultimately, as Epstein suggests, the key to a strong and lasting relationship, open or not, lies in open communication and a willingness to explore different paths, both within yourself and within the relationship itself.  
+
+
+## TLDR 
+
+
 ## Why it would work
 - humans crave stability AND variety
 - honest communications builds & strengthends bonds
