@@ -17,7 +17,7 @@ Technological changes are coming fast and hard. The freedom dividend can be used
 
 **The Freedom Dividend: net, fertilizer, and soil**
 
-
+In the United States, the five most common jobs are administrtive & clerical work, retail & sales, food service & food prep, truck driving & transportation, and manufacturing. Those jobs take up about **half of all** jobs in America,
 
 If you believe that technology will develop faster than people can get go back to school or retrain. If you believe not everyone had the money or time to do that, then freedom dividend would be a safety net. Let me explain.
 
