@@ -143,6 +143,10 @@ While polyamory/ENM might seem like an outlier in the quest for marital stabilit
 - existence proof in past & present
 
 ## What will happen
+- enhanced communication & conflict resultion
+- stronger support network
+- greater emotional & sexual needs filled
+- if still monogamous, stronger communication
 
 [Addendum](https://pebreo.github.io/midgame/addendum.html)
 
