@@ -13,7 +13,7 @@ Callum gripped the ancient stone wall, the Aegean wind whipping his hair into a 
 
 Life, Callum realized with a sigh, wasn't a binary choice between stability and variety. It was a tightrope walk, a constant dance between the comfort of routine and the exhilarating thrill of the unknown. 
 
-For the past five years, Callum had thrived in the familiar rhythm of life in this quaint Greek village. The predictable cycle of tending his olive grove, chatting with the gregarious townspeople, and watching the sun paint the sky. It was peaceful. It was home. Yet, lately, a restlessness had crept in, a yearning for something beyond the predictable.
+For the past five years, Callum had thrived in the familiar rhythm of life in this quaint Greek village. The predictable cycle of tending his olive grove, chatting with the gregarious townspeople, and watching the sun paint the sky. It was peaceful. It was home. Yet, lately, a yearning ate at him.
 
 The rhythmic roar of the waves seemed to mock his complacency. "Is this all there is?" it seemed to thunder. Callum had and uncontrabble yearning.
 
