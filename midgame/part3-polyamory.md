@@ -25,7 +25,17 @@ Adopting the idea that you can grow from hardship even includes romantic relatio
 
 ## Divorce in the zeitgeist
 
-todo: table
+It's become almost commonplace for Hollywood marriages to implode with the regularity of a reality TV show finale. This begs the question: is the sheer ubiquity of divorce among the rich and famous normalizing it for the rest of us?
+
+David Epstein, in his thought-provoking book "Range," argues for the importance of exploring different paths and embracing discomfort. Perhaps, through this celebrity lens, divorce is being reframed as just another "path" in the grand experiment of love. But is this a path readily available to everyone, or is it a luxury reserved for the A-list?
+
+The casualness with which celebrity breakups are announced, often accompanied by carefully crafted public statements and lucrative endorsement deals, creates a distorted reality. Divorce, for most, is a messy, emotionally fraught experience. Financial anxieties, child custody battles, and the social stigma often associated with divorce are realities celebrities seem to conveniently bypass.
+
+There's a danger in the normalization narrative. It can downplay the challenges of divorce, particularly for those who lack the financial resources and social support networks readily available to the Hollywood elite.  Divorce shouldn't be demonized, but it shouldn't be romanticized either.
+
+However, there's a potential upside to this trend. Open conversations about divorce, even if fueled by celebrity gossip, can chip away at the stigma surrounding it.  Perhaps, by seeing divorce as a less taboo option, couples will be more likely to seek help or consider alternative relationship structures that better suit their needs.
+
+Ultimately, the "normalcy" of divorce hinges on individual circumstances.  While celebrity breakups might provide a glimpse into a world where divorce is seemingly consequence-free, it's crucial to remember that for most, the reality is far messier.  The key takeaway, as Epstein suggests, lies in exploring different paths with open eyes, acknowledging the range of experiences that divorce encompasses,  and choosing the path that best suits your unique situation.
 
 ## What is polyamory & ENM and why?
 
