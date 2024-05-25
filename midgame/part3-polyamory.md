@@ -7,27 +7,6 @@ todo: why does poly help prevent divorces?
 
 todo: humans crave stability AND variety
 
-
-## Callum
-
-For the past five years, Callum had thrived in the familiar rhythm of life in this quaint Greek village. The predictable cycle of tending his olive grove, chatting with the gregarious townspeople, and watching the sun paint the sky. It was peaceful. It was home. Yet, lately, a yearning ate at him.
-
-The rhythmic roar of the waves seemed to mock his complacency. "Is this all there is?" it seemed to thunder. 
-
-Then, a crumpled flyer danced past his face, carried by the wind. It advertised a local sailing competition – a grueling, multi-day race that tested physical prowess, navigational skills, and mental fortitude. A thrill shot through Callum. This was the challenge he craved.
-
-He was exhilirated and up to the challenge. In no time at allp, he learned to read the wind, to navigate by the stars, to work as a team with his fellow sailors, a motley crew of locals and adventurous tourists.
-
-The competition itself was a test of everything he'd learned. Gales threatened to capsize their vessel, and exhaustion gnawed at their bones. Yet, there was also a camaraderie forged in the crucible of shared struggle.
-
-When they finally crossed the finish line, exhausted but exhilarated, Callum knew he was forever changed. The experience had instilled in him a newfound confidence, a willingness to embrace the challenges that lay ahead, whatever form they might take.
-
-Back in the grove, the familiar routine felt comforting once more. The sight of his olive trees, heavy with fruit, was no longer monotonous; it was a source of solace. His home gave him strength and his adventures enriched it even more. 
-
-## TLDR
-Humans crave stability AND variety.
-
-
 ## Angela and Mark
 The phone buzzed on the nightstand, illuminating Angela's face in the soft glow. It was Mark, his message a cascade of words that made her heart skip a beat. "I think we could make it work," he said. They have been looking into polyamory - reading books, listening to podcasts, and watching videos. 
 
@@ -118,6 +97,27 @@ Let's breifly recap once-taboo cultural phenomenon, revisiting activities that w
 * **Beyond Monogamy:** Open relationships, once considered taboo, are being discussed more openly as people explore different ways to structure love and intimacy. Whether this becomes mainstream remains to be seen, but it highlights the ongoing evolution of our understanding of human connection.
 
 These are just a few examples of how societal norms have shifted, embracing once-deviant behaviors. This is a pattern we've seen before. In my experience, venturing outside your comfort zones, enriches your life. The journey continues, and finding a different relationship path can lead to pain and heartache but also wonderful possibilities.
+
+
+## Callum
+
+For the past five years, Callum had thrived in the familiar rhythm of life in this quaint Greek village. The predictable cycle of tending his olive grove, chatting with the gregarious townspeople, and watching the sun paint the sky. It was peaceful. It was home. Yet, lately, a yearning ate at him.
+
+The rhythmic roar of the waves seemed to mock his complacency. "Is this all there is?" it seemed to thunder. 
+
+Then, a crumpled flyer danced past his face, carried by the wind. It advertised a local sailing competition – a grueling, multi-day race that tested physical prowess, navigational skills, and mental fortitude. A thrill shot through Callum. This was the challenge he craved.
+
+He was exhilirated and up to the challenge. In no time at allp, he learned to read the wind, to navigate by the stars, to work as a team with his fellow sailors, a motley crew of locals and adventurous tourists.
+
+The competition itself was a test of everything he'd learned. Gales threatened to capsize their vessel, and exhaustion gnawed at their bones. Yet, there was also a camaraderie forged in the crucible of shared struggle.
+
+When they finally crossed the finish line, exhausted but exhilarated, Callum knew he was forever changed. The experience had instilled in him a newfound confidence, a willingness to embrace the challenges that lay ahead, whatever form they might take.
+
+Back in the grove, the familiar routine felt comforting once more. The sight of his olive trees, heavy with fruit, was no longer monotonous; it was a source of solace. His home gave him strength and his adventures enriched it even more. 
+
+## TLDR
+Humans crave stability AND variety.
+
 
 ## Rethinking Relationships: Could Openness Reduce Divorce Rates?
 
