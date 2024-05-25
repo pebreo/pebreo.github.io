@@ -123,6 +123,9 @@ Let's breifly recap once-taboo cultural phenomenon, revisiting activities that w
 These are just a few examples of how societal norms have shifted, embracing once-deviant behaviors. This is a pattern we've seen before. In my experience, venturing outside your comfort zones, enriches your life. The journey continues, and finding a different relationship path can lead to pain and heartache but also wonderful possibilities.
 
 ## Why it would work
+- humans crave stability AND variety
+- honest communications builds & strengthends bonds
+- existence proof in past & present
 
 ## What will happen
 
