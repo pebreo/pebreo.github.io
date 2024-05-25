@@ -22,7 +22,7 @@ The competition itself was a test of everything he'd learned. Gales threatened t
 
 When they finally crossed the finish line, exhausted but exhilarated, Callum knew he was forever changed. The experience had instilled in him a newfound confidence, a willingness to embrace the challenges that lay ahead, whatever form they might take.
 
-Back in the grove, the familiar routine felt comforting once more. The sight of his olive trees, heavy with fruit, was no longer monotonous; it was a source of solace. Yet, a spark remained in his eyes, a testament to the transformative power of variety. Callum had discovered the sweet spot, the harmonious blend of stability and exploration that Epstein championed. Life, he realized with a smile, wasn't about choosing between calm harbors and churning seas; it was about mastering the art of navigating both. 
+Back in the grove, the familiar routine felt comforting once more. The sight of his olive trees, heavy with fruit, was no longer monotonous; it was a source of solace. His home gave him strength and his adventures enriched it even more. 
 
 ## TLDR
 Humans crave stability AND variety.
