@@ -131,7 +131,7 @@ While polyamory/ENM might seem like an outlier in the quest for marital stabilit
 
 **Societal Hurdles:** Open relationships still face societal stigma, which can create strain on couples and their support networks. Navigating this stigma requires additional emotional resilience.  
 
-**The Bottom Line:**  Open relationships offer an intriguing possibility in the quest for marital stability. By fostering honest communication and potentially fulfilling a wider range of emotional needs, they could hold the key to reducing divorce rates. However, they are not a magic bullet. The success of these partnerships hinges on emotional maturity, a commitment to growth, and the ability to navigate societal stigma. Ultimately, as Epstein suggests, the key to a strong and lasting relationship, open or not, lies in open communication and a willingness to explore different paths, both within yourself and within the relationship itself.  
+**The Bottom Line:**  Polyamory/ENM offer an intriguing possibility in the quest for marital stability. By fostering honest communication and potentially fulfilling a wider range of emotional needs, they could hold the key to reducing divorce rates. However, they are not a magic bullet. The success of these partnerships hinges on emotional maturity, a commitment to growth, and the ability to navigate societal stigma. 
 
 
 ## TLDR 
