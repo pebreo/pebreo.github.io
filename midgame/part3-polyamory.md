@@ -18,7 +18,7 @@ Taking a fortifying breath, Angela messaged back, "Ok. Let's talk." Their usual 
 
 Laughter, shaky and laced with tension, filled the air. The conversation flowed, halting at times, but raw with a newfound honesty. They talked about jealousy, boundaries, communication, even couples therapy. They had a lot scary things to say to eachother. It wasn't a done deal, but a step, a leap of faith into the messy, unpredictable world of antifragility.
 
-As they walked out, the city lights twinkling against the twilight sky, Angela felt a lightness she hadn't known existed. The road ahead was uncertain, but the fear was laced with a strange, exhilarating thrill.
+As they walked out, the city lights twinkling against the twilight sky, Gabe felt a lightness he hadn't known existed. The road ahead was uncertain, but the fear was laced with a strange, exhilarating thrill.
 
 ## TLDR
 Adopting the idea that you can grow from hardship even includes romantic relationships. An antifragile mindset is scary but can be very rewarding.
