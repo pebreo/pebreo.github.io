@@ -5,6 +5,9 @@ todo: antifragile mindseer -  stsbioiit AND vsridty
 
 todo: why does poly help prevent divorces?
 
+todo: humans crave stability AND variety
+
+
 ## Callum
 Callum gripped the ancient stone wall, the Aegean wind whipping his hair into a frenzy. Below, the turquoise sea churned, waves crashing against the jagged cliffs in a mesmerizing display of power and chaos. It was a scene both terrifying and exhilarating, mirroring the turmoil within him.
 
