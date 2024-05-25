@@ -9,13 +9,10 @@ todo: humans crave stability AND variety
 
 
 ## Callum
-Callum gripped the ancient stone wall, the Aegean wind whipping his hair into a frenzy. Below, the turquoise sea churned, waves crashing against the jagged cliffs in a mesmerizing display of power and chaos. It was a scene both terrifying and exhilarating, mirroring the turmoil within him.
-
-Life, Callum realized with a sigh, wasn't a binary choice between stability and variety. It was a tightrope walk, a constant dance between the comfort of routine and the exhilarating thrill of the unknown. 
 
 For the past five years, Callum had thrived in the familiar rhythm of life in this quaint Greek village. The predictable cycle of tending his olive grove, chatting with the gregarious townspeople, and watching the sun paint the sky. It was peaceful. It was home. Yet, lately, a yearning ate at him.
 
-The rhythmic roar of the waves seemed to mock his complacency. "Is this all there is?" it seemed to thunder. Callum had and uncontrabble yearning.
+The rhythmic roar of the waves seemed to mock his complacency. "Is this all there is?" it seemed to thunder. 
 
 Then, a crumpled flyer danced past his face, carried by the wind. It advertised a local sailing competition – a grueling, multi-day race that tested not just physical prowess, but also navigational skills and mental fortitude. A thrill shot through Callum. This was the challenge he craved. He learned to read the wind, to navigate by the stars, to work as a team with his fellow sailors, a motley crew of locals and adventurous tourists.
 
