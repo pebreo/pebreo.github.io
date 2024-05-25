@@ -51,6 +51,10 @@ However, there's a potential upside to this trend. Open conversations about divo
 
 Ultimately, the "normalcy" of divorce hinges on individual circumstances.  While celebrity breakups might provide a glimpse into a world where divorce is seemingly consequence-free, it's crucial to remember that for most, the reality is far messier.  The key takeaway, as Epstein suggests, lies in exploring different paths with open eyes, acknowledging the range of experiences that divorce encompasses,  and choosing the path that best suits your unique situation.
 
+## Between a rock and a hard choice
+
+todo: infidelity or divorce?
+
 ## What is polyamory & ENM and why?
 
 todo: 20% infidelity rate per statistica
