@@ -29,7 +29,7 @@ It's become almost commonplace for Hollywood marriages to implode with the regul
 
 David Epstein, in his thought-provoking book "Range," argues for the importance of exploring different paths and embracing discomfort. Perhaps, through this celebrity lens, divorce is being reframed as just another "path" in the grand experiment of love. But is this a path readily available to everyone, or is it a luxury reserved for the A-list?
 
-## Famous Billionaire and Celebrity Divorces
+## Wealthy and Famous Divorces
 
 | Name | Industry | Spouse | Year Finalized | Marriages |
 |---|---|---|---|---|
@@ -40,6 +40,8 @@ David Epstein, in his thought-provoking book "Range," argues for the importance 
 | Kevin Jonas | Music | Danielle Jonas (Annulled) | 2009 | 2 (Current marriage longest) |
 | Michael Jordan | Sports | Juanita Vanoy | 2006 | 2 |
 | Shaquille O'Neal | Sports | Shaunie Henderson | 2011 | 4 | 
+
+My point in showing this table is to show that... todo: discuss w editor
 
 The casualness with which celebrity breakups are announced, often accompanied by carefully crafted public statements and lucrative endorsement deals, creates a distorted reality. Divorce, for most, is a messy, emotionally fraught experience. Financial anxieties, child custody battles, and the social stigma often associated with divorce are realities celebrities seem to conveniently bypass.
 
