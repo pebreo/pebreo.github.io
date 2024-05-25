@@ -24,9 +24,11 @@ As they walked out, the city lights twinkling against the twilight sky, Gabe fel
 Adopting the idea that you can grow from hardship even includes romantic relationships. An antifragile mindset is scary but can be very rewarding.
 
 
-## What is polyamory and ENN?
+## What is polyamory & ENM and why?
 
-todo: 86% divorce and remmarriage rate per James Ston
+todo: 20% infidelity rate per statistica
+
+todo: 50% divorce rare by age 50
 
 Ethical non-monogamy (ENM), which encompasses open relationships and polyamory, is a relationship structure where partners agree to have romantic or intimate relationships with people outside of the primary couple. However, unlike cheating, ENM is based on  **open communication, consent, and clear boundaries**. 
 
