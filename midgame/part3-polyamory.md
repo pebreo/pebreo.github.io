@@ -29,6 +29,18 @@ It's become almost commonplace for Hollywood marriages to implode with the regul
 
 David Epstein, in his thought-provoking book "Range," argues for the importance of exploring different paths and embracing discomfort. Perhaps, through this celebrity lens, divorce is being reframed as just another "path" in the grand experiment of love. But is this a path readily available to everyone, or is it a luxury reserved for the A-list?
 
+## Famous Billionaire and Celebrity Divorces
+
+| Name | Industry | Spouse | Year Finalized | Marriages |
+|---|---|---|---|---|
+| Bill Gates | Tech | Melinda Gates | 2021 | 1 |
+| Rupert Murdoch | Media | Jerry Hall (4th Marriage) | 2022 | 4 |
+| Steven Spielberg | Film | Amy Irving | 1989 | 3 |
+| Kevin Hart | Comedy | Eniko Parrish (Reconciled Later) | 2019 | 2 |
+| Kevin Jonas | Music | Danielle Jonas (Annulled) | 2009 | 2 (Current marriage longest) |
+| Michael Jordan | Sports | Juanita Vanoy | 2006 | 2 |
+| Shaquille O'Neal | Sports | Shaunie Henderson | 2011 | 4 | 
+
 The casualness with which celebrity breakups are announced, often accompanied by carefully crafted public statements and lucrative endorsement deals, creates a distorted reality. Divorce, for most, is a messy, emotionally fraught experience. Financial anxieties, child custody battles, and the social stigma often associated with divorce are realities celebrities seem to conveniently bypass.
 
 There's a danger in the normalization narrative. It can downplay the challenges of divorce, particularly for those who lack the financial resources and social support networks readily available to the Hollywood elite.  Divorce shouldn't be demonized, but it shouldn't be romanticized either.
