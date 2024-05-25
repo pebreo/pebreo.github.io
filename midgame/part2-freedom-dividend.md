@@ -17,7 +17,9 @@ Technological changes are coming fast and hard. The freedom dividend can be used
 
 **The Freedom Dividend: net, fertilizer, and soil**
 
-The freedom dividend is a safety net. Let me explain.
+
+
+If you believe that technology will develop faster than people can get go back to school or retrain. If you believe not everyone had the money or time to do that, then freedom dividend would be a safety net. Let me explain.
 
 Automation and robot labor are coming online. It's a game changer. While it will fuel incredible economic growth, it also it leaves many in our communities behind - their skillsets no longer needed. This creates a crucial need for a safety net – a system that ensures hard times don't cripple you. The freedom dividend is the solution.
 
