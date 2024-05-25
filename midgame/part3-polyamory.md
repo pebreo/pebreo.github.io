@@ -5,6 +5,29 @@ todo: antifragile mindseer -  stsbioiit AND vsridty
 
 todo: why does poly help prevent divorces?
 
+## Callum
+Callum gripped the ancient stone wall, the Aegean wind whipping his hair into a frenzy. Below, the turquoise sea churned, waves crashing against the jagged cliffs in a mesmerizing display of power and chaos. It was a scene both terrifying and exhilarating, mirroring the turmoil within him.
+
+Life, Callum realized with a sigh, wasn't a binary choice between stability and variety. It was a tightrope walk, a constant dance between the comfort of routine and the exhilarating thrill of the unknown. David Epstein's "Range" echoed in his mind, his words about the human need for both stability and exploration resonating deeply.
+
+For the past five years, Callum had thrived in the familiar rhythm of life in this quaint Greek village. The predictable cycle of tending his olive grove, chatting with the gregarious townspeople, and watching the sun paint the sky with fiery hues every evening had brought a sense of peace he hadn't known before. Yet, lately, a restlessness had crept in, a yearning for something beyond the predictable.
+
+The rhythmic roar of the waves seemed to mock his complacency. "Is this all there is?" it seemed to thunder. Callum craved the variety, the challenges Epstein described, the experiences that pushed you outside your comfort zone and fostered growth.
+
+Then, a crumpled flyer danced past his face, carried by the wind. It advertised a local sailing competition – a grueling, multi-day race that tested not just physical prowess, but also navigational skills and mental fortitude. A thrill shot through Callum. This was the challenge he craved, a chance to step outside the familiar and explore the unknown waters, both literally and metaphorically.
+
+The following weeks were a whirlwind of activity. Callum traded his olive basket for a life vest, the gentle pruning of branches replaced by the calloused grip of ropes. The initial clumsiness and fear were undeniable, the vast openness of the sea a stark contrast to the cozy confines of his grove. Yet, with each passing day, a sense of accomplishment bloomed. He learned to read the wind, to navigate by the stars, to work as a team with his fellow sailors, a motley crew of locals and adventurous tourists.
+
+The competition itself was a test of everything he'd learned. Gales threatened to capsize their vessel, navigational errors led them astray, and exhaustion gnawed at their bones. Yet, there was also a camaraderie forged in the crucible of shared struggle, a deep satisfaction in overcoming each obstacle.
+
+When they finally crossed the finish line, exhausted but exhilarated, Callum knew he was forever changed. The experience had instilled in him a newfound confidence, a willingness to embrace the challenges that lay ahead, whatever form they might take.
+
+Back in the grove, the familiar routine felt comforting once more. The sight of his olive trees, heavy with fruit, was no longer monotonous; it was a source of solace. Yet, a spark remained in his eyes, a testament to the transformative power of variety. Callum had discovered the sweet spot, the harmonious blend of stability and exploration that Epstein championed. Life, he realized with a smile, wasn't about choosing between calm harbors and churning seas; it was about mastering the art of navigating both. 
+
+## TLDR
+Humans crave stability AND variety.
+
+
 ## Angela and Mark
 The phone buzzed on the nightstand, illuminating Angela's face in the soft glow. It was Mark, his message a cascade of words that made her heart skip a beat. "I think we could make it work," he said. They have been looking into polyamory - reading books, listening to podcasts, and watching videos. 
 
