@@ -34,11 +34,12 @@ By providing all citizens with basic needs met with a guaranteed payment, regard
 - country awash with money
 
 ## What will happen
+- prevent permanent damage to iur cimmunities
 - free ppl to start businesses
 - remove stress
-- free ppl to make better political decisions
-- basic safety net a decent thing to do fir other humans
-- we alresdy have safety nets
+
+## Other reasons
+- we already gave safety nets
 
 ## Next chapter
 [Part 3: Polyamory](https://pebreo.github.io/midgame/part3-polyamory.html)
