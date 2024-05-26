@@ -40,13 +40,11 @@ It's become almost commonplace for wealthy and famous to divorcd. This begs the 
 | Shaquille O'Neal | Sports | Shaunie Henderson | 2011 | 4 | 
 
 
-In my view, the casualness with which celebrity breakups are announced means it is accepted as a cultural norm. The reality remains. For most, divorce is a messy, emotionally fraught experience. Financial anxieties, child custody battles, and the social stigma often associated with divorce are realities celebrities seem to conveniently bypass.
+In my view, the casualness with which celebrity breakups are announced means it is accepted as a cultural norm. The reality remains. For most, divorce is a messy, emotionally fraught experience. Financial anxieties, child custody battles, and the social (some) stigma often associated with divorce are realities.
 
 There's a danger in the normalization narrative. It can downplay the challenges of divorce, particularly for those who lack the financial resources and social support networks readily available to the Hollywood elite.  Divorce shouldn't be demonized, but it shouldn't be romanticized either.
 
-However, there's a potential upside to this trend. Open conversations about divorce, even if fueled by celebrity gossip, can chip away at the stigma surrounding it.  Perhaps, by seeing divorce as a less taboo option, couples will be more likely to seek help or consider alternative relationship structures that better suit their needs.
-
-Ultimately, the "normalcy" of divorce hinges on individual circumstances.  While celebrity breakups might provide a glimpse into a world where divorce is seemingly consequence-free, it's crucial to remember that for most, the reality is far messier.  The key takeaway, as Epstein suggests, lies in exploring different paths with open eyes, acknowledging the range of experiences that divorce encompasses,  and choosing the path that best suits your unique situation.
+However, there's a potential upside to this trend. There is an opportinty to upgrade how we see romantic relationships.
 
 ## Between a rock and a hard choice
 
