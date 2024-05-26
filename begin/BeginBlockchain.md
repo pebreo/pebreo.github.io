@@ -20,7 +20,7 @@ privacy is avhuman right like food , water, safety.
 | Mass Manufacturing     | Interchangeable parts (18th century) | Steam engine (Late 1700s)   
 
 
-## Stepping Stones to Innovation: A Look at Precursor Inventions
+## Building blocks for our bridge (future)
 
 Lets look at some technologies we use and live with everday.  Our table highlights how major technologies, from the internet to steel,  weren't eureka moments, but rather the culmination of earlier inventions. 
 
