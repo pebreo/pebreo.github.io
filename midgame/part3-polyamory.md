@@ -62,7 +62,7 @@ Here are just a few examples of famous people: Bill Gates, Kevin Hart, Nick Jona
 | Rupert Murdoch | Media | Jerry Hall (4th Marriage) | 2022 | 4 |
 | Steven Spielberg | Film | Amy Irving | 1989 | 3 |
 | Kevin Hart | Comedy | Eniko Parrish (Reconciled Later) | 2019 | 2 |
-| Joe Jonas | Music | Sophie Turner | 2013 | 2 (Current marriage longest) |
+| Joe Jonas | Music | Sophie Turner | 2013 | 1 |
 | Michael Jordan | Sports | Juanita Vanoy | 2006 | 2 |
 | Shaquille O'Neal | Sports | Shaunie Henderson | 2011 | 4 | 
 
