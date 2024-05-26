@@ -27,6 +27,8 @@ Adopting the idea that you can grow from hardship even includes romantic relatio
 
 It's become almost commonplace for wealthy and famous to divorcd. This begs the question: is it representative of the general populous? 
 
+Here are just a few examples of famous people: Bill Gates, Kevin Hart, Nick Jonas, Michael Jordan, and Steven Spielberg. Anecdotally, we know at least one person who as gotten divorced. 
+
 ## Wealthy and Famous Divorces
 
 | Name | Industry | Spouse | Year Finalized | Marriages |
@@ -39,6 +41,7 @@ It's become almost commonplace for wealthy and famous to divorcd. This begs the 
 | Michael Jordan | Sports | Juanita Vanoy | 2006 | 2 |
 | Shaquille O'Neal | Sports | Shaunie Henderson | 2011 | 4 | 
 
+This tabke is not to pick on any one person, rather to show how prevalent it in The United States.
 
 In my view, the casualness with which celebrity breakups are announced means it is accepted as a cultural norm. The reality remains. For most, divorce is a messy, emotionally fraught experience. Financial anxieties, child custody battles, and the social (some) stigma often associated with divorce are realities.
 
