@@ -161,11 +161,13 @@ These are just a few examples of how societal norms have shifted, embracing once
 
 ## Antifragile romantic relationships
 
-While polyamory/ENM might seem like an outlier in the quest for marital stability, there's a growing movement exploring their potential to reduce divorce rates. Let's unpack this idea, considering the potential benefits and the inherent challenges.
+While polyamory/ENM might seem like an outlier, its just another type of relationsip albeit more effortful. Let's look benefits and the inherent challenges.
+
+**Vulnerability as Strength:**  This is the core of deep connection. When you leave yourself open to be said "no" to, reprimanded, scolded, made fun-of, or humiliated you risk so much. However, is there any other way to realize your most personal desires? Also, by working through the "hard conversations" together, partners strengthen bonds and deep understanding. 
 
 **Beyond the Traditional Model:**  The very existence of functional polyamory throws a wrench into the assumption that monogamy is the only path to a happy and lasting partnership.  Couples are successfully navigating open arrangements, suggesting there's more than one way to find fulfillment within a committed relationship.
 
-**Vulnerability as Strength:**  This is the core of deep connection. When you leave yourself open to be said "no" to, reprimanded, scolded, made fun-of, or humiliated you risk so much. However, is there any other way to realize your most personal desires? Also, by working through the "hard conversations" together, partners strengthen bonds and deep understanding. 
+
 
 **The Range of Challenges:**  Polyamory/ENM also require a high degree of emotional maturity and self-awareness.  Partners need to navigate jealousy, insecurity, fear, and uncertainty. Not everyone possesses this level of maturity, and attempting a polyamory without it could be disastrous.  Uktimately, it requires constant communication and a willingness to adapt as needs and desires change.  
 
