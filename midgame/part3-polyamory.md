@@ -70,7 +70,7 @@ This tabke is not to pick on any one person, rather to show how prevalent it in 
 
 In my view, the casualness with which celebrity breakups are announced means it is accepted as a cultural norm. The reality remains. For most, divorce is a messy, emotionally fraught experience. Financial anxieties, child custody battles, and the social (some) stigma often associated with divorce are realities.
 
-There's a danger in the normalization narrative. It can downplay the challenges of divorce, particularly for those who lack the financial resources and social support networks readily available to well-to-do.  In my opinion, divorce shouldn't be demonized, but it shouldn't be romanticized either. The consequences can be permantly damaging to many people besides those that are separating.
+I believe there's a danger in the normalization narrative. It can downplay the challenges of divorce, particularly for those who lack the financial resources and social support networks readily available to well-to-do.  In my opinion, divorce shouldn't be demonized, but it shouldn't be romanticized either. The consequences can be permantly damaging to many people besides those that are separating.
 
 However, there's a potential upside to this trend. There is an opportinty to upgrade how we see romantic relationships.
 
