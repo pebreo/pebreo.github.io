@@ -123,7 +123,7 @@ It wouldn't be about dismantling traditional families, but offering an alternati
 
 
 ## We've seen this movie before
-The concept of normalcy is a fascinatingly fluid one. Behaviors once deemed deviant, relegated to the fringes of society, have become commonplace as the world embraces the range of human experience. 
+The concept of normalcy is a fascinatingly fluid one. Behaviors once deemed deviant, relegated to the fringes of society, have become commonplace as the world embraces the range of human experience. The following table shows once-deviant behavior as part of our cultural norms.
 
 | Behavior                               | Current Status                                                                                            | Time Period Considered Deviant                                           |
 | -------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
