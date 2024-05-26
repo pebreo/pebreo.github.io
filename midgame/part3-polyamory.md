@@ -53,6 +53,8 @@ However, there's a potential upside to this trend. There is an opportinty to upg
 
 todo: infidelity or divorce?
 
+todo: what are the trends to birth rates, divirce , and infidelity?
+
 ## What is polyamory & ENM and why?
 
 todo: 20% infidelity rate per statistica
@@ -90,11 +92,10 @@ There are many reasons why people might choose ENM. Some might feel their emotio
 
 **Rethinking Relationships**
 
-Developed countries face a paradox – declining birth rates coupled with high divorce rates. This raises concerns about a shrinking workforce and a strain on social security systems. While promoting traditional family structures remains important, one approach could be explored: polyamory and ethical non-monogamy (ENM). 
+Developed countries face a paradox – declining birth rates coupled with riding divorce rates. This raises concerns about a shrinking workforce and a strain on social security systems. While promoting traditional family structures remains important, one approach could be explored: polyamory and ethical non-monogamy (ENM). 
 
-When practiced ethically (ie no consent) and with clear communication, it could prevent divorces.  The all-too common scenario is when couples desires children but struggle with emotional or physical intimacy. In polyamory/ENM, they could explore those needs with compatible partners outside the relationship,  potentially strengthening their core bond  by alleviating pressure and fostering open communication. It wouldn't be about dismantling traditional families, but offering an alternative structure that caters to individual needs and potentially prevents the bitter breakdowns that plague today's realities.
+It wouldn't be about dismantling traditional families, but offering an alternative structure that caters to individual needs and potentially prevents the bitter breakdowns that plague today's realities.
 
-Although polyamory & ENM challenges societal norms, it offer couples a choice and a way to address individual needs for intimacy and fulfillment while maintaining a stable family unit. These open relationships, when navigated with honesty and clear communication, could reduce the costly and very painful wounds of divorce. How many families has this affected? How much temporary and permant damage does it cause? Is it worth looking into? The success of this relationship style being just another option hinges on cultural acceptance and responsible implementation. 
 
 ## We've seen this movie before
 The concept of normalcy is a fascinatingly fluid one. Behaviors once deemed deviant, relegated to the fringes of society, have become commonplace as the world embraces the range of human experience. 
