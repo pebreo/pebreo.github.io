@@ -150,13 +150,11 @@ Let's breifly recap once-taboo cultural phenomenon, revisiting activities that w
 
 * **The Joy of Movement:** From the swirling waltzes of the past to the pulsating beats of today's clubs, dancing has faced its fair share of criticism. Yet, the primal urge to move our bodies transcends cultural boundaries, reminding us of the universal language of joy and expression.
 
-* **A Toast (in Moderation):** Alcohol consumption has had a complex history, with periods of strict prohibition and social acceptance. Today, responsible drinking is a part of many cultures, a reminder that even "deviant" behaviors can be enjoyed in moderation.
+* **A Toast (in Moderation):**  Today, responsible drinking is a part of many cultures, a reminder that even "deviant" behaviors can be enjoyed in moderation. Also remeber, our country had a dramatic and tumultous time dure The Prohibition Era.
 
 * **The Green Debate:** Marijuana, demonized for decades, is now finding acceptance for both medical and recreational uses. This shift reflects a growing openness to explore alternative treatments and redefine our relationship with psychoactive substances.
 
-* **Beyond Monogamy:**  Whether polyamory & ENM becomes mainstream remains to be seen. History, however, points to yes.
-
-These are just a few examples of how societal norms have shifted, embracing once-deviant behaviors. This is a pattern we've seen before. In my experience, venturing outside your comfort zones, enriches your life. The journey continues, and finding a different relationship path can lead to pain and heartache but also wonderful possibilities.
+These are just a few examples of how societal norms have shifted, embracing once-deviant behaviors. This is a pattern we've seen before. In my experience, venturing outside your comfort zones, enriches your life.
 
 
 ## Antifragile romantic relationships
@@ -182,7 +180,9 @@ Polyamory/ENM has the potential to enhance the quality of your connections. Here
 
 **Greater sexual and emotional needs fulfilled** Finally, let's not forget the potential for a richer tapestry of experiences. Polyamory/ENM when approached with honesty and emotional maturity, can offer a broader spectrum of sexual and emotional fulfillment.  Imagine the possibility of exploring diverse desires and finding intimacy in ways that a single partner might not be able to fully satisfy. This exploration doesn't diminish the primary relationship; instead, it can lead to a more well-rounded and fulfilling emotional life.
 
-**The Bottom Line:**  Polyamory/ENM is not a magic bullet. The success of these partnerships hinges on emotional maturity, a commitment to growth, and the ability to navigate societal stigma. It's not for everyone though.
+**The Bottom Line:**  Polyamory/ENM is not a magic bullet. The success of these partnerships hinges on emotional maturity, a commitment to growth, and the ability to navigate societal stigma. It's not for everyone though.  
+
+Lastly, whether polyamory & ENM becomes mainstream remains to be seen. History, however, points to yes.
 
 
 ## TLDR 
