@@ -1,19 +1,23 @@
 
 sections: 
-beginning: putting pieces in place
+beginning: sction title:putting pieces in place
 
-middle: playing cards right
-
-end: endgame
+outline for part 1:
+- preMble
+ - joaquin story
+- plan
+- redoerigo - health
+- antifragile - memtal hralth
+- bodybuildubg story
+- roderigo - consciousnessz
+- intekligence
+- architecting ai
+   
 
 quote - corinthians
 quote - if i have seen further...
 
-preamble - poly not for everyone quote
 preamble - become robust first b4 being antifragile
-
-poly - story, historical table 
-poly - use prev blog post as material
 
 
 requiremtns - ai alignment, explainability, cost
