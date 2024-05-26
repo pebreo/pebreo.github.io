@@ -134,7 +134,7 @@ Let's breifly recap once-taboo cultural phenomenon, revisiting activities that w
 
 These are just a few examples of how societal norms have shifted, embracing once-deviant behaviors. This is a pattern we've seen before. In my experience, venturing outside your comfort zones, enriches your life. The journey continues, and finding a different relationship path can lead to pain and heartache but also wonderful possibilities.
 
-
+todo: make first stort
 ## Callum
 
 For the past five years, Callum had thrived in the familiar rhythm of life in this quaint Greek village. The predictable cycle of tending his olive grove, chatting with the gregarious townspeople, and watching the sun paint the sky. It was peaceful. It was home. Yet, lately, a yearning ate at him.
@@ -154,6 +154,9 @@ Back in the grove, the familiar routine felt comforting once more. The sight of 
 ## TLDR
 Humans crave stability AND variety.
 
+## At the heart of the matter (pun intended)
+
+todo: explanation about humans need stabikytu & variety
 
 ## Antifragile romantic relationships
 
