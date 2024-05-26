@@ -17,7 +17,7 @@ Technological changes are coming fast and hard. The freedom dividend can be used
 
 **The Freedom Dividend: net, fertilizer, and soil**
 
-What is the Freedom Dividend? It was the 2020 US presidential candidate Andrew Yang's signature proposal during his campaign. It is to provide a universal payment of $1,000 per month to all American adults as a solution to inevitable consequences of robot labor and technology developments in general.
+What is the Freedom Dividend? It was the 2020 US presidential candidate Andrew Yang's signature proposal during his campaign. It is a universal payment of $1,000 per month to all American adults as a solution to inevitable consequences of dizzying improvements in technology leaving people behind.
 
 In the United States, the five most common jobs are administrtive/clerical work, retail/sales, food service/prep, truck driving/transportation, and manufacturing. Those jobs take up about **half of all** jobs in America. So what?
 
