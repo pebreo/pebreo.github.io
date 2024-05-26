@@ -2,6 +2,8 @@
 sections: 
 beginning: sction title:putting pieces in place
 
+intro story - deshi basara - joaquin goat
+
 outline for part 1:
 - preMble
  - joaquin story
