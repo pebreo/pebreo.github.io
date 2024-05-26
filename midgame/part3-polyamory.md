@@ -181,7 +181,7 @@ Polyamory/ENM has the potential to enhance the quality of your connections. Here
 
 **Greater sexual and emotional needs fulfilled** Finally, let's not forget the potential for a richer tapestry of experiences. Polyamory/ENM when approached with honesty and emotional maturity, can offer a broader spectrum of sexual and emotional fulfillment.  Imagine the possibility of exploring diverse desires and finding intimacy in ways that a single partner might not be able to fully satisfy. This exploration doesn't diminish the primary relationship; instead, it can add a vibrant layer of experience, leading to a more well-rounded and fulfilling emotional life.
 
-**The Bottom Line:**  Polyamory/ENM offer an intriguing possibility in the quest for marital stability. By fostering honest communication and potentially fulfilling a wider range of emotional needs, they could hold the key to reducing divorce rates. However, they are not a magic bullet. The success of these partnerships hinges on emotional maturity, a commitment to growth, and the ability to navigate societal stigma. It's not for everyone though.
+**The Bottom Line:**  Polyamory/ENM is not a magic bullet. The success of these partnerships hinges on emotional maturity, a commitment to growth, and the ability to navigate societal stigma. It's not for everyone though.
 
 
 ## TLDR 
