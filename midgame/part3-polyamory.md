@@ -163,10 +163,9 @@ These are just a few examples of how societal norms have shifted, embracing once
 
 While polyamory/ENM might seem like an outlier, its just another type of relationsip albeit more effortful. Let's look benefits and the inherent challenges.
 
-**Vulnerability as Strength:**  This is the core of deep connection. When you leave yourself open to be said "no" to, reprimanded, scolded, made fun-of, or humiliated you risk so much. However, is there any other way to realize your most personal desires? Also, by working through the "hard conversations" together, partners build incredible trust and deep understanding. 
+**Vulnerability as Strength:**  This is the core of genuine, deep connections. When you leave yourself open to be said "no" to, reprimanded, scolded, made fun-of, or humiliated you risk so much. However, is there any other way to realize your most personal desires with those you love? Also, by working through the "hard conversations" together, partners build incredible trust and deep understanding. 
 
 **Beyond the Traditional Model:**  The very existence of functional polyamory throws a wrench into the assumption that monogamy is the only path to a happy and lasting partnership.  Couples are successfully navigating open arrangements, suggesting there's more than one way to find fulfillment within a committed relationship.
-
 
 
 **The Range of Challenges:**  Polyamory/ENM also require a high degree of emotional maturity and self-awareness.  Partners need to navigate jealousy, insecurity, fear, and uncertainty. Not everyone possesses this level of maturity, and attempting a polyamory without it could be disastrous.  Uktimately, it requires constant communication and a willingness to adapt as needs and desires change.  
