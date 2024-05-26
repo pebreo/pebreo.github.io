@@ -163,7 +163,7 @@ These are just a few examples of how societal norms have shifted, embracing once
 
 While polyamory/ENM might seem like an outlier, its just another type of relationsip albeit more effortful. Let's look benefits and the inherent challenges.
 
-**Vulnerability as Strength:**  This is the core of deep connection. When you leave yourself open to be said "no" to, reprimanded, scolded, made fun-of, or humiliated you risk so much. However, is there any other way to realize your most personal desires? Also, by working through the "hard conversations" together, partners strengthen bonds and deep understanding. 
+**Vulnerability as Strength:**  This is the core of deep connection. When you leave yourself open to be said "no" to, reprimanded, scolded, made fun-of, or humiliated you risk so much. However, is there any other way to realize your most personal desires? Also, by working through the "hard conversations" together, partners build incredible trust and deep understanding. 
 
 **Beyond the Traditional Model:**  The very existence of functional polyamory throws a wrench into the assumption that monogamy is the only path to a happy and lasting partnership.  Couples are successfully navigating open arrangements, suggesting there's more than one way to find fulfillment within a committed relationship.
 
@@ -181,7 +181,7 @@ Polyamory/ENM has the potential to enhance the quality of your connections. Here
 
 **Stronger support network** Polyamory/ENM can also unlock a treasure chest of support.  Imagine a constellation of connections, each offering a unique source of friendship, guidance, and emotional sustenance. 
 
-**Greater sexual and emotional needs fulfilled** Finally, let's not forget the potential for a richer tapestry of experiences. Polyamory/ENM when approached with honesty and emotional maturity, can offer a broader spectrum of sexual and emotional fulfillment.  Imagine the possibility of exploring diverse desires and finding intimacy in ways that a single partner might not be able to fully satisfy. This exploration doesn't diminish the primary relationship; instead, it can add a vibrant layer of experience, leading to a more well-rounded and fulfilling emotional life.
+**Greater sexual and emotional needs fulfilled** Finally, let's not forget the potential for a richer tapestry of experiences. Polyamory/ENM when approached with honesty and emotional maturity, can offer a broader spectrum of sexual and emotional fulfillment.  Imagine the possibility of exploring diverse desires and finding intimacy in ways that a single partner might not be able to fully satisfy. This exploration doesn't diminish the primary relationship; instead, it can lead to a more well-rounded and fulfilling emotional life.
 
 **The Bottom Line:**  Polyamory/ENM is not a magic bullet. The success of these partnerships hinges on emotional maturity, a commitment to growth, and the ability to navigate societal stigma. It's not for everyone though.
 
