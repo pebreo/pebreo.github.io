@@ -6,6 +6,8 @@ intro story - deshi basara - joaquin goat
 
 outline for part 1:
 - preMble
+- covergence chart
+- tech table
  - joaquin story
 - plan - title : deshi basara
 - redoerigo - health
