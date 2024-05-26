@@ -5,7 +5,7 @@ beginning: sction title:putting pieces in place
 outline for part 1:
 - preMble
  - joaquin story
-- plan
+- plan - title : deshi basara
 - redoerigo - health
 - antifragile - memtal hralth
 - bodybuildubg story
