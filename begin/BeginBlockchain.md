@@ -7,6 +7,10 @@ todo - story of xerox usibg foldrt & desktop ; relate to blockchain as a lock & 
 why kock and keys exists - privacy. 
 privacy is avhuman right like food , water, safety.
 
+![possibilty spaces](https://pebreo.github.io/IMG_0559.jpeg)
+
+
+
 
 | Technology             | Precursor Invention                  | Key Invention                           |
 | ---------------------- | ------------------------------------ | --------------------------------------- |
