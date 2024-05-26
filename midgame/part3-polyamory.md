@@ -154,7 +154,7 @@ Let's breifly recap once-taboo cultural phenomenon, revisiting activities that w
 
 * **The Green Debate:** Marijuana, demonized for decades, is now finding acceptance for both medical and recreational uses. This shift reflects a growing openness to explore alternative treatments and redefine our relationship with psychoactive substances.
 
-* **Beyond Monogamy:** Open relationships, once considered taboo, are being discussed more openly as people explore different ways to structure love and intimacy. Whether this becomes mainstream remains to be seen, but it highlights the ongoing evolution of our understanding of human connection.
+* **Beyond Monogamy:**  Whether polyamory & ENM becomes mainstream remains to be seen. History, however, points to yes.
 
 These are just a few examples of how societal norms have shifted, embracing once-deviant behaviors. This is a pattern we've seen before. In my experience, venturing outside your comfort zones, enriches your life. The journey continues, and finding a different relationship path can lead to pain and heartache but also wonderful possibilities.
 
