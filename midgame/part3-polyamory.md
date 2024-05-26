@@ -25,9 +25,7 @@ Adopting the idea that you can grow from hardship even includes romantic relatio
 
 ## Divorce in the zeitgeist
 
-It's become almost commonplace for Hollywood marriages to implode with the regularity of a reality TV show finale. This begs the question: is the sheer ubiquity of divorce among the rich and famous normalizing it for the rest of us?
-
-David Epstein, in his thought-provoking book "Range," argues for the importance of exploring different paths and embracing discomfort. Perhaps, through this celebrity lens, divorce is being reframed as just another "path" in the grand experiment of love. But is this a path readily available to everyone, or is it a luxury reserved for the A-list?
+It's become almost commonplace for wealthy and famous to divorcd. This begs the question: is it representative of the general populous? 
 
 ## Wealthy and Famous Divorces
 
@@ -41,9 +39,8 @@ David Epstein, in his thought-provoking book "Range," argues for the importance 
 | Michael Jordan | Sports | Juanita Vanoy | 2006 | 2 |
 | Shaquille O'Neal | Sports | Shaunie Henderson | 2011 | 4 | 
 
-My point in showing this table is to show that... todo: discuss w editor
 
-The casualness with which celebrity breakups are announced, often accompanied by carefully crafted public statements and lucrative endorsement deals, creates a distorted reality. Divorce, for most, is a messy, emotionally fraught experience. Financial anxieties, child custody battles, and the social stigma often associated with divorce are realities celebrities seem to conveniently bypass.
+In my view, the casualness with which celebrity breakups are announced means it is accepted as a cultural norm. The reality remains. For most, divorce is a messy, emotionally fraught experience. Financial anxieties, child custody battles, and the social stigma often associated with divorce are realities celebrities seem to conveniently bypass.
 
 There's a danger in the normalization narrative. It can downplay the challenges of divorce, particularly for those who lack the financial resources and social support networks readily available to the Hollywood elite.  Divorce shouldn't be demonized, but it shouldn't be romanticized either.
 
