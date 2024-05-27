@@ -38,6 +38,11 @@ It seems thst divorcr amd infidelity are normalized. Here are some numbers.
 
 In my opinion, infidelity is just another word for lying.
 
+its difficult to question if so
+
+Hume's Gullotine. 
+Is divorce happening? It ought to stop.
+
 Why does it matter and is there acsolution? 
 
 ## Angela and Gabe
