@@ -170,14 +170,6 @@ Let's breifly recap once-taboo cultural phenomenon, revisiting activities that w
 
 * **The Devil's Music:** Rock and roll, with its rebellious spirit and loud guitars, sent shockwaves through the 1950s. Now, it's a genre celebrated for its energy and innovation, a reminder that sometimes, the most disruptive forces can become the most beloved.
 
-* **The Joy of Movement:** From the swirling waltzes of the past to the pulsating beats of today's clubs, dancing has faced its fair share of criticism. Yet, the primal urge to move our bodies transcends cultural boundaries, reminding us of the universal language of joy and expression.
-
-* **A Toast (in Moderation):**  Today, responsible drinking is a part of many cultures, a reminder that even "deviant" behaviors can be enjoyed in moderation. Also remeber, our country had a dramatic and tumultous time dure The Prohibition Era.
-
-* **The Green Debate:** Marijuana, demonized for decades, is now finding acceptance for both medical and recreational uses. This shift reflects a growing openness to explore alternative treatments and redefine our relationship with psychoactive substances.
-
-These are just a few examples of how societal norms have shifted, embracing once-deviant behaviors. This is a pattern we've seen before. In my experience, venturing outside your comfort zones, enriches your life.
-
 
 ## Antifragile romantic relationships
 
