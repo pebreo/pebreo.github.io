@@ -54,6 +54,10 @@ At worse, causes romatiic coules to split apart who would split apart anyway.
 
 In my opinion, even if,poly/ENM cant reverse population collapse, it harms nobody and communication skills upgraded
 
+## Fumbling in the dark
+
+To better illuminte the situstion, so as not not stepn any more shit, I propose a mew framework called Paul's Pragmatist Flashlight. Indulge me lol
+
 ## Angela and Gabe
 The phone buzzed on the nightstand, illuminating Angela's face in the soft glow. It was Gabe, his message a cascade of words that made her heart skip a beat. "I think we could make it work," he said. They have been looking into polyamory - reading books, listening to podcasts, and watching videos. 
 
