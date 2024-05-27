@@ -1,6 +1,9 @@
 
 
 todo: why does poly help prevent divorces
+
+todo : why it is best chooce to fix divirce & demo collapse? use gemini
+
 ## Callum
 
 For the past five years, Callum had thrived in the familiar rhythm of life in this quaint Greek village. The predictable cycle of tending his olive grove, chatting with the gregarious townspeople, and watching the sun paint the sky. It was peaceful. It was home. Yet, lately, a yearning ate at him.
