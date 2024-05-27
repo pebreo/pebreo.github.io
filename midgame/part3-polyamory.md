@@ -1,14 +1,6 @@
 
-todo: why does commmunication builf connection?
 
-todo: antifragile mindseer -  stsbioiit AND vsridty
-
-todo: why does poly help prevent divorces?
-
-todo: humans crave stability AND variety
-
-
-todo: make first stort
+todo: why does poly help prevent divorces
 ## Callum
 
 For the past five years, Callum had thrived in the familiar rhythm of life in this quaint Greek village. The predictable cycle of tending his olive grove, chatting with the gregarious townspeople, and watching the sun paint the sky. It was peaceful. It was home. Yet, lately, a yearning ate at him.
