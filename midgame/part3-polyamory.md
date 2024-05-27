@@ -40,10 +40,14 @@ In my opinion, infidelity is just another word for lying.
 
 its difficult to question if so
 
+
+Why does it matter and is there acsolution? 
+
+
+## Hume's Gullitine, or, cut the bullshit
 Hume's Gullotine. 
 Is divorce happening? It ought to stop.
 
-Why does it matter and is there acsolution? 
 
 ## Angela and Gabe
 The phone buzzed on the nightstand, illuminating Angela's face in the soft glow. It was Gabe, his message a cascade of words that made her heart skip a beat. "I think we could make it work," he said. They have been looking into polyamory - reading books, listening to podcasts, and watching videos. 
