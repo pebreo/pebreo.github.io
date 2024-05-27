@@ -25,6 +25,13 @@ Humans crave stability AND variety.
 
 ## At the heart of the matter (pun intended)
 
+todo : why divocre is a problem 
+
+todo : why populatoob collapse in deceloed countries
+
+todo : essy fix desitgmayizecpoly/enm
+
+
 todo: explanation about humans need stabikytu & variety
 
 ## Angela and Gabe
