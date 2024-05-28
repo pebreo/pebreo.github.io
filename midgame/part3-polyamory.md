@@ -56,6 +56,15 @@ its difficult to question if so
 Why does it matter and is there acsolution? 
 
 
+The first stop on this journey is introspection.  Can you be brutally honest with yourself about your desires and limitations? For many, it is no. 
+
+Next comes the crucial exit –  honesty with your partner(s).  Can you have suncomfortable conversations with your partner(s)? Can you listen not just to their words, but the underlying anxieties they might mask? Again, for many people it's no.
+
+Not everyone has the time, resources, or background (biological, cultural, etc) for polyamory / ENM.  There's no shame in that.  It's about understanding your own emotional toolkit and if it has the wrenches needed to navigate the complexities of non-monogamy.
+
+
+
+
 ## Hume's Gullitine, or, cut the bullshit
 Hume's Gullotine. 
 Is divorce happening? It ought to stop.
