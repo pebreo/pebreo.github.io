@@ -1,6 +1,10 @@
 
 todo : explain dividend and origins from andrew yang
 
+todo: add story
+
+todo: add tkdr to chapter
+
 ## The Smiths
 The delivery app glowed accusingly on the Smiths' kitchen counter. Takeout Tuesdays were a tradition, a refuge from the relentless pressure cooker of life. But tonight, the usual banter between Sandra and Michael was muted.  Sandra, a freelance web developer, had just finished a particularly dry spell. Michael, a mechanic whose skills were increasingly challenged by electric vehicles, stared out the window, his brow furrowed. The specter of financial insecurity hung heavy in the air.
 
