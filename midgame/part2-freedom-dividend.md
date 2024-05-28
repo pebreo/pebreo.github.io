@@ -35,7 +35,7 @@ By providing all citizens with basic needs met with a guaranteed payment, regard
 
 ## Edward
 
-The tide of technological progress has always had a way of washing away the familiar. From the clatter of horseshoes replaced by the engine noise of autombiles to the rhythmic clack of typewriters silenced by the hum of computers, it seems to never end. Today, on the greasy floor of his auto repair shop, Bill grapples with the next wave – the rise of electric cars and the ominous whisper of robots capable of replacing even skilled mechanics. 
+The tide of technological progress has always had a way of washing away the familiar. From the clatter of horseshoes replaced by the engine noise of autombiles to the rhythmic clack of typewriters silenced by the hum of computers, it seems to never end. Today, on the greasy floor of his auto repair shop, Edward grapples with the next wave – the rise of electric cars and the ominous whisper of robots capable of replacing even skilled mechanics. 
 
 A pang of unease settles in his gut as he examines a sleek electric car hoisted on the hydraulic lift. The diagnostic tools in his hand, once comforting extensions of his expertise, feel strangely cold. "Electric this, autonomous that," he mutters, wiping a stray bit of grease from his forehead. The future, once a distant horizon, seems to be barreling down on him like a runaway truck. 
 
