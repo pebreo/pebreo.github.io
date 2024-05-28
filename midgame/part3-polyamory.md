@@ -163,7 +163,9 @@ todo: infidelity or divorce?
 todo: what are the trends to birth rates, divirce , and infidelity?
 
 
-## How does accepting polyamory & ENM fix population collapse?
+## Will accepting polyamory & ENM fix population collapse?
+
+Very unlikely. If the endgame is more babies then it wont make a dent. Polyamory & ENM require more resource for them to wotk. The best scenario, in my opinion, is social acceptance. History seems to point "yes" to that outcome.
 
 ## What is polyamory & ENM and why?
 
