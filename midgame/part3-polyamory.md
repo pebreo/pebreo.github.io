@@ -1,4 +1,11 @@
 
+todo: revised outline
+- callum
+- whst is poly? benefits of poly
+- diverce zeitgeit
+- angela & gabe
+- history
+- tldr
 
 todo: why does poly help prevent divorces
 
