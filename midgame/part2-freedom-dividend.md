@@ -33,6 +33,14 @@ Also, the freedom dividend is like fertilizer and soil. Why?
 
 By providing all citizens with basic needs met with a guaranteed payment, regardless of employment status, the freedom dividend can prevent permanent damage from  unexpected emergencies, hard times, and constant economic stress. It empowers individuals to pursue education, retrain for new jobs, or even start their own businesses. This allows and encourages innovation and entrepreneurship even in the face of technological disruption. 
 
+## Edward
+
+The tide of technological progress has always had a way of washing away the familiar. From the clatter of horseshoes replaced by the engine noise of autombiles to the rhythmic clack of typewriters silenced by the hum of computers, it seems to never end. Today, on the greasy floor of his auto repair shop, Bill grapples with the next wave – the rise of electric cars and the ominous whisper of robots capable of replacing even skilled mechanics. 
+
+A pang of unease settles in his gut as he examines a sleek electric car hoisted on the hydraulic lift. The diagnostic tools in his hand, once comforting extensions of his expertise, feel strangely cold. "Electric this, autonomous that," he mutters, wiping a stray bit of grease from his forehead. The future, once a distant horizon, seems to be barreling down on him like a runaway truck. 
+
+Across the garage, his son Ethan, a whirlwind of youthful enthusiasm, disassembles an old drone with the practiced ease of a seasoned explorer. He glances up, catching his eye, a mischievous glint in his gaze. "Speaking of robots, Dad, did you see that article about the self-repairing bots they're testing?" he asks.
+
 ## Why it would work
 - people struggling and want it
 - not everybody had basics covered
