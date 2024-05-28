@@ -57,7 +57,7 @@ Why does it matter and is there acsolution?
 
 Polyamory is a relationship style with more than two romantic partners. It is under the umbrella of ethical non-monogamy (ENM) which is the broader term. ENM refers to swinging, dont-ask-dont-tell, open relationships etc. Here, I just refer polyamory...
 
-The first stop on this journey is introspection.  Can you be brutally honest with yourself about your desires and limitations? For many, it is no. 
+In my view, there are two crucial questions to answer to determine if you're prepared for polyamory & ENM.  Can you be brutally honest with yourself about your desires and limitations? For many, it is no. 
 
 Next comes the crucial exit –  honesty with your partner(s).  Can you have suncomfortable conversations with your partner(s)? Can you listen not just to their words, but the underlying anxieties they might mask? Again, for many people it's no.
 
