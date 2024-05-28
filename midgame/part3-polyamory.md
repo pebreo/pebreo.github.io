@@ -94,7 +94,7 @@ Laughter, shaky and laced with tension, filled the air. The conversation flowed,
 As they walked out, the city lights twinkling against the twilight sky, Gabe felt a lightness he hadn't known existed. The road ahead was uncertain, but the fear was laced with a strange, exhilarating thrill.
 
 ## TLDR
-Adopting the idea that you can grow from hardship even includes romantic relationships. An antifragile mindset is scary but can be very rewarding.
+Embracing the idea that you can grow from hardship even includes romantic relationships. An antifragile mindset is scary but can be very rewarding.
 
 ## Divorce in the zeitgeist
 
