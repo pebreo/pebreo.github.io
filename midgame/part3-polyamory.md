@@ -54,6 +54,10 @@ At worse, causes romatiic coules to split apart who would split apart anyway.
 
 In my opinion, even if,poly/ENM cant reverse population collapse, it harms nobody and communication skills upgraded
 
+todo: remove guillotine
+
+todo: ppl make mistakes. divorce is ok. can peope make more than one romatic relstionship work? poly/enm ok too.
+
 todo: ought therr be less divorce?
 
 todo: ought there be less infidelity?
