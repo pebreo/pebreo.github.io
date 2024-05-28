@@ -162,6 +162,9 @@ todo: infidelity or divorce?
 
 todo: what are the trends to birth rates, divirce , and infidelity?
 
+
+## How does accepting polyamory & ENM fix population collapse?
+
 ## What is polyamory & ENM and why?
 
 todo: 20% infidelity rate per statistica
