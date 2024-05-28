@@ -61,9 +61,9 @@ The first stop on this journey is introspection.  Can you be brutally honest wit
 
 Next comes the crucial exit –  honesty with your partner(s).  Can you have suncomfortable conversations with your partner(s)? Can you listen not just to their words, but the underlying anxieties they might mask? Again, for many people it's no.
 
-Not everyone has the time, resources, or background (biological, cultural, etc) for polyamory / ENM.  There's no shame in that.  It's about understanding your own emotional toolkit and if it has the wrenches needed to navigate the complexities of non-monogamy.
+Not everyone has the time, resources, or background (biological, cultural, etc) for polyamory / ENM.  There's no shame in that. What do I mean time and rsources? Time to cultuvate and maintain other partners. Resources for therapy, educational material, lifestyle-specific partner & community activities, mental health therapy, etc. There are potential more benefits but also costs associated with them.
 
-
+...
 
 
 ## Hume's Gullitine, or, cut the bullshit
