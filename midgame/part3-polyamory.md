@@ -7,6 +7,9 @@ todo: revised outline
 - history
 - tldr
 
+ todo: use writers insurance
+
+
 todo: why does poly help prevent divorces
 
 todo : why it is best chooce to fix divirce & demo collapse? use gemini
