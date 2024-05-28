@@ -100,6 +100,11 @@ Embracing the idea that you can grow from hardship even includes romantic relati
 
 It's become almost commonplace for wealthy and famous to divorcd. This begs the question: is it representative of the general populous? 
 
+
+![divorce cake](https://pebreo.github.com/IMG_0677.jpeg)
+**Funny becaude true?**
+
+
 Here are just a few examples of famous people: Bill Gates, Kevin Hart, Nick Jonas, Michael Jordan, and Steven Spielberg. Anecdotally, we know at least one person who as gotten divorced. 
 
 ## Wealthy and Famous Divorces
