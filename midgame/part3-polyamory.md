@@ -13,6 +13,14 @@ todo: why does poly help prevent divorces
 
 todo : why it is best chooce to fix divirce & demo collapse? use gemini
 
+notes 5/28
+- Theme of book: upgrade or thinking, our relationships, our tech, our governance
+-,We need to fix ppls relationships
+- Convergence in 1st chapter
+- Shelve poly for now
+- Add a story to UBI . Expand
+- Make prose why & what
+
 ## Callum
 
 For the past five years, Callum had thrived in the familiar rhythm of life in this quaint Greek village. The predictable cycle of tending his olive grove, chatting with the gregarious townspeople, and watching the sun paint the sky. It was peaceful. It was home. Yet, lately, a yearning ate at him.
