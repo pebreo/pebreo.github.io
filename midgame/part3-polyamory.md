@@ -260,7 +260,7 @@ Lastly, whether polyamory & ENM becomes mainstream remains to be seen. History, 
 
 
 ## TLDR 
-
+People make mistakes so divorce is accepted. History shows cultural norms change. Polyamory & ENM just another relationship style. Its not for everyone.
 
 ## Why it would work
 - humans crave stability AND variety
