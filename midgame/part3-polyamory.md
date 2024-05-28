@@ -60,6 +60,26 @@ todo: ought there be less infidelity?
 
 todo: antifragile mindset & addressing stabikity & variety
 
+
+| Country        | GDP (Trillion USD - 2022 est.) | Fertility Rate (per woman) | Divorce Rate (per 1,000 people) | Infidelity Rate |
+| -------------- | ------------------------------ | -------------------------- | ------------------------------- | --------------- |
+| United States  | 25.44                          | 1.64                       | 3.2                             | NA              |
+| China          | 17.96                          | 1.15                       | 3.3                             | NA              |
+| Japan          | 4.26                           | 1.30                       | 1.8                             | NA              |
+| Germany        | 4.08                           | 1.50                       | 4.1                             | NA              |
+| United Kingdom | 3.14                           | 1.58                       | 4.2                             | NA              |
+| France         | 2.94                           | 1.80                       | 2.0                             | NA              |
+| Italy          | 2.09                           | 1.21                       | 1.9                             | NA              |
+
+
+**Sources**
+* GDP: World Bank [https://data.worldbank.org/indicator/NY.GDP.MKTP.CD](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
+* Fertility Rate: [https://en.wikipedia.org/wiki/Total_fertility_rate](https://en.wikipedia.org/wiki/Total_fertility_rate) (most recent year available)
+* Divorce Rate: Varied sources (may differ by year)
+
+
+
+
 ## Angela and Gabe
 The phone buzzed on the nightstand, illuminating Angela's face in the soft glow. It was Gabe, his message a cascade of words that made her heart skip a beat. "I think we could make it work," he said. They have been looking into polyamory - reading books, listening to podcasts, and watching videos. 
 
