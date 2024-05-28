@@ -76,3 +76,22 @@ At the same time, it can downplay the challenges of divorce, particularly for th
 
 However, there's a potential upside to this trend. There is an opportinty to upgrade how we see romantic relationships.
 
+## Divorce in the zeitgeist
+
+It's become almost commonplace for wealthy and famous to divorcd. This begs the question: is it representative of the general populous? 
+
+
+![divorce cake](https://pebreo.github.io/IMG_0677.jpeg)
+**Funny becaude true?**
+
+
+Here are just a few examples of famous people: Bill Gates, Kevin Hart, Nick Jonas, Michael Jordan, and Steven Spielberg. Anecdotally, we know at least one person who as gotten divorced. 
+
+
+## Between a rock and a hard choice
+
+
+todo: infidelity or divorce?
+
+todo: what are the trends to birth rates, divirce , and infidelity?
+
