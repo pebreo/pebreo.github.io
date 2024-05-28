@@ -35,6 +35,8 @@ Humans crave stability AND variety.
 
 ## At the heart of the matter (pun intended)
 
+todo: can you be honest to yourself? can you be honest your you partner(s)? are you in a position/capable of either?
+
 todo : why divocre is a problem 
 
 todo : why populatoob collapse in deceloed countries
