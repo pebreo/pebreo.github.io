@@ -101,7 +101,7 @@ Embracing the idea that you can grow from hardship even includes romantic relati
 It's become almost commonplace for wealthy and famous to divorcd. This begs the question: is it representative of the general populous? 
 
 
-![divorce cake](https://pebreo.github.com/IMG_0677.jpeg)
+![divorce cake](https://pebreo.github.io/IMG_0677.jpeg)
 **Funny becaude true?**
 
 
