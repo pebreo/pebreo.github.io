@@ -60,6 +60,8 @@ todo: ought there be less infidelity?
 
 todo: antifragile mindset & addressing stabikity & variety
 
+todo: if breaking connections accepted why not making more connectiobs acceoted?
+
 
 | Country        | GDP (Trillion USD - 2022 est.) | Fertility Rate (per woman) | Divorce Rate (per 1,000 people) | Infidelity Rate |
 | -------------- | ------------------------------ | -------------------------- | ------------------------------- | --------------- |
@@ -128,6 +130,7 @@ At the same time, it can downplay the challenges of divorce, particularly for th
 However, there's a potential upside to this trend. There is an opportinty to upgrade how we see romantic relationships.
 
 ## Between a rock and a hard choice
+
 
 todo: infidelity or divorce?
 
