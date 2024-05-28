@@ -9,7 +9,6 @@ todo: revised outline
 
  todo: use writers insurance
 
-
 todo: why does poly help prevent divorces
 
 todo : why it is best chooce to fix divirce & demo collapse? use gemini
@@ -34,8 +33,6 @@ Back in the grove, the familiar routine felt comforting once more. The sight of 
 Humans crave stability AND variety.
 
 ## At the heart of the matter (pun intended)
-
-
 
 Why does it matter and is there acsolution? 
 
@@ -67,24 +64,7 @@ As they walked out, the city lights twinkling against the twilight sky, Gabe fel
 ## TLDR
 Embracing the idea that you can grow from hardship even includes romantic relationships. An antifragile mindset is scary but can be very rewarding.
 
-## Divorce in the zeitgeist
 
-It's become almost commonplace for wealthy and famous to divorcd. This begs the question: is it representative of the general populous? 
-
-
-![divorce cake](https://pebreo.github.io/IMG_0677.jpeg)
-**Funny becaude true?**
-
-
-Here are just a few examples of famous people: Bill Gates, Kevin Hart, Nick Jonas, Michael Jordan, and Steven Spielberg. Anecdotally, we know at least one person who as gotten divorced. 
-
-
-## Between a rock and a hard choice
-
-
-todo: infidelity or divorce?
-
-todo: what are the trends to birth rates, divirce , and infidelity?
 
 
 ## Will accepting polyamory & ENM fix population collapse?
