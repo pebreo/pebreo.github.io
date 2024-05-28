@@ -55,6 +55,8 @@ its difficult to question if so
 
 Why does it matter and is there acsolution? 
 
+Besides other cultural factors , destigmatize a legitimate relationship style at very least emphasize honest communication...
+
 Polyamory is a relationship style with more than two romantic partners. It is under the umbrella of ethical non-monogamy (ENM) which is the broader term. ENM refers to swinging, dont-ask-dont-tell, open relationships etc. Here, I just refer polyamory...
 
 In my view, there are two crucial questions to answer to determine if you're prepared for polyamory & ENM.  Can you be brutally honest with yourself about your desires and limitations? For many, it is no. 
