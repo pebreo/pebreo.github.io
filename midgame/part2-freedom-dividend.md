@@ -43,7 +43,7 @@ Automation and robot labor are coming online and, undoubtedly, and it will creat
 
 Also, the freedom dividend is like fertilizer and soil. Why?
 
-By providing all citizens with basic needs met with a guaranteed payment, regardless of employment status, the freedom dividend can prevent permanent damage from  unexpected emergencies, hard times, and constant economic stress. It empowers individuals to pursue education, retrain for new jobs, or even start their own businesses. This allows and encourages innovation and entrepreneurship even in the face of technological disruption. 
+By providing all citizens with basic needs met with a guaranteed payment, regardless of employment status, the freedom dividend can prevent permanent damage from  unexpected emergencies, hard times, and constant economic stress. It empowers individuals to pursue education, retrain for new jobs, or even start their own businesses. This allows and encourages innovation and entrepreneurship even in the face of technological progress/upheaval. 
 
 ## TLDR
 Not everyone has the same amount of resources. The Freedom Dividend would give a helping hand, prevent hardship from the uncontrollable, and empower people to pursue entrepreneurial endeavors.
