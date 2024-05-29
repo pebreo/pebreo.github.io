@@ -22,7 +22,7 @@ The delivery app glowed accusingly on the Smiths' kitchen counter. Takeout Tuesd
 
 "A safety net," Sandra continued, the words carrying a newfound weight. "A chance to breathe, to explore new areas, maybe even take that pottery class you've always mentioned." Michael, a man whose hands had always found solace in the tangible, harbored a secret desire – shaping clay into something beautiful. 
 
-The freedom dividend wasn't a novel concept.  Wouldn't it stifle innovation?  Wouldn't people become complacent?  But as Sandra dug deeper, a new perspective emerged.  What if the dividend wasn't a hammock, but a launching pad?  "I could start that pastry business I always to," she thought.
+The freedom dividend wasn't a novel concept.  Wouldn't it stifle innovation?  Wouldn't people become complacent?  But as Sandra dug deeper, a new perspective emerged.  What if the dividend wasn't a hammock, but a launching pad?  "I could start that pastry business I always wanted to," she thought.
 
 Also, the fear of losing their jobs wouldn't disappear, but the terror of freefall might.  So, takeout debate remained undecided, but a different kind of menu had opened – a menu of possibilities.
 
