@@ -11,9 +11,42 @@
       align-items: center; /* Center vertically */
       margin: 0; /* Remove default body margin */
     }
+  
+     #slider {
+      width: 200px; /* Adjust slider width */
+      height: 20px; /* Slider height */
+      background-color: #ddd;
+      margin-bottom: 10px; /* Add margin below slider */
+    }
+    #slider input[type="range"] {
+      -webkit-appearance: none; /* Override default appearance */
+      appearance: none; /* Override default appearance */
+      width: 100%; /* Match slider width */
+      height: 100%; /* Match slider height */
+      background: #ccc; /* Background color for track */
+      outline: none; /* Remove outline */
+      cursor: pointer; /* Set cursor for dragging */
+      box-sizing: border-box; /* Include padding in width */
+    }
+    #slider input[type="range"]::-webkit-slider-thumb {
+      -webkit-appearance: none; /* Override default appearance */
+      appearance: none; /* Override default appearance */
+      width: 20px; /* Knob size */
+      height: 20px; /* Knob size */
+      background-color: #4CAF50; /* Knob color */
+      border-radius: 50%; /* Round knob corners */
+      cursor: pointer; /* Set cursor for dragging */
+    }
+
+
+
   </style>
 </head>
 <body>
+
+<div id="slider">
+    <input type="range" min="0" max="100" value="50"> </div>
+
   <canvas id="myCanvas"></canvas>
   <script>
     const canvas = document.getElementById('myCanvas');
