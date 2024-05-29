@@ -6,7 +6,10 @@
   <title>Canvas Example</title>
   <style>
     body {
-      margin: 0;
+      display: flex; /* Enable flexbox for centering */
+      justify-content: center; /* Center horizontally */
+      align-items: center; /* Center vertically */
+      margin: 0; /* Remove default body margin */
     }
   </style>
 </head>
@@ -17,17 +20,20 @@
     const ctx = canvas.getContext('2d');
 
     // Set the canvas width and height
-    canvas.width = 800;
-    canvas.height = 600;
+    canvas.width = 640;
+    canvas.height = 480;
 
     // (Optional) Fill the canvas with a background color
     ctx.fillStyle = '#a0a0a0';
     ctx.fillRect(0, 0, canvas.width, canvas.height);
     
     // Define triangle properties
-    const triangleX = 50; // Adjust X position for center-left
-    const triangleY = canvas.height / 2; // Center the triangle vertically
-    const triangleSize = 100; // Adjust size as needed
+    const triangleX = 50 + 15; // Adjust X position for center-left
+    const triangleY = canvas.height / 2 + 75; // Center the triangle vertically
+    const baseSize = 100; // Base size for triangle
+
+    // Calculate new size with 250% increase
+    const triangleSize = baseSize * 2; // 100 (base) * 3.5 (250% increase)
 
     // Set line width for thick border
     ctx.lineWidth = 10;
@@ -44,7 +50,6 @@
     // Fill the triangle with white
     ctx.fillStyle = 'white';
     ctx.fill();
-
 
 
 
