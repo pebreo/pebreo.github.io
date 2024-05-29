@@ -3,6 +3,12 @@ Using vanilla JS
 
 
 
+## notes
+- calc max volume of cone w h=100
+- calc vilume created by upside down cone, so max V - V of new height
+- percentage = new volume / max volume
+- apply percentage to second trisngle height
+
 todo: draw canvas
 
 todo: draw two trianles
