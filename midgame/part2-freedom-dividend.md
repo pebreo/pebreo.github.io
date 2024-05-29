@@ -10,6 +10,8 @@ Across the garage, his son Ethan, a whirlwind of youthful enthusiasm, disassembl
 ## TLDR
 Technological changes seem to come quick. Young people are more likely to pickup and adopt it.
 
+## Dizzying pace
+
 The pace of technological change can feel dizzying. Like a toddler discovering a room full of toys, we keep stumbling upon new gadgets and ideas at an ever-increasing rate.  This rapid shift can be overwhelming, but it also holds immense potential.  Imagine the difference between a clunky rotary phone and a smartphone in your pocket, a constant portal to information and connection.  Technology is constantly iterating, building on past discoveries to reach new heights, and that translates to a world of opportunity for exploration, creation, and problem-solving in ways we never could have imagined before. 
 
 
@@ -40,7 +42,6 @@ Automation and robot labor are coming online and, undoubtedly, and it will creat
 Also, the freedom dividend is like fertilizer and soil. Why?
 
 By providing all citizens with basic needs met with a guaranteed payment, regardless of employment status, the freedom dividend can prevent permanent damage from  unexpected emergencies, hard times, and constant economic stress. It empowers individuals to pursue education, retrain for new jobs, or even start their own businesses. This allows and encourages innovation and entrepreneurship even in the face of technological disruption. 
-
 
 
 ## Why it would work
