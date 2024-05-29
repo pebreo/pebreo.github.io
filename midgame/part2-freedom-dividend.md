@@ -35,6 +35,8 @@ What is the Freedom Dividend? It was the 2020 US presidential candidate Andrew Y
 
 In the United States, the five most common jobs are administrtive/clerical work, retail/sales, food service/prep, truck driving/transportation, and manufacturing. Those jobs take up about **half of all** jobs in America. So what?
 
+![jobs](https://pebreo.github.io/IMG_0742.jpeg)
+
 If you believe robots and AI will become good enough to replave human labor. If you believe that technology will develop faster than people can get go back to school or retrain.  And, if you believe not everyone has the money or time to do that, then the freedom dividend would be a safety net. Let me explain.
 
 Automation and robot labor are coming online and, undoubtedly, and it will create staggering wealth. It can also leave many in our communities behind - their skillsets no longer needed. This creates a crucial need for a safety net – a system that ensures hard times don't cripple you. The freedom dividend is the solution.
