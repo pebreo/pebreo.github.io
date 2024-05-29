@@ -50,17 +50,17 @@ Not everyone has the same amount of resources. The Freedom Dividend would give a
 
 
 ## Why it would work
-- people struggling and want it
-- not everybody starts from the same place
-- not everybody healthy enough to make a lot of money
+- people are struggling and want it.
+- not everybody starts from the same place.
+- not everybody is healthy enough to make a lot of money.
 
 ## What will happen
-- prevent permanent damage to our communities
-- free people up to start businesses
-- remove stress
+- It will prevent permanent damage to our communities
+- It will free people up to start businesses.
+- It will remove stress.
 
 ## Other reasons
-- we already give safety nets
+- we already give safety nets.
 
 ## Next chapter
 [Part 3: Polyamory](https://pebreo.github.io/midgame/part3-polyamory.html)
