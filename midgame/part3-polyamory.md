@@ -38,7 +38,7 @@ When they finally crossed the finish line, exhausted but exhilarated, Callum kne
 Back in the grove, the familiar routine felt comforting once more. The sight of his olive trees, heavy with fruit, was no longer monotonous; it was a source of solace. His home gave him strength and his adventures enriched it even more. 
 
 ## TLDR
-Some humans prefer stability. Some humans prefer variety. Some both. 
+Some humans prefer stability. Some humans prefer variety. Some, a combination of both. 
 
 ## Antifragile romantic relationships
 
