@@ -1,1 +1,55 @@
-foo
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Canvas Example</title>
+  <style>
+    body {
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+  <canvas id="myCanvas"></canvas>
+  <script>
+    const canvas = document.getElementById('myCanvas');
+    const ctx = canvas.getContext('2d');
+
+    // Set the canvas width and height
+    canvas.width = 800;
+    canvas.height = 600;
+
+    // (Optional) Fill the canvas with a background color
+    ctx.fillStyle = '#a0a0a0';
+    ctx.fillRect(0, 0, canvas.width, canvas.height);
+    
+    // Define triangle properties
+    const triangleX = 50; // Adjust X position for center-left
+    const triangleY = canvas.height / 2; // Center the triangle vertically
+    const triangleSize = 100; // Adjust size as needed
+
+    // Set line width for thick border
+    ctx.lineWidth = 10;
+
+    // Draw the black border of the triangle
+    ctx.strokeStyle = 'black';
+    ctx.beginPath();
+    ctx.moveTo(triangleX, triangleY);
+    ctx.lineTo(triangleX + triangleSize, triangleY);
+    ctx.lineTo(triangleX + triangleSize / 2, triangleY - triangleSize);
+    ctx.closePath();
+    ctx.stroke();
+
+    // Fill the triangle with white
+    ctx.fillStyle = 'white';
+    ctx.fill();
+
+
+
+
+
+
+  </script>
+</body>
+</html>
