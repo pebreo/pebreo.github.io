@@ -1,10 +1,4 @@
 
-todo : explain dividend and origins from andrew yang
-
-todo: add story
-
-todo: add tkdr to chapter
-
 ## Edward
 
 The tide of technological progress has always had a way of washing away the familiar. From the clatter of horseshoes replaced by the engine noise of autombiles to the rhythmic clack of typewriters silenced by the hum of computers, it seems to never end. Today, on the greasy floor of his auto repair shop, Edward grapples with the next wave – the rise of electric cars and the ominous whisper of robots capable of replacing even skilled mechanics. 
@@ -15,6 +9,8 @@ Across the garage, his son Ethan, a whirlwind of youthful enthusiasm, disassembl
 
 ## TLDR
 Technological changes seem to come quick. Young people are more likely to pickup and adopt it.
+
+The pace of technological change can feel dizzying. Like a toddler discovering a room full of toys, we keep stumbling upon new gadgets and ideas at an ever-increasing rate.  This rapid shift can be overwhelming, but it also holds immense potential.  Imagine the difference between a clunky rotary phone and a smartphone in your pocket, a constant portal to information and connection.  Technology is constantly iterating, building on past discoveries to reach new heights, and that translates to a world of opportunity for exploration, creation, and problem-solving in ways we never could have imagined before. 
 
 
 ## The Smiths
