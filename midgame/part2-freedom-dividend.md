@@ -14,7 +14,7 @@ Technological changes seem to come quick. Young people are more likely to pickup
 
 The pace of technological change can feel dizzying. Like a toddler discovering a room full of toys, we keep stumbling upon new gadgets and ideas at an ever-increasing rate.  This rapid shift can be overwhelming, but it also opens up amazing possibilities.  Imagine the difference between a clunky rotary phone and a smartphone in your pocket, a constant portal to information and connection.  Technology can help us new reach new heights or nightmare scenarios. 
 
-In my view, the key lies in approaching technology with idealism AND pragmatism.  We should celebrate the incredible progress that has improved our lives in countless ways.  At the same time, we must acknowledge the potential downsides and work towards developing safeguards and ethical frameworks to mitigate these risks.  Just as we wouldn't let a toddler play with a sharp object unsupervised, we can't let technology run wild without considering the potential consequences.  By fostering a culture of responsible innovation and open discussion, we can ensure that technology continues to be a force for good in our ever-evolving world.
+In my view, the key lies in approaching technology with idealism AND pragmatism.  We should celebrate the incredible progress that has improved our lives in countless ways. At the same time, we must acknowledge the potential downsides and work towards developing safeguards and ethical frameworks to mitigate these risks. 
 
 
 ## The Smiths
