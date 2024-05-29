@@ -26,7 +26,7 @@ His journey, however, wasn't a fairytale. There were setbacks, moments of frustr
 He ran marathons, went on long walks with his children, danced with his wife, and climbed mountains. He yearned to feel the sun on his skin, the wind in his hair, experiences forever denied to him by his unique biology. The richness of the mind, the boundless potential of human connection.
 
 ## TLDR
-When flight was solved, humans could travel the world in hours not days. Similarly, creating synthetic intelligence would mean almost unimiginable intelligence that would solve humanity's most difficult problems. 
+When flight was solved, humans could travel the world in hours not months or days. Similarly, creating synthetic intelligence would mean almost unimiginable intelligence that would solve humanity's most difficult problems. 
 
 ## Not a revolution or evolution: a quantum leap
 Just imagine the creation of a super-intelligent AI capable of tackling humanity's most pressing challenges: climate change, poverty, disease. Exciting possibilities. Now include human-alignment, completely understandable and explainable, and affordable to all. I described how to do this in the first section.
