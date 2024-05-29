@@ -1,9 +1,19 @@
 
-todo : explain dividend and origins from andrew yang
+## Edward
 
-todo: add story
+The tide of technological progress has always had a way of washing away the familiar. From the clatter of horseshoes replaced by the engine noise of autombiles to the rhythmic clack of typewriters silenced by the hum of computers, it seems to never end. Today, on the greasy floor of his auto repair shop, Edward grapples with the next wave – the rise of electric cars and the ominous whisper of robots capable of replacing even skilled mechanics. 
 
-todo: add tkdr to chapter
+A pang of unease settles in his gut as he examines a sleek electric car hoisted on the hydraulic lift. The diagnostic tools in his hand, once comforting extensions of his expertise, feel strangely cold. "Electric this, autonomous that," he mutters, wiping a stray bit of grease from his forehead. The future, once a distant horizon, seems to be barreling down on him like a runaway truck. 
+
+Across the garage, his son Ethan, a whirlwind of youthful enthusiasm, disassembles an old drone with the practiced ease of a seasoned explorer. He glances up, catching his eye, a mischievous glint in his gaze. "Speaking of robots, Dad, did you see that article about the self-repairing bots they're testing?" he asks.
+
+## TLDR
+Technological changes seem to come quick. Young people are more likely to pickup and adopt it.
+
+## Dizzying pace
+
+The pace of technological change can feel dizzying. Like a toddler discovering a room full of toys, we keep stumbling upon new gadgets and ideas at an ever-increasing rate.  This rapid shift can be overwhelming, but it also holds immense potential.  Imagine the difference between a clunky rotary phone and a smartphone in your pocket, a constant portal to information and connection.  Technology is constantly iterating, building on past discoveries to reach new heights, and that translates to a world of opportunity for exploration, creation, and problem-solving in ways we never could have imagined before. 
+
 
 ## The Smiths
 The delivery app glowed accusingly on the Smiths' kitchen counter. Takeout Tuesdays were a tradition, a refuge from the relentless pressure cooker of life. But tonight, the usual banter between Sandra and Michael was muted.  Sandra, a freelance web developer, had just finished a particularly dry spell. Michael, a mechanic whose skills were increasingly challenged by electric vehicles, stared out the window, his brow furrowed. The specter of financial insecurity hung heavy in the air.
@@ -33,27 +43,22 @@ Also, the freedom dividend is like fertilizer and soil. Why?
 
 By providing all citizens with basic needs met with a guaranteed payment, regardless of employment status, the freedom dividend can prevent permanent damage from  unexpected emergencies, hard times, and constant economic stress. It empowers individuals to pursue education, retrain for new jobs, or even start their own businesses. This allows and encourages innovation and entrepreneurship even in the face of technological disruption. 
 
-## Edward
+## TLDR
+Not everyone has the same amount of resources. The Freedom Dividend would give a helping hand, prevent hardship from the uncontrollable, and empower people to pursue entrepreneurial endeavors.
 
-The tide of technological progress has always had a way of washing away the familiar. From the clatter of horseshoes replaced by the engine noise of autombiles to the rhythmic clack of typewriters silenced by the hum of computers, it seems to never end. Today, on the greasy floor of his auto repair shop, Edward grapples with the next wave – the rise of electric cars and the ominous whisper of robots capable of replacing even skilled mechanics. 
-
-A pang of unease settles in his gut as he examines a sleek electric car hoisted on the hydraulic lift. The diagnostic tools in his hand, once comforting extensions of his expertise, feel strangely cold. "Electric this, autonomous that," he mutters, wiping a stray bit of grease from his forehead. The future, once a distant horizon, seems to be barreling down on him like a runaway truck. 
-
-Across the garage, his son Ethan, a whirlwind of youthful enthusiasm, disassembles an old drone with the practiced ease of a seasoned explorer. He glances up, catching his eye, a mischievous glint in his gaze. "Speaking of robots, Dad, did you see that article about the self-repairing bots they're testing?" he asks.
 
 ## Why it would work
 - people struggling and want it
-- not everybody had basics covered
-- not everybody hralthy ebough to majeca lot money
-- country awash with money
+- not everybody starts from the same place
+- not everybody healthy enough to make a lot of money
 
 ## What will happen
-- prevent permanent damage to iur cimmunities
-- free ppl to start businesses
+- prevent permanent damage to our communities
+- free people up to start businesses
 - remove stress
 
 ## Other reasons
-- we already gave safety nets
+- we already give safety nets
 
 ## Next chapter
 [Part 3: Polyamory](https://pebreo.github.io/midgame/part3-polyamory.html)
