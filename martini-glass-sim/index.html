@@ -13,22 +13,18 @@
     }
   
      #slider {
-      width: 200px; /* Adjust slider width */
-      height: 20px; /* Slider height */
+      width: 20px; /* Adjust slider width */
+      height: 200px; /* Slider height */
       background-color: #ddd;
       margin-bottom: 10px; /* Add margin below slider */
     }
+    
     #slider input[type="range"] {
-      -webkit-appearance: none; /* Override default appearance */
-      appearance: none; /* Override default appearance */
-      width: 100%; /* Match slider width */
-      height: 100%; /* Match slider height */
-      background: #ccc; /* Background color for track */
-      outline: none; /* Remove outline */
-      cursor: pointer; /* Set cursor for dragging */
-      box-sizing: border-box; /* Include padding in width */
+       position: absolute;
+       top: 40%;
+       transform: rotate(270deg);
     }
-    #slider input[type="range"]::-webkit-slider-thumb {
+        #slider input[type="range"]::-webkit-slider-thumb {
       -webkit-appearance: none; /* Override default appearance */
       appearance: none; /* Override default appearance */
       width: 20px; /* Knob size */
