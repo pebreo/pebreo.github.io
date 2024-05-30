@@ -17,6 +17,9 @@ whag doe antifragikity mea?
 
 todj: graphic of damocles, phoenix, hudras
 
+
+#### if physical hardship (up to a certin point) made you stronger, non-physical hardshiips too
+
 # Road to antifragility
 done: story of being broken
 todo: story of what lead to antifragility
@@ -77,3 +80,9 @@ The next week, his workouts transformed. Gone were the endless sets of bicep cur
 And slowly, the results came. His plateaued lifts started creeping upwards. His core, once neglected, felt stronger, stabilizing his movements. The occasional yoga session left him feeling more limber, his movements more fluid. More importantly, a newfound mental resilience bloomed. The frustration of the past was replaced by a quiet determination, a willingness to embrace the challenges that Epstein called the "messy middle" – the discomfort that precedes growth.  
 
 One humid Tuesday evening, weeks later, Ethan loaded the barbell with a weight that once seemed insurmountable. This time, as he lifted it, a surge of exhilaration coursed through him. It wasn't just about conquering the weight; it was about conquering the self-doubt, the fear of venturing outside his comfort zone.  Bodybuilding, he realized, was a metaphor for life. It was about the never-ending quest for growth, the willingness to embrace the discomfort of the unknown, the challenges that sculpted you not just physically, but mentally and emotionally as well.  He glanced towards Boris, a silent thank you hanging in the air. Boris winked, a knowing glint in his eye. In the gym, as in life, it seemed, antifragility wasn't forged in ease, but in the fires of calculated stress, the beautiful struggle that pushed you beyond your perceived limits.  
+
+
+## Why this works
+- hormesis
+- 
+
