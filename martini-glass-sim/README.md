@@ -36,6 +36,7 @@ when slider moves, fill trianlge to certain heights
 In vanilla JavaScript, draw a 800x600 canvas
 und
 
+In vanilla JavaScript, write an html slider which determines how much a a white trianoe  is filled  with blue. For example, if the slider is up halfway then the triangle should be 50% filled (starting from the base). If the slider is only 25% up then the triangle should only 25% filled (starting from the base). 
 
 
 ## inspiration from
