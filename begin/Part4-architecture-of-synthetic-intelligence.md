@@ -46,7 +46,7 @@ Problem: LLM are expensive & a black box
 Solution: RCNs can be human-aligned, completely understandable and explainable, affordabke to all
 
 ## Why this would work
-- Dileep George already productized it
+- Dileep George et al. already productized it
 - Mailce and ill-will need not be in system
 - Plenty of training data
 
