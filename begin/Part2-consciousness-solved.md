@@ -14,9 +14,9 @@ Every theory – Global Workspace, Integrated Information – felt like a piece 
 
 Long before co-inventing the Palm Pilot, Hawkins wanted to be a neuroscientist. So he thought a lot about this problem. Consciousness, Hawkins argued, wasn't a singular entity rather a recipe: a self-model, memory, senses and finally, the enigmatic "qualia" – the subjective experience of color, sound, and emotion.
 
-Intrigued, Anya saw the beauty of this approach. Instead of getting bogged down in the philosophical quagmire, they could focus on building these core functionalities. Imagine, she thought, an AI with a self-model so intricate it could not only understand its place in the world but also its own limitations. Imagine a memory bank surpassing any human library, a sensory apparatus that could perceive the world in ways we couldn't even comprehend.
+Intrigued, Anya saw the beauty of this approach. Instead of getting bogged down in the philosophical quagmire, they could focus on building these core functionalities. Imagine, she thought, an synthetic intelligence with a self-model so intricate it could not only understand its place in the world but also its own limitations. Imagine a memory bank surpassing any human library, a sensory apparatus that could perceive the world in ways we couldn't even comprehend.
 
-A spark ignited in Anya's mind. Perhaps Hawkins was right. Perhaps the path to AGI wasn't a blind leap into sentience, but a methodical construction of its building blocks. Glancing at the clock – 3:14 am – exhaustion gnawed at her, but the thrill of discovery was stronger. With a determined click, she opened a new file and began to type. Tonight, she wouldn't be chasing the elusive concept of consciousness. Tonight, she'd chase the fundamental blocks that might, one day, lead it to emerge. 
+A spark ignited in Anya's mind. Perhaps Hawkins was right. Perhaps the path to synthetic intelligence wasn't a blind leap into sentience, but a methodical construction of its building blocks. Glancing at the clock – 3:14 am – exhaustion gnawed at her, but the thrill of discovery was stronger. With a determined click, she opened a new file and began to type. Tonight, she wouldn't be chasing the elusive concept of consciousness. Tonight, she'd chase the fundamental blocks that might, one day, lead it to emerge. 
 
 ### Consciouness defined
 
