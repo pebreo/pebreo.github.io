@@ -52,16 +52,23 @@ AI
 Blockchainon pm
 
 ## story - goat journry - start sections with different larts of the story
+1
 In a dusty field, picked clean by countless hooves, lived Joaquin. The grass was brown, the air stale, and a deep discontent gnawed at him. One night, Joaquin dreamt of a lush green valley, where goats frolicked and the grass shimmered like emeralds. Waking with a start, he knew he had to find this paradise.
-
+2
 Legend spoke of a bridge leading to such a land, nestled high in the mountains. Determined, Joaquin began his climb. The way was treacherous, rocky slopes giving way to sheer cliffs. He braved mountain lions with fierce bleats and dodged falling stones. Other goats, content in their familiar dust, bleated taunts, "Where are you going, fool? The only green you'll find is envy!"
 
-Joaquin ignored them, his resolve hardening with each step. Finally, he reached the wooden bridge, a rickety contraption swaying over a dizzying chasm. Fear clawed at him. He'd never been so high, and the bridge seemed ready to crumble at the slightest touch. Yet, the memory of the emerald dream spurred him on.
+### end part 1
 
+3
+Joaquin ignored them, his resolve hardening with each step. Finally, he reached the wooden bridge, a rickety contraption swaying over a dizzying chasm. Fear clawed at him. He'd never been so high, and the bridge seemed ready to crumble at the slightest touch. Yet, the memory of the emerald dream spurred him on.
+4
 Slowly, Joaquin inched across the bridge. Every creak sent shivers down his spine. He closed his eyes, picturing the green valley, the taste of sweet grass. Just as doubt threatened to overwhelm him, he felt solid ground beneath his hooves. He had crossed!
 
-The sight that greeted him stole his breath. Rolling hills stretched as far as the eye could see, carpeted in the most luscious green grass imaginable. Goats of all shapes and sizes grazed peacefully, their bleats a symphony of contentment. Joaquin was welcomed with open hooves.
+### end part 2
 
+5
+The sight that greeted Joaquin stole his breath. Rolling hills stretched as far as the eye could see, carpeted in the most luscious green grass imaginable. Goats of all shapes and sizes grazed peacefully, their bleats a symphony of contentment. Joaquin was welcomed with open hooves.
+6
 He had faced fear, doubt, and even unfriendly goats, but Joaquin had found his dream. His journey taught him that true happiness lies beyond comfort zones, waiting for those brave enough to reach for it, one courageous step at a time. 
 
 ## the plan
