@@ -43,7 +43,16 @@ Adding guardrails to synthetic intelligence is brittle because there are too man
 ## TLDR
 Problem: LLM are expensive & a black box
 
-Solution: RCNs can be human-aligned, completely understandable and explainable, affirdable to all
+Solution: RCNs can be human-aligned, completely understandable and explainable, affordabke to all
+
+## Why this would work
+- Dileep George already productized it
+- Mailce and ill-will need not be in system
+- Plenty of training data
+
+## What will happen
+- Human-aligned AI, 100% understandable & explainable, affordable to unlock
+- Unlock unimaginable possibilities of solving humanity's challenged
 
 ## Next chapter
 [Part 5: Implication of solved intelligence & consciousness](Part5-implications-of-solved-intelligence.md)
