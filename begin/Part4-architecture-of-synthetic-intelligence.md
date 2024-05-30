@@ -2,7 +2,7 @@
 ## ideas
 - alignment - triune
 - paperclip problem
-- solution: imagination + program to do opposite of human history.
+- solution: imagination + program to do opposite of human history (plenty of examples)
 - 100% explainable + understanbke. upgrade to rcn
 - affordBke to all. using rcn, hubdreds times less training data
 
