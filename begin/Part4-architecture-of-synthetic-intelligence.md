@@ -52,7 +52,7 @@ Solution: RCNs can be human-aligned, completely understandable and explainable, 
 
 ## What will happen
 - Human-aligned AI, 100% understandable & explainable, affordable to unlock
-- Unlock unimaginable possibilities of solving humanity's challenged
+- Unlock almost unimaginable possibilities from solving humanity's most difficult challenges
 
 ## Next chapter
 [Part 5: Implication of solved intelligence & consciousness](Part5-implications-of-solved-intelligence.md)
