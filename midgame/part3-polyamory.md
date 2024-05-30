@@ -191,6 +191,10 @@ People make mistakes so divorce is accepted. History shows cultural norms change
 - greater emotional & sexual needs filled
 - if still monogamous, stronger communication
 
+## Bonus possibilities
+- prevent permament emotional damage to adults & dependents
+- prevents permanent loss of wealth, time, and resources 
+
 [Addendum](https://pebreo.github.io/midgame/addendum.html)
 
 [TOC](https://pebreo.github.io/midgame)
