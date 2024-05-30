@@ -181,7 +181,7 @@ Let's breifly recap once-taboo cultural phenomenon, revisiting activities that w
 People make mistakes so divorce is accepted. History shows cultural norms change. Polyamory & ENM just another relationship style. Its not for everyone.
 
 ## Why it would work
-- humans crave stability AND variety
+- some humans crave stability AND variety
 - honest communications builds & strengthends bonds
 - existence proof in past & present
 
