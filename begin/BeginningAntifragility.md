@@ -47,10 +47,10 @@ The world outside his window was slowly regaining its vibrancy, but within Roder
 Without health, material comforts mean nothing. Both physical and mental health should both be paid attention to and taken care of,
 
 
-## Arnold
-## Building Beyond Breaking: Antifragility in the Iron Temple
 
-David Epstein, in his thought-provoking book "Range," champions the power of embracing discomfort and navigating multiple paths. This resonates deeply in the world of bodybuilding, a realm where sculpted physiques are forged not just in sweat, but in the crucible of controlled stress. Here, the concept of antifragility, popularized by Nassim Taleb, takes center stage. 
+## Antifragility in the Iron Temple
+
+The concept of antifragility is inherent in the world of bodybuilding, a realm where sculpted physiques are forged  in sweat, and the crucible of controlled stress. Here, the concept of antifragility, popularized by Nassim Taleb, takes center stage. 
 
 ![hydra](https://pebreo.github.io/IMG_0755.jpeg)
 
