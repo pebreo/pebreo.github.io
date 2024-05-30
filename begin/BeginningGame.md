@@ -51,7 +51,7 @@ Near unlimited labor
 AI
 Blockchainon pm
 
-## story - goat journry - start sections with different larts of the story
+## Joaquin, or, deshi basara
 1
 In a dusty field, picked clean by countless hooves, lived a goat named Joaquin. The grass was brown, the air stale, and a deep discontent gnawed at him. One night, Joaquin dreamt of a lush green valley, where goats frolicked and the grass shimmered like emeralds. Waking with a start, he knew he had to find this paradise.
 
