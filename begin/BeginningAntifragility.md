@@ -23,7 +23,9 @@ todo: story of what lead to antifragility
 
 todo: break story into two parts : part one for heakth, part two for intelligence & consciousness
 
-todo : ephnany 1 - health
+todo : ephnany 1 - health - mind, body, soul - mind - damocles, phoenix, antifragile
+
+
 todo: ephibany 2 - old brain & new brain
 
 ## Roderigo
