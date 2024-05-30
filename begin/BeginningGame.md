@@ -64,9 +64,10 @@ Other goats, content in their familiar dust, bleated taunts, "Where are you goin
 
 Joaquin ignored them, his resolve hardening with each step. Finally, he reached the wooden bridge, a rickety contraption swaying over a dizzying chasm. Fear clawed at him. He'd never been so high, and the bridge seemed ready to crumble at the slightest touch. Yet, the memory of the emerald dream spurred him on.
 4
-Slowly, Joaquin inched across the bridge. Every creak sent shivers down his spine. He closed his eyes, picturing the green valley, the taste of sweet grass. Just as doubt threatened to overwhelm him, he felt solid ground beneath his hooves. He had crossed!
+Slowly, Joaquin inched across the bridge. Every creak sent shivers down his spine. He closed his eyes, picturing the green valley, the taste of sweet grass. Just as doubt threatened to overwhelm him, he felt ... (to be continued)
 
 ### end part 2
+Just as doubt threatened to overwhelm Joaqin, he felt solid ground beneath his hooves. He had crossed!
 
 5
 The sight that greeted Joaquin stole his breath. Rolling hills stretched as far as the eye could see, carpeted in the most luscious green grass imaginable. Goats of all shapes and sizes grazed peacefully, their bleats a symphony of contentment. Joaquin was welcomed with open hooves.
