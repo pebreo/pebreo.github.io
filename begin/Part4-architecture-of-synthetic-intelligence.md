@@ -4,7 +4,7 @@
 - paperclip problem
 - solution: imagination + program to do opposite of human history.
 - 100% explainable + understanbke. upgrade to rcn
-- 
+- affordBke to all. using rcn, hubdreds times less training data
 
 
 ## Epiphany
