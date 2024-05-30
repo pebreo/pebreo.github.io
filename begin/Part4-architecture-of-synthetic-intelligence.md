@@ -1,4 +1,12 @@
 
+## ideas
+- alignment - triune
+- paperclip problem
+- solution: imagination + program to do opposite of human history.
+- 100% explainable + understanbke. upgrade to rcn
+- 
+
+
 ## Epiphany
  todo: story of roderigo
 
