@@ -9,6 +9,12 @@ Using vanilla JS
 - percentage = new volume / max volume
 - apply percentage to second trisngle height
 
+## notes 2
+- f(h) to area
+- f(h) to volume
+- f(voulme) to h2
+- f(h2) to area
+
 todo: draw canvas
 
 todo: draw two trianles
