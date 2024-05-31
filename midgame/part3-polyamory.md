@@ -44,7 +44,7 @@ Some humans prefer stability. Some humans prefer variety. Some, a combination of
 
 While polyamory/ENM might seem like an outlier, its just another type of relationsip albeit more effortful. Let's look at the benefits and the inherent challenges.
 
-**Vulnerability as Strength:**  This is the core of genuine, deep connections. When you leave yourself open to be said "no" to, reprimanded, scolded, made fun-of, or even humiliated you risk so much. Why? Becaused now your ego and self-worth can be attacked. However, is there any other way to realize your most personal desires with those you love? Also, by working through the "hard conversations" together, partners build **incredible trust** and **deep understanding**. 
+**Vulnerability as Strength:**  This is the core of genuine, deep connections. When you leave yourself open to be said "no" to, reprimanded, scolded, made fun-of, or even humiliated you risk so much. Why? Becaused now your ego and self-worth can be attacked. By working through the "hard conversations" together, partners build **incredible trust** and **deep understanding**.  Also, is there any other way to realize your most personal desires with those you love? 
 
 **Beyond the Traditional Model:**  The very existence of functional polyamory throws a wrench into the assumption that monogamy is the only path to a happy and lasting partnership.  Couples are successfully navigating open arrangements, suggesting there's more than one way to find fulfillment within a committed relationship.
 
