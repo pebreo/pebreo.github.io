@@ -49,9 +49,9 @@ While polyamory/ENM might seem like an outlier, its just another type of relatio
 **Outside the Traditional Model:**  The very existence of functional polyamory throws a wrench into the assumption that monogamy is the only path to a happy and lasting partnership.  Couples are successfully navigating open arrangements, suggesting there's more than one way to find fulfillment within a committed relationship.
 
 
-**The Range of Challenges:**  Polyamory & ENM also require a high degree of emotional energy and self-awareness.  Partners need to navigate jealousy, insecurity, fear, and uncertainty.  Ultimately, it requires constant communication and a willingness to adapt as needs and desires change.  
+**The Range of Challenges:**  Polyamory & ENM also require a high degree of emotional energy, work, and self-awareness. Specifically, partners need to navigate jealousy, insecurity, fear, and uncertainty. Constantly. Ultimately, it requires much time, resources, and effort.  
 
-**Societal Hurdles:** Polyamory/ENM still face societal stigma, which can create strain on couples and their support networks. Navigating this stigma requires additional emotional resilience.  
+**Societal Hurdles:** Polyamory and ENM still face societal stigma, which can create strain on couples and their support networks. Navigating this another emotional challenge.  
 
 ## Benefits
 
