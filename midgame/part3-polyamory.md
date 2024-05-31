@@ -46,10 +46,10 @@ While polyamory/ENM might seem like an outlier, its just another type of relatio
 
 **Vulnerability as Strength:**  This is the core of genuine, deep connections. When you leave yourself open to be said "no" to, reprimanded, scolded, made fun-of, or even humiliated you risk so much. Why? Becaused now your ego and self-worth can be attacked. By working through the "hard conversations" together, partners build **incredible trust** and **deep understanding**.  Also, is there any other way to realize your most personal desires with those you love? 
 
-**Beyond the Traditional Model:**  The very existence of functional polyamory throws a wrench into the assumption that monogamy is the only path to a happy and lasting partnership.  Couples are successfully navigating open arrangements, suggesting there's more than one way to find fulfillment within a committed relationship.
+**Outside the Traditional Model:**  The very existence of functional polyamory throws a wrench into the assumption that monogamy is the only path to a happy and lasting partnership.  Couples are successfully navigating open arrangements, suggesting there's more than one way to find fulfillment within a committed relationship.
 
 
-**The Range of Challenges:**  Polyamory/ENM also require a high degree of emotional maturity and self-awareness.  Partners need to navigate jealousy, insecurity, fear, and uncertainty. Not everyone possesses this level of maturity, and attempting a polyamory without it could be disastrous.  Uktimately, it requires constant communication and a willingness to adapt as needs and desires change.  
+**The Range of Challenges:**  Polyamory & ENM also require a high degree of emotional energy and self-awareness.  Partners need to navigate jealousy, insecurity, fear, and uncertainty.  Ultimately, it requires constant communication and a willingness to adapt as needs and desires change.  
 
 **Societal Hurdles:** Polyamory/ENM still face societal stigma, which can create strain on couples and their support networks. Navigating this stigma requires additional emotional resilience.  
 
