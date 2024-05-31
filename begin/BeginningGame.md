@@ -89,7 +89,7 @@ Next, time to upgrade love. Maybe traditional models don't quite fit everyone. L
 Now, the next game-changer: **karma socioeconomics**. Imagine a system built on human-aligned AI and blockchain. The AI is transparent, explainable, and works for everyone, not just a privileged few. Blockchain keeps things secure, and everyone's on the same page. Sounds ambitious, but with the convergence of technology its within humanity's grasp.
 
 The result? A world where hunger, poverty, and disease become relics of the past.  War? It becomes a painful, distant memory.  
-
+![convergence](https://pebreo.github.io/IMG_0796.jpeg)
 todo: rethinkx graphic
 
 **Infinite growth** becomes not just possible, but encouraged. Human connection thrives, and innovation explodes as every human becomes an Innovator. This would be a whole new era for humanity, one built on the power of diverse experiences and a willingness to explore the unknown. Now that's a future worth getting excited about. 
