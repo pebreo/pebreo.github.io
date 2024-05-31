@@ -48,11 +48,10 @@ Solution: RCNs can be human-aligned, completely understandable and explainable, 
 ## Why this would work
 - Dileep George et al. already productized it
 - Mailce and ill-will need not be in system
-- Plenty of training data
+- Plenty of training data for human-alignment
 
 ## What will happen
 - Human-aligned AI, 100% understandable & explainable, affordable to unlock
-- Require hundreds of times less training data compared to LLMs
 - Unlock almost unimaginable possibilities from solving humanity's most difficult challenges
 
 ## Next chapter
