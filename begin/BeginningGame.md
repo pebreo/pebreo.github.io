@@ -92,3 +92,10 @@ The result? A world where hunger, poverty, and disease become relics of the past
 
 **Infinite growth** becomes not just possible, but encouraged. Human connection thrives, and innovation explodes as every human becomes an Innovator. This would be a whole new era for humanity, one built on the power of diverse experiences and a willingness to explore the unknown. Now that's a future worth getting excited about. 
 
+
+## Why this would work
+- Weve seen convergence of technologie **many** times before
+- Most people think it's worth it and on-board
+
+## Implications
+- Breath-taking possibilities
