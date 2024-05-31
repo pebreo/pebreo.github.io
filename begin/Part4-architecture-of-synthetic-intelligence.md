@@ -52,6 +52,7 @@ Solution: RCNs can be human-aligned, completely understandable and explainable, 
 
 ## What will happen
 - Human-aligned AI, 100% understandable & explainable, affordable to unlock
+- Require hundreds of times less training data compared to LLMs
 - Unlock almost unimaginable possibilities from solving humanity's most difficult challenges
 
 ## Next chapter
