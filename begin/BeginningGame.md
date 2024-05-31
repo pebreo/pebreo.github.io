@@ -94,7 +94,8 @@ The result? A world where hunger, poverty, and disease become relics of the past
 
 
 ## Why this would work
-- Weve seen convergence of technologie **many** times before
+- The technologies are built and setup to facilitate the plan
+- Weve seen convergence of technologies **many** times before
 - Most people think it's worth it and on-board
 
 ## Implications
