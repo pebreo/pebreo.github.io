@@ -68,38 +68,6 @@ Polyamory/ENM has the potential to enhance the quality of your connections. Here
 Lastly, whether polyamory & ENM becomes mainstream remains to be seen. History, however, points to yes.
 
 
-## At the heart of the matter (pun intended)
-
-Why does it matter and is there acsolution? 
-
-Besides other cultural factors , destigmatize a legitimate relationship style at very least emphasize honest communication...
-
-Polyamory is a relationship style with more than two romantic partners. It is under the umbrella of ethical non-monogamy (ENM) which is the broader term. ENM refers to swinging, dont-ask-dont-tell, open relationships etc. Here, I just refer polyamory...
-
-In my view, there are two crucial questions to answer to determine if you're prepared for polyamory & ENM.  Can you be brutally honest with yourself about your desires and limitations? For many, it is no. 
-
-Next comes the crucial exit –  honesty with your partner(s).  Can you have suncomfortable conversations with your partner(s)? Can you listen not just to their words, but the underlying anxieties they might mask? Again, for many people it's no.
-
-Not everyone has the time, resources, or background (biological, cultural, etc) for polyamory / ENM.  There's no shame in that. What do I mean time and rsources? Time to cultuvate and maintain other partners. Resources for therapy, educational material, lifestyle-specific partner & community activities, mental health therapy, etc. There are potential more benefits but also costs associated with them.
-
-...
-
-## Angela and Gabe
-The phone buzzed on the nightstand, illuminating Angela's face in the soft glow. It was Gabe, his message a cascade of words that made her heart skip a beat. "I think we could make it work," he said. They have been looking into polyamory - reading books, listening to podcasts, and watching videos. 
-
-Five years of marriage, a comfortable routine, a well-worn path. But lately, a quiet discontent had settled in. Their careers had taken off in different directions, their friend groups evolved, and shared passions felt like forgotten songs.
-
-Angela, ever the adventurer, was proposing an experiment – a chance to explore new experiences, ones that might not fit into their current mold. It was terrifying, like venturing off a well-worn map into uncharted territory. Yet, a rebellious ember flickered in Gabe too. Maybe, just maybe, this wasn't about breaking something, but about making it... antifragile.
-
-Taking a fortifying breath, Angela messaged back, "Ok. Let's talk." Their usual spot, a cozy bookstore cafe, buzzed with the same nervous energy that crackled between them. Angela, anxious and excited, was a jumbled mess of explanations.  Gabe countered, a wry smile on his lips, "So, fragile egos are a dealbreaker then?"
-
-Laughter, shaky and laced with tension, filled the air. The conversation flowed, halting at times, but raw with a newfound honesty. They talked about jealousy, boundaries, communication, even couples therapy. They had a lot scary things to say to eachother. It wasn't a done deal, but a step, a leap of faith into the messy, unpredictable world of antifragility.
-
-As they walked out, the city lights twinkling against the twilight sky, Gabe felt a lightness he hadn't known existed. The road ahead was uncertain, but the fear was laced with a strange, exhilarating thrill.
-
-## TLDR
-Embracing the idea that you can grow from hardship even includes romantic relationships. An antifragile mindset is scary but can be very rewarding.
-
 
 
 ## Will accepting polyamory & ENM fix population collapse?
