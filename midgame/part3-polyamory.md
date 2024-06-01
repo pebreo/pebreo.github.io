@@ -143,9 +143,8 @@ Very unlikely. If the endgame is more babies then it wont make a dent. Polyamory
 
 
 
-
 ## TLDR 
-People make mistakes so divorce is accepted. History shows cultural norms change. Polyamory & ENM just another relationship style. Its not for everyone.
+History shows cultural norms change. Polyamory & ENM just another relationship style. Its not for everyone.
 
 ## Why it would work
 - some humans crave stability AND variety
