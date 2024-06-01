@@ -75,7 +75,7 @@ Lastly, whether polyamory & ENM becomes mainstream remains to be seen. History, 
 
 
 
-
+todo: put addendum
 
 ![relationships](https://pebreo.github.io/IMG_0540.jpeg)
 There are actually many more ...
