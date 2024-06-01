@@ -94,6 +94,12 @@ todo: rethinkx graphic
 
 **Infinite growth** becomes not just possible, but encouraged. Human connection thrives, and innovation explodes as every human becomes an Innovator. This would be a whole new era for humanity, one built on the power of diverse experiences and a willingness to explore the unknown. Now that's a future worth getting excited about. 
 
+todo: table of convergence
+- airplanes - metallurgy, chemistry
+- internet - math, electronics, mass manufacturing
+- automobile - metallurgy, rubber, mass mfg
+- antibiotics - microscope, germ theory, ?&
+- 
 
 ## Why this would work
 - The technologies are built and setup to facilitate the plan
