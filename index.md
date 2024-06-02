@@ -1,6 +1,15 @@
 ![horse](IMG_9387.jpeg)
 ##### credit: pixabay
 
+
+[Dedication](dedication.md)
+
+[Joaquin 1](joaquin-part1.md)
+
+[Preamble](Preamble-Science-and-Personal-experience.md)
+
+
+
 [Preamble](Preamble-Science-and-Personal-experience.md)
 
 
