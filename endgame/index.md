@@ -2,6 +2,7 @@
 ##### credit: pixabay
 "Are you crazy or just early?" - Amy Jo Kim
 
+[Joaquin 3](https://pebreo.github.io/endgame/joaquin-part3.html)
 
 [Preamble](https://pebreo.github.io/endgame/Preamble.html)
 
