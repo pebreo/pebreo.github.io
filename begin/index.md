@@ -1,3 +1,4 @@
+
 ![horse](https://pebreo.github.io/IMG_9387.jpeg)
 ##### credit: pixabay
 
@@ -10,26 +11,23 @@
 
 ***"If I have see  further, it is because I have stood on the shoulders of giants."*** -Isaac Newton
 
+
+
+
+![horse](https://pebreo.github.io/IMG_9387.jpeg)
+##### credit: pixabay
+
+[Dedication](https://pebreo.github.io/begin/dedication.html)
+
 [Joaquin 1](https://pebreo.github.io/begin/joaquin-part1.html)
 
+[Preamble](https://pebreo.github.io/begin/preamble.html)
 
-[Preamble](https://pebreo.github.io/begin/Preamble-Science-and-Personal-experience.html)
+[Part 1: Open Source Ecology](https://pebreo.github.io/begin/part1-ose.html)
 
+[Part 2: The Freedom Dividend](https://pebreo.github.io/begin/part2-freedom-dividend.html)
 
-[Part 1: Intelligence solved](https://pebreo.github.io/begin/Part1-intelligence-solved.html)
-
-
-[Part 2: Consciousness solved](https://pebreo.github.io/begin/Part2-consciousness-solved.html)
-
-
-[Part 3: How to create a dystopia](https://pebreo.github.io/begin/Part3-howto-create-a-dystopia.html)
+[Part 3: Polyamory](https://pebreo.github.io/begin/part3-polyamory.html)
 
 
-[Part 4: Architecture of synthetic intelligence](https://pebreo.github.io/begin/Part4-architecture-of-synthetic-intelligence.html)
-
-
-[Part 5: Implication of solved intelligence & consciousness](https://pebreo.github.io/begin/Part5-implications-of-solved-intelligence.html)
-
-[Bibliography](https://pebreo.github.io/bibliography.html)
-
-[Sources](https://pebreo.github.io/begin/sources.html)
+[Addendum](https://pebreo.github.io/begin/addendum.html)
