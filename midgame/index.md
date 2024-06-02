@@ -4,6 +4,7 @@
 
 "See reality. Bend reality." -Garry Tan
 
+[Joaquin 2](https://pebreo.github.io/midgame/joaquin-part2.html)
 
 [Preamble](https://pebreo.github.io/midgame/preamble.html)
 
