@@ -13,10 +13,6 @@
 
 
 
-
-![horse](https://pebreo.github.io/IMG_9387.jpeg)
-##### credit: pixabay
-
 [Dedication](https://pebreo.github.io/begin/dedication.html)
 
 [Joaquin 1](https://pebreo.github.io/begin/joaquin-part1.html)
