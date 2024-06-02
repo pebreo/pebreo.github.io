@@ -51,16 +51,11 @@ Near unlimited labor
 AI
 Blockchainon pm
 
-## Deshi basara (rise)
-1
-In a dusty field, picked clean by countless hooves, lived a goat named Joaquin. The grass was brown, the air stale, and a deep discontent gnawed at him. One night, Joaquin dreamt of a lush green valley, where goats frolicked and the grass shimmered like emeralds. Waking with a start, he knew he had to find this paradise.
 
-2
-Legend spoke of a bridge leading to such a land, nestled high in the mountains. Determined, Joaquin began his climb. The way was treacherous, rocky slopes giving way to sheer cliffs. He narrowly escaped from mountain lions and dodged falling stones. Other goats, content in their familiar dust, bleated taunts ...(to be continued)
 
-### end part 1
 
-3
+
+
 "Where are you going, fool? The only green you'll find is envy!" the other goats taunted.
 
 Joaquin ignored them, his resolve hardening with each step. Finally, he reached the wooden bridge, a rickety contraption swaying over a dizzying chasm. Fear clawed at him. He'd never been so high, and the bridge seemed ready to crumble at the slightest touch. Yet, the memory of the emerald dream spurred him on.
