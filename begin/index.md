@@ -3,13 +3,13 @@
 ##### credit: pixabay
 
 
-And if I have the gift of prophecy and comprehend all mysteries and all knowledge; if I have all faith so as to move mountains but do not have Love, I am nothing.
+_And if I have the gift of prophecy and comprehend all mysteries and all knowledge; if I have all faith so as to move mountains but do not have Love, I am nothing._
 
 
 13 Corinthians 3:2
 
 
-"If I have see  further, it is because I have stood on the shoulders of giants." -Isaac Newton
+_"If I have see  further, it is because I have stood on the shoulders of giants."_ -Isaac Newton
 
 
 
