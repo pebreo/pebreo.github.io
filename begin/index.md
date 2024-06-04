@@ -14,7 +14,7 @@ _"If I have see  further, it is because I have stood on the shoulders of giants.
 
 [Preamble](https://pebreo.github.io/begin/Preamble-Science-and-Personal-experience.html)
 
-[Part X: Antifragile mindset](https://pebreo.github.io/begin/BeginningAntifragility.md)
+[Part X: Antifragile mindset](https://pebreo.github.io/begin/BeginningAntifragility.html)
 
 [Part 1: Intelligence solved](https://pebreo.github.io/begin/Part1-intelligence-solved.html)
 
