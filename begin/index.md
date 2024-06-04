@@ -12,18 +12,19 @@ _And if I have the gift of prophecy and comprehend all mysteries and all knowled
 _"If I have see  further, it is because I have stood on the shoulders of giants."_ -Isaac Newton
 
 
+[Preamble](https://pebreo.github.io/begin/Preamble-Science-and-Personal-experience.html)
 
-[Dedication](https://pebreo.github.io/begin/dedication.html)
+[Part X: Antifragile mindset](https://pebreo.github.io/begin/BeginningAntifragility.md)
 
-[Joaquin 1](https://pebreo.github.io/begin/joaquin-part1.html)
+[Part 1: Intelligence solved](https://pebreo.github.io/begin/Part1-intelligence-solved.html)
 
-[Preamble](https://pebreo.github.io/begin/preamble.html)
+[Part 2: Consciousness solved](https://pebreo.github.io/begin/Part2-consciousness-solved.html)
 
-[Part 1: Open Source Ecology](https://pebreo.github.io/begin/part1-ose.html)
+[Part 4: Architecting Synthetic Intelligence](https://pebreo.github.io/begin/Part4-architecture-of-synthetic-intelligence.html)
 
-[Part 2: The Freedom Dividend](https://pebreo.github.io/begin/part2-freedom-dividend.html)
+[Part 5: Implications](https://pebreo.github.io/begin/Part5-implications-of-solved-intelligence.html)
 
-[Part 3: Polyamory](https://pebreo.github.io/begin/part3-polyamory.html)
 
+[Addendum](https://pebreo.github.io/midgame/addendum.html)
 
 [Addendum](https://pebreo.github.io/begin/addendum.html)
