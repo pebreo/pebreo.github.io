@@ -25,4 +25,4 @@ _"If I have see  further, it is because I have stood on the shoulders of giants.
 [Part 5: Implications](https://pebreo.github.io/begin/Part5-implications-of-solved-intelligence.html)
 
 
-[Addendum](https://pebreo.github.io/begin/addendum.html)
+[Sources](https://pebreo.github.io/begin/sources.html)
