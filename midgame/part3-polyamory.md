@@ -21,7 +21,7 @@ notes 5/28
 - Add a story to UBI . Expand
 - Make prose why & what
 
-## Felicity, Henry and Will
+## Felicity and Will
 Love is Blind is a popular dating show on Netflix. Picture this. Singles in sleek, soundproof pods pour their hearts out, forging connections based solely on their conversation. Here's the catch: it was all or nothing. One "yes," to find you one true love.
 
 Felicity, a woman who thrived on lists and spreadsheets, felt the absurdity of it all gnaw at her. Tears welled up in her eyes as Henry's voice, smooth and captivating, echoed through the pod speakers. "Did you already say yes to him?" The question hung heavy, a tangible weight in the air-conditioned silence.
