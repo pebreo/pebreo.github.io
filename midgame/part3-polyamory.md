@@ -30,7 +30,7 @@ She'd fallen for two men. Will, with his infectious laugh and encyclopedic knowl
 
 A choked sob escaped her lips. "Yeah," she croaked into the microphone, hating the vulnerability raw in her voice. This wasn't part of the plan. The experiment, designed to bypass the superficial, had thrown her into the emotional deep end. Here she was, a woman who thrived on control, grappling with the messy, unpredictable nature of love – a multifaceted gem, not a neatly categorized box.
 
-A tense silence followed. Then, the familiar lilt of Will's voice, heavy with disappointment. "Okay," he said. "Congrats, you two."
+A tense silence followed. Then, the familiar lilt of Will's voice, heavy with disappointment. "Okay," he said, fighting from choking. "Congrats, you two."
 
 The weight of the decision pressed down on her. Guilt coiled in her stomach. She longed to explain, to somehow navigate the uncharted territory of double connections. But the rules were clear. This was a one-shot gamble, a leap of faith into the unknown.
 
