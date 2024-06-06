@@ -40,7 +40,7 @@ Felicity threw herself back onto the pod chair, burying her face in her hands. T
 
 
 ## TLDR
-Humans are capable of loving more than person at a time
+Humans are capable of loving more than one person at a time
 
 
 ## Antifragile romantic relationships
