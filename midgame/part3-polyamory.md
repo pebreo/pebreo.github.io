@@ -26,7 +26,7 @@ Love is Blind is a popular dating show on Netflix. Picture this. Singles in slee
 
 Felicity, a woman who thrived on lists and spreadsheets, felt the absurdity of it all gnaw at her. Tears welled up in her eyes as Henry's voice, smooth and captivating, echoed through the pod speakers. "Did you already say yes to him?" The question hung heavy, a tangible weight in the air-conditioned silence.
 
-She'd fallen for two men. Will, with his infectious laugh and encyclopedic knowledge of 80s trivia, had sparked a comfortable warmth. Then came Henry, a whirlwind of philosophical musings and travel dreams, painting vivid pictures of adventures yet to be had. Both connections felt real, a kaleidoscope of emotions that defied the show's rigid binary.
+She'd fallen for two men. Will, with his infectious laugh and encyclopedic knowledge of 90s trivia, had sparked a comfortable warmth. Then came Henry, a whirlwind of philosophical musings and travel dreams, painting vivid pictures of adventures yet to be had. Both connections felt real, a kaleidoscope of emotions that defied the show's rigid binary.
 
 A choked sob escaped her lips. "Yeah," she croaked into the microphone, hating the vulnerability raw in her voice. This wasn't part of the plan. The experiment, designed to bypass the superficial, had thrown her into the emotional deep end. Here she was, a woman who thrived on control, grappling with the messy, unpredictable nature of love – a multifaceted gem, not a neatly categorized box.
 
