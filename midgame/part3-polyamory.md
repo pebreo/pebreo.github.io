@@ -21,6 +21,24 @@ notes 5/28
 - Add a story to UBI . Expand
 - Make prose why & what
 
+## Felicity, Henry and Will
+Love is Blind, the experiment plastered across every dating app notification, promised a radical approach. Singles in sleek, soundproof pods poured their hearts out, forging connections based solely on voice and conversation. The ultimate test? Proposing without ever seeing your soul mate. Here's the catch: it was all or nothing. One "yes," one chance at forever, decided within the sterile confines of a beige room.
+
+Felicity, a woman who thrived on lists and spreadsheets, felt the absurdity of it all gnaw at her. Tears welled up in her eyes as Henry's voice, smooth and captivating, echoed through the pod speakers. "Did you already say yes to him?" The question hung heavy, a tangible weight in the air-conditioned silence.
+
+She'd fallen for two men. Will, with his infectious laugh and encyclopedic knowledge of 80s trivia, had sparked a comfortable warmth. Then came Henry, a whirlwind of philosophical musings and travel dreams, painting vivid pictures of adventures yet to be had. Both connections felt real, a kaleidoscope of emotions that defied the show's rigid binary.
+
+A choked sob escaped her lips. "Yeah," she croaked into the microphone, hating the vulnerability raw in her voice. This wasn't part of the plan. The experiment, designed to bypass the superficial, had thrown her into the emotional deep end. Here she was, a woman who thrived on control, grappling with the messy, unpredictable nature of love – a multifaceted gem, not a neatly categorized box.
+
+A tense silence followed. Then, the familiar lilt of Will's voice, heavy with disappointment. "Okay," he said. "Congrats, you two."
+
+The weight of the decision pressed down on her. Guilt coiled in her stomach. She longed to explain, to somehow navigate the uncharted territory of double connections. But the rules were clear. This was a one-shot gamble, a leap of faith into the unknown.
+
+Henry's voice filled the pod again, laced with a hint of desperation. "If I went first, would you have said yes to me?"
+
+Felicity threw herself back onto the pod chair, burying her face in her hands. Tears streamed down her cheeks, hot and silent. She couldn't answer. The question exposed the very heart of the problem – the experiment's rigid structure clashed with the messy reality of human connection.
+
+A sigh escaped her lips, a mixture of frustration and a strange sense of liberation. Maybe, just maybe, true love wasn't a single, pre-determined path. Maybe it thrived on exploration, on embracing the unexpected turns that life threw your way. This unscripted path, this gamble on the unknown, might just lead her to something extraordinary. After all, in the messy world of love, sometimes the most valuable skill wasn't choosing one over the other, but embracing the beautiful, unpredictable range of possibilities. 
 
 
 ## TLDR
