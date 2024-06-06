@@ -38,8 +38,6 @@ Henry's voice filled the pod again, laced with a hint of desperation. "If I went
 
 Felicity threw herself back onto the pod chair, burying her face in her hands. Tears streamed down her cheeks, hot and silent. She couldn't answer. The question exposed the very heart of the problem – the experiment's rigid structure clashed with the messy reality of human connection.
 
-A sigh escaped her lips, a mixture of frustration and a strange sense of liberation. Maybe, just maybe, true love wasn't a single, pre-determined path. Maybe it thrived on exploration, on embracing the unexpected turns that life threw your way. This unscripted path, this gamble on the unknown, might just lead her to something extraordinary. After all, in the messy world of love, sometimes the most valuable skill wasn't choosing one over the other, but embracing the beautiful, unpredictable range of possibilities. 
-
 
 ## TLDR
 Humans are capable of loving more than person at a time
