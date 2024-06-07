@@ -12,7 +12,7 @@
 
  todo: section title - probabilities all the way down
 
-[hiearchical PGM](https://pebreo.github.io/IMG_0145.jpg)
+![hiearchical PGM](https://pebreo.github.io/IMG_0145.jpg)
 
 What was your epiphany? Current ML uses the old brain way of doing "intelligent" things: stimulus respose. The new brain, or neocrtex, uses imagination (world simulation) to be "intelligent."
 
