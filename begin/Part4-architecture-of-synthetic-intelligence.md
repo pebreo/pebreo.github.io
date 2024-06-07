@@ -12,7 +12,7 @@
 
  todo: section title - probabilities all the way down
 
-![hiearchical PGM](https://pebreo.github.io/IMG_0145.jpg)
+
 
 What was your epiphany? Current ML uses the old brain way of doing "intelligent" things: stimulus respose. The new brain, or neocrtex, uses imagination (world simulation) to be "intelligent."
 
@@ -31,6 +31,7 @@ The fundamental limitation is hidden layers. You can’t keep doing engineering 
 
 Instead of calculus, use a hierarchical form of probabilities in the same branch of mathematics as google page rank. The idea is mainly from Jeff Hawkins, Dileep George & Scott Phoenix. The ideas have already be productized and validated by vicarious (bought out by Google). THey wrote a whitepaper 7 years ago cracking the code of captcha using hundred of times less training data. The key insight is a hierarchical PGM that uses both constant feedback & feedforward in order to handle assumptions AND counterfactual of observations (training data). Furthermore, in Jeff Hawkin's book A Thousand Brains he states the fact that neurons vote - this highly suggests intelligence uses the mathematics of probabilities.
 
+![hiearchical PGM](https://pebreo.github.io/IMG_0145.jpeg)
 todo: pgm graph... the brain is repetitive, it couod explain that once "abdtracted" to a certain level like words or ideas, the form doesnt need to change because the princliple is the same: each node all has the same property... tk
 
 Understanding the ingredients to make a synthetic intelligence means knowing it's made of the following essential components: imagination (aka world simulation aka foresight), memory, senses, and optionally qualia. All these things can throttled or scaled; in serial or parallel. The game Ultimate Battle Simulator gave me the inspiration for that notion of throttling or scaling since all those things I just mentioned can be variables in a computer program. Humans now have a solid framework for creating synthetic intelligence that is understandable, explainable, and affordable to all.
