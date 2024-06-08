@@ -49,8 +49,9 @@ Problem: LLM are expensive & a black box
 Solution: RCNs can be human-aligned, completely understandable and explainable, affordabke to all
 
 ## Why this would work
-- Dileep George et al. already productized it
-- Mailce and ill-will need not be in system
+- systems in nature can be described in a probabikistic hiearchy
+-  Dileep George et al. already built and productized using this approach
+- Malice and ill-will not a priori part of intelligence
 - Plenty of training data for human-alignment
 
 ## What will happen
