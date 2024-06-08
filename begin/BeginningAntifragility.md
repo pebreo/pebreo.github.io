@@ -84,5 +84,7 @@ One humid Tuesday evening, weeks later, Ethan loaded the barbell with a weight t
 
 ## Why this works
 - body naturally overcompensate (hormesis) to repair / build-up itself
-- 
+- the neocortex can override limbic system
 
+## Implications
+- growth even from difficult times
