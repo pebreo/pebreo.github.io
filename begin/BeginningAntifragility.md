@@ -30,7 +30,7 @@ todo : ephnany 1 - health - mind, body, soul - mind - damocles, phoenix, antifra
 todo: ephibany 2 - old brain & new brain
 
 ## Roderigo
-His eyes open. Just for a few moments as he falls back to sleep to the sound of the ventilator.
+His eyes open. Just for a few moments as he falls back to sleep to the sound of the ventilator. 
 
 Roderigo's world shrunk faster than a line compiled code. First, his mom. A quiet thief, cancer had stolen her laugh, then her memory, and finally, her life. Then, the world outside his window followed suit. A triple whammy: a loved-one's death, a global pandemic, a massive stroke. Stuck in a sterile room, the only companions were the tubes sticking out his body, the beeps of machines, and the nurses' gentle but fleeting moments of small talk. 
 
