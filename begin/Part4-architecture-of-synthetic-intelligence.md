@@ -51,7 +51,7 @@ Solution: RCNs can be human-aligned, completely understandable and explainable, 
 ## Why this would work
 - systems in nature can be described in a probabikistic hiearchy
 -  Dileep George et al. already built and productized using this approach
-- Malice and ill-will not a priori part of intelligence
+- Malice and ill-will not necessarily part of intelligence
 - Plenty of training data for human-alignment
 
 ## What will happen
