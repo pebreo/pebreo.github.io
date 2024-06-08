@@ -4,18 +4,12 @@ todo : story of rodregio - health
 
 todo: story of bodybuildibg - antifragile
 
-todo : segway to polyamory
-
-why it works for love : in a relstionship, authenticity/honesty & vulnerabilty open up to rejection but can be very tewarding connections
-
 why it works for entrepreneurship/biz:
 failures (ideally small), helps you learn faster - iterate faster toward solution
 
 the vert first to to reach a goat world is to work on the circle:, we start woth adooyijg an antifragike mijfset. 
 
 whag doe antifragikity mea?
-
-todj: graphic of damocles, phoenix, hudras
 
 
 #### if physical hardship (up to a certin point) made you stronger, non-physical hardshiips too
@@ -85,6 +79,6 @@ One humid Tuesday evening, weeks later, Ethan loaded the barbell with a weight t
 
 
 ## Why this works
-- hormesis
-- 
+- body naturally overcompensates (hormesis)
+- psychologically, the pygmalion effect
 
