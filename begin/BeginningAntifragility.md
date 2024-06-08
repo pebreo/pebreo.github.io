@@ -4,6 +4,8 @@ todo : story of rodregio - health
 
 todo: story of bodybuildibg - antifragile
 
+todo: antifragile business
+
 why it works for entrepreneurship/biz:
 failures (ideally small), helps you learn faster - iterate faster toward solution
 
