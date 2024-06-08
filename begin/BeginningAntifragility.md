@@ -1,15 +1,13 @@
-todo: why antifragility works : overcompensation
 
 todo : story of rodregio - health 
+leads to: antifragile mindset
 
 todo: story of bodybuildibg - antifragile
 
-todo: antifragile business
+todo : roderigo - ai
+leads to: consciouness & intelligence
 
-why it works for entrepreneurship/biz:
-failures (ideally small), helps you learn faster - iterate faster toward solution
 
-the vert first to to reach a goat world is to work on the circle:, we start woth adooyijg an antifragike mijfset. 
 
 whag doe antifragikity mea?
 
