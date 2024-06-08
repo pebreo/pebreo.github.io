@@ -45,6 +45,10 @@ The world outside his window was slowly regaining its vibrancy, but within Roder
 Without health, material comforts mean nothing. Both physical and mental health should both be paid attention to and taken care of,
 
 
+## Triune Brain
+
+![triune](https://pebreo.github.io/IMG_067.jpeg)
+
 
 ## Antifragility in the Iron Temple
 
