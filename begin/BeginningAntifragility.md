@@ -18,6 +18,8 @@ whag doe antifragikity mea?
 done: story of being broken
 todo: story of what lead to antifragility
 
+todo: introduce dweck
+
 todo: break story into two parts : part one for heakth, part two for intelligence & consciousness
 
 todo : ephnany 1 - health - mind, body, soul - mind - damocles, phoenix, antifragile
@@ -79,6 +81,6 @@ One humid Tuesday evening, weeks later, Ethan loaded the barbell with a weight t
 
 
 ## Why this works
-- body naturally overcompensates (hormesis)
-- psychologically, the pygmalion effect
+- body naturally overcompensate (hormesis) to repair / build-up itself
+- 
 
