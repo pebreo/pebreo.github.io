@@ -47,7 +47,7 @@ Without health, material comforts mean nothing. Both physical and mental health 
 
 ## Triune Brain
 
-![triune](https://pebreo.github.io/IMG_067.jpeg)
+![triune](https://pebreo.github.io/IMG_0167.jpeg)
 
 
 ## Antifragility in the Iron Temple
