@@ -87,4 +87,6 @@ One humid Tuesday evening, weeks later, Ethan loaded the barbell with a weight t
 - the neocortex can override limbic system
 
 ## Implications
-- growth even from difficult times
+- growth even from "volatile" times
+- more likley to explore ideas and the world
+- less hesitant to take calculated risks
