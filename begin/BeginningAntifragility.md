@@ -41,13 +41,11 @@ Similarly, embracing an antifragile mindset help build mental strength. It can b
 ## August
 August sprinted through the park, lungs burning but a smile splitting her face. Her therapist had encouraged her to find a physical outlet for her stress. But here she was, chasing pigeons (mostly winning) and feeling a lightness she hadn't experienced in weeks. 
 
-It all started with a promotion. More responsibility, a bigger paycheck – everything society deemed "success." Yet, Maria felt like a deflated balloon. Sleep evaded her, replaced by a constant low-grade anxiety. Workdays bled into nights, and the vibrant artist she once was became a ghost, replaced by a productivity machine. 
+It all started with a promotion. More responsibility, a bigger paycheck – everything society deemed "success." Yet, August felt like a deflated balloon. Sleep evaded her, replaced by a constant low-grade anxiety. Workdays bled into nights, and the vibrant artist she once was became a ghost, replaced by a productivity machine. 
 
 One particularly rough day, she confessed her struggles to a friend. The friend, ever the pragmatist, suggested a gym membership. "Exercise releases endorphins, Maria," they chirped. Maria scoffed. Gyms felt sterile, intimidating – the antithesis of the free-spirited soul she identified with. 
 
-But the seed was planted. Maybe there was a way to move her body that resonated with her, outside the confines of fluorescent lights and sculpted biceps. Enter her therapist, a woman with a twinkle in her eye and a deep understanding of the "is-ought" gap.  She didn't prescribe exercise as a cure-all, but rather as a potential tool in Maria's mental health toolbox. 
-
-So, Maria started small. A brisk walk replaced her usual late-night internet browsing. She discovered a hidden park near her apartment, a haven of chirping birds and rustling leaves. The initial awkwardness of running (more like a jog-stumble) gave way to a surprising sense of accomplishment. 
+But the seed was planted. Her sister also suggested she see a mental health therapist.  She didn't prescribe exercise as a cure-all, but rather as a potential tool in Maria's mental health toolbox. 
 
 It wasn't a magic bullet. Therapy sessions were still crucial, a space to untangle the knots of anxiety and self-doubt. But the park became her sanctuary, a place where the chatter in her mind quieted and a new kind of strength emerged. It wasn't about sculpted muscles or chasing some societal ideal of fitness. It was about rediscovering joy, a reminder that mental and physical health weren't separate entities, but rather two sides of the same well-being coin. And that, Maria realized with a grin as she chased another unsuspecting pigeon, was a truth worth celebrating. 
 
