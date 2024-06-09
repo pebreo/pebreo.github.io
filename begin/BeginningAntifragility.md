@@ -2,7 +2,7 @@
 
 
 # Road to antifragility
-## Rederigo
+## Roderigo
 His eyes open. Just for a few moments as he falls back to sleep to the sound of the ventilator. 
 
 Within three months, Roderigo's world had shrunk faster than a line of compiled code. First, his mom. A quiet thief, cancer had stolen her laugh, then her memory, and finally, her life. Then, the world outside his window followed suit. A triple whammy: a loved-one's death, a global pandemic, and a massive stroke. There were no visitors allowed during the initial outbreak. 
