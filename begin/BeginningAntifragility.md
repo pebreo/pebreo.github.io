@@ -39,9 +39,7 @@ Similarly, embracing an antifragile mindset help build mental strength. It can b
 
 
 ## August
-Okay, here's a short story with a tone inspired by "Range" that flips the prompt on its head:
-
-Maria sprinted through the park, lungs burning but a smile splitting her face. Her therapist had encouraged her to find a physical outlet for her stress, a surprising suggestion considering Maria's self-proclaimed dislike of "jock culture." But here she was, chasing pigeons (mostly winning) and feeling a lightness she hadn't experienced in weeks. 
+August sprinted through the park, lungs burning but a smile splitting her face. Her therapist had encouraged her to find a physical outlet for her stress. But here she was, chasing pigeons (mostly winning) and feeling a lightness she hadn't experienced in weeks. 
 
 It all started with a promotion. More responsibility, a bigger paycheck – everything society deemed "success." Yet, Maria felt like a deflated balloon. Sleep evaded her, replaced by a constant low-grade anxiety. Workdays bled into nights, and the vibrant artist she once was became a ghost, replaced by a productivity machine. 
 
