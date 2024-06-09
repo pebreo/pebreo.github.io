@@ -53,7 +53,8 @@ So, Maria started small. A brisk walk replaced her usual late-night internet bro
 
 It wasn't a magic bullet. Therapy sessions were still crucial, a space to untangle the knots of anxiety and self-doubt. But the park became her sanctuary, a place where the chatter in her mind quieted and a new kind of strength emerged. It wasn't about sculpted muscles or chasing some societal ideal of fitness. It was about rediscovering joy, a reminder that mental and physical health weren't separate entities, but rather two sides of the same well-being coin. And that, Maria realized with a grin as she chased another unsuspecting pigeon, was a truth worth celebrating. 
 
-
+## TLDR
+Mental health is as important as physical health
 
 ## Why this works
 - The body naturally overcompensates (via  hormesis) to repair / build-up itself.
