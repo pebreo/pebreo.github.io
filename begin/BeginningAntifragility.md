@@ -11,9 +11,11 @@ So, he was stuck in a sterile room, his only companions were the tubes sticking 
 
 But changing from his computer screen-lit existence wouldn't be a simple reboot. The outside world, once a blur of deadlines and takeout containers, now seemed as alien as a foreign language. The nurses' encouraging words boosted him. How could he, a man who navigated virtual worlds with ease, struggle to hold a spoon?
 
-He started small, regaining control over his fingers with repetitive exercises that felt more like debugging stubborn code. Each regained movement was a compiled line, a step closer to a functional him. He devoured physical therapy sessions, the once-agonizing stretches becoming a challenge to be conquered.
+Far from a simple reboot. He had to re-learn to brush his teeth, shower, shower, even walk again. He started small, regaining control over his fingers with repetitive exercises that felt more like debugging stubborn code. Each regained movement was a compiled line, a step closer to a functional him. He devoured physical therapy sessions, the once-agonizing stretches becoming a challenge to be conquered. 
 
-The forced isolation wasn't all bad. Time, once a luxury programmer life rarely afforded, stretched before him, a vast unexplored territory. His body, betrayed by the stroke, became a constant reminder of another truth, a truth so obvious it was easy to overlook: health was the ultimate wealth. He vowed to change his lifestyle completely.
+The forced isolation wasn't all bad. Time, once a luxury programmer life rarely afforded, stretched before him, a vast unexplored territory. His body, betrayed by the stroke, became a constant reminder of another truth, a truth so obvious it was easy to overlook: health was the ultimate wealth.
+
+He vowed to change his lifestyle completely.
 
 
 
