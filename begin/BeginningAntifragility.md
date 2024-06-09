@@ -33,7 +33,9 @@ todo: ephibany 2 - old brain & new brain
 ## Rederigo
 His eyes open. Just for a few moments as he falls back to sleep to the sound of the ventilator. 
 
-Within three months, Roderigo's world had shrunk faster than a line of compiled code. First, his mom. A quiet thief, cancer had stolen her laugh, then her memory, and finally, her life. Then, the world outside his window followed suit. A triple whammy: a loved-one's death, a global pandemic, and a massive stroke. There were no visitors allowed during the initial outbreak. So, he was stuck in a sterile room, his only companions were the tubes sticking out his body, the beeps of machines, and the nurses' gentle but fleeting moments of small talk. 
+Within three months, Roderigo's world had shrunk faster than a line of compiled code. First, his mom. A quiet thief, cancer had stolen her laugh, then her memory, and finally, her life. Then, the world outside his window followed suit. A triple whammy: a loved-one's death, a global pandemic, and a massive stroke. There were no visitors allowed during the initial outbreak. 
+
+So, he was stuck in a sterile room, his only companions were the tubes sticking out his body, the beeps of machines, and the nurses' gentle but fleeting moments of small talk. 
 
 But changing from his computer screen-lit existence wouldn't be a simple reboot. The outside world, once a blur of deadlines and takeout containers, now seemed as alien as a foreign language. The nurses' encouraging words boosted him. How could he, a man who navigated virtual worlds with ease, struggle to hold a spoon?
 
