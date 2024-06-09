@@ -35,7 +35,7 @@ Bodybuilding exemplifies this beautifully. Each grueling workout, each set pushe
 
 Think of it like this: when a weightlifter progressively increases the load on their muscles, they're not just building bigger muscles; they're forcing their bodies to adapt. Bones become denser, tendons and ligaments strengthen, and the nervous system fine-tunes movement patterns. This adaptation isn't just about aesthetics; it's about building a body that's more robust, more resistant to future injuries, and capable of handling even greater challenges. 
 
-This doesn't mean embracing chaos or reckless training. It's about calculated stress, a constant dance between pushing your limits and allowing for recovery. Experienced lifters understand this delicate balance. They listen to their bodies, adjust their routines based on progress or setbacks, and view each workout not as a battle against pain, but as a conversation with their bodies, a negotiation for growth. 
+Why does stress (to a certain point) spur muscle growth?
 
 The antifragility mindset extends beyond the physical. It can be a metaphor for life's journey. It's about embracing the discomfort of the unknown, the necessary struggles that forge resilience and, ultimately, antifragility. As Epstein argues, it's by venturing outside our comfort zones, by welcoming the stressors that life throws our way, that we can truly discover the range of what we're capable of achieving. So next time you step into the gym, remember, the pain isn't your enemy; it's the catalyst for growth, the sculptor shaping you into an antifragile version of yourself, ready to conquer whatever challenges life throws your way. 
 
