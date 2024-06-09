@@ -20,7 +20,7 @@ He vowed to change his lifestyle completely.
 
 
 ## TLDR
-Without health, material comforts mean nothing. Both physical and mental health should both be paid attention to and taken care of,
+Without health, material comforts very little if anything. Both physical and mental health should both be paid attention to and taken care of.
 
 
 ## Antifragility in the Iron Temple
