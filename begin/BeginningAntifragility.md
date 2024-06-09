@@ -58,8 +58,8 @@ One humid Tuesday evening, weeks later, Ethan loaded the barbell with a weight t
 
 
 ## Why this works
-- body naturally overcompensate (hormesis) to repair / build-up itself
-- people can behave in ways that override their emotions
+- The body naturally overcompensates (via  hormesis) to repair / build-up itself.
+- People can behave in ways that override their emotions.
 
 ## Implications
 - growth even from "volatile" times
