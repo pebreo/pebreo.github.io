@@ -41,7 +41,7 @@ Similarly, embracing an antifragile mindset help build mental strength. It can b
 ## August
 August sprinted through the park, lungs burning but a smile splitting her face. Her therapist had encouraged her to find a physical outlet for her stress. But here she was, chasing pigeons (mostly winning) and feeling a lightness she hadn't experienced in weeks. 
 
-It all started with a promtion. More responsibility, new teammates to worry about, a bigger paycheck – everything society deemed "success." Yet, August felt like a deflated balloon. Sleep evaded her, replaced by a constant low-grade anxiety. Workdays bled into nights, and the vibrant artist she once was became a ghost, replaced by a productivity machine. 
+It all started with a promtion. A bigger paycheck, yes, new teammates to worry about, certainly, and more responsibility, definitely. Yet, August felt like a deflated balloon. Sleep evaded her, replaced by a constant low-grade anxiety. Workdays bled into nights, and the vibrant artist she once was became a ghost, replaced by a productivity machine. 
 
 One particularly rough day, she confessed her struggles to a friend. The friend, ever the pragmatist, suggested a gym membership. "Exercise releases endorphins, Maria," they chirped. Maria scoffed. Gyms felt sterile, intimidating – the antithesis of the free-spirited soul she identified with. 
 
