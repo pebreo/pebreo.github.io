@@ -13,7 +13,7 @@ But changing from his computer screen-lit existence wouldn't be a simple reboot.
 
 Far from a simple reboot. He had to re-learn how to brush his teeth, shower, get up from bed, and even walk again. He started small, regaining control over his fingers with repetitive exercises that felt more like debugging stubborn code. Each regained movement was a compiled line, a step closer to a functional him. He devoured physical therapy sessions, the once-agonizing stretches becoming a challenge to be conquered. 
 
-The forced isolation wasn't all bad. Time, once a luxury programmer life rarely afforded, stretched before him, a vast unexplored territory. His body, betrayed by the stroke, became a constant reminder of another truth, a truth so obvious it was easy to overlook: health was the ultimate wealth.
+The forced isolation wasn't all bad. Time, once a luxury programmer life rarely afforded, stretched before him, his thoughts a vast unexplored territory. His body, betrayed by the stroke, became a constant reminder of another truth, a truth so obvious it was easy to overlook: health was the ultimate wealth. 
 
 He vowed to change his lifestyle completely.
 
