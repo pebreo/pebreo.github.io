@@ -1,5 +1,3 @@
-#### if physical hardship (up to a certin point) made you stronger, non-physical hardshiips too
-
 
 # Road to antifragility
 ## Roderigo
