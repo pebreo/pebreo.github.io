@@ -1,4 +1,6 @@
 
+section 1 - two parts: roderigo health; roderigo ml
+
 todo : story of rodregio - health 
 leads to: antifragile mindset
 
