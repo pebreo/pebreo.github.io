@@ -45,11 +45,6 @@ The world outside his window was slowly regaining its vibrancy, but within Roder
 Without health, material comforts mean nothing. Both physical and mental health should both be paid attention to and taken care of,
 
 
-## Triune Brain
-
-![triune](https://pebreo.github.io/IMG_0167.jpeg)
-
-
 ## Antifragility in the Iron Temple
 
 The concept of antifragility is inherent in the world of bodybuilding, a realm where sculpted physiques are forged  in sweat, and the crucible of controlled stress. Here, the concept of antifragility, popularized by Nassim Taleb, takes center stage. 
