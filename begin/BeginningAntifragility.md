@@ -35,7 +35,7 @@ Bodybuilding exemplifies this beautifully. Each grueling workout, each set pushe
 
 Think of it like this: when a weightlifter progressively increases the load on their muscles, they're not just building bigger muscles; they're forcing their bodies to adapt. Bones become denser, tendons and ligaments strengthen, and the nervous system fine-tunes movement patterns. This adaptation isn't just about aesthetics; it's about building a body that's more robust, more resistant to future injuries, and capable of handling even greater challenges. 
 
-The "range" that Epstein emphasizes is crucial here. A bodybuilder who specializes in only one exercise or muscle group might see initial gains, but eventually plateaus or risks injury. By incorporating a variety of exercises, tempos, and rep ranges, they stress different aspects of their physique, fostering well-rounded development and an antifragile response. 
+A bodybuilder who only does one exercise or muscle group not only looks strange but risks injury. By incorporating a variety of exercises, tempos, and rep ranges, they stress different aspects of their physique, fostering well-rounded development and an antifragile response. 
 
 This doesn't mean embracing chaos or reckless training. It's about calculated stress, a constant dance between pushing your limits and allowing for recovery. Experienced lifters understand this delicate balance. They listen to their bodies, adjust their routines based on progress or setbacks, and view each workout not as a battle against pain, but as a conversation with their bodies, a negotiation for growth. 
 
