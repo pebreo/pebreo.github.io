@@ -1,33 +1,5 @@
-
-section 1 - two parts: roderigo health; roderigo ml
-
-todo : story of rodregio - health 
-leads to: antifragile mindset
-
-todo: story of bodybuildibg - antifragile
-
-todo : roderigo - ai
-leads to: consciouness & intelligence
-
-
-
-whag doe antifragikity mea?
-
-
 #### if physical hardship (up to a certin point) made you stronger, non-physical hardshiips too
 
-# Road to antifragility
-done: story of being broken
-todo: story of what lead to antifragility
-
-todo: introduce dweck
-
-todo: break story into two parts : part one for heakth, part two for intelligence & consciousness
-
-todo : ephnany 1 - health - mind, body, soul - mind - damocles, phoenix, antifragile
-
-
-todo: ephibany 2 - old brain & new brain
 
 # Road to antifragility
 ## Rederigo
