@@ -21,7 +21,7 @@ He vowed to change his lifestyle completely.
 Without health, material comforts mean very little. Both physical and mental health should both be paid attention to and taken care of.
 
 
-## Antifragility in the Iron Temple
+## The Antifragile Mindset 
 
 The concept of antifragility, popularized by author Nassim Taleb, takes center stage in the supringly the world of bodybuilding, a realm where sculpted physiques are forged  in sweat, and the crucible of controlled stress. 
 
