@@ -46,9 +46,7 @@ The barbells clanged in a rhythmic symphony of iron against iron, a counterpoint
 
 Ethan slumped onto a bench, the weight of more than just the barbell pressing down on him. "I don't get it," he confessed. "Been following the same program for months, but the progress… it's stagnant."
 
-Boris chuckled, a low rumble that belied his imposing stature. "Our bodies, Ethan, they're not like machines programmed for linear progress. They're these beautiful, complex systems that thrive on being challenged in different ways." He tapped a calloused finger on the worn pages of a dog-eared book peeking out of Ethan's gym bag. "Reminds me of something I read – 'Range,' by David Epstein. Talks about the importance of embracing discomfort, exploring different paths."
-
-Intrigued, Ethan flipped open the book. Boris's words resonated. His bodybuilding routine, once a source of satisfaction, had become a monotonous grind. Maybe, he thought, it was time to ditch the script and embrace a little chaos.
+Boris chuckled, a low rumble that belied his imposing stature. "Our bodies, Ethan, they're not like machines programmed for linear progress. They're these beautiful, complex systems that thrive on being challenged in different ways." Boris's words resonated. Maybe, he thought, it was time to ditch the script and embrace change.
 
 The next week, his workouts transformed. Gone were the endless sets of bicep curls. Instead, he experimented with kettlebells, explored the intricacies of Olympic lifts, and even joined a yoga class, the unfamiliar poses a delightful challenge for his muscle memory. The initial awkwardness was undeniable, but a spark of joy flickered within him. This wasn't just about aesthetics anymore; it was about rediscovering the thrill of exploration, the multifaceted approach that Epstein championed.
 
