@@ -25,7 +25,7 @@ Without health, material comforts mean very little. Both physical and mental hea
 
 ## Antifragility in the Iron Temple
 
-The concept of antifragility is inherent in the world of bodybuilding, a realm where sculpted physiques are forged  in sweat, and the crucible of controlled stress. Here, the concept of antifragility, popularized by Nassim Taleb, takes center stage. 
+The concept of antifragility, popularized by author Nassim Taleb, takes center stage in the supringly the world of bodybuilding, a realm where sculpted physiques are forged  in sweat, and the crucible of controlled stress. Here, 
 
 ![hydra](https://pebreo.github.io/IMG_0755.jpeg)
 
