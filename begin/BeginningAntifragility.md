@@ -9,7 +9,7 @@ Within three months, Roderigo's world had shrunk faster than a line of compiled 
 
 So, he was stuck in a sterile room, his only companions were the tubes sticking out his body, the beeps of machines, and the nurses' gentle but fleeting moments of small talk. 
 
-But changing from his computer screen-lit existence wouldn't be a simple reboot. The outside world, once a blur of deadlines and takeout containers, now seemed as alien as a foreign language. The nurses' encouraging words boosted him. How could he, a man who navigated virtual worlds with ease, struggle to hold a spoon?
+But changing from his computer screen-lit existence wouldn't be a simple reboot. The outside world, once a blur of deadlines and takeout containers, now seemed as alien as a foreign language. How could he, a man who navigated virtual worlds with ease, struggle to hold a spoon?
 
 Far from a simple reboot. He had to re-learn how to brush his teeth, shower, get up from bed, and even walk again. He started small, regaining control over his fingers with repetitive exercises that felt more like debugging stubborn code. Each regained movement was a compiled line, a step closer to a functional him. He devoured physical therapy sessions, the once-agonizing stretches becoming a challenge to be conquered. 
 
