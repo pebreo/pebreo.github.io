@@ -37,7 +37,9 @@ Think of it like this: when a weightlifter progressively increases the load on t
 
 Why does stress (to a certain point) spur muscle growth? The answer is hormesis which is a biological phenomenon where exposure to a low dose of a stressor or toxin can actually have a beneficial effect on an organism. It's essentially the idea that a little bit of stress can be good for you because your body naturally overcompensates, so it will be ready for next time.
 
-Similarly, embracing an antifragility mindset help build mental strength. It can be a metaphor for life's journey. It's about embracing the discomfort of the unknown, the necessary struggles that forge resilience and, ultimately, antifragility. As Epstein argues, it's by venturing outside our comfort zones, by welcoming the stressors that life throws our way, that we can truly discover the range of what we're capable of achieving. So next time you step into the gym, remember, the pain isn't your enemy; it's the catalyst for growth, the sculptor shaping you into an antifragile version of yourself, ready to conquer whatever challenges life throws your way. 
+Similarly, embracing an antifragility mindset help build mental strength. It can be a metaphor for life's journey. With this mindset, you can face the discomfort of the unknown, venture outside comfort zones, and explore new possibilities even opportunities.
+
+
 
 ## Ethan
 The barbells clanged in a rhythmic symphony of iron against iron, a counterpoint to the pulsing techno music blaring from Ethan's headphones. Sweat slicked his back, stinging his eyes as he dropped the weight with a thud. Frustration knotted in his gut. This same weight, once a familiar friend, now felt like a cruel taskmaster, mocking his efforts.  
