@@ -23,16 +23,7 @@ solution: rcn
 - 100% explainable + understanbke. upgrade to rcn
 - affordBke to all. using rcn, hubdreds times less training data
 
-
-## Epiphany
- todo: story of roderigo
-
- todo: section title - probabilities all the way down
-
-
-
-What was your epiphany? Current ML uses the old brain way of doing "intelligent" things: stimulus respose. The new brain, or neocrtex, uses imagination (world simulation) to be "intelligent."
-
+# Upgrading to synthetic intelligence
 
 ## Problem
 The way we do ml is expensive & a black box ultimately. What if we could train it w hundreds of times less training data & we know what all the layers of neurons are doing? Down yo Each individual neuron. See Will scaling work?
