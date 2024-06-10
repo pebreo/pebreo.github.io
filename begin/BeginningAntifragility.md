@@ -18,7 +18,7 @@ He vowed to change his lifestyle completely.
 
 
 ## TLDR
-Without health, material comforts mean very little. Both physical and mental health should both be paid attention to and taken care of.
+Without health, material comforts mean very little. 
 
 
 ## The Antifragile Mindset 
@@ -48,7 +48,7 @@ For August, therapy sessions were still crucial, a space to untangle the knots o
 There, she reset both her mind and body. For her, it was also reminder that mental and physical health weren't separate entities, but rather two sides of the same well-being coin. And that, Maria realized with a grin as she chased another unsuspecting pigeon, was a truth worth celebrating. 
 
 ## TLDR
-Mental health is as important as physical health
+Both physical and mental health should both be paid attention to and taken care of.
 
 ## Why this works
 - The body naturally overcompensates (via  hormesis) to repair / build-up itself.
