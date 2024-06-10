@@ -34,7 +34,7 @@ Finally, the hydra, a many-headed serpent where cutting off one head leads to tw
 These  three images capture the essence of fragility, resilience, and antifragility. 
 
 
-Bodybuilding exemplifies antifragility beautifully. Each grueling workout, each set pushed to failure, is a micro-trauma. Muscles tear, the body screams, and doubt creeps in. But within this discomfort lies the potential for growth. 
+Bodybuilding exemplifies antifragility beautifully. Each grueling workout, each set pushed to failure, is a micro-trauma. Muscles tear, the body screams, and you want to quit. But within this discomfort lies the potential for growth. 
 
 Think of it like this: when a weightlifter progressively increases the load on their muscles, they're not just building bigger muscles; they're forcing their bodies to adapt. Bones become denser, tendons and ligaments strengthen, and the nervous system fine-tunes movement patterns. This adaptation isn't just about aesthetics; it's about building a body that's more robust, more resistant to future injuries, and capable of handling even greater challenges. 
 
