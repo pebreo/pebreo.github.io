@@ -64,6 +64,11 @@ The current technology in artificial intelligence is very good. However, they ha
 ## Challenge 1: Alignment
 
 ## Challenge 2: Understandability & explainability
+ Traditional artificial neural networks, for all their impressive feats, often operate as black boxes, churning out results with little transparency into the "how" behind their decisions. This lack of explainability can be a major hurdle, especially in critical fields like medicine or finance. Here's where the power of hierarchical probabilistic math comes into play. 
+
+## Solution: Hiearchical probabilities
+Imagine a machine learning architecture built on a foundation of clarity. This foundation leverages hierarchical structures, breaking down complex problems into smaller, more manageable chunks. Each layer can then be modeled probabilistically, assigning clear weights and probabilities to different factors within the data. This approach doesn't sacrifice power – it justrutilizes a different learning strategy. By shedding light on the "why" behind its predictions, this probabilistic approach fosters trust and allows for human oversight. It's like a detective meticulously piecing together clues, each step documented and understandable. This transparency becomes crucial in situations where the stakes are high, ensuring that AI remains a tool that complements human expertise, not replaces it. 
+
 
 ## Challenge 3: Affordability
 
