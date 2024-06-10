@@ -29,7 +29,7 @@ The concept of antifragility, popularized by author Nassim Taleb, takes center s
 
 Taleb uses three metaphors using Greek mythology to best explain the concept.  Damocles, a figure with a sword perpetually hanging over his head, represents constant threat and vulnerability. The Phoenix that rises from the ashes, embodies resilience, and the ability to bounce back from destruction.  
 
-Finally, the hydra, a many-headed serpent where cutting off one head leads to two growing back. In other words, antifragility means going beyond bouncing back from setbacks. Rather, it's about **thriving** on stressors, growing stronger, feeding on challenges.
+Finally, the hydra, a many-headed serpent where cutting off one head leads to two growing back. In other words, antifragility is not just resilience. Rather, it's about **thriving** on stressors, growing stronger, feeding on challenges.
 
 These  three images capture the essence of fragility, resilience, and antifragility. 
 
