@@ -29,9 +29,9 @@ The concept of antifragility, popularized by author Nassim Taleb, takes center s
 
 Taleb uses three metaphors using Greek mythology to best explain the concept.  Damocles, a figure with a sword perpetually hanging over his head, represents constant threat and vulnerability. The Phoenix that rises from the ashes, embodies resilience, and the ability to bounce back from destruction.  Finally, the hydra, a many-headed serpent where cutting off one head leads to two growing back.  These  three images capture the essence of fragility, resilience, and antifragility. 
 
-Antifragility means going beyond resilience – the ability to bounce back from setbacks. Rather, it's about **thriving** on stressors, growing stronger, feeding on challenges.
+To further elaborate, antifragility means going beyond resilience – the ability to bounce back from setbacks. Rather, it's about **thriving** on stressors, growing stronger, feeding on challenges.
 
-Bodybuilding exemplifies this beautifully. Each grueling workout, each set pushed to failure, is a micro-trauma. Muscles tear, the body screams, and doubt creeps in. But within this discomfort lies the potential for growth. 
+Bodybuilding exemplifies antifragility beautifully. Each grueling workout, each set pushed to failure, is a micro-trauma. Muscles tear, the body screams, and doubt creeps in. But within this discomfort lies the potential for growth. 
 
 Think of it like this: when a weightlifter progressively increases the load on their muscles, they're not just building bigger muscles; they're forcing their bodies to adapt. Bones become denser, tendons and ligaments strengthen, and the nervous system fine-tunes movement patterns. This adaptation isn't just about aesthetics; it's about building a body that's more robust, more resistant to future injuries, and capable of handling even greater challenges. 
 
