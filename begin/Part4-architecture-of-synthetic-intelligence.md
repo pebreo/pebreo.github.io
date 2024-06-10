@@ -27,9 +27,7 @@ solution: rcn
 
 
 ![hiearchical PGM](https://pebreo.github.io/IMG_0144.jpeg)
-todo: pgm graph... the brain is repetitive, it couod explain that once "abdtracted" to a certain level like words or ideas, the form doesnt need to change because the princliple is the same: each node all has the same property... tk
 
-Understanding the ingredients to make a synthetic intelligence means knowing it's made of the following essential components: imagination (aka world simulation aka foresight), memory, senses, and optionally qualia. All these things can throttled or scaled; in serial or parallel. The game Ultimate Battle Simulator gave me the inspiration for that notion of throttling or scaling since all those things I just mentioned can be variables in a computer program. Humans now have a solid framework for creating synthetic intelligence that is understandable, explainable, and affordable to all.
 
 What about alignment?
 
