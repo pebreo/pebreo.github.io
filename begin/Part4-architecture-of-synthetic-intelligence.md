@@ -1,3 +1,5 @@
+idea: for alignment , we rely on the vast memory and ability of foresight of the machine
+
 ## idea - archtecture
 - ut must be hiearchical
 - it must be probabilistic
