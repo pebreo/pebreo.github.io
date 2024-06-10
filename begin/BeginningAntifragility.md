@@ -43,7 +43,7 @@ August sprinted through the park, lungs burning but a smile splitting her face. 
 
 It all started with a promtion. A bigger paycheck, yes, new teammates to worry about, certainly, and more responsibility, definitely. Yet, August felt like a deflated balloon. Sleep evaded her, replaced by a constant low-grade anxiety. Workdays bled into nights, and the vibrant artist she once was became a ghost, replaced by a productivity machine. 
 
-For August, exercise definitely helped. Therapy sessions were still crucial, a space to untangle the knots of anxiety and self-doubt. So the park became her sanctuary, a place where the chatter in her mind quieted and a new kind of strength emerged. 
+For August, therapy sessions were still crucial, a space to untangle the knots of anxiety and self-doubt. At the same time, exercise definitely helped.  So the park became her sanctuary, a place where the chatter in her mind quieted and a new kind of strength emerged. 
 
 There, she reset both her mind and body. For her, it was also reminder that mental and physical health weren't separate entities, but rather two sides of the same well-being coin. And that, Maria realized with a grin as she chased another unsuspecting pigeon, was a truth worth celebrating. 
 
