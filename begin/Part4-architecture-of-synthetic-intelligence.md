@@ -1,4 +1,12 @@
-idea: for alignment , we rely on the vast memory and ability of foresight of the machine
+problem: alignment ,
+
+solution: we rely on the vast memory and ability of foresight of the machine
+
+problem: explainability
+solution: rcn (probabilities)
+
+problem: affordaability
+solution: rcn
 
 ## idea - archtecture
 - ut must be hiearchical
