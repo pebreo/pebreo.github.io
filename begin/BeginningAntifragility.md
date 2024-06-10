@@ -39,15 +39,11 @@ Similarly, embracing an antifragile mindset help build mental strength. It can b
 
 
 ## August
-August sprinted through the park, lungs burning but a smile splitting her face. Her therapist had encouraged her to find a physical outlet for her stress. But here she was, chasing pigeons (mostly winning) and feeling a lightness she hadn't experienced in weeks. 
+August sprinted through the park, lungs burning but a smile splitting her face. Her mental health therapist had encouraged her to find a physical outlet for her stress. But here she was, chasing pigeons (mostly winning) and feeling a lightness she hadn't experienced in weeks. 
 
 It all started with a promtion. A bigger paycheck, yes, new teammates to worry about, certainly, and more responsibility, definitely. Yet, August felt like a deflated balloon. Sleep evaded her, replaced by a constant low-grade anxiety. Workdays bled into nights, and the vibrant artist she once was became a ghost, replaced by a productivity machine. 
 
-One particularly rough day, she confessed her struggles to a friend. The friend, ever the pragmatist, suggested a gym membership. "Exercise releases endorphins, Maria," they chirped. Maria scoffed. Gyms felt sterile, intimidating – the antithesis of the free-spirited soul she identified with. 
-
-But the seed was planted. Her sister also suggested she see a mental health therapist.  She didn't prescribe exercise as a cure-all, but rather as a potential tool in Maria's mental health toolbox. 
-
-It wasn't a magic bullet. Therapy sessions were still crucial, a space to untangle the knots of anxiety and self-doubt. But the park became her sanctuary, a place where the chatter in her mind quieted and a new kind of strength emerged. It wasn't about sculpted muscles or chasing some societal ideal of fitness. It was about rediscovering joy, a reminder that mental and physical health weren't separate entities, but rather two sides of the same well-being coin. And that, Maria realized with a grin as she chased another unsuspecting pigeon, was a truth worth celebrating. 
+For August, exercise definitely helped. Therapy sessions were still crucial, a space to untangle the knots of anxiety and self-doubt. But the park became her sanctuary, a place where the chatter in her mind quieted and a new kind of strength emerged. It wasn't about sculpted muscles or chasing some societal ideal of fitness. It was about rediscovering joy, a reminder that mental and physical health weren't separate entities, but rather two sides of the same well-being coin. And that, Maria realized with a grin as she chased another unsuspecting pigeon, was a truth worth celebrating. 
 
 ## TLDR
 Mental health is as important as physical health
