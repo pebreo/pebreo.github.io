@@ -45,6 +45,9 @@ These drawbacks highlight the importance of responsible development and deployme
 
 These are just a few examples, and the potential applications of LLMs are constantly evolving. As the technology continues to develop, we can expect even more  groundbreaking applications that will reshape how we interact with information, create content, and learn. However, it's important to remember that LLMs are still under development, and ethical considerations like potential biases and misinformation need to be addressed to ensure responsible and beneficial use of this powerful technology. 
 
+## Upgrading to synthetic intelligemce
+The current technology in artificial is very good. However, they have challenges each of which I propose a solution.
+
 ![hiearchical PGM](https://pebreo.github.io/IMG_0144.jpeg)
 
 
