@@ -32,6 +32,17 @@ The start of the art in artificial intelligence is large language models (LLMs).
 * **Breaking Down Language Barriers:** LLMs have the potential to revolutionize machine translation, enabling seamless communication across languages. Imagine real-time translation tools that not only convert words but also capture the nuances of meaning and cultural context. 
 * **Code Generation:** LLMs are being explored for generating code, translating natural language instructions into functional programming languages. This could significantly speed up the development process and democratize coding by making it more accessible to those without extensive programming experience.
 
+At the same time, they have some major drawbacks. Here are some examples:
+
+* **Bias and Discrimination:** LLMs are trained on massive amounts of text data, which can reflect and amplify societal biases. This can lead to discriminatory outputs, for example, perpetuating stereotypes in generated content or producing biased search results. 
+* **Misinformation and "Fake News":** LLMs' ability to generate realistic-sounding text can be misused to create fake news articles or social media posts.  The fluency of the language can make it difficult to distinguish between genuine information and AI-generated content.
+* **Lack of Common Sense and Reasoning:** LLMs excel at processing and generating text, but they often struggle with tasks that require common sense reasoning or understanding the physical world. This can lead to nonsensical outputs or misleading information, particularly when dealing with complex topics.
+* **"Black Box" Problem:** The inner workings of LLMs can be complex and opaque, making it difficult to understand how they arrive at their outputs.  This lack of transparency can raise concerns about accountability and potential manipulation of these models.
+* **Job displacement:**  As LLMs become more sophisticated, they may automate tasks currently performed by humans, particularly in fields like content creation or customer service.  This raises concerns about job displacement and the need for workforce retraining to keep pace with technological advancements.
+
+These drawbacks highlight the importance of responsible development and deployment of LLMs.  Strategies to mitigate bias, ensure factual accuracy, and promote transparency are crucial to building trust and maximizing the benefits of this powerful technology. 
+
+
 These are just a few examples, and the potential applications of LLMs are constantly evolving. As the technology continues to develop, we can expect even more  groundbreaking applications that will reshape how we interact with information, create content, and learn. However, it's important to remember that LLMs are still under development, and ethical considerations like potential biases and misinformation need to be addressed to ensure responsible and beneficial use of this powerful technology. 
 
 ![hiearchical PGM](https://pebreo.github.io/IMG_0144.jpeg)
