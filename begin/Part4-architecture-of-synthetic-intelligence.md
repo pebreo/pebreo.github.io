@@ -1,6 +1,13 @@
+## idea - archtecture
+- ut must be hiearchical
+- it must be probabilistic
+- it must have foresight
+- implucarions
 
 ## ideas
-- alignment - triune
+
+
+- alignmen
 - paperclip problem
 - solution: imagination + program to do opposite of human history (plenty of examples)
 - 100% explainable + understanbke. upgrade to rcn
