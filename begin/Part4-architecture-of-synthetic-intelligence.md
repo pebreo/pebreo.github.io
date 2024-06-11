@@ -65,6 +65,7 @@ The current technology in artificial intelligence is very good. However, they ha
 
 ## Challenge 1: Alignment
 
+## Solution: Foresight and memory
 
 
 ## Challenge 2: Understandability & explainability
