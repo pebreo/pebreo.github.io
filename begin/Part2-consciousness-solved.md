@@ -1,19 +1,32 @@
 # A mystery solved
+## Ben
+The insistent trill of Ben's alarm ripped him from a dream of scaling a precariously balanced stack of breakfast buffets. Groaning, he fumbled for the offending device and silenced it. 
 
-## Darren
-Darren jolted awake to the insistent chirping of his alarm clock.  It was the same melody, the same insistent rhythm, that had yanked him from his dreams for years.  He swung his legs over the edge of the bed, the familiar groan of the mattress a comforting constant.  
+Ben was a creature of habit. Shower, shave, the same worn-in Oxford shirt. In the kitchen, the dance began – toast the bagel, a smear of plain cream cheese, then a dollop of ruby-red strawberry jelly. Next came the pantomime of whisking eggs, the sizzle as they met the hot oil. Coffee, dark and strong, brewed while he devoured his breakfast masterpiece.
 
-Autopilot engaged.  Coffee pot. Shower.  The bathroom mirror reflected a face Darren knew well.  Downstairs, the kitchen was a symphony of sizzling butter and the gurgling of the coffee maker.  Two slices of toasted everything bagel – a tried-and-true foundation.  A smear of plain cream cheese, a dollop of tangy strawberry jelly – a flavor combination that never failed to spark a smile.  Scrambled eggs, perfectly cooked, rounded out the plate.  Fuel for the day.
+Fueled by caffeine and carbs, Ben headed out the door. As he rounded a corner, a figure materialized from an alleyway, shrouded in a lab coat that seemed to defy the summer sun. 
 
-Stepping out the door, he inhaled the crisp morning air, the scent of autumn leaves mingling with the exhaust fumes of the city. 
+"Benjamin Davies?" the figure rasped, voice like sandpaper. Ben stopped, surprised. 
 
-Suddenly, a man in a lab coat, hair a wild halo of white, was gesticulating wildly, brandishing a device that looked like a cross between a toaster and a ray gun.  
+"Uh, yeah, that's me," he replied cautiously. The figure stepped closer, revealing a face dominated by outlandish goggles and a wild mane of white hair.
 
-"This wont hurt a bit!" the man barked, his voice a touch too loud"
+"Splendid! A candidate for the Chronogastro Experiment!" the figure declared, brandishing a device that looked like a futuristic toaster crossed with a bicycle helmet.
 
-Before Darren could stammer a reply, the strange device whirred to life, and a beam of light bathed him in a soft, tingling glow.  The world shimmered around Darren, the edges of reality blurring. 
+Before Ben could react, the figure zapped him with a beam of light. A wave of nausea washed over him, then receded as abruptly as it came. Blinking, he stared at the scientist, who was now packing away his contraption.
 
-"Wait," Darren looked around in confusion. "What am I doing here?" He entip
+"There," the scientist chirped, "memory of your breakfast successfully erased! Now, go forth and contribute to the advancement of scientific knowledge!" 
+
+Ben, utterly bewildered, mumbled a thanks and continued on his way. Reaching his office, he was greeted by the usual morning banter.
+
+"Morning, Ben! Coffee?" Sarah, his co-worker, asked, holding up a steaming mug.
+
+"Sure, thanks," Ben replied, accepting the mug. "Actually, I don't think I had breakfast this morning. Feeling a little rushed."
+
+A chorus of surprised gasps filled the room. Ben froze – hadn't he just devoured his bagel masterpiece minutes ago? A strange sense of unreality washed over him. Had he dreamt the entire breakfast?  Or was this some sort of elaborate prank?  
+
+Shrugging it off, Ben sipped his coffee, the bitterness strangely comforting. The day unfurled as usual, a steady stream of emails and meetings. But the memory of his breakfast, or lack thereof, continued to gnaw at him.  It was a tiny detail, a glitch in the matrix of his routine, that threw everything off balance.
+
+It was a reminder, a quirky one to be sure, of the messy beauty of human experience.  Memories, even the seemingly mundane ones like breakfast, were the building blocks of our day, our narrative.  And sometimes, the most profound lessons came from the strangest of encounters.  Ben glanced at the bagel shop across the street, the sweet aroma of fresh bread a tempting counterpoint to his now-growling stomach.  Maybe, he thought, a late breakfast was just what he needed to set things right.  After all, some experiences were best enjoyed consciously, savored in the moment, not erased by the whims of a mad scientist and his breakfast-obliterating device. 
 
 ## TLDR
 
