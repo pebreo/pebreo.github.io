@@ -57,7 +57,7 @@ The current technology in artificial intelligence is very good. In my experience
 ## Challenge 1: Alignment
 How can we ensure that synthetic intelligent agents or systems' actions, goals, and "values" do not conflict with short or long-term human well-being? 
 
-In my view, putting on guardrails to synthetic intelligence is brittle because there are too many edges cases. An example of this is that there the many ways people can and do jailbreak current generative ML systems like ChatGPT. 
+In my view, putting on guardrails to synthetic intelligence is brittle because there are too many edges cases. An example of this is that there the many ways people can and do jailbreak popular LLM-based systems. 
 
 ## Solution: Curiosity, foresight and memory
 Building maximum curiosity, truth seeking , and with foresight (aka imagination) is the best way to align human well-being and synthetic intelligence.
