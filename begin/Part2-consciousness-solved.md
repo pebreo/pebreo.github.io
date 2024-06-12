@@ -33,7 +33,7 @@ Our memories are big part if our consciousness
 
 ### Consciouness defined
 
-It seems like a fundamental question is not even answered yet when trying to engineer AGI : what is consciousness? i believe the confusion is because the fundamental questio  of what consviousness is not "locked down". 
+It seems like a fundamental question is not even answered yet when trying to engineer machine intelligence : what is consciousness? i believe the confusion is because the fundamental questio  of what consviousness is not "locked down". 
 
 In my view, Hawkins propose a definition that makes the most sense. Here's the gist:
 
