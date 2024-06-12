@@ -72,14 +72,13 @@ Traditional machine learning (using artificial neural networks), for all their i
 We need to upgrade our architecture away from hidden layers to a probabilitic hiearchy, specifically, hiearchical probabilistic graph models (PGMs).
 Hiearchical PGMs break down components and assign probabilities to their relationships. This approach uses similar math Google Page Rank.
 
-For example, the hiearchy of a book can be described (starting from the "building block") as composed of words, sentences, paragraphs, chapters, and, finally (the top of the hiearchy) the book.
+For example, I want to create synthetice intelligence to be able to summarize books. We can use a hiearchy of a book described (starting from the "building block") as composed of words, sentences, paragraphs, chapters, and, finally (the top of the hiearchy) the book.
 
 todo: image here
 
 Based on that hirarchy, I can then create a PGM that looks like this. 
 
 
-This transparency becomes crucial in situations where the stakes are high, ensuring that AI remains a tool that complements human expertise, not replaces it. 
 
 
 ## Challenge 3: Affordability
