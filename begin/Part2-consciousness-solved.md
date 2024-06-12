@@ -52,7 +52,7 @@ Imagine an AI with a phenomenal self-model, a bottomless memory bank, and an unc
 ## Implications
 - 
 - We can build synthetic consciousness. To be decided though.
-- We can throttle of scale each component of consciousness
+- We can throttle or scale each component of consciousness
 
 
 ## Next chapter
