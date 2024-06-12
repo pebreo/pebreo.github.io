@@ -85,7 +85,11 @@ Building more affordable and explainable machine learning  doesn't require an ex
 ![hiearchical PGM](https://pebreo.github.io/IMG_0144.jpeg)
 
 
-What about alignment?
+| Challenge                          | Description                                                                                                                         | Solution                                                                                                                                        |
+| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Alignment                          | Ensuring AI goals align with human well-being                                                                                       | \* Build AI with curiosity and a drive for truth-seeking \* Provide AI with a diverse dataset encompassing human history (successes & failures) |
+| Understandability & Explainability | Lack of transparency in AI decision-making \* Use hierarchical probabilistic models to break down problems and assign probabilities |
+| Affordability                      | Expensive data requirements for traditional AI training                                                                             | \* Leverage simulation (mental modeling) to explore possibilities and learn                                                                     |
 
 
 
