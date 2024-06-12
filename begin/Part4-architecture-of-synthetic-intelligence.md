@@ -74,11 +74,11 @@ Hiearchical PGMs break down components and assign probabilities to their relatio
 
 For example, I want to create synthetice intelligence to be able to summarize books. We can use a hiearchy of a book described (starting from the "building block") as composed of words, sentences, paragraphs, chapters, and, finally (the top of the hiearchy) the book.
 
-![hiearchy](https://pebreo.github.io/begin/IMG_0191.jpeg)
+![hiearchy](https://pebreo.github.io/IMG_0191.jpeg)
 
 Based on that hirarchy, I can then create a PGM that looks like this. 
 
-![hiearchy pgm](https://pebreo.github.io/begin/IMG_0194.jpeg)
+![hiearchy pgm](https://pebreo.github.io/IMG_0194.jpeg)
 
 Each level of the hierarchy becomes a node in the PGM. So, we'd have nodes for "Book," "Chapters," "Paragraphs," and  "Words". 
 
