@@ -70,7 +70,7 @@ It was a moonshot, a long and uncertain path.  But Evelyn, ever the explorer, wa
 
 
 ## Upgrading to synthetic intelligemce
-The current technology in artificial intelligence is very good. In my experience, it can amplify productivity by many times. However, it has challenges each of which I propose a solution. 
+The current technology in artificial intelligence is very good. In my experience, it can amplify productivity by many times. However, it has challenges each of which I propose a solution which I call synthetic intelligence.
 
 ## Challenge 1: Alignment
 How can we ensure that synthetic intelligent agents or systems' actions, goals, and "values" do not conflict with short or long-term human well-being? 
