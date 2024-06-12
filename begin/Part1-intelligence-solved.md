@@ -18,22 +18,14 @@ The raccoon, as predicted, was there, its beady eyes reflecting the flashlight's
 Milo relaxed, a satisfied rumble escaping his chest. He hadn't needed complex commands or spoken language. The dance between him and Sarah, the memories woven into their very being, had been enough. In that quiet victory, under the glow of the dying fire, a testament to countless shared experiences, flickered the essence of intelligence – a world built not just on actions, but on the powerful interplay of memory and prediction. 
 
 ### Intelligence solved
+Purely reactive ML systems use the stimulus-response approach.  They can excel at rote tasks, but struggle with anything that requires adaptation or novel problem-solving.  
 
-What is intelligence? Is it simply a matter of complex behavior? Or is there something more to it? I believe the most convincing definition of intelligence was given by the co-creator of the Palm Pilot, Jeff Hawkins, who posits you need two things to be intelligent: memory and prediction.
+What is "real" intelligence? Is it simply a matter of complex behavior? Or is there something more to it? I believe the most convincing definition of intelligence was given by the co-creator of the Palm Pilot, Jeff Hawkins, who posits you need two things to be intelligent: memory and prediction.
 
 Hawkins argues that intelligence shouldn't be solely defined by how an organism acts. Instead, it's the ability to form memories of past experiences and use those memories to predict future outcomes. This concept goes beyond just reacting to stimuli.
 
-This reframing of intelligence has profound implications for our pursuit of machine learning & intelligence. Traditionally, ML has focused on mimicking complex human behaviors  - playing chess, translating languages, recognizing objects. However, Hawkins' definition means we need to move beyon replicating actions and instead focus on building machines that can remember **and** predict.
+This reframing of intelligence has profound implications for our pursuit of machine learning & intelligence. Traditionally, ML has focused on mimicking complex human behaviors  - playing chess, translating languages, recognizing objects. However, Hawkins' definition means we need to move beyon replicating actions and instead focus on building machines that can remember **and** predict. In my view, by using memory and prediction we can develop much more flexible and even creative machine intelligence.  
 
-Here's why this memory-prediction approach is so crucial:
-
-* **Understanding the World:**  Memories provide context and meaning to our experiences.  They allow us to understand the world around us, not just as a series of isolated events, but as a connected web of cause and effect.  By building AI with robust memory capabilities, we enable it to learn from past interactions and develop a richer understanding of its environment.  
-
-* **Breaking Free from Repetition:**  Purely reactive AI systems, devoid of memory and prediction, are trapped in a cycle of responding to immediate stimuli.  They can excel at rote tasks, but struggle with anything that requires adaptation or novel problem-solving.  Memory and prediction, however, allow AI to break free from this cycle.  By drawing on past experiences and anticipating future outcomes, AI can develop more flexible and creative solutions.  
-
-* **Lifelong Learning:**  The human capacity for lifelong learning is a cornerstone of our intelligence.  We learn from every experience, big or small, and constantly refine our understanding of the world.  Memory and prediction are the engines that drive this learning process.  By equipping AI with these capabilities, we enable it to continuously learn and improve, becoming more sophisticated and adaptable over time.
-
-**Refocusing our efforts on memory and prediction in AI development is not to diminish the importance of complex behavior.**  After all, the ability to act on our predictions is a crucial aspect of intelligence.  However, it's by prioritizing memory and prediction that we unlock the true potential of AI –  the ability to not just mimic human behavior, but to achieve a deeper understanding of the world and navigate it with purpose. 
 
 
 ## TLDR
