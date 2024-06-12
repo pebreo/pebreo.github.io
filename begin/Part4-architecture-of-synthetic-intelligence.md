@@ -38,7 +38,7 @@ Halluconations refer to outputs that are incorrect, nonsensical, or irrelevant t
 These are just a few examples, and the potential and pitfals on the state of the art of machine learning. In my opinion, it is the most powerful technology invented by human-kind. This means much thought, care, and humility must be used to advance and harness it.
 
 ## Evelyn
-Dr. Evelyn Walsh squinted at the swirling lines and nonsensical characters on her computer screen. It was the output from their latest artificial neural network (ANN), a project she'd poured years of research and a mountain of grant money into. The promise: a medical diagnosis tool that could analyze patient data and identify diseases with unparalleled accuracy. 
+Dr. Evelyn Walsh squinted at the swirling lines and nonsensical characters on her computer screen. She was trying to make sense of the hidden neurons from their latest machine learning-based diagnosis app. She'd poured years of research and a mountain of grant money into. The promise: a medical diagnosis tool that could analyze patient data and identify diseases with unparalleled accuracy. 
 
 The reality? A frustrating black box. The ANN churned out results, some seemingly spot-on, others bafflingly wrong. But why? How?  Peering into the inner workings of the ANN was like staring into a cosmic fog. The complex web of weighted connections and hidden layers offered no clear explanation for its decisions. 
 
