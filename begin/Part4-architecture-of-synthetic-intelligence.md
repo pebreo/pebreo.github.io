@@ -93,7 +93,7 @@ Imagine training an AI like cramming for a test – bombarding it with every pos
 
 
 ## Solution: Rely on mental simulation 
-The solution is imagination (mental simulation). Cteating virtual worlds is a well-established and understood technology. By adding this key feature,  synthetic intelliggnce doesn't need to be spoon-fed every answer; it can learn to generate its own solutions and explain its reasoning based on the simulated experiences.   
+The solution is imagination (mental simulation). Cteating virtual worlds is a well-established and understood technology. By adding this key feature,  synthetic intelliggnce doesn't need to be spoon-fed every answer (which can be resource intensive); it can learn to generate its own solutions and explain its reasoning based on the simulated experiences.   
 
 This focus on simulation not only reduces the need for massive datasets but also leads to more transparent and adaptable AI systems. In terms of cost, we can throttle or scale as needed.
 
