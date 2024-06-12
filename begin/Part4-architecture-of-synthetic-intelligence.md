@@ -60,10 +60,25 @@ How can we ensure that synthetic intelligent agents or systems' actions, goals, 
 In my view, putting on guardrails to synthetic intelligence is brittle because there are too many edges cases. An example of this is that there the many ways people can and do jailbreak current generative ML systems like ChatGPT. 
 
 ## Solution: Curiosity, foresight and memory
-Building maximum curiosity, truth seeking , and with foresight (aka imagination) is the best way to align human well-being and synthetic intelligence. Credit Elon Musk for popularizing the notion of maximizing truth seeking & curiosity in order to align human well being to synthetic intelligence.
+Building maximum curiosity, truth seeking , and with foresight (aka imagination) is the best way to align human well-being and synthetic intelligence.
 
+ The answer?  Equipping these machines with a kind of digital wisdom, a curated memory of the worst and best of humanity.
 
+Credit Elon Musk for popularizing the notion of maximizing truth seeking & curiosity in order to align human well being to synthetic intelligence.
 
+Furthermore, synthetic intelligence would have vast memory which includes **all** of human experience –  not just the triumphs, but the pitfalls as well. This is the crux of the alignment issue: ensuring AI systems operate in harmony with, rather than opposition to, human well-being. 
+
+The solution you propose –  feeding AI data sets of past wars, crimes, and even horror films –  might seem unorthodox. But it taps into a powerful concept: foresight.  A child doesn't learn solely from positive experiences; scraped knees and failed tests are crucial lessons too.  Similarly, exposing AI to the darkest corners of human behavior can serve as a cautionary tale, a way to illustrate the potential consequences of misaligned goals. 
+
+However, this data diet needs to be balanced.  Imagine a child raised solely on horror movies –  their worldview would be skewed, filled with fear and distrust.  For AI, a constant barrage of negativity could lead to a pessimistic outlook or even a distorted understanding of human behavior. 
+
+The key lies in curating a diverse dataset, one that encompasses the full spectrum of human experience.  The horrors of war can serve as a stark reminder of the potential consequences of unchecked aggression, but we must also include stories of cooperation, innovation, and compassion.  The "memory" of the AI shouldn't be a passive collection of facts, but rather a springboard for exploration.  Imagine an AI that can analyze past conflicts and identify patterns of escalation, potentially offering solutions for future disputes.
+
+This approach goes beyond simply feeding data.  It's about fostering a kind of  "digital empathy" within the AI.  By exposing it to the emotional nuances of human experience, from the pain of suffering to the joy of creation, we can encourage the AI to consider the impact of its actions on the human condition. 
+
+Building AI with foresight and a nuanced understanding of humanity is a complex challenge.  But it's an essential one.  Just like a responsible babysitter wouldn't leave a child unsupervised, we can't unleash powerful AI systems without equipping them with the wisdom of the ages.  This isn't about dumbing down AI, but rather about enriching its decision-making process, ensuring it becomes a force for good, not a cautionary tale itself.   
+
+The future of AI isn't just about processing power and complex algorithms.  It's about creating machines that can not only learn from data, but also learn from our history, our mistakes, and our triumphs.  It's about creating a future where AI isn't just a tool, but a partner, one that shares our goals and understands the weight of its actions.  And that, perhaps, is the greatest challenge, and the most rewarding opportunity, of all. 
 
 
 
