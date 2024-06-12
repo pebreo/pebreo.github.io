@@ -47,7 +47,7 @@ Here's the beauty of this approach: we can focus on building these core function
 Imagine an AI with a phenomenal self-model, a bottomless memory bank, and an uncanny ability to perceive the world. 
 
 ## Why it's true
-
+- When you goto sleep you have (mostly) have no memory, senses, or self-awareness
 
 ## Implications
 - 
