@@ -79,8 +79,9 @@ For example, the hiearchy of a book can be described (starting from the "buildin
 
 todo: image here
 
-
-By shedding light on the "why" behind its predictions, this probabilistic approach fosters trust and allows for human oversight. It's like a detective meticulously piecing together clues, each step documented and understandable. This transparency becomes crucial in situations where the stakes are high, ensuring that AI remains a tool that complements human expertise, not replaces it. 
+Next, we divide and arrange the various pieces of the hiearchy into a pyramid-shaped graph structure. The nodes are the elements and the lines connecting the
+ can describe the numerical probabilities...
+ It's like a detective meticulously piecing together clues, each step documented and understandable. This transparency becomes crucial in situations where the stakes are high, ensuring that AI remains a tool that complements human expertise, not replaces it. 
 
 
 ## Challenge 3: Affordability
