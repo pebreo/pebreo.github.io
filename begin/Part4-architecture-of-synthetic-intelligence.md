@@ -44,9 +44,9 @@ The reality? A frustrating black box. The app churned out results, some seemingl
 
 Evelyn wasn't naive.  She knew ANNs were powerful tools, capable of learning patterns invisible to the human eye. But this lack of transparency gnawed at her.  It was like having a superpowered race car with a blind driver –  it might get you somewhere fast, but with no understanding of how. She was starting to realize the potential for disaster was too real. 
 
-Her frustration wasn't just academic.  Imagine a doctor relying on an opaque system for a life-altering diagnosis. What if the ANN identified a rare disease in a patient, but the doctor couldn't verify the reasoning behind it?  Trust, the cornerstone of the doctor-patient relationship, would crumble. 
+Her frustration wasn't just academic.  Imagine a doctor relying on an opaque system for a life-altering diagnosis. What if the ANN identified a rare disease in a patient, but the doctor couldn't verify the reasoning behind it?  Trust, the cornerstone of the doctor-patient relationship, would crumble. More importantly, lives were at stake.
 
-Evelyn wasn't ready to throw in the towel. She envisioned a new architecture or method could not only make diagnoses but also explain their reasoning in a way humans could understand. But Evelyn, ever the explorer, was invigorated by the challenge.  
+Evelyn wasn't ready to throw in the towel. She envisioned a new architecture or method could not only make diagnoses but also explain their reasoning in a way humans could understand. But Evelyn was up to the 
 
 
 ## Upgrading to synthetic intelligemce
