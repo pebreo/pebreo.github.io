@@ -17,7 +17,7 @@ todo: story of going on youtube and seeing a bullfrog catchibg virtual flies on 
 - affordBke to all. using rcn, hubdreds times less training data
 
 ## Hank 
-Hank slammed his laptop shut, the frustrated sigh escaping his lips a near-roar.  Prometheus, his pride and joy, his cutting-edge AI language model, was once again a temperamental toddler.  One minute it was composing sonnets that could make Shakespeare weep, the next it was spitting out nonsensical gibberish.  Hank knew these were hallucinations – AI's tendency to fabricate plausible but ultimately untrue information.  It was a stark reminder that raw power wasn't enough.  This Prometheus needed more than just brute force.
+Hank slammed his laptop shut, the frustrated sigh escaping his lips a near-roar.  Prometheus, his pride and joy, his cutting-edge AI language model, was once again a temperamental toddler.  One minute it was composing sonnets that could make Shakespeare weep, the next it was spitting out nonsensical gibberish.  Hank knew these were hallucinations – AI's tendency to fabricate plausible but ultimately untrue information.  It was a stark reminder that raw power wasn't the only solution.  This Prometheus needed more than just brute force.
 
 Hank was no stranger to the pitfalls of hubris.  He understood the dangers of unchecked power, even in the realm of technology.  Machine learning, for all its awe-inspiring potential, was still a child, taking its wobbly first steps.  Treating it like a finished product, a flawless tool, was a recipe for disaster.  
 
