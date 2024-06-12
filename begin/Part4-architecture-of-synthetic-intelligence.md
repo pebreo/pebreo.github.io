@@ -44,7 +44,7 @@ The reality? A frustrating black box. The app churned out results, some seemingl
 
 Evelyn wasn't naive.  She knew ANNs were powerful tools, capable of learning patterns invisible to the human eye. But this lack of transparency gnawed at her.  It was like having a superpowered race car with a blind driver –  it might get you somewhere fast, but with no understanding of how. She was starting to realize the potential for disaster was too real. 
 
-Her frustration wasn't just academic.  Imagine a doctor relying on an opaque system for a life-altering diagnosis. What if the ANN identified a rare disease in a patient, but the doctor couldn't verify the reasoning behind it?  Trust, the cornerstone of the doctor-patient relationship, would crumble. More importantly, lives were at stake.
+Her frustration wasn't just academic.  Imagine a doctor relying on an opaque system for a life-altering diagnosis. What if the ANN identified a rare disease in a patient, but the doctor couldn't verify the reasoning behind it?  Trust, the cornerstone of the doctor-patient relationship, would crumble. More importantly, lives are at stake.
 
 Evelyn wasn't ready to throw in the towel. She envisioned a new architecture or method could not only make diagnoses but also explain their reasoning in a way humans could understand. She was excited at the possibilities.
 
@@ -58,9 +58,9 @@ How can we ensure that synthetic intelligent agents or systems' actions, goals, 
 In my view, putting on guardrails to synthetic intelligence is brittle because there are too many edges cases. An example of this is that there the many ways people can and do jailbreak popular LLM-based systems. 
 
 ## Solution: Curiosity, foresight and memory
-First amd foremost, it must be able to answer the question: what is/are the consequnces of this action? To do this, the system must have an  imagination (mental simulation).
+First amd foremost, it must be able to answer the question: what is/are the consequnces of this action? To do this, the system must have an imagination (mental simulation).
 
-Building maximum curiosity, truth seeking ,with foresight (aka imagination), and memory of various consequences, is the best way to align human well-being with  synthetic intelligence. Credit Elon Musk for popularizing the notion of maximizing truth seeking & curiosity in order to align human well being to synthetic intelligence.
+Also, it should have maximum curiosity, truth seeking, and memory of various consequences, is the best way to align human well-being with  synthetic intelligence. Credit Elon Musk for popularizing the notion of maximizing truth seeking & curiosity in order to align human well being to synthetic intelligence.
 
 todo : question : what is the consewqnce ? 
 Furthermore, in my view, they key lies in curating a diverse dataset, one that encompasses the full spectrum of human experience. Building AI with foresight and a nuanced understanding of humanity is a complex challenge. 
