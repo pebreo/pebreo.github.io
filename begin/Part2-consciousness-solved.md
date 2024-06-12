@@ -3,11 +3,11 @@
 ## Darren
 Darren jolted awake to the insistent chirping of his alarm clock.  It was the same melody, the same insistent rhythm, that had yanked him from his dreams for years.  He swung his legs over the edge of the bed, the familiar groan of the mattress a comforting constant.  
 
-Autopilot engaged.  Coffee pot. Shower.  The bathroom mirror reflected a face Darren knew well, a face etched with the faint lines that chronicled the passage of time.  Downstairs, the kitchen was a symphony of sizzling butter and the gurgling of the coffee maker.  Two slices of toasted everything bagel – a tried-and-true foundation.  A smear of plain cream cheese, a dollop of tangy strawberry jelly – a flavor combination that never failed to spark a smile.  Scrambled eggs, perfectly cooked, rounded out the plate.  Fuel for the day.
+Autopilot engaged.  Coffee pot. Shower.  The bathroom mirror reflected a face Darren knew well.  Downstairs, the kitchen was a symphony of sizzling butter and the gurgling of the coffee maker.  Two slices of toasted everything bagel – a tried-and-true foundation.  A smear of plain cream cheese, a dollop of tangy strawberry jelly – a flavor combination that never failed to spark a smile.  Scrambled eggs, perfectly cooked, rounded out the plate.  Fuel for the day.
 
 Stepping out the door, he inhaled the crisp morning air, the scent of autumn leaves mingling with the exhaust fumes of the city.  His route to work was a well-worn path.
 
-Suddenly, a commotion on the sidewalk snagged his attention. A man in a lab coat, hair a wild halo of white, was gesticulating wildly, brandishing a device that looked like a cross between a toaster and a ray gun.  Intrigued, Darren veered off course.
+Suddenly, a man in a lab coat, hair a wild halo of white, was gesticulating wildly, brandishing a device that looked like a cross between a toaster and a ray gun.  Intrigued, Darren veered off course.
 
 "Hold on there, sonny!" the man barked, his voice a touch too loud.  "Lost your way, have you?"  Before Darren could stammer a reply, the strange device whirred to life, and a beam of light bathed him in a soft, tingling glow.  A strange calm washed over him, a sense of serenity that felt…unfamiliar.
 
