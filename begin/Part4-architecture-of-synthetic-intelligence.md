@@ -70,7 +70,7 @@ Traditional machine learning (using artificial neural networks), for all their i
 
 ## Solution: Hiearchical probabilities
 We need to upgrade our architecture away from hidden layers to a probabilitic hiearchy, specifically, hiearchical probabilistic graph models (PGMs).
-Hiearchical PGMs break down components and assign probabilities to their relationships. This approach uses similar math Google Page Rank.
+Hiearchical PGMs break down components and assign probabilities to their relationships. This approach uses similar math as Google Page Rank.
 
 For example, I want to create synthetice intelligence to be able to summarize books. We can use a hiearchy of a book described (starting from the "building block") as composed of words, sentences, paragraphs, chapters, and, finally (the top of the hiearchy) the book.
 
@@ -78,6 +78,13 @@ todo: image here
 
 Based on that hirarchy, I can then create a PGM that looks like this. 
 
+todo: image here
+
+Each level of the hierarchy becomes a node in the PGM. So, we'd have nodes for "Book," "Chapters," "Paragraphs," and  "Words". 
+
+Edges connect the nodes and represent the probabilistic relationships between them. For example, there would be an edge between "Book" and "Chapters," indicating the probability of a book containing chapters.
+
+The hierarchical PGM is a powerful tool for understanding the statistical relationships between the elements. It allows us to move beyond the hidden layers of ANNs & LLMs.
 
 
 
