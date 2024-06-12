@@ -60,11 +60,11 @@ How can we ensure that synthetic intelligent agents or systems' actions, goals, 
 In my view, putting on guardrails to synthetic intelligence is brittle because there are too many edges cases. An example of this is that there the many ways people can and do jailbreak popular LLM-based systems. 
 
 ## Solution: Curiosity, foresight and memory
-Building maximum curiosity, truth seeking , and with foresight (aka imagination) is the best way to align human well-being and synthetic intelligence.
+Building maximum curiosity, truth seeking ,with foresight (aka imagination), and memory of various consequences, is the best way to align human well-being and synthetic intelligence.
 
  The answer?  Equipping these machines with a kind of digital wisdom, a curated memory of the worst and best of humanity.
 
-Credit Elon Musk for popularizing the notion of maximizing truth seeking & curiosity in order to align human well being to synthetic intelligence.
+pCredit Elon Musk for popularizing the notion of maximizing truth seeking & curiosity in order to align human well being to synthetic intelligence.
 
 Furthermore, synthetic intelligence would have vast memory which includes **all** of human experience –  not just the triumphs, but the pitfalls as well. This is the crux of the alignment issue: ensuring AI systems operate in harmony with, rather than opposition to, human well-being. 
 
