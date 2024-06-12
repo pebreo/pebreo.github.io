@@ -62,6 +62,7 @@ In my view, putting on guardrails to synthetic intelligence is brittle because t
 ## Solution: Curiosity, foresight and memory
 Building maximum curiosity, truth seeking ,with foresight (aka imagination), and memory of various consequences, is the best way to align human well-being with  synthetic intelligence. Credit Elon Musk for popularizing the notion of maximizing truth seeking & curiosity in order to align human well being to synthetic intelligence.
 
+todo : question : what is the consewqnce ? 
 Furthermore, in my view, they key lies in curating a diverse dataset, one that encompasses the full spectrum of human experience. Building AI with foresight and a nuanced understanding of humanity is a complex challenge. 
 
 Lastly, in my opinion, the future of synthetic intelligence isn't just about processing power and complex algorithms.  It's about creating machines that can not only learn from data, but also learn from our history, our mistakes, and our triumphs.  It's about creating a future where AI isn't just a tool, but a partner, one that shares our goals and understands the weight of its actions.  And that, perhaps, is the greatest challenge, and the most rewarding opportunity, of all. 
