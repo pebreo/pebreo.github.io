@@ -66,7 +66,7 @@ Lastly, in my opinion, the future of synthetic intelligence isn't just about pro
 
 
 ## Challenge 2: Understandability & explainability
-Traditional machine learning (using artificial neural networks), for all their impressive feats, operate as black boxes, churning out results with little transparency into the "how" behind their decisions. This lack of explainability is, in my opinion, is the biggest challenge especially in critical fields like medicine or defense. 
+Traditional machine learning (using artificial neural networks), for all their impressive feats, they operate as black boxes, churning out results with little transparency into the "how" behind their decisions. This lack of explainability is, in my opinion, is the biggest challenge especially in critical fields like medicine or defense. 
 
 ## Solution: Hiearchical probabilities
 We need to upgrade our architecture away from hidden layers to a probabilitic hiearchy, specifically, hiearchical probabilistic graph models (PGMs).
@@ -76,17 +76,10 @@ For example, the hiearchy of a book can be described (starting from the "buildin
 
 todo: image here
 
+Based on that hirarchy, I can then create a PGM that looks like this. 
 
 
-First, you split the book into smaller clues. Did the culprit wear a hat? Were there any paw prints? These are like the foundation of your PGM board.
-
-Next, each clue gets a score based on how likely it is to help solve the case. Maybe finding a muddy footprint is a stronger clue than a single, crumpled tissue (because muddy footprints are less common).
-
-Here's the cool part! The PGM board lets you see how these clues work together. Maybe muddy footprints and a missing umbrella together become a super strong clue that it rained and someone walked through mud!
-
-This way, the PGM board helps you see the whole picture by putting all the little clues together, making you a super detective! 
-
- It's like a detective meticulously piecing together clues, each step documented and understandable. This transparency becomes crucial in situations where the stakes are high, ensuring that AI remains a tool that complements human expertise, not replaces it. 
+. This transparency becomes crucial in situations where the stakes are high, ensuring that AI remains a tool that complements human expertise, not replaces it. 
 
 
 ## Challenge 3: Affordability
