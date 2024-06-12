@@ -35,6 +35,9 @@ At the same time, they have some major drawbacks. Here are some examples:
 
 * **"Black Box" Problem:** The inner workings of LLMs are cryptic and cannot be understand by humans. In my view, this is biggest technical challenge that needs to be overcome. I propose a solution in the following pages.
 
+* **Hallucinations:**
+Halluconations refer to outputs that are incorrect, nonsensical, or irrelevant to the input prompt. These outputs can appear grammatically correct and even plausible. For example, an LLM used to generate marketing copy might create content that is offensive or discriminatory.
+
 * **Lack of Planning and Types of Reasoning:** LLMs excel at processing and generating text, but they often lack the ability to understand the physical world or apply common sense reasoning. This can lead to nonsensical or misleading outputs.
   
 * **Bias and Discrimination:** LLMs are trained on massive amounts of text data, which can reflect and amplify societal biases. This can lead to discriminatory outputs, for example, perpetuating stereotypes in generated content or producing biased search results.
