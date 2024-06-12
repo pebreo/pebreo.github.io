@@ -79,7 +79,7 @@ todo: image here
 Based on that hirarchy, I can then create a PGM that looks like this. 
 
 
-. This transparency becomes crucial in situations where the stakes are high, ensuring that AI remains a tool that complements human expertise, not replaces it. 
+This transparency becomes crucial in situations where the stakes are high, ensuring that AI remains a tool that complements human expertise, not replaces it. 
 
 
 ## Challenge 3: Affordability
