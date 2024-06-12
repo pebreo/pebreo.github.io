@@ -93,7 +93,7 @@ Imagine training an AI like cramming for a test – bombarding it with every pos
 
 
 ## Solution: Rely on mental simulation 
-The solution is imagination (mental simulation). Cteating virtual worlds is a well-established and understood technology. Adding this key feature,  synthetic intelliggnce doesn't need to be spoon-fed every answer; it can learn to generate its own solutions and explain its reasoning based on the simulated experiences.   
+The solution is imagination (mental simulation). Cteating virtual worlds is a well-established and understood technology. By adding this key feature,  synthetic intelliggnce doesn't need to be spoon-fed every answer; it can learn to generate its own solutions and explain its reasoning based on the simulated experiences.   
 
 This focus on simulation not only reduces the need for massive datasets but also leads to more transparent and adaptable AI systems. In terms of cost, we can throttle or scale as needed.
 
@@ -112,9 +112,11 @@ This focus on simulation not only reduces the need for massive datasets but also
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JNepghYjlc4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## TLDR
-Problem: LLM are expensive & a black box
+Problem 1: Alignment 
+Solution 1: Foresight, memory, curiosity
 
-Solution: RCNs can be human-aligned, completely understandable and explainable, affordabke to all
+Problem 2: Explainablity
+Solution 2: Hiearchical PGMs
 
 ## Why this would work
 - systems in nature can be described in a probabikistic hiearchy
@@ -130,21 +132,4 @@ Solution: RCNs can be human-aligned, completely understandable and explainable, 
 [Part 5: Implication of solved intelligence & consciousness](Part5-implications-of-solved-intelligence.md)
 
 [TOC](https://pebreo.github.io/)
-
-
-
-## Architecture
-## A Multi-Layered Learner: Software Architecture for Evolving AI
-
-Imagine a machine learning architecture that isn't a rigid monolith, but rather a curious explorer, constantly learning and adapting. This isn't science fiction – it's a potential future where AI development embraces a layered, probabilistic approach, informed by the wisdom of the past and fueled by an insatiable hunger for knowledge. 
-
-The core of this architecture lies in a **hierarchical structure**. Think of it like a pyramid, with the foundation composed of the vast datasets of human history, particularly those related to conflict and anti-social behavior. This layer acts a constant reminder of potential pitfalls.
-
-But the architecture doesn't stop there. Building upon this foundation are layers dedicated to **probabilistic modeling**.  Here, the system delves into the messy, unpredictable world of real-time data, constantly calculating probabilities and refining its understanding. This injects a much-needed dose of flexibility, allowing the AI to navigate the unexpected twists and turns of the real world.
-
-The beauty of this architecture lies in its ability to **simulate**. Borrowing from the phoenix metaphor, the system can create virtual worlds within itself, testing different scenarios and learning from failures without real-world consequences. This foresight allows for continuous improvement and adaptation, ensuring the AI doesn't become a hydra of unintended consequences.
-
-But the most crucial element is the **insatiable curiosity** embedded within the architecture. Just like a wide-ranging explorer, the AI wouldn't be limited to the data sets of human conflict. It would be encouraged to explore diverse fields, from art and literature to philosophy and science. This exposure to a vast range of knowledge would fuel its understanding of the human experience, fostering a more nuanced and ethical approach to decision-making.
-
-This architecture is not a finished product, but rather a framework for a continuously evolving AI. It embraces the "is" of human history, the harsh realities of conflict and anti-social behavior, while striving towards a future where AI can contribute to a more peaceful and prosperous world. It's a testament to the power of diverse learning, a testament to the idea that a well-rounded education, not just laser-focused training, is the key to building truly intelligent and beneficial machines.  
 
