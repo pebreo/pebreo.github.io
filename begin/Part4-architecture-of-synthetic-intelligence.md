@@ -25,7 +25,8 @@ The start of the art in current machine learning are Large Language Midels (LLMs
   
 * **Personalized Learning:** LLMs can personalize the learning experience by tailoring educational materials to individual student needs and learning styles. For example, the online learning platform Khan Academy does exactly this with their their Khanmigo system.
  
-* **Breaking Down Language Barriers:** LLMs have the potential to revolutionize machine translation, enabling seamless communication across languages. Imagine real-time translation tools that not only convert words but also capture the nuances of meaning and cultural context. 
+* **Breaking Down Language Barriers:** LLMs have the potential to revolutionize machine translation, enabling seamless communication across languages. Imagine real-time translation tools that not only convert words but also seem to capture the nuances of meaning and cultural context.
+  
 * **Code Generation:** LLMs are being explored for generating code, translating natural language instructions into functional programming languages. This could significantly speed up the development process and democratize coding by making it more accessible to those without extensive programming experience.
 
 At the same time, they have some major drawbacks. Here are some examples:
