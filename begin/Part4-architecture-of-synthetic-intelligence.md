@@ -93,7 +93,9 @@ Imagine training an AI like cramming for a test – bombarding it with every pos
 
 
 ## Solution: Rely on mental simulation 
-Building more affordable and explainable machine learning  doesn't require an exhaustive data library.  Instead, we can tap into the power of simulation.  Imagine an AI that can create virtual worlds within itself, exploring different possibilities and learning through trial and error, just like a child playing make-believe. This approach fosters a more adaptable and efficient learning process.  The AI doesn't need to be spoon-fed every answer; it can learn to generate its own solutions and explain its reasoning based on the simulated experiences.  Think of it like a student actively engaging with the material, drawing connections and developing a deeper understanding. This focus on simulation not only reduces the need for massive datasets but also leads to more transparent and adaptable AI systems, paving the way for a future where this powerful technology becomes more accessible and impactful. 
+The solution is imagination (mental simulation). Cteating virtual worlds is a well-established and understood technology. 
+
+This approach fosters a more adaptable and efficient learning process.  The AI doesn't need to be spoon-fed every answer; it can learn to generate its own solutions and explain its reasoning based on the simulated experiences.  Think of it like a student actively engaging with the material, drawing connections and developing a deeper understanding. This focus on simulation not only reduces the need for massive datasets but also leads to more transparent and adaptable AI systems, paving the way for a future where this powerful technology becomes more accessible and impactful. 
 
 ![hiearchical PGM](https://pebreo.github.io/IMG_0144.jpeg)
 
