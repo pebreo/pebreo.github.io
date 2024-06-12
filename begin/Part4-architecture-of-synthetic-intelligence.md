@@ -78,7 +78,7 @@ For example, I want to create synthetice intelligence to be able to summarize bo
 
 Based on that hirarchy, I can then create a PGM that looks like this. 
 
-![hiearchy pgm](https://pebreo.github.io/begin/IMG_0194.jpreg)
+![hiearchy pgm](https://pebreo.github.io/begin/IMG_0194.jpeg)
 
 Each level of the hierarchy becomes a node in the PGM. So, we'd have nodes for "Book," "Chapters," "Paragraphs," and  "Words". 
 
