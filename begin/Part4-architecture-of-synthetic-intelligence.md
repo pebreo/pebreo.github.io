@@ -42,13 +42,11 @@ Dr. Evelyn Walsh squinted at the swirling lines and nonsensical characters on he
 
 The reality? A frustrating black box. The app churned out results, some seemingly spot-on, others bafflingly wrong. But why? How?  Peering into the inner workings of the so-called Artificial Neural Network (ANN) was like staring into a cosmic fog. The complex web of weighted connections and hidden layers offered no clear explanation for its decisions. 
 
-Evelyn wasn't naive.  She knew ANNs were powerful tools, capable of learning patterns invisible to the human eye. But this lack of transparency gnawed at her.  It was like having a superpowered race car with a blind driver –  it might get you somewhere fast, but with no understanding of how, the potential for disaster lurked around every corner. 
+Evelyn wasn't naive.  She knew ANNs were powerful tools, capable of learning patterns invisible to the human eye. But this lack of transparency gnawed at her.  It was like having a superpowered race car with a blind driver –  it might get you somewhere fast, but with no understanding of how. She was starting to realize the potential for disaster was too real. 
 
 Her frustration wasn't just academic.  Imagine a doctor relying on an opaque system for a life-altering diagnosis. What if the ANN identified a rare disease in a patient, but the doctor couldn't verify the reasoning behind it?  Trust, the cornerstone of the doctor-patient relationship, would crumble. 
 
-Evelyn wasn't ready to throw in the towel.  Maybe the answer wasn't in completely dismantling the ANN, but in building a bridge.  A way to coax some interpretability out of this black box.  She envisioned a new generation of ANNs, ones that could not only make diagnoses but also explain their reasoning in a way humans could understand. 
-
-It was a moonshot, a long and uncertain path.  But Evelyn, ever the explorer, was invigorated by the challenge.  The potential benefits – a future of AI-powered medicine built on trust and transparency – were worth the pursuit.  She wasn't just chasing a scientific breakthrough; she was chasing a future where cutting-edge technology and human intuition could work in harmony, a future where the black box could become a window into a world of deeper understanding. 
+Evelyn wasn't ready to throw in the towel. She envisioned a new architecture or method could not only make diagnoses but also explain their reasoning in a way humans could understand. But Evelyn, ever the explorer, was invigorated by the challenge.  
 
 
 ## Upgrading to synthetic intelligemce
