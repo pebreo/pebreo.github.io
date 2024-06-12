@@ -57,6 +57,8 @@ The current technology in artificial intelligence is very good. In my experience
 ## Challenge 1: Alignment
 How can we ensure that synthetic intelligent agents or systems' actions, goals, and "values" do not conflict with short or long-term human well-being? 
 
+First amd foremost, it must be able to answer the question: what is/are the consequnces of this action?
+
 In my view, putting on guardrails to synthetic intelligence is brittle because there are too many edges cases. An example of this is that there the many ways people can and do jailbreak popular LLM-based systems. 
 
 ## Solution: Curiosity, foresight and memory
