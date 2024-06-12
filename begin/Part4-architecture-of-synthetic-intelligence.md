@@ -31,7 +31,7 @@ The start of the art in current machine learning are Large Language Midels (LLMs
 
 At the same time, they have some major drawbacks. Here are some examples:
 
-* **Job displacement:**  This applies to synthetic intelligence in general. As LLMs become more sophisticated, they may automate tasks currently performed by humans, particularly in fields like content creation or customer service.  This raises concerns about job displacement and the need for workforce retraining to keep pace with technological advancements.
+* **Job displacement:**  This applies to synthetic intelligence in general. As this technology become more sophisticated, it will make human labor expensive in comparison. I propose solutions to this challenge in the next section.
 
 * **"Black Box" Problem:** The inner workings of LLMs can be complex and opaque, making it difficult to understand how they arrive at their outputs.  This lack of transparency can raise concerns about accountability and potential manipulation of these models.
 
