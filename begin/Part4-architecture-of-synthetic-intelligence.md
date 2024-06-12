@@ -35,7 +35,7 @@ At the same time, they have some major drawbacks. Here are some examples:
 
 * **"Black Box" Problem:** The inner workings of LLMs are cryptic and cannot be understand by humans. In my view, this is biggest technical challenge that needs to be overcome. I propose a solution in the following pages.
 
-* **Lack of Planning and Types of Reasoning:** LLMs excel at processing and generating text, but they often struggle with tasks that require common sense reasoning or understanding the physical world. This can lead to nonsensical outputs or misleading information.
+* **Lack of Planning and Types of Reasoning:** LLMs excel at processing and generating text, but they often lack the ability to understand the physical world or apply common sense reasoning. This can lead to nonsensical or misleading outputs.
   
 * **Bias and Discrimination:** LLMs are trained on massive amounts of text data, which can reflect and amplify societal biases. This can lead to discriminatory outputs, for example, perpetuating stereotypes in generated content or producing biased search results.
 * 
