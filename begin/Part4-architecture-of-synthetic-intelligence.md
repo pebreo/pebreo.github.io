@@ -113,12 +113,15 @@ This focus on simulation not only reduces the need for massive datasets but also
 
 ## TLDR
 Problem 1: Alignment 
+
 Solution 1: Foresight, memory, curiosity
 
 Problem 2: Explainablity
+
 Solution 2: Hiearchical PGMs
 
 Problem 3: Affordability
+
 Solution 3: Add imagination
 
 ## Why this would work
