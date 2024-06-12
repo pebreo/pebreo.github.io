@@ -1,21 +1,3 @@
-todo: story of going on youtube and seeing a bullfrog catchibg virtual flies on phone
-
-
-## idea - archtecture
-- ut must be hiearchical
-- it must be probabilistic
-- it must have foresight
-- implucarions
-
-## ideas
-
-
-- alignmen
-- paperclip problem
-- solution: imagination + program to do opposite of human history (plenty of examples)
-- 100% explainable + understanbke. upgrade to rcn
-- affordBke to all. using rcn, hubdreds times less training data
-
 ## Hank 
 Hank slammed his laptop shut, the frustrated sigh escaping his lips a near-roar.  Prometheus, his pride and joy, his cutting-edge AI language model, was once again a temperamental toddler.  One minute it was composing sonnets that could make Shakespeare weep, the next it was spitting out nonsensical gibberish.  Hank knew these were hallucinations – AI's tendency to fabricate plausible but ultimately untrue information.  It was a stark reminder that raw power wasn't the only solution.  This Prometheus needed more than just brute force.
 
