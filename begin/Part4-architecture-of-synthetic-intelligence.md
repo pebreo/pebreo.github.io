@@ -17,9 +17,10 @@ todo: story of going on youtube and seeing a bullfrog catchibg virtual flies on 
 - affordBke to all. using rcn, hubdreds times less training data
 
 # Road to synthetic intelligence
-The start of the art in current machine learning are Large Language Midels (LLMs). The incredible usefulness of LLMs lies in their ability to process and generate massive amounts of text data, leading to a range of applications that are transforming how we interact with information and technology. Here are some examples:
+The start of the art in current machine learning are Large Language Midels (LLMs). The incredible usefulness of LLMs lies in their ability to process and generate massive amounts of text data, leading to a range of applications. Here are some examples:
 
-* **Revolutionizing Search Engines:** LLMs can analyze vast amounts of text data, understand search queries with greater nuance, and surface more relevant and informative results. Imagine a search engine that not only finds the documents containing your keywords but also synthesizes the information and provides a concise summary tailored to your specific needs.
+* **Revolutionizing Search Engines:** LLMs can analyze vast amounts of text data, understand search queries with, seemingly, greater nuance, and surface more relevant and informative results. Imagine a search engine that not only finds the documents containing your keywords but also synthesizes the information and provides human-like summaries.
+ 
 * **Enhanced Content Creation:** LLMs can assist with content creation by generating different creative text formats, from marketing copy and social media posts to poems and scripts. This doesn't replace human creativity, but rather acts as a powerful tool for brainstorming ideas, overcoming writer's block, and generating different variations of content.
 * **Personalized Learning:** LLMs can personalize the learning experience by tailoring educational materials to individual student needs and learning styles. Imagine an intelligent tutoring system that can answer student questions in a comprehensive way, adjust the difficulty level based on the learner's progress, and provide targeted feedback to enhance understanding.
 * **Breaking Down Language Barriers:** LLMs have the potential to revolutionize machine translation, enabling seamless communication across languages. Imagine real-time translation tools that not only convert words but also capture the nuances of meaning and cultural context. 
