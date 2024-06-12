@@ -89,7 +89,7 @@ The hierarchical PGM is a powerful tool for understanding the statistical relati
 
 
 ## Challenge 3: Affordability
-Imagine training an AI like cramming for a test – bombarding it with every possible scenario imaginable. This "stimulus-response" approach, while seemingly thorough, has its limitations.  It's expensive, requiring vast amounts of data and processing power.  More importantly, it can stifle creativity and lead to rigid, inflexible systems. Here's where the power of simulation, a.k.a. imagination, comes into play. 
+Imagine training an AI like cramming for a test – bombarding it with every possible scenario imaginable. This is the status quo and its using the "stimulus-response" approach. Yes, its thorough **and** it's expensive, requiring vast amounts of data and processing power. Because of this, it can stifle creativity and discourage healthy competition.
 
 
 ## Solution: Rely on mental simulation 
