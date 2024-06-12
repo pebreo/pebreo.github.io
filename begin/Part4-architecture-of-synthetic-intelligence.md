@@ -69,22 +69,16 @@ Lastly, in my opinion, the future of synthetic intelligence isn't just about pro
 Traditional machine learning (using artificial neural networks), for all their impressive feats, operate as black boxes, churning out results with little transparency into the "how" behind their decisions. This lack of explainability is, in my opinion, is the biggest challenge especially in critical fields like medicine or defense. 
 
 ## Solution: Hiearchical probabilities
-We need to upgrade our architecture away from hidden layers to a probabilitic hiearchy, specifically, hiearchical probabilistic graph models (PGMs). This approach uses similar math Google Page Rank.
-
-Each layer can then be modeled probabilistically, assigning clear weights and probabilities to different factors within the data. 
+We need to upgrade our architecture away from hidden layers to a probabilitic hiearchy, specifically, hiearchical probabilistic graph models (PGMs).
+Hiearchical PGMs break down components and assign probabilities to their relationships. This approach uses similar math Google Page Rank.
 
 For example, the hiearchy of a book can be described (starting from the "building block") as composed of words, sentences, paragraphs, chapters, and, finally (the top of the hiearchy) the book.
 
 todo: image here
 
-Next, we divide and arrange the various pieces of the hiearchy into a pyramid-shaped graph structure. The nodes are the elements and the lines connecting the
- can describe the numerical probabilities...
 
 
- 
-Imagine you're a detective trying to solve a mystery! Hierarchical PGMs (don't worry about the long name) are like a special detective board that helps you crack the case.
-
-First, you split the big mystery into smaller clues. Did the culprit wear a hat? Were there any paw prints? These are like the foundation of your PGM board.
+First, you split the book into smaller clues. Did the culprit wear a hat? Were there any paw prints? These are like the foundation of your PGM board.
 
 Next, each clue gets a score based on how likely it is to help solve the case. Maybe finding a muddy footprint is a stronger clue than a single, crumpled tissue (because muddy footprints are less common).
 
