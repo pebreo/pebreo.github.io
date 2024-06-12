@@ -5,13 +5,15 @@ Darren jolted awake to the insistent chirping of his alarm clock.  It was the sa
 
 Autopilot engaged.  Coffee pot. Shower.  The bathroom mirror reflected a face Darren knew well.  Downstairs, the kitchen was a symphony of sizzling butter and the gurgling of the coffee maker.  Two slices of toasted everything bagel – a tried-and-true foundation.  A smear of plain cream cheese, a dollop of tangy strawberry jelly – a flavor combination that never failed to spark a smile.  Scrambled eggs, perfectly cooked, rounded out the plate.  Fuel for the day.
 
-Stepping out the door, he inhaled the crisp morning air, the scent of autumn leaves mingling with the exhaust fumes of the city.  His route to work was a well-worn path.
+Stepping out the door, he inhaled the crisp morning air, the scent of autumn leaves mingling with the exhaust fumes of the city. 
 
-Suddenly, a man in a lab coat, hair a wild halo of white, was gesticulating wildly, brandishing a device that looked like a cross between a toaster and a ray gun.  Intrigued, Darren veered off course.
+Suddenly, a man in a lab coat, hair a wild halo of white, was gesticulating wildly, brandishing a device that looked like a cross between a toaster and a ray gun.  
 
-"Hold on there, sonny!" the man barked, his voice a touch too loud.  "Lost your way, have you?"  Before Darren could stammer a reply, the strange device whirred to life, and a beam of light bathed him in a soft, tingling glow.  A strange calm washed over him, a sense of serenity that felt…unfamiliar.
+"This wont hurt a bit!" the man barked, his voice a touch too loud"
 
-"There you go," the man said, a manic grin splitting his face.  "Fresh start! No more mundane mornings, no more stale routines!"  The world shimmered around Darren, the edges of reality blurring.  The last thing he registered was the faint scent of burnt toast and the echo of the mad scientist's cackle before everything faded to black. 
+Before Darren could stammer a reply, the strange device whirred to life, and a beam of light bathed him in a soft, tingling glow.  The world shimmered around Darren, the edges of reality blurring. 
+
+"Wait," Darren looked around in confusion. "What am I doing here?" He entip
 
 ## TLDR
 
