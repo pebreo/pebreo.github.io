@@ -25,6 +25,26 @@ Hawkins argues that intelligence shouldn't be solely defined by how an organism 
 
 In my view, then our efforts to create intelligent machines need to be refocused. 
 
+
+## Redefining Intelligence: Beyond Complex Behavior
+
+The question of what truly constitutes intelligence has captivated philosophers and scientists for millennia. Is it simply the ability to perform complex behaviors  - a bird building a nest, a dog fetching a ball? Or is there something deeper, a wellspring of understanding and foresight? 
+
+Jeff Hawkins, co-creator of the Palm Pilot, offers a compelling perspective. He argues that intelligence hinges on two key pillars: **memory** and **prediction**.  According to Hawkins, true intelligence isn't just about reacting to stimuli in the moment. It's the ability to draw upon a vast repository of past experiences (memories) and leverage them to anticipate what might happen next (prediction). This allows intelligent beings to not only react but also to plan, to learn from mistakes, and to adapt to new situations.
+
+This reframing of intelligence has profound implications for our pursuit of artificial intelligence (AI). Traditionally, AI development has focused on mimicking complex human behaviors  - playing chess, translating languages, recognizing objects. However, Hawkins' definition suggests a more fundamental shift is required.  We need to move beyond simply replicating actions and instead focus on building machines that can learn and remember, that can utilize the past to inform the future.
+
+Here's why this memory-prediction approach is so crucial:
+
+* **Understanding the World:**  Memories provide context and meaning to our experiences.  They allow us to understand the world around us, not just as a series of isolated events, but as a connected web of cause and effect.  By building AI with robust memory capabilities, we enable it to learn from past interactions and develop a richer understanding of its environment.  
+
+* **Breaking Free from Repetition:**  Purely reactive AI systems, devoid of memory and prediction, are trapped in a cycle of responding to immediate stimuli.  They can excel at rote tasks, but struggle with anything that requires adaptation or novel problem-solving.  Memory and prediction, however, allow AI to break free from this cycle.  By drawing on past experiences and anticipating future outcomes, AI can develop more flexible and creative solutions.  
+
+* **Lifelong Learning:**  The human capacity for lifelong learning is a cornerstone of our intelligence.  We learn from every experience, big or small, and constantly refine our understanding of the world.  Memory and prediction are the engines that drive this learning process.  By equipping AI with these capabilities, we enable it to continuously learn and improve, becoming more sophisticated and adaptable over time.
+
+**Refocusing our efforts on memory and prediction in AI development is not to diminish the importance of complex behavior.**  After all, the ability to act on our predictions is a crucial aspect of intelligence.  However, it's by prioritizing memory and prediction that we unlock the true potential of AI –  the ability to not just mimic human behavior, but to achieve a deeper understanding of the world and navigate it with purpose. 
+
+
 ## TLDR
 Problem: there isn't a clear, agreed upon, definition of intelligence.
 
