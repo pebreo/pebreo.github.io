@@ -57,7 +57,7 @@ How can we ensure that synthetic intelligent agents or systems' actions, goals, 
 
 In my view, putting on guardrails to synthetic intelligence is brittle because there are too many edges cases. An example of this is that there the many ways people can and do jailbreak popular LLM-based systems. 
 
-## Solution: Curiosity, foresight and memory
+## Solution: Curiosity, foresight, and memory
 First amd foremost, it must be able to answer the question: what is/are the consequnces of this action? To do this, the system must have an imagination (mental simulation).
 
 Also, it should have maximum curiosity, truth seeking, and memory of various consequences. We all of human history to train it on behaviors and consequences. Credit Elon Musk for popularizing the notion of maximizing truth seeking & curiosity in order to align human well being to synthetic intelligence.
@@ -66,7 +66,7 @@ Lastly, in my opinion, the future of synthetic intelligence isn't just about pro
 
 
 ## Challenge 2: Understandability & explainability
- Traditional artificial neural networks, for all their impressive feats, often operate as black boxes, churning out results with little transparency into the "how" behind their decisions. This lack of explainability can be a major hurdle, especially in critical fields like medicine or finance. Here's where the power of hierarchical probabilistic math comes into play. 
+Traditional machine learning (using artificial neural networks), for all their impressive feats, operate as black boxes, churning out results with little transparency into the "how" behind their decisions. This lack of explainability is, in my opinion, is the biggest challenge especially in critical fields like medicine or defense. 
 
 ## Solution: Hiearchical probabilities
 We need to upgrade our architecture to a probabilitic hiearchy.
