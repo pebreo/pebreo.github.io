@@ -46,7 +46,7 @@ Evelyn wasn't naive.  She knew ANNs were powerful tools, capable of learning pat
 
 Her frustration wasn't just academic.  Imagine a doctor relying on an opaque system for a life-altering diagnosis. What if the ANN identified a rare disease in a patient, but the doctor couldn't verify the reasoning behind it?  Trust, the cornerstone of the doctor-patient relationship, would crumble. More importantly, lives were at stake.
 
-Evelyn wasn't ready to throw in the towel. She envisioned a new architecture or method could not only make diagnoses but also explain their reasoning in a way humans could understand. But Evelyn was up to the 
+Evelyn wasn't ready to throw in the towel. She envisioned a new architecture or method could not only make diagnoses but also explain their reasoning in a way humans could understand. She was excited at the possibilities.
 
 
 ## Upgrading to synthetic intelligemce
