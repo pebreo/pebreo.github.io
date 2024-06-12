@@ -64,7 +64,7 @@ It was a moonshot, a long and uncertain path.  But Evelyn, ever the explorer, wa
 The current technology in artificial intelligence is very good. In my opinion, it can amplify productivity by many times. However, they have challenges each of which I propose a solution. 
 
 ## Challenge 1: Alignment
-How can we ensure that synthetic intelligent agents or systems act in ..?
+How can we ensure that synthetic intelligent agents or systems' actions, goals, and "values" do not conflict with short or long-term human well-being? 
 
 In my view, putting on guardrails to synthetic intelligence is brittle because there are too many edges cases. An example of this is that there the many ways people can and do jailbreak current generative ML systems like ChatGPT. Building maximum curiosity, truth seeking , and with foresight (aka imagination) is the best way to align human well-being and synthetic intelligence. Credit Elon Musk for popularizing the notion of maximizing truth seeking & curiosity in order to align human well being to synthetic intelligence.
 
