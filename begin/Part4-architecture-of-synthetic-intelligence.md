@@ -73,7 +73,12 @@ We need to upgrade our architecture to a probabilitic hiearchy.
 
 This approach uses hierarchical structures, breaking down complex problems into smaller, more manageable chunks.
 
-Each layer can then be modeled probabilistically, assigning clear weights and probabilities to different factors within the data. This approach doesn't sacrifice power – it justrutilizes a different learning strategy.
+Each layer can then be modeled probabilistically, assigning clear weights and probabilities to different factors within the data. 
+
+For example, the hiearchy of a book can be described (starting from the "building block") as composed of words, sentences, paragraphs, chapters, and, finally (the top of the hiearchy) the book.
+
+todo: image here
+
 
 By shedding light on the "why" behind its predictions, this probabilistic approach fosters trust and allows for human oversight. It's like a detective meticulously piecing together clues, each step documented and understandable. This transparency becomes crucial in situations where the stakes are high, ensuring that AI remains a tool that complements human expertise, not replaces it. 
 
