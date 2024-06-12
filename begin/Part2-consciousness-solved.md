@@ -24,12 +24,12 @@ Ben, utterly bewildered, mumbled a thanks and continued on his way. Reaching his
 
 A chorus of surprised gasps filled the room. Ben froze – hadn't he just devoured his bagel masterpiece minutes ago? A strange sense of unreality washed over him. Had he dreamt the entire breakfast?  Or was this some sort of elaborate prank?  
 
-Shrugging it off, Ben sipped his coffee, the bitterness strangely comforting. The day unfurled as usual, a steady stream of emails and meetings. But the memory of his breakfast, or lack thereof, continued to gnaw at him.  It was a tiny detail, a glitch in the matrix of his routine, that threw everything off balance.
+It was a reminder, a quirky one to be sure, of the messy beauty of human experience.  Memories, even the seemingly mundane ones like breakfast, were the building blocks of our day, our narrative.  
 
-It was a reminder, a quirky one to be sure, of the messy beauty of human experience.  Memories, even the seemingly mundane ones like breakfast, were the building blocks of our day, our narrative.  And sometimes, the most profound lessons came from the strangest of encounters.  Ben glanced at the bagel shop across the street, the sweet aroma of fresh bread a tempting counterpoint to his now-growling stomach.  Maybe, he thought, a late breakfast was just what he needed to set things right.  After all, some experiences were best enjoyed consciously, savored in the moment, not erased by the whims of a mad scientist and his breakfast-obliterating device. 
+Shrugging it off, Ben sipped his coffee, the bitterness strangely comforting. 
 
 ## TLDR
-
+Our memories are big part if our consciousness
 
 ### Consciouness defined
 
