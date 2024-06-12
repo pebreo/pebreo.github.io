@@ -21,8 +21,10 @@ The start of the art in current machine learning are Large Language Midels (LLMs
 
 * **Revolutionizing Search Engines:** LLMs can analyze vast amounts of text data, understand search queries with, seemingly, greater nuance, and surface more relevant and informative results. Imagine a search engine that not only finds the documents containing your keywords but also synthesizes the information and provides human-like summaries.
  
-* **Enhanced Content Creation:** LLMs can assist with content creation by generating different creative text formats, from marketing copy and social media posts to poems and scripts. This doesn't replace human creativity, but rather acts as a powerful tool for brainstorming ideas, overcoming writer's block, and generating different variations of content.
-* **Personalized Learning:** LLMs can personalize the learning experience by tailoring educational materials to individual student needs and learning styles. Imagine an intelligent tutoring system that can answer student questions in a comprehensive way, adjust the difficulty level based on the learner's progress, and provide targeted feedback to enhance understanding.
+* **Enhanced Content Creation:** LLMs can assist with content creation by generating text, from marketing copy and social media posts to poems and scripts. The results seem incredible.
+  
+* **Personalized Learning:** LLMs can personalize the learning experience by tailoring educational materials to individual student needs and learning styles. For example, the online learning platform Khan Academy does exactly this with their their Khanmigo system.
+ 
 * **Breaking Down Language Barriers:** LLMs have the potential to revolutionize machine translation, enabling seamless communication across languages. Imagine real-time translation tools that not only convert words but also capture the nuances of meaning and cultural context. 
 * **Code Generation:** LLMs are being explored for generating code, translating natural language instructions into functional programming languages. This could significantly speed up the development process and democratize coding by making it more accessible to those without extensive programming experience.
 
