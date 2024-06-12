@@ -33,7 +33,7 @@ At the same time, they have some major drawbacks. Here are some examples:
 
 * **Job displacement:**  This applies to synthetic intelligence in general. As this technology become more sophisticated, it will make human labor expensive in comparison. I propose solutions to this challenge in the next section.
 
-* **"Black Box" Problem:** The inner workings of LLMs can be complex and opaque, making it difficult to understand how they arrive at their outputs.  This lack of transparency can raise concerns about accountability and potential manipulation of these models.
+* **"Black Box" Problem:** The inner workings of LLMs are cryptic and cannot be understand by humans. In my view, this is biggest technical challenge that needs to be overcome. I propose a solution in the following pages.
 
 * **Lack of Planning and Types of Reasoning:** LLMs excel at processing and generating text, but they often struggle with tasks that require common sense reasoning or understanding the physical world. This can lead to nonsensical outputs or misleading information, particularly when dealing with complex topics.
   
