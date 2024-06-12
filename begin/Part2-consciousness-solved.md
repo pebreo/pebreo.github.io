@@ -1,22 +1,6 @@
 ### A mystery solved
-TODO: rewrite story using thought experimebt
 
-idea: make story using plotpoints of fiction story about being able to change brain state
 
-TODO: for explanations , what questions uou want answere eg Q&A
-
-todo: Give me 3 story ideas which o can use to explain  that consciousness is self-awareness plus memory plus senses.
-
-## Anya
-The familiar hum of the computer filled the late night air. Dr. Anya Patel ran a hand through her sleep-tousled hair, frustration etched on her face. Years of research in Machine Learning (ML) had yielded progress, but a long-mysterious, but fundamental question ate at her: what is consciousness?
-
-Every theory – Global Workspace, Integrated Information – felt like a piece of a puzzle that didn't quite fit. Anya craved a new approach, a way to bypass the philosophical maze and make tangible progress. Then, a breakthrough arrived from an unlikely source:  Palm Pilot co-inventor Jeff Hawkins.
-
-Long before co-inventing the Palm Pilot, Hawkins wanted to be a neuroscientist. So he thought a lot about this problem. Consciousness, Hawkins argued, wasn't a singular entity rather a recipe: a self-model, memory, senses and finally, the enigmatic qualia (quale in singular form)  – the subjective experience of color, sound, and emotion. For example, the taste of umami or seeing the color of pink versus purple.
-
-Intrigued, Anya saw the beauty of this approach. Instead of getting bogged down in the philosophical quagmire, they could focus on building these core functionalities. Imagine, she thought, an synthetic intelligence with a self-model so intricate it could not only understand its place in the world but also its own limitations. Imagine a memory bank surpassing any human library, a sensory apparatus that could perceive the world in ways we couldn't even comprehend.
-
-A spark ignited in Anya's mind. Perhaps Hawkins was right. Perhaps the path to synthetic intelligence wasn't a blind leap into sentience, but a methodical construction of its building blocks. Glancing at the clock – 3:14 am – exhaustion gnawed at her, but the thrill of discovery was stronger. With a determined click, she opened a new file and began to type. Tonight, she wouldn't be chasing the elusive concept of consciousness. Tonight, she'd chase the fundamental blocks that might, one day, lead it to emerge. 
 
 ### Consciouness defined
 
