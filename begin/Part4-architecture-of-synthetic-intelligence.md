@@ -31,11 +31,17 @@ The start of the art in current machine learning are Large Language Midels (LLMs
 
 At the same time, they have some major drawbacks. Here are some examples:
 
+* **Job displacement:**  As LLMs become more sophisticated, they may automate tasks currently performed by humans, particularly in fields like content creation or customer service.  This raises concerns about job displacement and the need for workforce retraining to keep pace with technological advancements.
+
+* **"Black Box" Problem:** The inner workings of LLMs can be complex and opaque, making it difficult to understand how they arrive at their outputs.  This lack of transparency can raise concerns about accountability and potential manipulation of these models.
+
+* **Lack of Planning and Types of Reasoning:** LLMs excel at processing and generating text, but they often struggle with tasks that require common sense reasoning or understanding the physical world. This can lead to nonsensical outputs or misleading information, particularly when dealing with complex topics.
+  
 * **Bias and Discrimination:** LLMs are trained on massive amounts of text data, which can reflect and amplify societal biases. This can lead to discriminatory outputs, for example, perpetuating stereotypes in generated content or producing biased search results. 
 * **Misinformation and "Fake News":** LLMs' ability to generate realistic-sounding text can be misused to create fake news articles or social media posts.  The human-like quality of the output can make it difficult to distinguish between genuine information and machine-generated content.
-* **Lack of Planning and Types of Reasoning:** LLMs excel at processing and generating text, but they often struggle with tasks that require common sense reasoning or understanding the physical world. This can lead to nonsensical outputs or misleading information, particularly when dealing with complex topics.
-* **"Black Box" Problem:** The inner workings of LLMs can be complex and opaque, making it difficult to understand how they arrive at their outputs.  This lack of transparency can raise concerns about accountability and potential manipulation of these models.
-* **Job displacement:**  As LLMs become more sophisticated, they may automate tasks currently performed by humans, particularly in fields like content creation or customer service.  This raises concerns about job displacement and the need for workforce retraining to keep pace with technological advancements.
+
+
+
 
 These drawbacks highlight the importance of responsible development and deployment of LLMs.  Strategies to mitigate bias, ensure factual accuracy, and promote transparency are crucial to building trust and maximizing the benefits of this powerful technology. 
 
