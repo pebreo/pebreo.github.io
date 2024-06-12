@@ -1,8 +1,3 @@
-todo : make new folder
-
-todo: add slides
-
-
 # Sources
 
 ## videos
