@@ -82,7 +82,7 @@ Based on that hirarchy, I can then create a PGM that looks like this.
 
 Each level of the hierarchy becomes a node in the PGM. So, we'd have nodes for "Book," "Chapters," "Paragraphs," and  "Words". 
 
-Edges connect the nodes and represent the probabilistic relationships between them. For example, there would be an edge between "Book" and "Chapters," indicating the probability of a book containing chapters.
+Edges (connecting lines) connect the nodes and represent the probabilistic relationships between them. For example, there would be an edge between "Book" and "Chapters," indicating the probability of a book containing chapters.
 
 The hierarchical PGM is a powerful tool for understanding the statistical relationships between the elements. It allows us to move beyond the hidden layers of ANNs & LLMs.
 
