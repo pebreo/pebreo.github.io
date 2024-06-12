@@ -69,9 +69,7 @@ Lastly, in my opinion, the future of synthetic intelligence isn't just about pro
 Traditional machine learning (using artificial neural networks), for all their impressive feats, operate as black boxes, churning out results with little transparency into the "how" behind their decisions. This lack of explainability is, in my opinion, is the biggest challenge especially in critical fields like medicine or defense. 
 
 ## Solution: Hiearchical probabilities
-We need to upgrade our architecture to a probabilitic hiearchy.
-
-This approach uses hierarchical structures, breaking down complex problems into smaller, more manageable chunks.
+We need to upgrade our architecture away from hidden layers to a probabilitic hiearchy. This approach uses similar math Google Page Rank.
 
 Each layer can then be modeled probabilistically, assigning clear weights and probabilities to different factors within the data. 
 
