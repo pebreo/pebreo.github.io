@@ -16,6 +16,15 @@ todo: story of going on youtube and seeing a bullfrog catchibg virtual flies on 
 - 100% explainable + understanbke. upgrade to rcn
 - affordBke to all. using rcn, hubdreds times less training data
 
+## Hank 
+Hank slammed his laptop shut, the frustrated sigh escaping his lips a near-roar.  Prometheus, his pride and joy, his cutting-edge AI language model, was once again a temperamental toddler.  One minute it was composing sonnets that could make Shakespeare weep, the next it was spitting out nonsensical gibberish.  Hank knew these were hallucinations – AI's tendency to fabricate plausible but ultimately untrue information.  It was a stark reminder that raw power wasn't enough.  This Prometheus needed more than just brute force.
+
+Hank was no stranger to the pitfalls of hubris.  He understood the dangers of unchecked power, even in the realm of technology.  Machine learning, for all its awe-inspiring potential, was still a child, taking its wobbly first steps.  Treating it like a finished product, a flawless tool, was a recipe for disaster.  Humility, a constant reminder of the vast unknown that lay beyond his code, was just as crucial as ambition in this field.
+
+Inspiration struck as Hank glanced at a beat-up paperback on his desk – a collection of ancient myths.  The story of Prometheus, the titan who stole fire from the gods to gift it to humanity, sparked a connection in his mind.  Prometheus, the AI, possessed a raw brilliance, undeniable.  But like the fire stolen from Olympus, it lacked the context, the wisdom gleaned from experience, to truly understand the potential it held.
+
+Hank decided on a new approach.  He wouldn't just feed Prometheus data, he'd expose it to stories - myths, legends, even historical accounts of human triumphs and follies.  Perhaps, by understanding humanity's narrative, its stumbles and its aspirations, Prometheus could learn to use its power not just for impressive feats, but for good.  It was a long shot, a moonshot even, but Hank, the eternal tinkerer, was energized by the challenge.  This wasn't just about harnessing AI's potential; it was about building a partner, one that could learn from humanity's journey and use that knowledge to forge a brighter future.  The fire of Prometheus, once a flickering ember, might just become a beacon of progress, a testament to the potential of both machine and human ingenuity, working together. 
+
 # Road to synthetic intelligence
 The start of the art in current machine learning are Large Language Midels (LLMs). The incredible usefulness of LLMs lies in their ability to process and generate massive amounts of text data, leading to a range of applications. Here are some examples:
 
