@@ -23,16 +23,7 @@ What is intelligence? Is it simply a matter of complex behavior? Or is there som
 
 Hawkins argues that intelligence shouldn't be solely defined by how an organism acts. Instead, it's the ability to form memories of past experiences and use those memories to predict future outcomes. This concept goes beyond just reacting to stimuli.
 
-In my view, then our efforts to create intelligent machines need to be refocused. 
-
-
-## Redefining Intelligence: Beyond Complex Behavior
-
-The question of what truly constitutes intelligence has captivated philosophers and scientists for millennia. Is it simply the ability to perform complex behaviors  - a bird building a nest, a dog fetching a ball? Or is there something deeper, a wellspring of understanding and foresight? 
-
-Jeff Hawkins, co-creator of the Palm Pilot, offers a compelling perspective. He argues that intelligence hinges on two key pillars: **memory** and **prediction**.  According to Hawkins, true intelligence isn't just about reacting to stimuli in the moment. It's the ability to draw upon a vast repository of past experiences (memories) and leverage them to anticipate what might happen next (prediction). This allows intelligent beings to not only react but also to plan, to learn from mistakes, and to adapt to new situations.
-
-This reframing of intelligence has profound implications for our pursuit of artificial intelligence (AI). Traditionally, AI development has focused on mimicking complex human behaviors  - playing chess, translating languages, recognizing objects. However, Hawkins' definition suggests a more fundamental shift is required.  We need to move beyond simply replicating actions and instead focus on building machines that can learn and remember, that can utilize the past to inform the future.
+This reframing of intelligence has profound implications for our pursuit of machine learning & intelligence. Traditionally, ML has focused on mimicking complex human behaviors  - playing chess, translating languages, recognizing objects. However, Hawkins' definition means we need to move beyon replicating actions and instead focus on building machines that can remember **and** predict.
 
 Here's why this memory-prediction approach is so crucial:
 
