@@ -44,7 +44,7 @@ Halluconations refer to outputs that are incorrect, nonsensical, or irrelevant t
 * 
 * **Misinformation and "Fake News":** LLMs' ability to generate realistic-sounding text can be misused to create fake news articles or social media posts.  The human-like quality of the output can make it difficult to distinguish between genuine information and machine-generated content.
 
-These are just a few examples, and the potential and pitfals on the state of the art of machine learning. In my opinion, it is the most powerful technology invented by human-kind. This means much thought, care, and humility
+These are just a few examples, and the potential and pitfals on the state of the art of machine learning. In my opinion, it is the most powerful technology invented by human-kind. This means much thought, care, and humility must be used to advance and harness it.
 
 ## Evelyn
 Dr. Evelyn Walsh squinted at the swirling lines and nonsensical characters on her computer screen. It was the output from their latest artificial neural network (ANN), a project she'd poured years of research and a mountain of grant money into. The promise: a medical diagnosis tool that could analyze patient data and identify diseases with unparalleled accuracy. 
