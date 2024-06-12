@@ -118,6 +118,9 @@ Solution 1: Foresight, memory, curiosity
 Problem 2: Explainablity
 Solution 2: Hiearchical PGMs
 
+Problem 3: Affordability
+Solution 3: Add imagination
+
 ## Why this would work
 - systems in nature can be described in a probabikistic hiearchy
 -  Dileep George et al. already built and productized using this approach
