@@ -1,5 +1,6 @@
-### What our best friends can teach of intelligence
+# What our best friends can teach of intelligence
 
+## Milo
 Rain lashed against the window, the rhythmic drumming a familiar lullaby to the old dog, Milo. Curled beside the fireplace, he watched the embers dance, their flickering glow painting memories on the backs of his eyelids. He remembered chasing butterflies as a pup, the exhilaration of the hunt, the sweet scent of summer meadows clinging to his fur.  
 
 A twig snapped outside, pulling Milo from his reverie. Ears perked, he lifted his head, instantly recalling the countless times that sound meant a raccoon prowling for scraps. His body tensed, not in blind fear, but in calculated caution. Years of experience had woven a tapestry of memories, each thread a past encounter, each knot a learned response.
