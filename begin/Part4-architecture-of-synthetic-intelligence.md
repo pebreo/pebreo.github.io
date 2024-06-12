@@ -1,14 +1,5 @@
 todo: story of going on youtube and seeing a bullfrog catchibg virtual flies on phone
 
-problem: alignment ,
-
-solution: we rely on the vast memory and ability of foresight of the machine
-
-problem: explainability
-solution: rcn (probabilities)
-
-problem: affordaability
-solution: rcn
 
 ## idea - archtecture
 - ut must be hiearchical
