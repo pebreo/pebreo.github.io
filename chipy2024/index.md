@@ -27,6 +27,8 @@ Overall, the video argues that LLMs are a powerful tool, but they are not on the
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LRBYxz6UsC4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
+## My book: GOAT World
+https://www.amazon.com/dp/B0D5SLY1JC
 
 ## bibliography
 [From CAPTCHAs to Common Sense - George et al.](https://www.frontiersin.org/articles/10.3389/fncom.2020.554097/full)
