@@ -49,7 +49,7 @@ Her frustration wasn't just academic.  Imagine a doctor relying on an opaque sys
 Evelyn wasn't ready to throw in the towel. She envisioned a new architecture or method could not only make diagnoses but also explain their reasoning in a way humans could understand. She was excited at the possibilities.
 
 
-## Upgrading to synthetic intelligemce
+## Upgrading to synthetic intelligence
 The current technology in artificial intelligence is very good. In my experience, it can amplify productivity by many times. However, it has challenges each of which I propose a solution which I call synthetic intelligence.
 
 ## Challenge 1: Alignment
