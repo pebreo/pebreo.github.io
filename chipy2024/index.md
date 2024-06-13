@@ -2,6 +2,8 @@
 
 ## videos
 
+todo: add chipy 12/21 vid
+
 
 ### Art If The Problem - 600 million years of intelligence
 Good primer of reinforcement learning to imagination.
