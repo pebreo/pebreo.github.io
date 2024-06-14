@@ -5,7 +5,7 @@
 todo: add chipy 12/21 vid
 
 
-### Art If The Problem - 600 million years of intelligence
+### Art Of The Problem - 600 million years of intelligence
 Good primer of reinforcement learning to imagination.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5EcQ1IcEMFQ?si=CaGZ07HeXEmM4bNy" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>p
 
