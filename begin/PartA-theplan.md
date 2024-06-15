@@ -9,7 +9,7 @@ Now, the next game-changer: **karma socioeconomics**. Imagine a system built on 
 
 The result? A world where hunger, poverty, and disease become relics of the past.  War? It becomes a painful, distant memory.  
 ![convergence](https://pebreo.github.io/IMG_0796.jpeg)
-todo: rethinkx graphic
+credit: ReThink documentary
 
 **Infinite growth** becomes not just possible, but encouraged. Human connection thrives, and innovation explodes as every human becomes an Innovator. This would be a whole new era for humanity, one built on the power of diverse experiences and a willingness to explore the unknown. Now that's a future worth getting excited about. 
 
