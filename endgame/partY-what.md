@@ -1,5 +1,22 @@
 # What would happen if it worked
 
+## Sylvia
+Syliva stretched languidly in the hammock strung between two ancient banyan trees, the rhythmic chirping of exotic birds her only alarm clock.  Gone were the days of frantic commutes and overflowing inboxes. 
+Her grandfather Victor told her 
+
+Her daughter, Anya, a whirlwind of energy braided with wildflowers, bounced onto the hammock, nearly sending Maya tumbling. "Mama, Mama! Today's the day we learn how to make solar dye!" Anya exclaimed, her eyes sparkling with the boundless curiosity that came from a childhood unburdened by the pressure to "get ahead."
+
+Maya chuckled, the rich sound echoing through the jungle clearing. "Alright, little adventurer, let's go!"
+
+Their days were a tapestry woven with exploration, learning, and community.  Mornings were spent learning from a network of online tutors, delving into subjects that ignited their individual sparks. Anya, enthralled by the natural world, devoured virtual reality tours of coral reefs and rainforests. Maya, rediscovering her passion for music, tinkered with a holographic piano, its notes shimmering like fireflies in the dappled sunlight.
+
+Afternoons were for community projects. They joined a team of neighbors, a motley crew of artists, engineers, and former accountants, building a sustainable greenhouse fuelled by recycled materials. Laughter filled the air as they wrestled with pipes and toiled in the rich earth, the shared endeavor fostering a sense of belonging deeper than any paycheck ever could.
+
+Evenings were for stories, shared under the vast expanse of the star-dusted sky.  The absence of financial worries freed their imaginations. Maya regaled Anya with tales of her own childhood, a time of limitations and anxieties that seemed like a distant dream. Anya, in turn, spun fantastical yarns about a future where every child could chase their passions, unfettered by the shackles of the past.
+
+As Sylvia and Anya watched fireflies dance in the twilight, a comfortable silence settled. It wasn't the silence of exhaustion, but of a life fully present, savored in each fleeting moment. This wasn't just freedom from bills and rent; it was freedom to be, to learn, to connect, and to build a future brimming with possibilities. The future, Maya realized, wasn't just something to be built, but a story to be lived, line by joyful line, with her daughter by her side. 
+
+
 ## Nimfa
 The fluorescent lights of the coffee shop cast a hazy glow on Nimfa's phone screen. Unlike the usual barrage of likes and comments, a single message glowed: "Your influence is intriguing. Meet me at The Forge tonight, 12 AM." It wasn't a name, but a username - The Curator. A legend in the underground art scene, The Curator held the key to coveted gallery shows. Nimfa's stomach lurched. This was it.
 
