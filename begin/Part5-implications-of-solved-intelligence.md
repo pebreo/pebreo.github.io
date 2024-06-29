@@ -9,7 +9,7 @@ Euclid wasn't a mere facts dispenser; it was a living library with infinite pati
 Aisha flourished. History became a vibrant tapestry woven with the threads of human experience. Euclid helped her unearth hidden connections, predict potential outcomes of events, and even compose an award-winning historical fiction piece with an uncanny level of historical accuracy. Years later, Aisha stood before a captivated audience, not as a product of rote learning, but as a testament to the power of AI-empowered education. "Project Euclid," she proclaimed, "ushered in an era where the collective wisdom of humanity became a tool to unlock the potential within every mind." 
 
 ## TLDR 
-Synthetic intelligence that is affordable to all means personal tutors for everyone on the planet
+Synthetic intelligence that is affordable to all means personal tutors for every person on the planet
 
 ## The Emergent Body
 
