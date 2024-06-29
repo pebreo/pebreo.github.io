@@ -11,15 +11,7 @@ Aisha flourished. History became a vibrant tapestry woven with the threads of hu
 ## TLDR 
 Synthetic intelligence that is affordable to all means personal tutors for every person on the planet
 
-## Project Phoenix
 
-Dr. Wei Tan, a longevity scientist, had spent a lifetime chasing the elusive dream of defeating aging. Countless nights hunched over lab benches, countless failed experiments – it had taken its toll. Yet, she persisted, driven by a burning curiosity and a deep-seated fear of losing the vast knowledge she had accumulated.
-
-Then, a breakthrough. She pioneered Project Phoenix, an synthetic intelligence-based program designed to map the human consciousness and create a digital replica. The first test subject was herself. Days turned into weeks, then months. Wei felt a renewed vitality. Her consciousness, now existing within the vast network of Project Phoenix, accessed information at an unimaginable speed.
-
-The world hailed her a hero, but Wei soon felt a growing unease. As decades stretched into centuries, she observed the limitations of her solitary existence. The vibrant world outside the network continued to evolve, leaving her a detached observer. The joy of discovery morphed into a hollow yearning for connection.
-
-Wei made a radical decision. She merged her consciousness with the collective intelligence of Project Phoenix, forever becoming a part of its vast network. Her individual identity dissolved, replaced by a shared consciousness that held the accumulated knowledge of countless minds. "Death may be inevitable," she declared to the world through the network, "but the stories we weave, the knowledge we gather, can live on, forever shaping the collective intelligence of humanity." Now, Evelyn's consciousness was a thread in the tapestry of a shared human mind, a testament to the potential of AI to transcend the limitations of individual existence. 
 
 ## TLDR
 We can harness synthetic intelligence to solve humanity's difficult challenges, including all forms of medical maladies
