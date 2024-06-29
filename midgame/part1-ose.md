@@ -88,4 +88,4 @@ Given the above, OSE is brimming with potential. Imagine a future where the sche
 [Part 2: The Freedom Dividend](https://pebreo.github.io/midgame/part2-freedom-dividend.html)
 
 
-[TOC](https://pebreo.github.io/midgame)
+[TOC2](https://pebreo.github.io/midgame)
