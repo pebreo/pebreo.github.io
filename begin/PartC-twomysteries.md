@@ -77,3 +77,7 @@ Imagine an AI with a phenomenal self-model, a bottomless memory bank, and an unc
 
 # TLDR
 We can build scaleable, intelligent synthetic consciousness. 
+
+[Part 4: Architecting Synthetic Intelligence](https://pebreo.github.io/begin/Part4-architecture-of-synthetic-intelligence.html)
+
+[TOC](https://pebreo.github.io/)
