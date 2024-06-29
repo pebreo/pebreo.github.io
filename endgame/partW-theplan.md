@@ -17,5 +17,5 @@ Human connection would thrive as creativity, innovation, and diversity explode f
 ## Next chapter
 [Part X: Why this plan would work](https://pebreo.github.io/endgame/partX-why.html)
 
-[TOC](https://pebreo.github.io/endgame)
+[TOC3](https://pebreo.github.io/endgame)
 
