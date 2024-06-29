@@ -97,4 +97,4 @@ The convergence of these advancements, with everyone on board, has the potential
 
 [Addendum](https://pebreo.github.io/endgame/addendum.html)
 
-[TOC](https://pebreo.github.io/endgame)
+[TOC3](https://pebreo.github.io/endgame)
