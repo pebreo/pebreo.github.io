@@ -23,24 +23,21 @@ Without health, material comforts mean very little.
 
 ## The Antifragile Mindset 
 
-The concept of antifragility, popularized by author Nassim Taleb, takes center stage in the supringly the world of bodybuilding, a realm where sculpted physiques are forged  in sweat, and the crucible of controlled stress. 
+The concept of antifragility, popularized by author Nassim Taleb in his book Antifragile, describes the true opposite of fragility. It goes beyond the ability to withstand difficulty, but instead gain from it. Someone who is truly antifragile uses difficulty to thrive
 
 ![hydra](https://pebreo.github.io/IMG_0755.jpeg)
 
-Taleb uses three metaphors using Greek mythology to best explain the concept.  Damocles, a figure with a sword perpetually hanging over his head, represents constant threat and vulnerability. The Phoenix that rises from the ashes, embodies resilience, and the ability to bounce back from destruction.  
+Taleb uses three metaphors from Greek mythology to explain the concept. Damocles, a figure with a sword perpetually hanging over his head, represents constant threat and vulnerability. The Phoenix that rises from the ashes embodies resilience and the ability to bounce back from destruction. Finally, The Hydra, a many-headed serpent where cutting off one head leads to two growing back represents antifragility. In other words, antifragility is not just resilience. Rather, it’s about thriving on stressors, growing stronger, feeding on challenges.
 
-Finally, the hydra, a many-headed serpent where cutting off one head leads to two growing back. In other words, antifragility is not just resilience. Rather, it's about **thriving** on stressors, growing stronger, feeding on challenges.
+These three images capture the essence of fragility, resilience, and antifragility.
 
-These  three images capture the essence of fragility, resilience, and antifragility. 
+Bodybuilding exemplifies antifragility beautifully. Each grueling workout, each set pushed to failure, is a micro-trauma. Muscles tear, the body screams, and you want to quit. But within this discomfort lies the potential for growth.
 
+Think of it like this: when a weightlifter progressively increases the load on their muscles, they’re not just building bigger muscles. They’re forcing their bodies to adapt. Bones become denser, tendons and ligaments strengthen, and the nervous system fine-tunes movement patterns. This adaptation isn’t just about aesthetics; it’s about building a body that’s more robust, more resistant to future injuries, and capable of handling even greater challenges.
 
-Bodybuilding exemplifies antifragility beautifully. Each grueling workout, each set pushed to failure, is a micro-trauma. Muscles tear, the body screams, and you want to quit. But within this discomfort lies the potential for growth. 
-
-Think of it like this: when a weightlifter progressively increases the load on their muscles, they're not just building bigger muscles; they're forcing their bodies to adapt. Bones become denser, tendons and ligaments strengthen, and the nervous system fine-tunes movement patterns. This adaptation isn't just about aesthetics; it's about building a body that's more robust, more resistant to future injuries, and capable of handling even greater challenges. 
-
-Why does stress (to a certain point) spur muscle growth? The answer is hormesis which is a biological phenomenon where exposure to a low dose of a stressor or toxin can actually have a beneficial effect on an organism. It's essentially the idea that a little bit of stress can be good for you because your body naturally overcompensates, so it will be ready for next time.
-
-Similarly, embracing an antifragile mindset help build mental strength. It can be a metaphor for life's journey. With this mindset, you can face the discomfort of the unknown, venture outside comfort zones, and explore new possibilities even opportunities.
+Why does stress (to a certain point) spur muscle growth? The answer is hormesis, which is a biological phenomenon where exposure to a low dose of a stressor or toxin can benefit an organism. It’s essentially the idea that a little bit of stress can be good for you because your body naturally overcompensates, so it will be ready for next time.
+ 
+Similarly, embracing an antifragile mindset helps build mental strength. It can be a metaphor for life’s journey. With this mindset, you can face the discomfort of the unknown, venture outside your comfort zones, and explore new possibilities and opportunities.
 
 
 ## August
