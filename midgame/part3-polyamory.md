@@ -1,26 +1,4 @@
 
-todo: revised outline
-- callum
-- whst is poly? benefits of poly
-- diverce zeitgeit
-- angela & gabe
-- history
-- tldr
-
- todo: use writers insurance
-
-todo: why does poly help prevent divorces
-
-todo : why it is best chooce to fix divirce & demo collapse? use gemini
-
-notes 5/28
-- Theme of book: upgrade or thinking, our relationships, our tech, our governance
--,We need to fix ppls relationships
-- Convergence in 1st chapter
-- Shelve poly for now
-- Add a story to UBI . Expand
-- Make prose why & what
-
 ## Felicity and Will
 Love is Blind is a popular dating show on Netflix. Picture this. Singles in sleek, soundproof pods pour their hearts out, forging connections based solely on their conversation. Here's the catch: it was all or nothing. One "yes," to find you one true love.
 
