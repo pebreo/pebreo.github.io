@@ -1,38 +1,5 @@
 # What would happen if it worked
 
-## Victor
-Toby bounced on the balls of his feet, his eyes wide with a question that had been bubbling all evening. Grandpa Victor, nestled in his worn armchair by the crackling fireplace, chuckled.
-
-"Fire away, champ," he said, his voice raspy with age but warm with amusement.
-
-"Grandpa," Toby began, "is it true that back in your day, everyone had to work all the time?"
-
-Victor leaned back, a nostalgic smile playing on his lips. "Not all the time, no," he said. "But work was definitely a bigger part of life. We didnt have robots."
-
-Toby and Topher, the robot assistant, both smiled at eachother.
-
-"But why?" he persisted, "Couldn't everyone just, you know, relax?"
-
-Victor's smile softened. "Life wasn't so simple then, Toby. People had jobs to pay rent, buy food…"  He paused, a shadow flickering across his eyes. "Food wasn't always guaranteed for everyone. For many people who grew their own food, there were times when crops failed and so maybe they couldnt eat."
-
-Toby frowned. He always had a full plate at his disposal. Hunger seemed unimaginable.
-
-"And what about the big, scary stuff?" he continued, his voice barely a whisper. "Climate change, and pollution, and stuff."
-
-Victor sighed. "Those were worries too, Toby. Luckily, there were some people that saw ."
-
-"So, it was harder back then?" Toby asked, his voice laced with a newfound empathy.
-
-"Harder in some ways, definitely," Elias said, his gaze flickering to the crackling fire. "But life had its own pace, a simpler rhythm. People valued things differently – community, resourcefulness, the thrill of a good harvest. We weren't as connected, but in some ways, we were closer."
-
-Toby pondered this for a moment, his brow furrowed in thought. "So, it wasn't all bad?"
-
-Elias's smile returned, brighter this time. "Not at all, Toby. Every era has its challenges, but it also has its opportunities. The difference is how we choose to face them. Back then, we didn't have the technology you do, but we had grit, and a spirit of innovation. And that," he said, his voice firm, "is something that will never go out of style."
-
-Toby nodded slowly, a thoughtful glint in his eyes. The future, with all its unknowns, seemed a little less daunting now. Perhaps the key wasn't just the fancy gadgets, but the human spirit that built them, the spirit that had faced challenges before and emerged stronger.  He looked back at his grandpa, a tiny spark of determination igniting within him. Maybe, just maybe, his generation could learn from the past and build a future that was both innovative and kind.
-
-
-
 ## Nimfa
 The fluorescent lights of the coffee shop cast a hazy glow on Nimfa's phone screen. Unlike the usual barrage of likes and comments, a single message glowed: "Your influence is intriguing. Meet me at The Forge tonight, 12 AM." It wasn't a name, but a username - The Curator. A legend in the underground art scene, The Curator held the key to coveted gallery shows. Nimfa's stomach lurched. This was it.
 
