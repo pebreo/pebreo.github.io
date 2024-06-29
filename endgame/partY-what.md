@@ -47,4 +47,4 @@ A new era in humanity is possible. The technology is coming. AI & blockchain wou
 [Addendum](https://pebreo.github.io/endgame/addendum.html)
 
 
-[TOC](https://pebreo.github.io/endgame)
+[TOC3](https://pebreo.github.io/endgame)
