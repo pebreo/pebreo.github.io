@@ -24,3 +24,8 @@ Infinite growth will be possible and even encouraged. Human connection will thri
 
 ## Implications
 - Breath-taking possibilities
+
+[Part B: Road to antifragility](https://pebreo.github.io/begin/BeginningAntifragility.html)
+
+[TOC](https://pebreo.github.io/)
+
