@@ -49,22 +49,31 @@ Before Ben could react, the figure zapped him with a beam of light. A wave of na
 Ben, utterly bewildered, mumbled a thanks and continued on his way. Reaching his office, he was greeted by the usual morning banter.
 
 “Morning, Ben! Coffee?” Sarah, his co-worker, asked, holding up a steaming mug.
+
 “Sure, thanks,” Ben replied, accepting the mug. “Actually, I don’t think I had breakfast this morning. Feeling a little rushed.”
 A chorus of surprised gasps filled the room. Ben froze—hadn’t he just devoured his bagel masterpiece minutes ago? A strange sense of unreality washed over him. Had he dreamt the entire breakfast? Or was this some sort of elaborate prank?
+
 It was a reminder, a quirky one to be sure, of the messy beauty of human experience. Memories, even the seemingly mundane ones like breakfast, were the building blocks of our day, our narrative.
+
 Shrugging it off, Ben sipped his coffee, the bitterness strangely comforting.
 
 ## TLDR
 Our memories are a big part of our consciousness.
 
-Consciousness Defined
+## Consciousness Defined
 A fundamental question has not yet been answered when trying to engineer machine intelligence: What is consciousness? We need to lock down the definition before we can progress.
+
 Hawkins proposed a definition that makes the most sense. Here’s the gist:
+
 There are four elements which combine to form consciousness: Self-model, memory, senses, and qualia. A self-model is another way to describe self-awareness. It’s basically an internal representation of yourself, your actions, and your place in the world. In a mental simulation, you are yet another object that can act and be acted upon.
 Memory is the storage of input, i.e., people, places, things, experiences, symbols, etc.
 Senses are the ability to perceive the world, whether through organs, cameras, microphones, or lines of code. They are essential for navigating and interacting with your environment. Qualia is the subjective experience of things—the redness of a rose, the tang of a lime. 
-	These factors easily apply to human consciousness. For example, when you go to sleep, you have almost no memory, sense, or self-awareness. Your qualia is limited to your dream world. We call this a state of unconsciousness. So, these elements accurately explain consciousness, but they also provide a perfect blueprint for creating synthetic consciousness. 
+
+These factors easily apply to human consciousness. For example, when you go to sleep, you have almost no memory, sense, or self-awareness. Your qualia is limited to your dream world. We call this a state of unconsciousness. So, these elements accurately explain consciousness, but they also provide a perfect blueprint for creating synthetic consciousness. 
+
 Here’s the beauty of this approach: We can focus on building these core functionalities without descending into the philosophical quagmire of consciousness. We can scale or throttle all these aspects of consciousness until synthetic consciousness emerges in the state we’ve imagined. In other words, we have an unproblematic formula for consciousness.
+
 Imagine an AI with a phenomenal self-model, a bottomless memory bank, and an uncanny ability to perceive the world.
 
-TLDR: We can build scaleable, intelligent synthetic consciousness. 
+# TLDR
+We can build scaleable, intelligent synthetic consciousness. 
