@@ -67,10 +67,12 @@ The response was electric. Foodies with a penchant for the past flocked to "The 
 
 Slowly, but surely, the melody of Danny's business started to change. The once-hemorrhaging "Blues Burger Joint" was now a bustling hub, a testament to Danny's willingness to adopt Lean business practices. Danny "Fingers" Fontana, had found a new rhythm, a delicious fusion of food, music, and the internet, proving that even in the twilight of his career, he could still create something beautiful, something that resonated with the audience.
 
-TLDR
+## TLDR
 You can apply an antifragile mindset to business. The Lean Startup strategy is a good example of it.
 
-Fail your way to success
+## Fail your way to success
+
+The Lean startup is a method for launching businesses and products quickly. Instead of spending a lot of time planning and developing a product in secrecy, lean startups focus on getting something basic into customers' hands early and often. This allows them to gather feedback and iterate on the product quickly, ensuring they're building something that customers actually want.  Key things in lean startups are validated learning (testing ideas with real customers) and minimum viable products (basic versions of the product used for testing).
 
 In this chapter, I've told stories about being fragile (Roderigo), being resilient (August), and antifragile (Danny).
 Almost daily, we have to deal with failure and improvement. Your app updates (bug fixes) constantly, whether you know it or not. The thesis of this chapter is you can upgrade your mindset so now even little errors How can we take failure and grow from it? Can mistakes be good for you?
