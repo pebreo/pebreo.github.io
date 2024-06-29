@@ -19,7 +19,7 @@ Toby frowned. He always had a full plate at his disposal. Hunger seemed unimagin
 
 "And what about the big, scary stuff?" he continued, his voice barely a whisper. "Climate change, and pollution, and stuff."
 
-Elias sighed. "Those were worries too, Toby. The world wasn't as aware of it back then, but the signs were there. Floods, droughts, strange weather patterns. It wasn't like the news cycle you have now, bombarding you with constant information."
+Victor sighed. "Those were worries too, Toby. The world wasn't as aware of it back then, but the signs were there. Floods, droughts, strange weather patterns. It wasn't like the news cycle you have now, bombarding you with constant information."
 
 "So, it was harder back then?" Toby asked, his voice laced with a newfound empathy.
 
