@@ -33,6 +33,9 @@ Unlike our biological cells, AI wouldn't inherently experience pain or suffering
 Just as our bodies rely on a diverse range of cells, a future with AI might thrive on a similar principle: a co-existence where both human and synthetic intelligence operate within a framework that fosters growth and exploration. 
 
 ## TLDR
+Harnessing true intelligence would allow near-limitless labor and consequently incredible material wealth
+
+## Summary
 If we play our cards right, we can use AI technology to eliminate poverty, hunger, disease, war, and all human suffering (real and/or imagined). We can engineer super cells without the baggage of malice, pain, or suffering. This can happen IF we create AI that is human-aligned, completely expainable & understandable, affordable to all.
 
 ## Sources
