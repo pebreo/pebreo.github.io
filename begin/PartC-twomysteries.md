@@ -24,20 +24,30 @@ Current Machine Learning (ML) systems use the stimulus-response approach. They e
 What is “real” intelligence? Is it simply a matter of complex behavior? Or is there something more to it? I believe the most convincing definition of intelligence was given by the co-creator of the Palm Pilot, Jeff Hawkins, who posits you need two things to be intelligent: memory and prediction.
 
 Hawkins argues that the true definition of intelligence is not determined by how an organism acts. Instead, it’s the ability to form memories of past experiences and use those memories to predict future outcomes. This concept goes beyond just reacting to stimuli.
+
 This reframing of intelligence has profound implications for our pursuit of machine learning & intelligence. Traditionally, ML has focused on mimicking complex human behaviors such as playing chess, translating languages, and recognizing objects. However, Hawkins’ definition means we need to move beyond replicating actions and instead focus on building machines that can remember and predict. Using memory and prediction, we can develop much more flexible and creative machine intelligence.
 
-TLDR: Intelligence is not behavior; it’s memory plus prediction.
+## TLDR
+Intelligence is not behavior; it’s memory plus prediction.
 
-Ben
+## Ben
 The insistent trill of Ben’s alarm ripped him from a dream of scaling a precariously balanced stack of breakfast buffets. Groaning, he fumbled for the offending device and silenced it.
+
 Ben was a creature of habit. Shower, shave, and the same worn-in Oxford shirt. In the kitchen, the dance began—toast the bagel, a smear of plain cream cheese, then a dollop of ruby-red strawberry jelly. Next came the pantomime of whisking eggs, the sizzle as they met the hot oil. Coffee, dark and strong, brewed while he devoured his breakfast masterpiece.
+
 Fueled by caffeine and carbs, Ben headed out the door. As he rounded a corner, a figure materialized from an alleyway, shrouded in a lab coat that seemed to defy the summer sun.
+
 “Benjamin Davies?” the figure rasped, voice like sandpaper. Ben stopped, surprised.
+
 “Uh, yeah, that’s me,” he replied cautiously. The figure stepped closer, revealing a face dominated by outlandish goggles and a wild mane of white hair.
+
 “Splendid! A candidate for the Chronogastro Experiment!” the figure declared, brandishing a device that looked like a futuristic toaster crossed with a bicycle helmet.
+
 Before Ben could react, the figure zapped him with a beam of light. A wave of nausea washed over him, then receded as abruptly as it came. Blinking, he stared at the scientist, who was now packing away his contraption.
 “There,” the scientist chirped, “memory of your breakfast successfully erased! Now, go forth and contribute to the advancement of scientific knowledge!”
+
 Ben, utterly bewildered, mumbled a thanks and continued on his way. Reaching his office, he was greeted by the usual morning banter.
+
 “Morning, Ben! Coffee?” Sarah, his co-worker, asked, holding up a steaming mug.
 “Sure, thanks,” Ben replied, accepting the mug. “Actually, I don’t think I had breakfast this morning. Feeling a little rushed.”
 A chorus of surprised gasps filled the room. Ben froze—hadn’t he just devoured his bagel masterpiece minutes ago? A strange sense of unreality washed over him. Had he dreamt the entire breakfast? Or was this some sort of elaborate prank?
