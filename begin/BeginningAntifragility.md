@@ -87,3 +87,6 @@ Almost daily, we have to deal with failure and improvement. Your app updates (bu
 - growth even from "volatile" times
 - more likley to explore ideas and the world
 - less hesitant to take calculated risks
+
+[Part C: Two Mysteries Solved](https://pebreo.github.io/begin/PartC-twomysteries.html)
+[TOC](https://pebreo.github.io/)
