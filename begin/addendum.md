@@ -1,5 +1,5 @@
 
-## Convergence of favtors responsinle for inventions
+## Convergence of factors responsinle for inventions
 
 | Invention      | Key breakthrough | Factors that converged                              |
 | -------------- | ---------------- | --------------------------------------------------- |
@@ -13,3 +13,7 @@
 | Refrigeration  | Health           | Chemistry & mass manufacturing     
 
 *The factors list is not meant to be exhaustive
+
+[Joaquin 2](https://pebreo.github.io/midgame/joaquin-part2.html)
+
+[TOC2](https://pebreo.github.io/midgame)
