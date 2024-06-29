@@ -146,4 +146,4 @@ History shows cultural norms change. Polyamory & ENM just another relationship s
 
 [Addendum](https://pebreo.github.io/midgame/addendum.html)
 
-[TOC](https://pebreo.github.io/midgame)
+[TOC2](https://pebreo.github.io/midgame)
