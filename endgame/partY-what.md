@@ -7,9 +7,9 @@ Toby bounced on the balls of his feet, his eyes wide with a question that had be
 
 "Grandpa," Toby began, "is it true that back in your day, everyone had to work all the time?"
 
-Victor leaned back, a nostalgic smile playing on his lips. "Not all the time, no," he said. "But work was definitely a bigger part of life. You didn't have these fancy gadgets that do half the chores for you."
+Victor leaned back, a nostalgic smile playing on his lips. "Not all the time, no," he said. "But work was definitely a bigger part of life. We didnt have robots."
 
-Toby's eyes darted around the room, taking in the sleek, automated cleaning bot zipping silently across the hardwood floor.
+Toby and Topher, the robot assistant, both smiled at eachother.
 
 "But why?" he persisted, "Couldn't everyone just, you know, relax?"
 
