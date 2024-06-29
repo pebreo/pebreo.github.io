@@ -28,3 +28,8 @@ Citations:
 [3] https://ourworldindata.org/fertility-rate
 [4] https://www.statista.com/chart/16058/total-fertility-rate/
 [5] https://data.worldbank.org/indicator/SP.DYN.TFRT.IN
+
+
+[Joaquin 3](https://pebreo.github.io/endgame/joaquin-part3.html)
+
+[TOC2](https://pebreo.github.io/midgame)
