@@ -13,11 +13,9 @@ Toby and Topher, the robot assistant, both smiled at eachother.
 
 "But why?" he persisted, "Couldn't everyone just, you know, relax?"
 
-Victor's smile softened. "Life wasn't so simple then, Toby. People had jobs to pay rent, buy food…"  He paused, a shadow flickering across his eyes. "Food wasn't always guaranteed. There were times when crops failed, and hunger stalked the land. And you had to work to earn money to give in exchange for things."
+Victor's smile softened. "Life wasn't so simple then, Toby. People had jobs to pay rent, buy food…"  He paused, a shadow flickering across his eyes. "Food wasn't always guaranteed for everyone. For many people who grew their own food, there were times when crops failed and so maybe they couldnt eat. And you had to work to earn money to give in exchange for things."
 
-"Sounds really old-fashioned", Toby quipped.
-
-Toby, who always had a full plate at his disposal, frowned. Hunger seemed unimaginable.
+Toby frowned. He always had a full plate at his disposal. Hunger seemed unimaginable.
 
 "And what about the big, scary stuff?" he continued, his voice barely a whisper. "Climate change, and pollution, and stuff."
 
