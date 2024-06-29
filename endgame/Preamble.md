@@ -64,5 +64,5 @@ To create a protopia (state of pursuit of betterment/perfection) youd want decen
 ## Next chapter
 [Part 1: The Plan](https://pebreo.github.io/endgame/partW-theplan.html)
 
-[TOC](https://pebreo.github.io/endgame)
+[TOC3](https://pebreo.github.io/endgame)
 
