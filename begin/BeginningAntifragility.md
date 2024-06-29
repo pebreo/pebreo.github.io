@@ -52,6 +52,29 @@ There, she reset both her mind and body. For her, it was also reminder that ment
 ## TLDR
 Both physical and mental health should both be paid attention to and taken care of.
 
+Danny
+Danny "Fingers" Fontana, once a trumpet player known for his lightning-fast runs and smoky speakeasy gigs, was facing his own financial blues. His restaurant, "The Blues Burger Joint," hemorrhaged cash. The rent,overdue for the third month in a row, loomed as large as a grand piano.
+
+Danny, at 58, wasn't built for spreadsheets. He thrived on improvisation, not financial projections. But staring at the eviction notice, improvisation wouldn't pay the bills. He needed a new melody, a business riff. He remembered his granddaughter, Charlotte, a tech whiz studying something called "Lean Startups." The basic idea was to learn through a systematic approach of trial and error. As a musician used to practice, it made total sense.
+
+Over steaming mugs of chamomile tea (Danny couldn't stomach coffee anymore), Charlotte explained. "Forget the big plans, Grandpa. Let's test things out in small batches, like you do with your trumpet solos. Using small failures to create big wins. You know, like when you learn how to play a new tune." The light bulb flickered on above Danny’s head. He wouldn't chase a single, risky venture. He'd play multiple smaller tunes, see which tunes the audience (customers) liked or didn't like.
+
+Their first gig (experiment)? A pop-up jazz bar in a nearby park. Danny dusted off his trumpet, its sheen dulled from disuse. Charlotte, with her infectious enthusiasm, whipped up social media buzz. The park, bathed in the golden glow of the setting sun,became an impromptu concert hall. Danny’s fingers, surprisingly nimble, coaxed life back into the old horn. The crowd, a mix of curious teenagers and nostalgic retirees, swayed to the music. The hat Danny held at the end overflowed with bills, not coins. Not a fortune, but enough for him to buy groceries and feel a spark of hope.
+
+Next, he and Charlotte refreshed the restaurant’s menu. They ditched the generic burger options and went all in on Danny's own history. The menu became a musical odyssey, a tribute to the greats he played alongside. The "Dizzy Gillespie" featured a dizzying array of toppings – kimchi, pickled onions, and a secret sriracha mayo – a flavor explosion mirroring Dizzy's innovative bebop style. The "Billie Holiday Burger" was a melancholic masterpiece, a juicy patty cradled in a pretzel bun, draped with melty swiss cheese and caramelized onions, a hint of sweetness amidst the savory, reflecting Billie's soulful voice.
+
+The response was electric. Foodies with a penchant for the past flocked to "The Blues Burger Joint." The quirky menu items became conversation starters, the playlists added a whole new dimension to the dining experience. People weren't just grabbing a burger; they were embarking on a musical journey with each bite.
+
+Slowly, but surely, the melody of Danny's business started to change. The once-hemorrhaging "Blues Burger Joint" was now a bustling hub, a testament to Danny's willingness to adopt Lean business practices. Danny "Fingers" Fontana, had found a new rhythm, a delicious fusion of food, music, and the internet, proving that even in the twilight of his career, he could still create something beautiful, something that resonated with the audience.
+
+TLDR
+You can apply an antifragile mindset to business. The Lean Startup strategy is a good example of it.
+
+Fail your way to success
+In this chapter, I've told stories about being fragile (Roderigo), being resilient (August), and antifragile (Danny).
+Almost daily, we have to deal with failure and improvement. Your app updates (bug fixes) constantly, whether you know it or not. The thesis of this chapter is you can upgrade your mindset so now even little errors How can we take failure and grow from it? Can mistakes be good for you?
+
+
 ## Why this works
 - The body naturally overcompensates (via  hormesis) to repair / build-up itself.
 - People can behave in ways that override their emotions.
