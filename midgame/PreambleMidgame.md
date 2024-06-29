@@ -31,5 +31,10 @@ Liam squeezed her hand. “Then we stop. There’s no shame in that. There’s n
 
 Silence settled between them, heavy with uncertainty. Maybe there was no ideal. Maybe with eight billion different people, thinking there was only one way they’d be happy in a relationship seemed far-fetched. Maybe, just maybe, the answer wasn’t some pre-defined model but a path they had to forge together, hand in hand, navigating the storm one careful step at a time.
 
-TLDR: Polyamory and ethical non-monogamy (ENM) is not the ideal relationship style for everybody. It is just another choice for informed, consenting adults.
+## TLDR
+Polyamory and ethical non-monogamy (ENM) is not the ideal relationship style for everybody. It is just another choice for informed, consenting adults.
+
+[Part 1: Open Source Ecology](https://pebreo.github.io/midgame/part1-ose.html)
+
+[TOC2](https://pebreo.github.io/midgame)
 
