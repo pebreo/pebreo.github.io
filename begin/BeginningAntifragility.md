@@ -71,9 +71,11 @@ TLDR
 You can apply an antifragile mindset to business. The Lean Startup strategy is a good example of it.
 
 Fail your way to success
+
 In this chapter, I've told stories about being fragile (Roderigo), being resilient (August), and antifragile (Danny).
 Almost daily, we have to deal with failure and improvement. Your app updates (bug fixes) constantly, whether you know it or not. The thesis of this chapter is you can upgrade your mindset so now even little errors How can we take failure and grow from it? Can mistakes be good for you?
 
+![mistakes](https://pebreo.github.io/IMG_0572.jpeg)
 
 ## Why this works
 - The body naturally overcompensates (via  hormesis) to repair / build-up itself.
