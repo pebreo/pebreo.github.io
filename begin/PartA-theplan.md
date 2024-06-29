@@ -1,13 +1,15 @@
 ## The Plan
+There are a lot of big issues, but there are also a lot of big solutions developing right now, in front us, ready to unlock an incredible new way forward.
 This book describes an ambitious plan to upgrade humanity. Here it is in a nutshell.
 
-First and foremosst, we must adopt an antifragile mindset. Let's embrace the messiness of life with an **antifragile mindset**. We're not just built to endure, we can actually thrive on the inevitable lows of life.  Think of hydra: cut off a head, two more grow. 
+First and foremost, we must adopt an antifragile mindset. Let’s embrace the messiness of life with an antifragile mindset. A mindset where we’re not just built to endure, but to actually thrive on the inevitable lows of life. Think of a hydra: cut off a head, and two more grow.
 
-Next, time to upgrade love. Maybe traditional models don't quite fit everyone. Let's **destigmatize** exploring different relationship structures, like polyamory or ethical non-monogamy (ENM) ones. Afterall, but core of relationship doesn't change: honesty, communication, and vulnerability. And its time to upgrade our relationships.
+Next, let’s reimagine love. Maybe traditional models don’t quite fit everyone. Let’s destigmatize exploring different relationship structures, like polyamory or ethical non-monogamy (ENM). Also, let's re-emphasize the core of relationships: honesty, communication, and vulnerability. The incredible advancements of technology make human connections more important than ever.
 
-Now, the next game-changer: **karma socioeconomics**. Imagine a system built on human-aligned AI and blockchain. The AI is transparent, explainable, and works for everyone, not just a privileged few. Blockchain keeps things secure, and everyone's on the same page. Sounds ambitious, but with the convergence of technology its within humanity's grasp.
+Now, the next game-changer: karma socioeconomics. Imagine a system built on human-aligned AI and blockchain. The AI is transparent and explainable and works for everyone, not just a privileged few. Blockchain keeps things secure, and everyone’s on the same page. It sounds ambitious, but with the convergence of technology, it's within humanity’s grasp.
 
-The result? A world where hunger, poverty, and disease become relics of the past.  War? It becomes a painful, distant memory.  
+The result? A world where hunger, poverty, and disease become relics of the past. War? It becomes a painful, distant memory.
+
 ![convergence](https://pebreo.github.io/IMG_0796.jpeg)
 credit: ReThink documentary
 
