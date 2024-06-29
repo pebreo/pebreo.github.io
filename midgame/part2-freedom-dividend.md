@@ -67,4 +67,4 @@ Not everyone has the same amount of resources. The Freedom Dividend would give a
 ## Next chapter
 [Part 3: Polyamory](https://pebreo.github.io/midgame/part3-polyamory.html)
 
-[TOC](https://pebreo.github.io/midgame)
+[TOC2](https://pebreo.github.io/midgame)
