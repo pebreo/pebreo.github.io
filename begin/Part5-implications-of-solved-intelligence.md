@@ -23,7 +23,7 @@ He ran marathons, went on long walks with his children, danced with his wife, an
 ## TLDR
 We can harness synthetic intelligence to solve humanity's difficult challenges, including all forms of medical maladies
 
-## The Body Electric: Rethinking Our AI Partnership
+## The Body Electric
 
 Imagine a future where tireless AI assistants seamlessly integrate into our daily lives, handling mundane tasks with clockwork precision. But what if this efficiency comes at an ethical cost? 
 
