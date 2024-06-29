@@ -1,13 +1,13 @@
 # What would happen if it worked
 
-## Grandpa Victor
-Toby bounced on the balls of his feet, his eyes wide with a question that had been bubbling all evening. Grandpa Elias, nestled in his worn armchair by the crackling fireplace, chuckled.
+## Victor
+Toby bounced on the balls of his feet, his eyes wide with a question that had been bubbling all evening. Grandpa Victor, nestled in his worn armchair by the crackling fireplace, chuckled.
 
 "Fire away, champ," he said, his voice raspy with age but warm with amusement.
 
 "Grandpa," Toby began, "is it true that back in your day, everyone had to work all the time?"
 
-Elias leaned back, a nostalgic smile playing on his lips. "Not all the time, no," he said. "But work was definitely a bigger part of life. You didn't have these fancy gadgets that do half the chores for you."
+Victor leaned back, a nostalgic smile playing on his lips. "Not all the time, no," he said. "But work was definitely a bigger part of life. You didn't have these fancy gadgets that do half the chores for you."
 
 Toby's eyes darted around the room, taking in the sleek, automated cleaning bot zipping silently across the hardwood floor.
 
