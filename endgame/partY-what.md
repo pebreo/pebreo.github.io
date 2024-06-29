@@ -1,20 +1,36 @@
 # What would happen if it worked
 
-## Sylvia
-Syliva stretched languidly in the hammock strung between two ancient banyan trees, the rhythmic chirping of exotic birds her only alarm clock.  Gone were the days of frantic commutes and overflowing inboxes. 
-Her grandfather Victor told her 
+## Grandpa Victor
+Toby bounced on the balls of his feet, his eyes wide with a question that had been bubbling all evening. Grandpa Elias, nestled in his worn armchair by the crackling fireplace, chuckled.
 
-Her daughter, Anya, a whirlwind of energy braided with wildflowers, bounced onto the hammock, nearly sending Maya tumbling. "Mama, Mama! Today's the day we learn how to make solar dye!" Anya exclaimed, her eyes sparkling with the boundless curiosity that came from a childhood unburdened by the pressure to "get ahead."
+"Fire away, champ," he said, his voice raspy with age but warm with amusement.
 
-Maya chuckled, the rich sound echoing through the jungle clearing. "Alright, little adventurer, let's go!"
+"Grandpa," Toby began, "is it true that back in your day, everyone had to work all the time?"
 
-Their days were a tapestry woven with exploration, learning, and community.  Mornings were spent learning from a network of online tutors, delving into subjects that ignited their individual sparks. Anya, enthralled by the natural world, devoured virtual reality tours of coral reefs and rainforests. Maya, rediscovering her passion for music, tinkered with a holographic piano, its notes shimmering like fireflies in the dappled sunlight.
+Elias leaned back, a nostalgic smile playing on his lips. "Not all the time, no," he said. "But work was definitely a bigger part of life. You didn't have these fancy gadgets that do half the chores for you."
 
-Afternoons were for community projects. They joined a team of neighbors, a motley crew of artists, engineers, and former accountants, building a sustainable greenhouse fuelled by recycled materials. Laughter filled the air as they wrestled with pipes and toiled in the rich earth, the shared endeavor fostering a sense of belonging deeper than any paycheck ever could.
+Toby's eyes darted around the room, taking in the sleek, automated cleaning bot zipping silently across the hardwood floor.
 
-Evenings were for stories, shared under the vast expanse of the star-dusted sky.  The absence of financial worries freed their imaginations. Maya regaled Anya with tales of her own childhood, a time of limitations and anxieties that seemed like a distant dream. Anya, in turn, spun fantastical yarns about a future where every child could chase their passions, unfettered by the shackles of the past.
+"But why?" he persisted, "Couldn't everyone just, you know, relax?"
 
-As Sylvia and Anya watched fireflies dance in the twilight, a comfortable silence settled. It wasn't the silence of exhaustion, but of a life fully present, savored in each fleeting moment. This wasn't just freedom from bills and rent; it was freedom to be, to learn, to connect, and to build a future brimming with possibilities. The future, Maya realized, wasn't just something to be built, but a story to be lived, line by joyful line, with her daughter by her side. 
+Elias's smile softened. "Life wasn't so simple then, Toby. People had jobs to pay rent, buy food…"  He paused, a shadow flickering across his eyes. "Food wasn't always guaranteed. There were times when crops failed, and hunger stalked the land."
+
+Toby, who always had a full plate at his disposal, frowned. Hunger seemed unimaginable.
+
+"And what about the big, scary stuff?" he continued, his voice barely a whisper. "Climate change, and pollution, and stuff."
+
+Elias sighed. "Those were worries too, Toby. The world wasn't as aware of it back then, but the signs were there. Floods, droughts, strange weather patterns. It wasn't like the news cycle you have now, bombarding you with constant information."
+
+"So, it was harder back then?" Toby asked, his voice laced with a newfound empathy.
+
+"Harder in some ways, definitely," Elias said, his gaze flickering to the crackling fire. "But life had its own pace, a simpler rhythm. People valued things differently – community, resourcefulness, the thrill of a good harvest. We weren't as connected, but in some ways, we were closer."
+
+Toby pondered this for a moment, his brow furrowed in thought. "So, it wasn't all bad?"
+
+Elias's smile returned, brighter this time. "Not at all, Toby. Every era has its challenges, but it also has its opportunities. The difference is how we choose to face them. Back then, we didn't have the technology you do, but we had grit, and a spirit of innovation. And that," he said, his voice firm, "is something that will never go out of style."
+
+Toby nodded slowly, a thoughtful glint in his eyes. The future, with all its unknowns, seemed a little less daunting now. Perhaps the key wasn't just the fancy gadgets, but the human spirit that built them, the spirit that had faced challenges before and emerged stronger.  He looked back at his grandpa, a tiny spark of determination igniting within him. Maybe, just maybe, his generation could learn from the past and build a future that was both innovative and kind.
+
 
 
 ## Nimfa
