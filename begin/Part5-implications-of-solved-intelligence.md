@@ -38,7 +38,10 @@ Harnessing true intelligence would allow near-limitless labor and consequently i
 ## Summary
 If we play our cards right, we can use AI technology to eliminate poverty, hunger, disease, war, and all human suffering (real and/or imagined). We can engineer super cells without the baggage of malice, pain, or suffering. This can happen IF we create AI that is human-aligned, completely expainable & understandable, affordable to all.
 
+[Addendum](https://pebreo.github.io/begin/addendum.html)
+
+[TOC](https://pebreo.github.io/)
+
 ## Sources
 [Vids & bibliography](https://pebreo.github.io/begin/sources.html)
 
-[TOC](https://pebreo.github.io/)
