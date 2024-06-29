@@ -15,7 +15,7 @@ Synthetic intelligence that is affordable to all means personal tutors for every
 
 Dr. Wei Tan, a longevity scientist, had spent a lifetime chasing the elusive dream of defeating aging. Countless nights hunched over lab benches, countless failed experiments – it had taken its toll. Yet, she persisted, driven by a burning curiosity and a deep-seated fear of losing the vast knowledge she had accumulated.
 
-Then, a breakthrough. She pioneered Project Phoenix, an AI program designed to map the human consciousness and create a digital replica. The first test subject was herself. Days turned into weeks, then months. Wei felt a renewed vitality. Her consciousness, now existing within the vast network of Project Phoenix, accessed information at an unimaginable speed.
+Then, a breakthrough. She pioneered Project Phoenix, an synthetic intelligence-based program designed to map the human consciousness and create a digital replica. The first test subject was herself. Days turned into weeks, then months. Wei felt a renewed vitality. Her consciousness, now existing within the vast network of Project Phoenix, accessed information at an unimaginable speed.
 
 The world hailed her a hero, but Wei soon felt a growing unease. As decades stretched into centuries, she observed the limitations of her solitary existence. The vibrant world outside the network continued to evolve, leaving her a detached observer. The joy of discovery morphed into a hollow yearning for connection.
 
