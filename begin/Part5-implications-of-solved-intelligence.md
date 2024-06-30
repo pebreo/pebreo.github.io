@@ -24,9 +24,9 @@ He ran marathons, went on long walks with his children, danced with his wife, an
 We can harness synthetic intelligence to solve humanity's difficult challenges, including all forms of medical maladies
 
 ## Near-unlimited labor
-The whirring symphony of the automated assembly line was a far cry from the clanging, back-breaking, grimy factories of yesteryear. Here, in the gleaming heart of the MegaTech facility, robots with clockwork precision assembled next-generation gadgets with an efficiency that would make Henry Ford blush.  It was a future straight out of science fiction, and the benefits were undeniable.
+The whirring symphony of the automated assembly line was a far cry from the clanging, back-breaking, grimy factories of yesteryear. Here, in the gleaming heart of the MegaTech facility, robots with clockwork precision assembled next-generation gadgets with at blinding speed.  It was a future straight out of science fiction, and the benefits were undeniable.
 
-For starters, time – that most precious commodity – was suddenly more abundant.  Repetitive tasks, once the domain of human workers, were now handled by tireless machines, freeing people to pursue more creative and fulfilling endeavors.  Imagine the hours once spent assembling circuit boards now available for spending time with loved-ones, traveling, learning new skills, or creative endeavors like sculpting or dancing.
+For starters, time – that most precious commodity – was suddenly more abundant.  All the three Ds (Dirty, Dangerous and Drugery) were taken over by robots. Once they were the domain of human workers, but now handled by tireless machines, freeing people to pursue more creative and fulfilling endeavors.  Imagine the hours once spent assembling circuit boards now available for spending time with loved-ones, traveling, learning new skills, or creative endeavors like sculpting or dancing.
 
 This wasn't just about leisure, though. The rise of automation also unleashed a surge in material wealth. Robots, with their tireless work ethic and unwavering precision, could churn out goods at an unprecedented rate.  This meant lower production costs, more affordable products, and a rising tide that lifted all boats.  Imagine a world where cutting-edge technology wasn't a luxury for the privileged few, but a reality accessible to all.
 
