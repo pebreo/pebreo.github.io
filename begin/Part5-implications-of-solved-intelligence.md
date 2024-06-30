@@ -35,7 +35,10 @@ And they tirelessly churn out identical products on assembly lines, freeing huma
 
 The result? This freed people to pursue more creative and fulfilling endeavors.  People were free to spend their time with loved-ones, travel, learn new skills, or pursure creative endeavors like sculpting or dancing.
 
-## The Body Elevtric
+## TLDR
+Harnessing true intelligence would allow near-limitless labor and consequently incredible material wealth
+
+## Would robots be slaves?
 
 Imagine a future where tireless AI assistants seamlessly integrate into our daily lives, handling mundane tasks with clockwork precision. But what if this efficiency comes at an ethical cost? 
 
@@ -44,8 +47,7 @@ A good analogy comes from the anime *Cells at Work*: Our bodies rely on countles
 Unlike our biological cells, AI wouldn't inherently experience pain or suffering. Our cells are pre-programmed by nature, fulfilling their roles within a pre-defined system.  AI is being built by us. We determine its capabilities and limitations. 
 Just as our bodies rely on a diverse range of cells, a future with AI might thrive on a similar principle: a co-existence where both human and synthetic intelligence operate within a framework that fosters growth and exploration. 
 
-## TLDR
-Harnessing true intelligence would allow near-limitless labor and consequently incredible material wealth
+
 
 ## Summary
 If we play our cards right, we can use AI technology to eliminate poverty, hunger, disease, war, and all human suffering (real and/or imagined). We can engineer super cells without the baggage of malice, pain, or suffering. This can happen IF we create AI that is human-aligned, completely expainable & understandable, affordable to all.
