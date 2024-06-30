@@ -54,7 +54,7 @@ So, just as our bodies rely and thrive on a diverse range of biological automata
 
 ## Preparing for the journey
 
-We are ready to use technology to eliminate poverty, hunger, disease, war, and all human suffering (real and/or imagined). We can engineer super cells without the baggage of malice, pain, or suffering. This can happen IF we create SI that is human-aligned, completely expainable & understandable, affordable to all.
+We are ready to use technology to eliminate poverty, hunger, disease, war, and all human suffering (real and/or imagined). We can engineer super cells without the baggage of malice, pain, or suffering. This can happen IF we create SI that is human-aligned, completely expainable & understandable, and affordable to all.
 
 [Addendum](https://pebreo.github.io/begin/addendum.html)
 
