@@ -46,7 +46,7 @@ I think the best way to think about and answer this ethical question is an analo
 
 Similary, could SI become a seamless extension of humanity, serving without sentience, emotion, or suffering? 
 
-Yes. The ethics of owning robots and having them do our bidding is analogous to the cells in our body. SI will be being built by us, so we determine its capabilities and limitations. They have would not have self-awareness - no reason that have to. They would not experience pain - real or imagined), and any definition of suffering they don't have to experience.
+Yes. The ethics of owning robots and having them do our bidding is analogous to the cells in our body. SI will be being built by us, so we determine its capabilities and limitations. They have would not have self-awareness - no reason that have to. They would not experience pain nor any form of suffering - real or imagined.
 
 
 Just as our bodies rely on a diverse range of cells, a future with AI might thrive on a similar principle: a co-existence where both human and synthetic intelligence operate within a framework that fosters growth and exploration. 
