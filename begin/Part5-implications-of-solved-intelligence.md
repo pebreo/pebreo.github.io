@@ -23,7 +23,7 @@ He ran marathons, went on long walks with his children, danced with his wife, an
 ## TLDR
 We can harness synthetic intelligence to solve humanity's difficult challenges, including all forms of medical maladies
 
-## Near-unlimited labor
+## Robolabor
 The whirring symphony of the automated assembly line was a far cry from the clanging, back-breaking, grimy factories of yesteryear. Here, in the gleaming heart of the MegaTech facility, robots with clockwork precision assembled next-generation gadgets with at blinding speed.  It was a future straight out of science fiction, and the benefits were undeniable.
 
 For starters, time – that most precious commodity – was suddenly more abundant.  All the three Ds (Dirty, Dangerous and Drugery) were taken over by robots. Once they were the domain of human workers, but now handled by tireless machines, freeing people to pursue more creative and fulfilling endeavors.  Imagine the hours once spent assembling circuit boards now available for spending time with loved-ones, traveling, learning new skills, or creative endeavors like sculpting or dancing.
