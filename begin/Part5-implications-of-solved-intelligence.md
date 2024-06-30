@@ -42,11 +42,11 @@ Harnessing true intelligence would allow near-limitless labor and consequently i
 
 This is an important and valid question, especially since consciousness and intelligence are now, in my view, understood well enough to build SI assistants as capable as a human being. Would it be ethical to treat and use them like they were inanimate objects if they are intelligent?
 
-I think the best way to think about and answer this ethical question is an analogy. In the popular anime *Cells at Work*, the human body is a city and the various cells are anthropomorphized as characters. For example, red blood cells are depicted as red hats and overalls. Each episode is about how the different characters respond to emergencies in the town, in other words, various ailments like food poisoning or the common cold. The show drives the point that our bodies rely on countless, uncomplaining cells to function. Similary, could SI become a seamless extension of humanity, serving without sentience, emotion, or suffering? 
+I think the best way to think about and answer this ethical question is an analogy. In the popular anime *Cells at Work*, the human body is a city and the various cells are anthropomorphized as characters. For example, red blood cells are depicted as people wearing red hats and red overalls. Each episode is about how the different characters respond to emergencies in the town, in other words, various ailments like food poisoning or the common cold. The show drives the point that our bodies rely on countless, uncomplaining cells to function. Similary, could SI become a seamless extension of humanity, serving without sentience, emotion, or suffering? 
 
-The morality of owning robots and having them do our bidding is analogous to the cells in our body. They have don't self-awareness (no reason that have to), they don't have to experience pain (real or imagined), and any definition of suffering they don't have to experience.
+The ethics of owning robots and having them do our bidding is analogous to the cells in our body. AI is being built by us. We determine its capabilities and limitations.  They have would not have self-awareness - no reason that have to. They would not experience pain - real or imagined), and any definition of suffering they don't have to experience.
 
-Unlike our biological cells, AI wouldn't inherently experience pain or suffering. Our cells are pre-programmed by nature, fulfilling their roles within a pre-defined system.  AI is being built by us. We determine its capabilities and limitations. 
+Unlike our biological cells, SI wouldn't inherently experience pain or suffering. Our cells are pre-programmed by nature, fulfilling their roles within a pre-defined system.  
 Just as our bodies rely on a diverse range of cells, a future with AI might thrive on a similar principle: a co-existence where both human and synthetic intelligence operate within a framework that fosters growth and exploration. 
 
 
