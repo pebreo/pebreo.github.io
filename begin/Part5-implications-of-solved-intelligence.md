@@ -26,7 +26,7 @@ We can harness synthetic intelligence to solve humanity's difficult challenges, 
 ## Robolabor
 The whirring symphony of the automated assembly line was a far cry from the clanging, back-breaking, grimy factories of yesteryear. Here, in the gleaming heart of the MegaTech facility, robots with clockwork precision assembled next-generation gadgets at blinding speed.  It was a future straight out of science fiction, and the benefits were undeniable.
 
-All the three Ds (Dirty, Dangerous and Drugery) were taken over by robots.
+All the three Ds (Dirty, Dangerous and Drugery work) were taken over by robots.
 Many essential jobs fell under these. Grueling labor in mines, toxic waste processing, and mind-numbing assembly line tasks were the unfortunate realities for a large swathe of the workforce, but were taken over by robots.  
 
 However, the rise of synthetic intelligence fundamentally reshaped this landscape. Robots, tireless and impervious to danger, replaced humans.  They now delve into the depths of mines, impervious to hazardous fumes and cave-ins.  They handle toxic materials with robotic precision, shielding human workers from exposure.
@@ -42,7 +42,9 @@ Harnessing true intelligence would allow near-limitless labor and consequently i
 
 This is an important and valid question, especially since consciousness and intelligence are now, in my view, understood well enough to build SI assistants as capable as a human being. Would it be ethical to treat and use them like they were inanimate objects if they are intelligent?
 
-I think the best way to think about and answer this ethical question is an analogy. In the popular anime *Cells at Work*, the human body is a city and the various cells are anthropomorphized as characters. For example, red blood cells are depicted as red overall-wearing people. Each episode is about how the different characters respond to emergencies in the town, in other words, various ailments like food poisoning or the common cold. The show drives the Our bodies rely on countless, uncomplaining cells to function. Could AI become a seamless extension of humanity, serving without sentience, emotion, or suffering? The morality of owning robots and having them do our bidding is analogous to the cells in our body. They have don't self-awareness (no reason that have to), they don't have to experience pain (real or imagined), and any definition of suffering they don't have to experience.
+I think the best way to think about and answer this ethical question is an analogy. In the popular anime *Cells at Work*, the human body is a city and the various cells are anthropomorphized as characters. For example, red blood cells are depicted as red hats and overalls. Each episode is about how the different characters respond to emergencies in the town, in other words, various ailments like food poisoning or the common cold. The show drives the point that our bodies rely on countless, uncomplaining cells to function. Similary, could SI become a seamless extension of humanity, serving without sentience, emotion, or suffering? 
+
+The morality of owning robots and having them do our bidding is analogous to the cells in our body. They have don't self-awareness (no reason that have to), they don't have to experience pain (real or imagined), and any definition of suffering they don't have to experience.
 
 Unlike our biological cells, AI wouldn't inherently experience pain or suffering. Our cells are pre-programmed by nature, fulfilling their roles within a pre-defined system.  AI is being built by us. We determine its capabilities and limitations. 
 Just as our bodies rely on a diverse range of cells, a future with AI might thrive on a similar principle: a co-existence where both human and synthetic intelligence operate within a framework that fosters growth and exploration. 
