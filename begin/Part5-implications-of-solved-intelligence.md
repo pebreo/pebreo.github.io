@@ -36,13 +36,11 @@ And they tirelessly churn out identical products on assembly lines, freeing huma
 The result? This freed people to pursue more creative and fulfilling endeavors.  People were free to spend their time with loved-ones, travel, learn new skills, or pursure creative endeavors like sculpting or dancing.
 
 ## TLDR
-Harnessing true intelligence would allow near-limitless labor and consequently incredible material wealth
+Harnessing true intelligence would allow near-limitless labor and consequently incredible material wealth.
 
 ## Would robots be slaves?
 
-This is an important and valid question, especially since consciousness and intelligence are now, in my view, understood well enough to build in machinery.
-
-With the above knowledge, we cam create a future a future where tireless SI assistants seamlessly integrate into our daily lives, handling mundane tasks with clockwork precision. But what if this efficiency comes at an ethical cost? 
+This is an important and valid question, especially since consciousness and intelligence are now, in my view, understood well enough to build SI assistants as capable as a human being. But what if this efficiency comes at an ethical cost? 
 
 A good analogy comes from the anime *Cells at Work*: Our bodies rely on countless, uncomplaining cells to function. Could AI become a seamless extension of humanity, serving without sentience, emotion, or suffering? The morality of owning robots and having them do our bidding is analogous to the cells in our body. They have don't self-awareness (no reason that have to), they don't have to experience pain (real or imagined), and any definition of suffering they don't have to experience.
 
