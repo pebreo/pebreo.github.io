@@ -30,7 +30,7 @@ The solution to this big challenge involves two parts: upgrading how we think ab
 ## Antifragile romantic relationships
 
 I wamt to be clear: adopting polyamory & ENM style of relationships is optional. 
-In my experince, the biggest factors in a successful romatic relationship are communication, empathy, and patience.
+In my experince, the biggest factors in a successful romatic relationship are communication, empathy, attraction, thoughtfulness and patience.
 However, Upgrading our mindsets to place communication as 
 
 Now imagine the level of communication it takes with multiple romantic partners. Can it be done? Yes. People have done it for years. (cite More Than Two)  
