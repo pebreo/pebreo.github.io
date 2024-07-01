@@ -29,18 +29,15 @@ The solution to this big challenge involves two parts: upgrading how we think ab
 
 ## Antifragile romantic relationships
 
+What is polyamory & ENM and why?
+ 
+
+Ethical non-monogamy (ENM), which encompasses open relationships and polyamory, is a relationship structure where partners agree to have romantic or intimate relationships with people outside of the primary couple. However, unlike cheating, ENM is based on  **open communication, consent, and clear boundaries**. 
+
 I wamt to be clear: adopting polyamory & ENM style of relationships is optional. 
 Also, in my experince, the biggest factors in a successful romatic relationship are communication, empathy, attraction, thoughtfulness and patience. In my view, upgrading our mindsets on cimmunication skilks and its importance is the most important factor for successful romantic relationships. Polyamory is the best example of this.
 
-Imagine the level of communication it takes with multiple romantic partners. Can it be done? Yes. People have done it for years. (cite More Than Two)  
-
-
-
-
-
-What is polyamory & ENM and why?
-
-Ethical non-monogamy (ENM), which encompasses open relationships and polyamory, is a relationship structure where partners agree to have romantic or intimate relationships with people outside of the primary couple. However, unlike cheating, ENM is based on  **open communication, consent, and clear boundaries**. 
+Imagine the level of communication it takes with multiple romantic partners. Can it be done? Yes. People have done it for years. (cite More Than Two) 
 
 While polyamory/ENM might seem like an outlier, its just another type of relationsip albeit more effortful. Let's look at the benefits and the inherent challenges.
 
