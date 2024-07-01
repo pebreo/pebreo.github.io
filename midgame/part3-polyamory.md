@@ -29,9 +29,11 @@ The solution to this big challenge involves two parts: upgrading how we think ab
 
 ## Antifragile romantic relationships
 
+I wamt to be clear: adopting polyamory & ENM style of relationships is optional. Upgrading our mindsets to place communication at the center...
+
 Now imagine the level of communication it takes with multiple romantic partners. Can it be done? Yes. People have done it for years. (cite More Than Two)  
 
-I wamt to be clear: adopting polyamory & ENM style of relationships is optional. Upgrading our mindsets about how we create romatic relstionships ... 
+
 
 
 
