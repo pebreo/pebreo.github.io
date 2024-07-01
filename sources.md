@@ -2,6 +2,13 @@
 
 ## videos
 
+### Art Of The Problem - 600 million years of intelligence
+Good primer of reinforcement learning to imagination.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EcQ1IcEMFQ?si=CaGZ07HeXEmM4bNy" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>p
+
+
+
+
 ### Intelligence defined
 Real intelligence is about understanding the world through a sequence of patterns. We experience the world, store these experiences in our memory, and use them to predict what will happen next. This ability to constantly predict the future based on past experiences is what makes us intelligent.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J6u-2nhXWbc?si=xYj9PZATodjZdQOI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
