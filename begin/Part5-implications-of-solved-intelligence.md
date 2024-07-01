@@ -29,7 +29,7 @@ The whirring symphony of the automated assembly line was a far cry from the clan
 All the three Ds (Dirty, Dangerous and Drugery work) were taken over by robots.
 Many essential jobs fell under these. Grueling labor in mines, toxic waste processing, and mind-numbing assembly line tasks were the unfortunate realities for a large swathe of the workforce, but were taken over by robots.  
 
-However, the rise of synthetic intelligence fundamentally reshaped this landscape. Robots, tireless and impervious to danger, replaced humans.  They now delve into the depths of mines, impervious to hazardous fumes and cave-ins.  They handle toxic materials with robotic precision, shielding human workers from exposure.
+However, the rise of synthetic intelligence fundamentally reshaped this landscape. Robots, tireless and near-impervious to danger, replaced humans.  They now delve into the depths of mines, impervious to hazardous fumes and cave-ins.  They handle toxic materials with robotic precision, shielding human workers from exposure.
 
 And they tirelessly churn out identical products on assembly lines, freeing humans from the monotony of repetitive tasks. This shift isn't just about safety and efficiency; it's about unlocking human potential. By taking over the undesirable, robots have allowed us to pursue more fulfilling work, ushering in an era where creativity, problem-solving, and innovation take center stage. 
 
