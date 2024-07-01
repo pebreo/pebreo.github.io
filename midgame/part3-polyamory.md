@@ -22,7 +22,7 @@ Humans are capable of loving more than one person at a time
 
 ## At the heart of the problem (pun intended)
 
-Its very likely, the cause of population collapse in developed countries is that women have to choose whether to spend their time and energy building their careers (material needs & safety) versus direct their limited that and effort to raising a family. According to tk, raising a family in developed countries tk compared to tk.
+Its very likely, the cause of population collapse in developed countries is that women have to choose whether to spend their time and energy building their careers (material needs & safety) versus direct their limited time and effort to raising a family. According to tk, raising a family in developed countries tk compared to tk.
 
 
 ## Antifragile romantic relationships
