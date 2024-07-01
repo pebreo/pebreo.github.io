@@ -29,6 +29,7 @@ The solution to this big challenge involves two parts: upgrading how we think ab
 
 ## Antifragile romantic relationships
 
+Now imagine the level of communication it takes with multiple romantic partners. Can it be done? Yes. People have done it for years. (cite More Than Two)  
 What is polyamory & ENM and why?
 
 Ethical non-monogamy (ENM), which encompasses open relationships and polyamory, is a relationship structure where partners agree to have romantic or intimate relationships with people outside of the primary couple. However, unlike cheating, ENM is based on  **open communication, consent, and clear boundaries**. 
