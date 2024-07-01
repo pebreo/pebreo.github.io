@@ -21,7 +21,7 @@ His journey, however, wasn't a fairytale. There were setbacks, moments of frustr
 He ran marathons, went on long walks with his children, danced with his wife, and climbed mountains. He yearned to feel the sun on his skin, the wind in his hair, experiences forever denied to him by his unique biology. The richness of the mind, the boundless potential of human connection.
 
 ## TLDR
-We can harness synthetic intelligence to solve humanity's difficult challenges, including all forms of medical maladies
+We can harness synthetic intelligence to solve humanity's most difficult challenges, including all forms of medical maladies
 
 ## Robolabor
 The whirring symphony of the automated assembly line was a far cry from the clanging, back-breaking, grimy factories of yesteryear. Here, in the gleaming heart of the MegaTech facility, robots with clockwork precision assembled next-generation gadgets at blinding speed.  It was a future straight out of science fiction, and the benefits were undeniable.
@@ -36,7 +36,7 @@ And they tirelessly churn out identical products on assembly lines, freeing huma
 The result? This freed people to pursue more creative and fulfilling endeavors.  People were free to spend their time with loved-ones, travel, learn new skills, or pursure creative endeavors like sculpting or dancing.
 
 ## TLDR
-Harnessing true intelligence would allow near-limitless labor and consequently incredible material wealth.
+Harnessing synthetic intelligence would allow near-limitless labor and consequently incredible material wealth.
 
 ## Would robots be slaves?
 
