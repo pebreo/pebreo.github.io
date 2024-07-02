@@ -22,12 +22,16 @@ Maya laughed. "Just that the thrill is all the sweeter when you understand the m
 
 
 
-Unveiling the Mystery Doesn’t Spoil the Magic
+## Unveiling the Mystery Doesn’t Spoil the Magic
 There is a fear, unjustified or not, that scientific understanding diminishes the richness of experience. Demystifying the world, the thinking goes, removes the wonder.
 On the other hand, an intellectual understanding of gravity—its force, its pull—doesn't diminish the visceral thrill of the ride. In fact, it might even add to it. Now, both your emotions and intellect are stimulated.
+
 Take the realm of consciousness itself. Does understanding the intricate networks of neurons firing in our brains diminish the mystery of human experience? Does it lessen the awe we feel gazing at a starry night sky or the heart-wrenching emotions evoked by a powerful piece of music?
+
 What if I explain, without pretense or mysticism, what intelligence is and how to build synthetic intelligence?
-Also, consider the human state as a whole. For many, life is good, even great. But not everyone. Hunger, poverty, and disease is still very real and devastates our fellow-humans. Our species has experienced the brutality and life-shattering realities of war over and over again yet we can't let go if its horrors. But this moment in time is unique and special. This moment in history we can change everyone's life, for the better. Let me give youan overview of the plan…
+Also, consider the human state as a whole.
+
+
 
 
 TLDR: An explanation of why and how things work doesn’t diminish the experience of that being explained. It might even enhance it.
