@@ -23,6 +23,15 @@ Scott Phoenix proposes that AGI should also be able to imagine and mentally simu
 Overall, the video argues that LLMs are a powerful tool, but they are not on the path to achieving AGI. We should not be fooled by their fluency into thinking they are intelligent.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LRBYxz6UsC4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+### Welch Labs - The moment we stopped understanding AI
+The state of the art of ML undoubtedly works and is beneficial. But is it truly understandable?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UZDiGooFs54?si=FTTwl7cAiZikfe2s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>p
+
+## bibliography
+[From CAPTCHAs to Common Sense - George et al.](https://www.frontiersin.org/articles/10.3389/fncom.2020.554097/full)
+
+[A Thousand Brains by Jeff Hawkins](https://a.co/d/4Ew1rpZ)
 
 ## My book: GOAT World
 [book link](https://www.amazon.com/dp/B0D5SLY1JC)
