@@ -23,7 +23,7 @@ Overall, the video argues that LLMs are a powerful tool, but they are not on the
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LRBYxz6UsC4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Welch Labs - The moment we stopped understanding AI
-Status quo undoubtedly works and is beneficial. But is is truly understandable?
+The state of the art of ML undoubtedly works and is beneficial. But is it truly understandable?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UZDiGooFs54?si=FTTwl7cAiZikfe2s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>p
 
