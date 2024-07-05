@@ -65,8 +65,6 @@ Polyamory/ENM has the potential to enhance the quality of your connections. Here
 Lastly, whether polyamory & ENM becomes mainstream remains to be seen. History, however, points to yes.
 
 
-
-
 ## We've seen this movie before
 The concept of normalcy is a fascinatingly fluid one. Behaviors once deemed deviant, relegated to the fringes of society, have become commonplace as the world embraces the range of human experience. The following table shows once-deviant behavior as part of our cultural norms.
 
@@ -94,12 +92,10 @@ Let's breifly recap once-taboo cultural phenomenon, revisiting activities that w
 * **The Devil's Music:** Rock and roll, with its rebellious spirit and loud guitars, sent shockwaves through the 1950s. Now, it's a genre celebrated for its energy and innovation, a reminder that sometimes, the most disruptive forces can become the most beloved.
 
 
-
-
-
 ## Will accepting polyamory & ENM fix population collapse?
 
-Very unlikely. If the endgame is more babies then it wont make a dent. Polyamory & ENM require more resource for them to wotk. The best scenario, in my opinion, is social acceptance. History seems to point "yes" to that outcome.
+In my opinion, no, not by itself,
+. If the endgame is more babies then, I think its necessary but not sufficient. Just in the same way as allowing women to wear pants was a necessary stel to giving women equals rights, de-stigmatizing polyamory & ENM would ... under the law  Polyamory & ENM require more resource for them to wotk. The best scenario, in my opinion, is social acceptance. History seems to point "yes" to that outcome.
 
 
 
