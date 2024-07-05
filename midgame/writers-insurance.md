@@ -181,3 +181,6 @@ There are many reasons why people might choose ENM. Some might feel their emotio
 Developed countries face a paradox – declining birth rates coupled with riding divorce rates. This raises concerns about a shrinking workforce and a strain on social security systems. While promoting traditional family structures remains important, one approach could be explored: polyamory and ethical non-monogamy (ENM). 
 
 It wouldn't be about dismantling traditional families, but offering an alternative structure that caters to individual needs and potentially prevents the bitter breakdowns that plague today's realities.
+
+
+under the law  Polyamory & ENM require more resource for them to wotk. The best scenario, in my opinion, is social acceptance. History seems to point "yes" to that outcome.
