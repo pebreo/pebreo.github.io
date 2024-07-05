@@ -67,41 +67,6 @@ Lastly, whether polyamory & ENM becomes mainstream remains to be seen. History, 
 
 
 
-todo: put addendum
-
-![relationships](https://pebreo.github.io/IMG_0540.jpeg)
-There are actually many more ...
-
-
-Here's a breakdown of the key aspects:
-
-* **Open Communication:**  Honest and transparent discussions about desires, expectations, and boundaries are crucial. Partners openly discuss the possibility of having relationships with others and establish ground rules for those relationships.
-* **Consent:**  Everyone involved, including existing partners and new partners, must give their full and enthusiastic consent to all aspects of the relationship. Coercion or manipulation is strictly off-limits.
-* **Clear Boundaries:**  The level of openness in an ENM relationship can vary. Some couples might only be open to emotional connections, while others might be comfortable with physical intimacy as well.  It's important to define these boundaries clearly to avoid confusion or jealousy.
-
-**Open Relationships:**
-
-* This is a specific type of ENM where partners are open to having romantic or sexual relationships with others outside of the primary couple. 
-* The focus might be on casual encounters or more committed secondary relationships.
-
-**Polyamory:**
-
-* This is another type of ENM where individuals can have multiple committed romantic relationships simultaneously, with the knowledge and consent of all partners involved. 
-* Polyamorous relationships often involve a strong emotional connection and commitment between all partners, creating a network of love and support.
-
-**Why might someone choose ENM?**
-
-There are many reasons why people might choose ENM. Some might feel their emotional or physical needs aren't being fully met in a monogamous relationship.  Others might simply value having a wider range of connections and experiences. 
-
-**It's important to remember that ENM isn't for everyone**. It requires a lot of emotional maturity, clear communication, and a willingness to navigate complex feelings. 
-
-**Rethinking Relationships**
-
-Developed countries face a paradox – declining birth rates coupled with riding divorce rates. This raises concerns about a shrinking workforce and a strain on social security systems. While promoting traditional family structures remains important, one approach could be explored: polyamory and ethical non-monogamy (ENM). 
-
-It wouldn't be about dismantling traditional families, but offering an alternative structure that caters to individual needs and potentially prevents the bitter breakdowns that plague today's realities.
-
-
 ## We've seen this movie before
 The concept of normalcy is a fascinatingly fluid one. Behaviors once deemed deviant, relegated to the fringes of society, have become commonplace as the world embraces the range of human experience. The following table shows once-deviant behavior as part of our cultural norms.
 
