@@ -95,7 +95,7 @@ Let's breifly recap once-taboo cultural phenomenon, revisiting activities that w
 ## Will accepting polyamory & ENM fix population collapse?
 
 In my opinion, no, not by itself,
-. If the endgame is more babies then, I think its necessary but not sufficient. Just in the same way as allowing women to wear pants was a necessary stel to giving women equals rights, de-stigmatizing polyamory & ENM would ... under the law  Polyamory & ENM require more resource for them to wotk. The best scenario, in my opinion, is social acceptance. History seems to point "yes" to that outcome.
+. If the endgame is more babies then, I think its necessary but not sufficient. Just in the same way as allowing women to wear pants was a necessary step to giving women equals rights, de-stigmatizing polyamory & ENM would be a necessary step to wider adoption of open, honest communication in romantic relationships. 
 
 
 
@@ -114,8 +114,8 @@ History shows cultural norms change. Polyamory & ENM just another relationship s
 - if still monogamous, stronger communication
 
 ## Bonus possibilities
-- prevent permament emotional damage to adults & dependents
-- prevents permanent loss of wealth, time, and resources 
+- It will prevent permament emotional damage to adults & dependents.
+- It will prevents permanent loss of wealth, time, and resources.
 
 [Addendum](https://pebreo.github.io/midgame/addendum.html)
 
