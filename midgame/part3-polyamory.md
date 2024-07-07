@@ -90,10 +90,9 @@ Let's breifly recap once-taboo cultural phenomenon, revisiting activities that w
 
 * **The Devil's Music:** Rock and roll, with its rebellious spirit and loud guitars, sent shockwaves through the 1950s. Now, it's a genre celebrated for its energy and innovation, a reminder that sometimes, the most disruptive forces can become the most beloved.
 
+These are just a few examples of how societal norms have shifted to embrace once-deviant behaviors. We’ve seen this pattern before. It will likely be accepted like so many of our once-taboo cultural mores and norms.
 
 ## Will accepting polyamory & ENM fix population collapse?
-
-These are just a few examples of how societal norms have shifted to embrace once-deviant behaviors. We’ve seen this pattern before. It will likely be accepted like so many of our once-taboo cultural mores and norms.
 
 
 In my opinion, no, not by itself. If the endgame is more babies then, I think it is necessary but not sufficient. Just in the same way as allowing women to wear pants was a necessary step to giving women equals rights, de-stigmatizing polyamory & ENM would be a necessary step to truly acceptance the imprtance of open, honest communication in romantic relationships. In my view, the necessary first step is social acceptance.  Also, these relationship types require more resources for them to work toward stopping population decline. Given that fact, I will describe the second part of the solution in the next section.
