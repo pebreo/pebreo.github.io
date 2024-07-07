@@ -31,7 +31,6 @@ The solution to this big challenge involves two parts: upgrading how we think ab
 
 What is polyamory & ENM and why?
  
-
 Ethical non-monogamy (ENM), which encompasses open relationships and polyamory, is a relationship structure where partners agree to have romantic or intimate relationships with people outside of the primary couple. However, unlike cheating, ENM is based on  **open communication, consent, and clear boundaries**. 
 
 I wamt to be clear: adopting polyamory & ENM style of relationships is optional. 
@@ -94,8 +93,11 @@ Let's breifly recap once-taboo cultural phenomenon, revisiting activities that w
 
 ## Will accepting polyamory & ENM fix population collapse?
 
-In my opinion, no, not by itself,
-. If the endgame is more babies then, I think its necessary but not sufficient. Just in the same way as allowing women to wear pants was a necessary step to giving women equals rights, de-stigmatizing polyamory & ENM would be a necessary step to wider adoption of open, honest communication in romantic relationships. 
+These are just a few examples of how societal norms have shifted to embrace once-deviant behaviors. We’ve seen this pattern before. It will likely be accepted like so many of our once-taboo cultural mores and norms.
+
+
+In my opinion, no, not by itself. If the endgame is more babies then, I think it is necessary but not sufficient. Just in the same way as allowing women to wear pants was a necessary step to giving women equals rights, de-stigmatizing polyamory & ENM would be a necessary step to wider adoption of open, honest communication in romantic relationships. In my view, the necessary first step is social acceptance.  Also, these relationship types require more resources for them to work toward stopping population decline. Given that fact, I will describe the second part of the solution in the next section.
+
 
 
 
