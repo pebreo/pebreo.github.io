@@ -28,7 +28,9 @@ Its very likely, the cause of population collapse in developed countries is that
 
 This biological reality throws a wrench into the "career versus family" equation. The prime years for establishing oneself professionally, acquiring skills and experience, and climbing the career ladder often coincide with the peak window for fertility.  For many women, this creates a period of intense pressure.
 
-**Societal expectations:**  Cooking, cleaning, household chores, pregancy and childbirth are time-consuming enough if we want to raise happy, healthy, well-adjusted humans. 
+**Societal expectations:**  Depending on a society's mores and norms for gender roles, women are expected to ne more or less ... 
+
+Cooking, cleaning, household chores, pregancy and childbirth are time-consuming enough if we want to raise happy, healthy, well-adjusted humans. 
 
 **Economic forces:**  Economic realities often stack the deck against families.  The high cost of living, stagnant wages, and a lack of affordable childcare options make raising children a significant financial strain.  Many families simply cannot afford to have multiple children on a single income, forcing women to choose between career advancement and financial security for their families.
 
