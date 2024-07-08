@@ -24,13 +24,12 @@ Humans are capable of loving more than one person at a time
 
 Its very likely, the cause of population collapse in developed countries is that women have to choose between building a career now or raising a family. They are put in this predicament because of societal expectations, biological realities, and economic forces. Let's review all three:
 
-**Time and resources:**  There are only so many hours in a day.  Juggling a demanding career with the all-encompassing responsibility of raising children stretches even the most capable person to the limit.  The financial burden of childcare, coupled with often-rigid work schedules, compounds the issue.  Having a child feels less like a natural progression and more like a significant life pivot, requiring a major reallocation of  already strained resources.
-
 **Societal expectations:**  Despite strides towards gender equality, traditional societal norms can still exert a powerful influence.  The "ideal worker" is often portrayed as someone with unwavering dedication and complete availability.  The stigma against taking time off for childcare or pursuing flexible work arrangements can create a hostile environment for ambitious mothers.  Furthermore, the societal pressure to "have it all" – a thriving career and a picture-perfect family – only amplifies the internal conflict for many women.
 
 **Economic forces:**  Economic realities often stack the deck against families.  The high cost of living, stagnant wages, and a lack of affordable childcare options make raising children a significant financial strain.  Many families simply cannot afford to have multiple children on a single income, forcing women to choose between career advancement and financial security for their families.
 
-These factors combine to create a situation where women feel forced into an artificial binary – career or family.  This, in turn, contributes to the decline in birth rates.  The solution likely lies in a multifaceted approach.  Policies that support working families, flexible work arrangements, and affordable childcare options can help alleviate the time and resource constraints.  Shifting societal expectations to embrace and value fatherhood as an equal responsibility can ease the burden on women.  Ultimately, creating a world where women can pursue both professional and familial aspirations without sacrificing their well-being is key to reversing the population decline and fostering a more equitable future. 
+
+ 
 
 The solution to this big challenge involves two parts: upgrading how we think about think about romantic love and upgrading out socialeconimic system. The first part i will describe in this section and the second half in thr next section.
 
