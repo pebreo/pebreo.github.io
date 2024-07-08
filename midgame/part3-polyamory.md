@@ -22,9 +22,7 @@ Humans are capable of loving more than one person at a time
 
 ## At the heart of the problem (pun intended)
 
-Its very likely, the cause of population collapse in developed countries is that women have to choose between building a career now or raising a family. They are forced to make this decision because of limited time and resources. They are put in this predicament because of societal expectations, biological realities, and economic forces.
-
-Let's auicky review all three:
+Its very likely, the cause of population collapse in developed countries is that women have to choose between building a career now or raising a family. They are put in this predicament because of societal expectations, biological realities, and economic forces. Let's review all three:
 
 **Time and resources:**  There are only so many hours in a day.  Juggling a demanding career with the all-encompassing responsibility of raising children stretches even the most capable person to the limit.  The financial burden of childcare, coupled with often-rigid work schedules, compounds the issue.  Having a child feels less like a natural progression and more like a significant life pivot, requiring a major reallocation of  already strained resources.
 
