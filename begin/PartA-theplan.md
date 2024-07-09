@@ -1,7 +1,7 @@
 ## The Plan
 Our world today faces serious challenges: war, poverty, hunger, population collapse, and the growing fear of artificial intelligence. 
 
-These are gigantic issues, but there are also a lot of incredible solutions developing right now, in front us, ready to unlock a breathe-taking new way forward.
+These are gigantic issues, but there are also a lot of exciting, new solutions developing right now, in front us, ready to unlock a in redible new way forward.
 This book describes an ambitious plan to upgrade humanity. Here it is in a nutshell.
 
 First and foremost, we must adopt an antifragile mindset. Let’s embrace the inevitable messiness and turbulence of life and use it to grow. Think of a hydra:  off a head, and two more grow.
