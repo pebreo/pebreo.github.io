@@ -28,9 +28,11 @@ Its very likely, the cause of population collapse in developed countries is that
 
 So, for women the "prime" years for establishing themselves professionally, acquiring skills, experience, and climbing the career ladder coincide with the peak window for fertility. 
 
-**Societal expectations:**  Depending on a society's mores and norms for gender roles, women are expected to take the primary role in the household. 
+Pregnancy and childbirth are time-consuming enough and resource-intensive enough, even more so if we want to raise happy, healthy, well-adjusted humans.
 
-Specifically, who should do the cooking, cleaning, household chores, ... pregancy and childbirth are time-consuming enough if we want to raise happy, healthy, well-adjusted humans. 
+**Societal expectations:**  Depending on a country's mores and norms for gender roles, women are expected to take the primary role in the household. 
+
+Specifically, who should do the cooking, cleaning, household chores, and child-rearing?  
 
 **Economic forces:**  Economic realities often stack the deck against families.  The high cost of living, stagnant wages, and a lack of affordable childcare options make raising children a significant financial strain.  Many families simply cannot afford to have multiple children on a single income, forcing women to choose between career advancement and financial security for their families.
 
