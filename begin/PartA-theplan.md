@@ -1,4 +1,6 @@
 ## The Plan
+Our world today faces serious challenges: war, poverty, hunger, population collapse, and the growing fear of artificial intelligence. 
+
 There are a lot of big issues, but there are also a lot of big solutions developing right now, in front us, ready to unlock an incredible new way forward.
 This book describes an ambitious plan to upgrade humanity. Here it is in a nutshell.
 
