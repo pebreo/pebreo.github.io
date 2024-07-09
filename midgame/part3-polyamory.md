@@ -24,7 +24,7 @@ Humans are capable of loving more than one person at a time
 
 Its very likely, the cause of population collapse in developed countries is that women have to choose between building a career now or raising a family. They are put in this predicament because of societal expectations, biological realities, and economic forces. In my view, each play a role and different countries have varying degrees of each. Let's review all three:
 
-**Biological realities:** While advancements in assisted reproduction technology offer some flexibility, they can't fully erase the biological clock's relentless ticking. A woman's fertility rate, the likelihood of conceiving naturally within a single menstrual cycle, begins a gradual decline in her late twenties, and then takes a sharper dip after 35. By her mid-forties, a woman's chances of natural conception become very low.
+**Biological realities:** While advancements in assisted reproduction technology offer some flexibility, they can't fully erase the biological reality: a woman's fertility rate begins a gradual decline in her late twenties, and then takes a sharper dip after 35. By her mid-forties, a woman's chances of natural conception become very low.
 
 This biological reality throws a wrench into the "career versus family" equation. The prime years for establishing oneself professionally, acquiring skills and experience, and climbing the career ladder often coincide with the peak window for fertility.  For many women, this creates a period of intense pressure.
 
