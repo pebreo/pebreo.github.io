@@ -4,7 +4,7 @@ Our world today faces serious challenges: war, poverty, hunger, population colla
 There are a lot of big issues, but there are also a lot of big solutions developing right now, in front us, ready to unlock an incredible new way forward.
 This book describes an ambitious plan to upgrade humanity. Here it is in a nutshell.
 
-First and foremost, we must adopt an antifragile mindset. A mindset where we’re not just built to endure, but to actually thrive. Let’s embrace the inevitables lows of life with and use it to grow. Think of a hydra: cut off a head, and two more grow.
+First and foremost, we must adopt an antifragile mindset. Let’s embrace the inevitable messiness and turbulence of life and use it to grow. Think of a hydra:  off a head, and two more grow.
 
 Next, let’s reimagine love. Maybe traditional models don’t quite fit everyone. Let’s destigmatize exploring different relationship structures, like polyamory or ethical non-monogamy (ENM). Also, let's re-emphasize the core of relationships: honesty, communication, and vulnerability. The incredible advancements of technology make human connections more important than ever.
 
