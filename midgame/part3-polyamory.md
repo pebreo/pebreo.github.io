@@ -39,6 +39,8 @@ Specifically, who should do the cooking, cleaning, household chores, ... preganc
 
 The solution to this big challenge involves two parts: upgrading how we think about think about romantic love and upgrading out socialeconimic system. The first part i will describe in this section and the second half in thr next section.
 
+## TLDR
+The likely root cause of population collapse is that women are put in a predicament to choose between career and family
 
 ## Antifragile romantic relationships
 
