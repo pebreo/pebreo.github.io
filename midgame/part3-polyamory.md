@@ -26,7 +26,7 @@ Its very likely, the cause of population collapse in developed countries is that
 
 **Biological realities:** While advancements in assisted reproduction technology offer some flexibility, they can't fully erase the biological reality: a woman's fertility rate begins a gradual decline in her late twenties, and then takes a sharper dip after 35. By her mid-forties, a woman's chances of natural conception become very low.
 
-This biological reality throws a wrench into the "career versus family" equation. The prime years for establishing oneself professionally, acquiring skills and experience, and climbing the career ladder often coincide with the peak window for fertility.  For many women, this creates a period of intense pressure.
+So, for women the "prime" years for establishing themselves professionally, acquiring skills, experience, and climbing the career ladder coincide with the peak window for fertility. This creates a dilemma which men do not experience.
 
 **Societal expectations:**  Depending on a society's mores and norms for gender roles, women are expected to take the primary role in the household. 
 
