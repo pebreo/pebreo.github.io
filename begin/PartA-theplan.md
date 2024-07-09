@@ -5,7 +5,7 @@ These are gigantic issues, but there are also a lot of exciting, new technologie
 
 First and foremost, we must adopt an antifragile mindset. Let’s embrace the inevitable messiness and turbulence of life and use it to grow. Think of a hydra: cut off a head, and two more grow.
 
-Next, we harness the power of human-level intelligence and beyond. To do that, we must first redefine intelligence and pinpoint our understand consciousness. Only by doing those things, can we be ready to engineer AI that is 
+Next, we harness the power of human-level intelligence and beyond. To do that, we must first redefine intelligence and pinpoint our understand of consciousness. Only by doing those things, can we be ready to engineer AI & robots at least as capable as a human.
 
 Next, let’s reimagine love. Maybe traditional models don’t quite fit everyone. Let’s destigmatize exploring different relationship structures, like polyamory or ethical non-monogamy (ENM). Also, let's re-emphasize the core of relationships: honesty, communication, and vulnerability. The dizzying advancements of technology make human connections more important than ever.
 
