@@ -37,9 +37,9 @@ Specifically, who should do the cooking, cleaning, household chores, and child-r
 **Economic forces:**  Economic realities often stack the deck against families.  The high cost of living, stagnant wages, and a lack of affordable childcare options make raising children a significant financial strain.  Many families simply cannot afford to have multiple children on a single income, forcing women to choose between career advancement and financial security for their families.
 
 
-All the above forces creates a predicament for women: spend time and energy building a career or raise a family. Men dont have to face such a decision.
+All the above forces creates a predicament for women: spend time and energy building a career or raise a family. Men don't have to face such a decision.
 
-The solution to this big challenge involves two parts: upgrading how we think about think about romantic love and upgrading out socialeconimic system. The first part i will describe in this section and the second half in thr next section.
+The solution to this big challenge involves two parts: upgrading how we think about think about romantic love and upgrading out socialeconimic system. The first part i will describe in this section and the second half in the next section.
 
 ## TLDR
 The likely root cause of population collapse is that women are put in a predicament to choose between career and family
