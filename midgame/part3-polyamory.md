@@ -26,7 +26,7 @@ Its very likely, the cause of population collapse in developed countries is that
 
 **Biological realities:** While advancements in assisted reproduction technology offer some flexibility, they can't fully erase the biological reality: a woman's fertility rate begins a gradual decline in her late twenties, and then takes a sharper dip after 35. By her mid-forties, a woman's chances of natural conception become very low.
 
-So, for women the "prime" years for establishing themselves professionally, acquiring skills, experience, and climbing the career ladder coincide with the peak window for fertility. This creates a dilemma which men do not experience.
+So, for women the "prime" years for establishing themselves professionally, acquiring skills, experience, and climbing the career ladder coincide with the peak window for fertility. 
 
 **Societal expectations:**  Depending on a society's mores and norms for gender roles, women are expected to take the primary role in the household. 
 
@@ -35,7 +35,7 @@ Specifically, who should do the cooking, cleaning, household chores, ... preganc
 **Economic forces:**  Economic realities often stack the deck against families.  The high cost of living, stagnant wages, and a lack of affordable childcare options make raising children a significant financial strain.  Many families simply cannot afford to have multiple children on a single income, forcing women to choose between career advancement and financial security for their families.
 
 
- 
+All the above forces creates a predicament for women: spend time and energy building a career or raise a family. Men dont have to face such a decision.
 
 The solution to this big challenge involves two parts: upgrading how we think about think about romantic love and upgrading out socialeconimic system. The first part i will describe in this section and the second half in thr next section.
 
