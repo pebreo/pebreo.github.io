@@ -11,8 +11,7 @@ _And if I have the gift of prophecy and comprehend all mysteries and all knowled
 
 _"If I have see  further, it is because I have stood on the shoulders of giants."_ -Isaac Newton
 
-[Dedication]
-(https://pebreo.github.io/begin/dedication.html)
+[Dedication](https://pebreo.github.io/begin/dedication.html)
 
 [Joaquin 1](https://pebreo.github.io/begin/joaquin-part1.html)
 
