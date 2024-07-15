@@ -4,3 +4,7 @@ In a dusty field, picked clean by countless hooves, lived a goat named Joaquin. 
 
 
 Legend spoke of a bridge leading to such a land, nestled high in the mountains. Determined, Joaquin began his climb. The way was treacherous, rocky slopes giving way to sheer cliffs. He narrowly escaped from mountain lions and dodged falling stones. Other goats, content in their familiar dust, bleated taunts ...(to be continued)
+
+[Preamble](https://pebreo.github.io/begin/Preamble-Science-and-Personal-experience.html)
+
+[TOC(https://pebreo.github.io/begin)
