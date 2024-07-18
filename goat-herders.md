@@ -11,3 +11,6 @@ Enter Dennis Rodman, the antithesis of everything Jordan embodied – a chaotic 
 The first meeting after Rodman joined the Bulls was electric.  The Pistons, used to dictating the terms of engagement, found themselves disoriented.  Jordan, freed from the constant defensive hounding, started finding open lanes and teammates cutting for easy baskets.  The triangle hummed, a beautiful, unpredictable machine.  The final buzzer sounded, a cathartic roar erupting from the Chicago crowd.  It wasn't just a win, it was a turning point.
 
 The Pistons, their grip on dominance loosening, watched as the Bulls, a team that had transcended the limitations of a single star, went on to build a dynasty.  Jordan, the reluctant leader, became the conductor of an orchestra, each teammate a vital instrument in the symphony of their success.  It was a victory not just on the court, but a testament to the power of adaptation, collaboration, and a willingness to rewrite the script. 
+
+## TLDR
+New and previous leadership, adopting The Triangle Offense, and strength training propelled Jordans and The Bulls to sports legends
