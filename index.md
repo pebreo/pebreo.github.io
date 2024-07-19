@@ -9,10 +9,6 @@
 [Preamble](Preamble-Science-and-Personal-experience.md)
 
 
-
-[Preamble](Preamble-Science-and-Personal-experience.md)
-
-
 [Part 1: Intelligence solved](Part1-intelligence-solved.md)
 
 
