@@ -1,28 +1,33 @@
-![horse](IMG_9387.jpeg)
+![horse](https://pebreo.github.io/IMG_9387.jpeg)
 ##### credit: pixabay
 
 
-[Dedication](dedication.md)
-
-[Joaquin 1](joaquin-part1.md)
-
-[Preamble](Preamble-Science-and-Personal-experience.md)
+_And if I have the gift of prophecy and comprehend all mysteries and all knowledge; if I have all faith so as to move mountains but do not have Love, I am nothing._
 
 
-[Part 1: Intelligence solved](Part1-intelligence-solved.md)
+13 Corinthians 3:2
 
 
-[Part 2: Consciousness solved](Part2-consciousness-solved.md)
+_"If I have see  further, it is because I have stood on the shoulders of giants."_ -Isaac Newton
 
+[Dedication](https://pebreo.github.io/begin/dedication.html)
 
-[Part 3: How to create a dystopia](Part3-howto-create-a-dystopia.md)
+[Joaquin 1](https://pebreo.github.io/begin/joaquin-part1.html)
 
+[Preamble](https://pebreo.github.io/begin/Preamble-Science-and-Personal-experience.html)
 
-[Part 4: Architecture of synthetic intelligence](Part4-architecture-of-synthetic-intelligence.md)
+[Part A: The Plan](https://pebreo.github.io/begin/PartA-theplan.html)
 
+[Part X: Antifragile mindset](https://pebreo.github.io/begin/BeginningAntifragility.html)
 
-[Part 5: Implication of solved intelligence & consciousness](Part5-implications-of-solved-intelligence.md)
+[Part 1: Intelligence solved](https://pebreo.github.io/begin/Part1-intelligence-solved.html)
 
-[Bibliography](bibliography.md)
+[Part 2: Consciousness solved](https://pebreo.github.io/begin/Part2-consciousness-solved.html)
 
-[Sources](sources.md)
+[Part 4: Architecting Synthetic Intelligence](https://pebreo.github.io/begin/Part4-architecture-of-synthetic-intelligence.html)
+
+[Part 5: Implications](https://pebreo.github.io/begin/Part5-implications-of-solved-intelligence.html)
+
+[Addendum](https://pebreo.github.io/begin/addendum.html)
+
+[Sources](https://pebreo.github.io/begin/sources.html)
