@@ -11,6 +11,8 @@ Memory, cinsciousness, black-box mature of status quo AI.
 
 I try to illuminkate (pun intended) all tjise things in my book...
 
+can we design safety in our SI? yes. uk plug inage.
+
 ## AI: Our Modern-Day Electricity
 
 Artificial intelligence, once a realm of science fiction, is now as commonplace as electricity. Like the initial shock of the first light switch, AI’s emergence sparked a mix of awe and apprehension. It was a force to be reckoned with, a double-edged sword capable of extraordinary benefits and catastrophic harm.
