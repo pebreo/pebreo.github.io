@@ -1,3 +1,5 @@
+the following is acwork of fiction used to highlight a possible nightmare scenario:
+
 The hospital was a fortress of technology, a labyrinth of wires and screens. Each machine, each program, a cog in the intricate machinery of life and death. And then, the update. A tiny, seemingly innocuous patch, designed to fortify against the ever-evolving threats of the digital world. 
 
 But it was a Trojan horse, a silent saboteur. The hospital's systems, so carefully calibrated, so finely tuned, buckled under its weight. The emergency room, once a hive of activity, fell into chaos. Nurses, their hands poised to register new patients, found themselves staring at blank screens. Doctors, their eyes scanning X-rays for signs of injury, saw only static.
