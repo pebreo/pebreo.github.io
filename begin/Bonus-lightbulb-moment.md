@@ -1,4 +1,4 @@
-Our fear of the dark has ancient roots.
+Our fear of the dark has ancient roots. Imagine our primate ancestors roaming the savannahs and surving the nights' predators with their overpowering strength, speed, and fangs. What did we have to survive but ourselves and our intelligence?
 
 The dark is a beast. It creeps, it crawls, it promises monsters. It's the unknown, vast and hungry. You hear rustles, creaks, shadows dancing in the corners of your vision. Your mind, a fertile ground for fear, plants a garden of terrors.
 
