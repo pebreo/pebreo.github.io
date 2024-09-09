@@ -14,6 +14,14 @@ What I didnt have a chance to include in the book is that SI can be our new elec
 
 Just as electricity became the foundation for countless technologies, from light bulbs to computers, SI can serve as a catalyst for groundbreaking discoveries across various fields. We must prioritize safety in developing something so history-changing!
 
+In the book, I prescribe three things in order to design SI thats 100% human-aligned, explainable, understable and affordanle to all. To recap, those are:
+
+1) Build in foresight (imagination), curiosity, and memory
+2) Use Hiearchical Probablilistic Graph Model
+3) Use imagination
+
+To build even more safety, I propose scaling or throttle capabilities. The best example, is if want to avoid SkyNet then dont give a machine that capability.
+
 From unraveling complex mathematical problems to identifying novel biological structures, SI's ability to process vast amounts of data and recognize patterns can accelerate scientific progress. In medicine, it can aid in drug discovery, personalized treatment plans, and even surgical procedures. Engineers can leverage SI to design more efficient structures and materials, while astronomers can use it to analyze astronomical data and uncover the secrets of the universe.
 
 It's important to remember that the development of electricity was a gradual process, built upon the contributions of numerous scientists like Ohm, Watt, and Edison. Similarly, SI is a rapidly evolving field that benefits from the insights of researchers worldwide. While we've made significant strides, there's still much to learn and improve.
