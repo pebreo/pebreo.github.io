@@ -8,6 +8,10 @@ My hope in writing this book is to shed light on some fundamental mysteries and 
 
 ## Lightbulb moment: SI can be our new electricity 
 
+In the book, I explain that, LLMs are amazing. They're not perferct and I write sbout that in the book too. 
+
+What I didnt a chance to write in the book is that SI can be our new electricity. 
+
 So, what dont we understand?
 Memory, cinsciousness, black-box mature of status quo AI.
 
