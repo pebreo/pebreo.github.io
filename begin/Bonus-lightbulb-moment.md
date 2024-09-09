@@ -10,11 +10,9 @@ My hope in writing this book is to shed light on some fundamental mysteries and 
 
 In the book, I explain that, LLMs are amazing. They're not perferct and I write sbout that in the book too. 
 
-What I didnt a chance to write in the book is that SI can be our new electricity. Our civilization would be unimaginable without electricity: no light, no refrigerators, no microwaves, no computers, no TVs, no phones... we'd give up almost everything we rely on everyday!
+What I didnt have a chance to include in the book is that SI can be our new electricity. Our civilization would be unimaginable without electricity: no light, no refrigerators, no microwaves, no computers, no TVs, no phones... we'd give up almost everything we rely on everyday!
 
-**AI: Our Modern-Day Electricity**
-
-Synthetic intelligence (SI) has the potential to revolutionize our world, much like electricity did centuries ago. Just as electricity became the foundation for countless technologies, from light bulbs to computers, SI can serve as a catalyst for groundbreaking discoveries across various fields.
+Just as electricity became the foundation for countless technologies, from light bulbs to computers, SI can serve as a catalyst for groundbreaking discoveries across various fields. We must prioritize safety in developing something so history-changing!
 
 From unraveling complex mathematical problems to identifying novel biological structures, SI's ability to process vast amounts of data and recognize patterns can accelerate scientific progress. In medicine, it can aid in drug discovery, personalized treatment plans, and even surgical procedures. Engineers can leverage SI to design more efficient structures and materials, while astronomers can use it to analyze astronomical data and uncover the secrets of the universe.
 
