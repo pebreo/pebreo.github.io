@@ -12,6 +12,21 @@ In the book, I explain that, LLMs are amazing. They're not perferct and I write 
 
 What I didnt a chance to write in the book is that SI can be our new electricity. Our civilization would be unimaginable without electricity: no light, no refrigerators, no microwaves, no computers, no TVs, no phones... we'd give up almost everything we rely on everyday!
 
+**AI: Our Modern-Day Electricity**
+
+Synthetic intelligence (SI) has the potential to revolutionize our world, much like electricity did centuries ago. Just as electricity became the foundation for countless technologies, from light bulbs to computers, SI can serve as a catalyst for groundbreaking discoveries across various fields.
+
+From unraveling complex mathematical problems to identifying novel biological structures, SI's ability to process vast amounts of data and recognize patterns can accelerate scientific progress. In medicine, it can aid in drug discovery, personalized treatment plans, and even surgical procedures. Engineers can leverage SI to design more efficient structures and materials, while astronomers can use it to analyze astronomical data and uncover the secrets of the universe.
+
+It's important to remember that the development of electricity was a gradual process, built upon the contributions of numerous scientists like Ohm, Watt, and Edison. Similarly, SI is a rapidly evolving field that benefits from the insights of researchers worldwide. While we've made significant strides, there's still much to learn and improve.
+
+For instance, we're constantly exploring more sustainable and efficient ways to generate electricity. In the same vein, AI research is focused on addressing issues such as bias, transparency, and ethical considerations.
+
+Today, it's difficult to imagine life without electricity. It's a fundamental part of our infrastructure, powering our homes, businesses, and transportation systems. In the same way, SI is poised to become an indispensable tool, shaping our future in ways we can only begin to imagine. As we continue to explore its potential, it's essential to approach SI with both excitement and responsibility, ensuring that its benefits are shared equitably and its risks are mitigated.
+
+
+
+
 So, what dont we understand?
 Memory, cinsciousness, black-box mature of status quo AI.
 
