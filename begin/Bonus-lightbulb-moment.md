@@ -10,7 +10,7 @@ My hope in writing this book is to shed light on some fundamental mysteries and 
 
 In the book, I explain that, LLMs are amazing. They're not perferct and I write sbout that in the book too. 
 
-What I didnt a chance to write in the book is that SI can be our new electricity. 
+What I didnt a chance to write in the book is that SI can be our new electricity. Our civilization would be unimaginable without electricity: no light, no refrigerators, no microwaves, no computers, no TVs, no phones... we'd give up almost everything we rely on everyday!
 
 So, what dont we understand?
 Memory, cinsciousness, black-box mature of status quo AI.
