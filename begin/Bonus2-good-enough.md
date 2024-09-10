@@ -26,5 +26,5 @@ Perhaps most impressively, crocodiles and alligators have shown a remarkable cap
 In the face of a rapidly changing world, the enduring success of crocodiles and alligators serves as a powerful reminder of the importance of adaptation. Their story is a testament to the resilience of life and the enduring power of natural selection. As we grapple with the challenges of our own time, we can find inspiration in the timeless wisdom of these ancient creatures.
 
 
-Softeare litmus test: Usability, Reliability, Aesthetics
+Softeare litmus test: Usability, Reliability, Resource Efficiency, Aesthetics
 
