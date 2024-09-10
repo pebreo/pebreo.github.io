@@ -11,7 +11,7 @@ In a typical video game, there three difficulties: easy, medium, and hard. In a 
 
 **However, it is important to acknowledge that this extreme level of difficulty is not for everyone.** The Souls games appeal to a specific audience, those who relish the thrill of overcoming seemingly impossible odds. For others, the relentless punishment can be frustrating and discouraging. It is a double-edged sword, offering immense satisfaction to some while alienating others.
 
-So how does a video game have anythibg to do with polyamory & ethical non-monogamy? 
+So how does a video game have anythibg to do with polyamory & ethical non-monogamy? Three things: overcoming the challenges can be rewarding, it requires much effort (be it time, money, psychological work), its not for everybody.
 
 **The tapestry of human connection is a complex and intricate one.** While most of us navigate the waters of love and intimacy with a single partner, there are those who choose to explore the uncharted territories of polyamory and ethical non-monogamy. These paths, while unconventional, offer a unique set of challenges and rewards.
 
