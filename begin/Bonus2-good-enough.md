@@ -8,3 +8,8 @@ The radiologist, a seasoned veteran, watched in disbelief as the image of a car 
 
 It was a stark reminder of our dependence on technology. We rely so much on our machines: our diagnoses, our treatments, our very survival to them. And now, those machines had betrayed us. The hospital, once a bastion of human ingenuity, was crippled by a single, ill-conceived update.
 
+What makes an organism good enough? 
+what is the litmus test? in Biology, it is ability to pass on your genes.
+
+What are thr biological adversities tgst a Alligator/Crocodile withstand?0
+
