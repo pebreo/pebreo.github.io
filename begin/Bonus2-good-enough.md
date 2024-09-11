@@ -1,3 +1,5 @@
+i want to be crysteal clear:,w/o innovation wrd stiol be living in caved
+
 the following is acwork of fiction used to highlight a possible nightmare scenario:
 
 The hospital was a fortress of technology, a labyrinth of wires and screens. Each machine, each program, a cog in the intricate machinery of life and death. And then, the update. A tiny, seemingly innocuous patch, designed to fortify against the ever-evolving threats of the digital world. 
