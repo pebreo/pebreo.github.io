@@ -1,4 +1,4 @@
-GOAT Inflection Point
+Inflection points unlock possibilities
 
 In his very insightful book, author & investot Mike Maples Jr tells the story of Justin TV (eventually Twitch) and... talk about inflection poin...
 
