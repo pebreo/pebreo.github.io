@@ -1,3 +1,6 @@
+gemini:
+Make a table comparing pros & cons of living in a house vs living in a cave. Include materials & labor
+
 i want to be crysteal clear:,w/o innovation wrd stiol be living in caved
 
 the following is acwork of fiction used to highlight a possible nightmare scenario:
@@ -29,4 +32,6 @@ In the face of a rapidly changing world, the enduring success of crocodiles and 
 
 
 Softeare litmus test: Usability, Affordability, Reliability, Resource Efficiency, Aesthetics
+
+utility vs extras
 
