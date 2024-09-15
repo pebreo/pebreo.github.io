@@ -8,9 +8,17 @@ Fast foreard thousands if years, the transistor, a tiny, semiconductor device, w
 
 It's a chain reaction, a domino effect. One invention unlocks the potential for countless others. The more we know, the more we can create. The more we create, the more we learn. It's a cycle of discovery, a dance between ingenuity and necessity.
 
-
-
 In his very insightful book, author & investot Mike Maples Jr tells the story of Justin TV (eventually Twitch) and... talk about inflection poin...
+
+--
+What's an inflection point and are we in one right now?
+
+An inflection point, according to author & investor Mike Maples Jr is a point in time when an invention or tech is made and it opens new possibilities .
+
+When GPS were made for smartphones, that opened up so many possibilities because you could communicate your location. That opened things up for ride-sharing. That opened things up for food delivery and for groceries. That even opened things up for exploring because you have better directions and limitless maps.
+
+In my book, I describe how AI & blockchain will allow us to marry emotional currency and material currency. So now we gain socially AND material. But first We have to lock down AI & blockchain first but the possibilities is breathe-taking! Lmao
+
 
 picture: behavior - unit of exchabge. pic of behavior
 picture : unit of account - observed by SI. recorded on block chain . pic of ledger
