@@ -1,3 +1,5 @@
+infkection point: rethinkx
+
 Inflection points unlock possibilities
 
 The discovery of fire was a flicker in the darkness which gave warmth from the cold night and helped satiate our desperate hunger for meat we now cook without fear of parasites or diseases. It was a spark, a beginning. From that initial invention, a cascade of innovations followed, unlocking ability to enjoy food recipes, travel at night, even communicate smoke signals. Each new discovery, a stepping stone leading to the next and each innovation unlocking greater and gteater possibilities.
