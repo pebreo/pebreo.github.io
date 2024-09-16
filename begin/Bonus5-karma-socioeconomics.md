@@ -6,6 +6,9 @@ post inflection
 
 The inflection point of SI & quantum physics-hardened blockchain, unlock the possibilty to upgrade our currency: marry social currency with material currency. To do that, it will have to change the 3 fundamental aspects of currency: a medium of exchange, a unit of account, and a store of value. Lets briefly look at each using visuals to make it easier to accept/imagine/understand.
 
+how is social wealth accumulated? interactions, experiences, inventions, art
+
+how is materisl wealth accumulated? same as above!
 
 GOAT inflection point visualized
 
