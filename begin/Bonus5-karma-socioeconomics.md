@@ -1,7 +1,7 @@
 explain the status quo and the picture as inflection point
 
 status quo
-inflection point
+post inflection 
 
 
 The inflection point of SI & quantum physics-hardened blockchain, unlock the possibilty to upgrade our currency: marry social currency with material currency. To do that, it will have to change the 3 fundamental aspects of currency: a medium of exchange, a unit of account, and a store of value. Lets briefly look at each using visuals to make it easier to accept/imagine/understand.
