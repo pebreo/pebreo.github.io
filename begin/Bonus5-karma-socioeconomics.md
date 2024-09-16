@@ -1,3 +1,6 @@
+The inflection point of SI & quantum physics-hardened blockchain, unlock the possibilty to upgrade our currency - to marry emotion currency with material currency.
+
+
 GOAT inflection point visualized
 
 infkection point: rethinkx
