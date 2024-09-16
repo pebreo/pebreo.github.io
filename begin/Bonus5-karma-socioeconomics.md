@@ -1,3 +1,5 @@
+GOAT inflection point visualized
+
 infkection point: rethinkx
 
 Inflection points unlock possibilities
