@@ -6,6 +6,7 @@ unit of account - wiiyh tireless, near infinitkey meticulous SI it will be possi
 
 store of value - since si will make gooods & service essentially free (initial & margin), the other thibg to value are once-intangible things: trust, loyalty, risk-taking, fortitude, creativity, compassion, generosity, nearly all things thst create & strengthen whst humsns vslue do much: human connection.
 
+I normally use these many superlatives in my daily life, but writing this book and thinking about this , i coukdnt help but be overwhelmed by the staggering implications. i hope you join me in spreading the word. buy my book ;)
 
 explain the status quo and the picture as inflection point
 
