@@ -1,3 +1,12 @@
+
+medium of exchange - in my book, i describe what make a person wealthy socially, emotionallky, and fonancially
+
+
+unit of account - wiiyh tireless, near infinitkey meticulous SI it will be possible to quantify behavior
+
+store of value - since si will make gooods & service essentially free (initial & margin), the other thibg to value are once-intangible things: trust, loyalty, risk-taking, fortitude, creativity, compassion, generosity, nearly all things thst create & strengthen whst humsns vslue do much: human connection.
+
+
 explain the status quo and the picture as inflection point
 
 status quo
