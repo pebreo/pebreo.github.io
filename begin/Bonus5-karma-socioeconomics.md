@@ -1,4 +1,7 @@
 
+In my view, money is a promise. You create the promise through your actions. The promise can be stored in "the hearts of men" or in it manifest itself in goods or service. 
+
+
 Briefly explain (in 3 short paragraphs, 1 paragraph per aspect if currency) the 3 aspects of currency: medium of exchange, unit of account, and store of value 
 
 result
