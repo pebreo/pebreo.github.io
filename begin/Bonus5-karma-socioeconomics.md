@@ -1,4 +1,19 @@
 
+Briefly explain (in 3 short paragraphs, 1 paragraph per aspect if currency) the 3 aspects of currency: medium of exchange, unit of account, and store of value 
+
+result
+
+**Medium of Exchange:** Currency serves as a universally accepted means of payment for goods and services. It eliminates the need for barter, where individuals would have to exchange goods directly, which can be inefficient and inconvenient.
+
+**Unit of Account:** Currency provides a standard measurement for the value of goods and services. Prices are expressed in terms of the currency, allowing for easy comparison and evaluation. This standardization simplifies economic transactions and facilitates trade.
+
+**Store of Value:** Currency can be held and saved for future use. It provides a way to preserve wealth over time. While there are risks associated with inflation, currency can be a relatively stable store of value compared to other assets like commodities or real estate.
+p
+
+
+
+
+---
 medium of exchange - in my book, i describe what make a person wealthy socially, emotionallky, and fonancially
 
 
