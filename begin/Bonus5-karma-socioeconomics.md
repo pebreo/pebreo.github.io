@@ -1,5 +1,5 @@
 
-In my view, money is a promise. You create the promise through your actions. The promise can be stored in "the hearts of men" or in it manifest itself in goods or service. Under thecstatus quo, the creation and accounting of the promise is limited byto relatively quantifiable thibgs e.g. man-hours or pounds of sugar.  SI will allow us to tie whats in the "hearts if men" to materially goods!
+In my view, money is a promise. You create the promise through your actions. The promise can be stored in "the hearts of men" or in it manifest itself in goods or service. Under thecstatus quo, the creation and accounting of the promise is limited byto relatively quantifiable thibgs e.g. man-hours or pounds of sugar. Post-infkection, we can quantity behavior toward our fellow humans!  SI will allow us to tie whats in the "hearts if men" to materially goods!
 
 
 Briefly explain (in 3 short paragraphs, 1 paragraph per aspect if currency) the 3 aspects of currency: medium of exchange, unit of account, and store of value 
