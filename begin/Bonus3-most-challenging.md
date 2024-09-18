@@ -1,5 +1,6 @@
 Why climb a mountain?
 
+paragraph 2 
 We understood that having high difficulty is just one way to provide an intense feeling of accomplishment through preparing strategies, overcoming obstacles, and discovering new things. - Hitedataka Miyezaki, From Software
 
 
