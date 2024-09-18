@@ -1,3 +1,8 @@
+one reward: freedom
+https://www.instagram.com/reel/C_2z4wmRY8_/?igsh=Y2oyNWR1cmE5eGU2
+
+
+
 Why climb a mountain?
 
 paragraph 2 
