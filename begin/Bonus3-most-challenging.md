@@ -3,6 +3,8 @@ https://www.instagram.com/reel/C_2z4wmRY8_/?igsh=Y2oyNWR1cmE5eGU2
 
 i walk through mindfields
 
+In my personal experience, this quote by Seneca resonates true in life & love. "We suffer more in imagination than in reality." Real suffering is a thing but ....
+
 
 Why climb a mountain?
 
