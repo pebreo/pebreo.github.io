@@ -7,6 +7,9 @@ they are:
 - will cause infkation
 - disincentive to work
 
+i have a solution. link post & amazon.0
+
+
 maje table
 
 TVs
