@@ -2,6 +2,10 @@
 in other words, the predicament women are placed in which i describe in the book, can be solved looking at it this way. 
 
 
+
+similary, in thid video, the player essily defeats the bosses.
+
+
 tldr : when youre part of a supportive communutt, you dont gave to be evertthibg fir everybody.
 
 
