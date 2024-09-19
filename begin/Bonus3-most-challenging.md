@@ -1,3 +1,7 @@
+tldr : when youre part of a supportive communutt, you dont gave to be evertthibg fir everybody.
+
+
+
 one reward: freedom
 https://www.instagram.com/reel/C_2z4wmRY8_/?igsh=Y2oyNWR1cmE5eGU2
 
