@@ -21,7 +21,7 @@ Of hope's resilience, love's aloof.
 Though trials may come, and darkness creep,
 Their spirits soar, their dreams they keep.
 
-
+- Google Gemini
 
 In an rvent of an emergency, put your oxygen mask on first before helping other.
 
