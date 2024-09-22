@@ -13,6 +13,9 @@ story
 what lessons from basketball GOATs, can use to create a GOAT Workd!
 
 trisngle offense ftw
+  fusion
+  SI
+  regentstive medicine
 
 everyone on board. the superstars taje point.
 
