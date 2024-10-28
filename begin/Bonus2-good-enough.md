@@ -1,37 +1,35 @@
-gemini:
-Make a table comparing pros & cons of living in a house vs living in a cave. Include materials & labor
+# We fear the dark
 
-i want to be crysteal clear:,w/o innovation wrd stiol be living in caved
+Our fear of the dark has ancient roots. Imagine our primate ancestors roaming the savannahs and surving the nights' predators with their overpowering speed, strength, and fangs. What did we have to survive but eachother and our intelligence?
 
-the following is acwork of fiction used to highlight a possible nightmare scenario:
+The dark is a beast. It creeps, it crawls, it promises monsters. It's the unknown, vast and hungry. You hear rustles, creaks, shadows dancing in the corners of your vision. Your mind, a fertile ground for fear, plants a garden of terrors.
 
-The hospital was a fortress of technology, a labyrinth of wires and screens. Each machine, each program, a cog in the intricate machinery of life and death. And then, the update. A tiny, seemingly innocuous patch, designed to fortify against the ever-evolving threats of the digital world. 
+Then, the click. A tiny burst of light, a defiant pinprick against the blackness. The flashlight beam is a sword, cutting through the darkness. The monsters retreat, revealed as mere shadows, illusions born of fear. The world, once a terrifying abyss, becomes a place to explore with vast new vistas to discover. The unknown is tamed.
 
-But it was a Trojan horse, a silent saboteur. The hospital's systems, so carefully calibrated, so finely tuned, buckled under its weight. The emergency room, once a hive of activity, fell into chaos. Nurses, their hands poised to register new patients, found themselves staring at blank screens. Doctors, their eyes scanning X-rays for signs of injury, saw only static.
+My hope in writing this book is to shed light on some fundamental mysteries and to help alleviate our fears so humanity can forge an incredible new path!
 
-The radiologist, a seasoned veteran, watched in disbelief as the image of a car accident victim flickered and faded. A simple fracture, easily diagnosed, now a mystery shrouded in digital fog. The operating room, a sterile sanctuary, was plunged into uncertainty. Surgeries were delayed, medication withheld and lives hung in the balance.
+### Lightbulb moment: Synthetic Intelligence (SI) be can our new electricity
 
-It was a stark reminder of our dependence on technology. We rely so much on our machines: our diagnoses, our treatments, our very survival to them. And now, those machines had betrayed us. The hospital, once a bastion of human ingenuity, was crippled by a single, ill-conceived update.
+In the book, I explain that LLMs are amazing. They're not perfect and I write sbout that in the book, too.
 
-What makes an organism good enough? 
-what is the litmus test? in Biology, it is ability to pass on your genes.
+What I didnt have a chance to include in the book is that SI can be our new electricity. Our civilization would be unimaginable without electricity: no lights, no refrigerators, no microwaves, no computers, no TVs, no phones... we'd give up almost everything we rely on everyday!
 
-What are thr biological adversities tgst a Alligator/Crocodile withstand?0
+Just as electricity became the foundation for countless technologies, from light bulbs to computers, SI can serve as a catalyst for groundbreaking discoveries across various fields. However, we must prioritize safety in developing something so history-changing!
 
-## Survival & Replication: The Evolutionary Litmus Test A Timeless
+In the book, I prescribe three things in order to design SI thats is 100% human-aligned, explainable, understable and affordanle to all. To recap, those are:
 
-In the grand tapestry of life on Earth, few creatures have exhibited such remarkable resilience as crocodiles and alligators. For hundreds of millions of years, these ancient reptiles have navigated the ever-shifting currents of time, their biological blueprints seemingly untouched by the forces of evolution. This enduring success is a testament to their exquisite adaptation to their environments.
+Build in foresight (imagination), curiosity, and memory
 
-Unlike many species that have faced the crucible of natural selection, forcing them to evolve or perish, crocodiles and alligators have found a niche where their ancestral traits remain eminently suited to their needs. Their formidable jaws, powerful tails, and protective scales have proven to be a winning combination in a world that has seen countless other species come and go.
+Use a Hiearchical Probablilistic Graph Model approach
 
-However, this timeless success is not merely a product of their physical attributes. It is also rooted in their ability to withstand the challenges that nature has thrown their way. Disease, a constant threat to any population, has been met with a resilience born of genetic diversity and robust immune systems. The scarcity of food, a perennial concern for many species, has been addressed through their remarkable patience and adaptability. They can endure long periods without eating, waiting for the opportune moment to strike.
+Scale or throttle imagination to control cost
 
-Perhaps most impressively, crocodiles and alligators have shown a remarkable capacity to weather the storms of climate change. Over the millennia, their environments have undergone dramatic transformations, yet these reptiles have persisted. They have adapted to rising sea levels, changing water temperatures, and shifts in prey availability. Their ability to thrive in a variety of habitats, from freshwater swamps to saltwater estuaries, has been a key factor in their survival.
+### Even more safety
 
-In the face of a rapidly changing world, the enduring success of crocodiles and alligators serves as a powerful reminder of the importance of adaptation. Their story is a testament to the resilience of life and the enduring power of natural selection. As we grapple with the challenges of our own time, we can find inspiration in the timeless wisdom of these ancient creatures.
+To build even more safety, I propose a 4th ingredient: throttle capabilities. For exammple, if want to avoid building SkyNet then don’t give a machine that capability. In the Terminator movies, SkyNet was put in charge of a nation’s nuclear arsenal. In my mind, that’s an obvious unsafe design! We have decades of engineering safety experience to inform this crucial issue. In my view, it should be top of mind as we develop and commit to SI. 
 
+Another example, the United Kingdom has, arguably, has the safest designed electrical plug. Why? Because they have more safety features built in to prevent accidental electrocution. First, if a child wants to poke an outlet, the outlets are blocked by a shutter which are closed default and only open when a a plug is attached to the outlet. Second, the neutral and live leads of the plug have a plastic insulation over half of them, so you can’t put your fingers on a live wire while its plugged in. Lastly, each plug has a built-in fuse which usually means each appliance has a fuse. Fuses are better for appliances than circuit-breakers that generally only protect rooms.
 
-Softeare litmus test: Usability, Affordability, Reliability, Resource Efficiency, Aesthetics
+Lastly, it's difficult to imagine life without electricity. It's a fundamental part of our infrastructure, powering our homes, businesses, and transportation systems. In the same way, SI is poised to become an indispensable tool, shaping our future in ways we can only begin to imagine. As we continue to explore its potential, it's imperative to approach SI with both excitement, pragmatism, and caution to manifest an incredible future for our kind while avoiding nightmares becoming reality. 
 
-utility vs extras
-
+TLDR: Throttle SI capabilities for extra safety
