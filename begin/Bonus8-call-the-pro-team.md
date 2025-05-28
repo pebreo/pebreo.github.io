@@ -1,5 +1,7 @@
 
 ## per gemini
+Based on this tldr, write a story using the vocabulary, tone, pacing, casualness, insightfulness fron the book "range" by David Epstein (but don't mention Epstein): 
+
 
 
 ## result
